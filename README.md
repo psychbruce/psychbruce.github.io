@@ -49,23 +49,17 @@ Faculty of Psychology, Beijing Normal University (BNU), Beijing, China
 
 ---
 
-#### In English:
+#### *In English*:
 
 Shi, Y., Luo, Y. L. L., Yang, Z., Liu, Y., & **Bao, H.** (2018). Do narcissists enjoy visiting social networking sites? It depends on how adaptive they are. *Frontiers in Psychology, 9*, 1739.
 
-#### In Chinese:
+#### *In Chinese*:
 
-**Bao, H.-W.-S.**, Cai, H., & Luo, Y. L. L. (2019). Identity motives: Concept, measurement, and psychological effects (in Chinese). *Journal of Psychological Science, 42*(4), 971–977.
+**包寒吴霜**, 蔡华俭, 罗宇. (2019). 身份认同动机：概念、测量与心理效应. *心理科学, 42*(4), 971–977.
 
-[**包寒吴霜**, 蔡华俭, 罗宇. (2019). 身份认同动机：概念、测量与心理效应. *心理科学, 42*(4), 971–977.]
+**包寒吴霜**, 吴胜涛, 郑昊, 陆海蓉, 郑伟, 戴炜, 陆梭, 朱廷劭. (2018). 雾霾下的自我：空气污染与个体主义–集体主义的大数据分析. *社区心理学研究, 6*(2), 71–85.
 
-**Bao, H.-W.-S.**, Wu, M. S., Zheng, H., Lu, H., Zheng, W., Dai, W., Lu, S., & Zhu, T. (2018). Polluted self: A big-data analysis based on daily-level air pollution and individualism on social media (in Chinese). *Community Psychology Research, 6*(2), 71–85.
-
-[**包寒吴霜**, 吴胜涛, 郑昊, 陆海蓉, 郑伟, 戴炜, 陆梭, 朱廷劭. (2018). 雾霾下的自我：空气污染与个体主义–集体主义的大数据分析. *社区心理学研究, 6*(2), 71–85.]
-
-**Bao, H.-W.-S.**, Chen, J.-L., Lin, J.-L., Liu, L. (2016). Effects of name and gender on interpersonal attraction: Gender role evaluation as a mediator (in Chinese). *Chinese Journal of Clinical Psychology, 24*(4), 596–600.
-
-[**包寒吴霜**, 陈俊霖, 林俊利, 刘力. (2016). 名字与性别的人际吸引机制：性别角色评价的中介作用. *中国临床心理学杂志, 24*(4), 596–600.]
+**包寒吴霜**, 陈俊霖, 林俊利, 刘力. (2016). 名字与性别的人际吸引机制：性别角色评价的中介作用. *中国临床心理学杂志, 24*(4), 596–600.
 
 
 ## MANUSCRIPTS UNDER REVIEW OR IN PREPARATION
@@ -90,13 +84,13 @@ Shi, Y., Luo, Y. L. L., Yang, Z., Liu, Y., & **Bao, H.** (2018). Do narcissists 
 
 ---
 
-#### 11/2019 **_Multilevel Modeling: Methods and Applications_**
+#### 11/2019 - **_Multilevel Modeling: Methods and Applications_**
 
-Institute of Psychology, Chinese Academy of Sciences, Beijing, China
+Location: Institute of Psychology, Chinese Academy of Sciences, Beijing, China
 
-#### 10/2019 **_Multilevel Modeling: Methods, Key Issues, and R Programming_**
+#### 10/2019 - **_Multilevel Modeling: Methods, Key Issues, and R Programming_**
 
-22nd National Academic Congress of Psychology, Hangzhou, Zhejiang, China
+Location: 22nd National Academic Congress of Psychology, Hangzhou, Zhejiang, China
 
 
 ## PERSONAL HOBBIES
@@ -107,6 +101,4 @@ Institute of Psychology, Chinese Academy of Sciences, Beijing, China
 - Mixed Martial Arts (MMA)
 - Tae-Kwon-Do (2nd-degree black belt)
 - Billiards (8-ball & snooker)
-
-
 
