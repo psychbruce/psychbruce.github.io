@@ -45,15 +45,22 @@ Faculty of Psychology, Beijing Normal University (BNU), Beijing, China
 - Prosocial/antisocial behavior
 
 
+## PROGRAMMING SKILLS
+
+---
+
+R, Excel, SPSS, Python, JavaScript (jsPsych), E-Prime, MATLAB, Mplus
+
+
 ## PUBLICATIONS
 
 ---
 
-#### *In English*:
+#### *In English*
 
 Shi, Y., Luo, Y. L. L., Yang, Z., Liu, Y., & **Bao, H.** (2018). Do narcissists enjoy visiting social networking sites? It depends on how adaptive they are. *Frontiers in Psychology, 9*, 1739.
 
-#### *In Chinese*:
+#### *In Chinese*
 
 **包寒吴霜**, 蔡华俭, 罗宇. (2019). 身份认同动机：概念、测量与心理效应. *心理科学, 42*(4), 971–977.
 
@@ -97,8 +104,8 @@ Location: 22nd National Academic Congress of Psychology, Hangzhou, Zhejiang, Chi
 
 ---
 
-- Wing-Chun (咏春拳)
-- Mixed Martial Arts (MMA)
-- Tae-Kwon-Do (2nd-degree black belt)
-- Billiards (8-ball & snooker)
+- 👊 Wing-Chun (咏春拳)
+- 🥊 Mixed Martial Arts (MMA)
+- 🥋 Tae-Kwon-Do (2nd-degree black belt)
+- 🎱 Billiards (8-ball & snooker)
 
