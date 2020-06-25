@@ -34,20 +34,32 @@ Faculty of Psychology, Beijing Normal University (BNU), Beijing, China
 - Psychology
 
 
+## SKILLS AND EXPERTISE
+
+---
+
+- Programming skills
+  + R, Python
+  + JavaScript (jsPsych), E-Prime, MATLAB
+  + Excel, SPSS, Mplus
+
+- Statistical expertise
+  + Multilevel modeling (Hierarchical linear modeling)
+  + Machine learning
+
+- Technical expertise
+  + Web scraping
+  + R package development
+
+
 ## RESEARCH INTERESTS
 
 ---
 
 - Name
 - Social cognition
-- Prosocial/antisocial behavior
-
-
-## PROGRAMMING SKILLS
-
----
-
-R, Excel, SPSS, Python, JavaScript (jsPsych), E-Prime, MATLAB, Mplus
+- Prosocial behavior
+- Antisocial behavior
 
 
 ## PUBLICATIONS
@@ -67,7 +79,7 @@ Shi, Y., Luo, Y. L. L., Yang, Z., Liu, Y., & **Bao, H.** (2018). Do narcissists 
 **包寒吴霜**, 陈俊霖, 林俊利, 刘力. (2016). 名字与性别的人际吸引机制：性别角色评价的中介作用. *中国临床心理学杂志, 24*(4), 596–600.
 
 
-## MANUSCRIPTS UNDER REVIEW OR IN PREPARATION
+## MANUSCRIPTS IN REVIEW OR PREPARATION
 
 ---
 
@@ -108,4 +120,4 @@ Location: 22nd National Academic Congress of Psychology, Hangzhou, Zhejiang, Chi
 - 🎱 Billiards (8-ball & snooker)
 
 
-Curriculum Vitae Update: June 2020
+### Curriculum Vitae Update: June 2020
