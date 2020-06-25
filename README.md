@@ -44,8 +44,9 @@ Faculty of Psychology, Beijing Normal University (BNU), Beijing, China
   + Excel, SPSS, Mplus
 
 - Statistical expertise
-  + Multilevel modeling (Hierarchical linear modeling)
+  + Multilevel modeling
   + Machine learning
+  + Big-data analysis
 
 - Technical expertise
   + Web scraping
@@ -68,33 +69,33 @@ Faculty of Psychology, Beijing Normal University (BNU), Beijing, China
 
 #### *In English*
 
-Shi, Y., Luo, Y. L. L., Yang, Z., Liu, Y., & **Bao, H.** (2018). Do narcissists enjoy visiting social networking sites? It depends on how adaptive they are. *Frontiers in Psychology, 9*, 1739.
+- Shi, Y., Luo, Y. L. L., Yang, Z., Liu, Y., & **Bao, H.** (2018). Do narcissists enjoy visiting social networking sites? It depends on how adaptive they are. *Frontiers in Psychology, 9*, 1739.
 
 #### *In Chinese*
 
-**包寒吴霜**, 蔡华俭, 罗宇. (2019). 身份认同动机：概念、测量与心理效应. *心理科学, 42*(4), 971–977.
+- **包寒吴霜**, 蔡华俭, 罗宇. (2019). 身份认同动机：概念、测量与心理效应. *心理科学, 42*(4), 971–977.
 
-**包寒吴霜**, 吴胜涛, 郑昊, 陆海蓉, 郑伟, 戴炜, 陆梭, 朱廷劭. (2018). 雾霾下的自我：空气污染与个体主义–集体主义的大数据分析. *社区心理学研究, 6*(2), 71–85.
+- **包寒吴霜**, 吴胜涛, 郑昊, 陆海蓉, 郑伟, 戴炜, 陆梭, 朱廷劭. (2018). 雾霾下的自我：空气污染与个体主义–集体主义的大数据分析. *社区心理学研究, 6*(2), 71–85.
 
-**包寒吴霜**, 陈俊霖, 林俊利, 刘力. (2016). 名字与性别的人际吸引机制：性别角色评价的中介作用. *中国临床心理学杂志, 24*(4), 596–600.
+- **包寒吴霜**, 陈俊霖, 林俊利, 刘力. (2016). 名字与性别的人际吸引机制：性别角色评价的中介作用. *中国临床心理学杂志, 24*(4), 596–600.
 
 
 ## MANUSCRIPTS IN REVIEW OR PREPARATION
 
 ---
 
-**Bao, H.-W.-S.**, Cai, H., DeWall, C. N., Gu, R., Chen, J., & Luo, Y. L. L. (under review). Name uniqueness predicts career choice and career achievement. Preprint available at https://doi.org/10.31234/osf.io/53j86
+- **Bao, H.-W.-S.**, Cai, H., DeWall, C. N., Gu, R., Chen, J., & Luo, Y. L. L. (under review). Name uniqueness predicts career choice and career achievement. Preprint available at https://doi.org/10.31234/osf.io/53j86
 
-**Bao, H.-W.-S.**, Wang, J., & Cai, H. (in preparation). Blame crime on name? People with bad names are more likely to commit crime.
+- **Bao, H.-W.-S.**, Wang, J., & Cai, H. (in preparation). Blame crime on name? People with bad names are more likely to commit crime.
 
 
 ## CONFERENCE PRESENTATIONS
 
 ---
 
-**Bao, H.-W.-S.**, Cai, H., & Luo, Y. L. L. (2019, October). People with more unique names are more likely to choose and succeed in unique jobs. In the *22nd National Academic Congress of Psychology (NACP)*, Hangzhou, Zhejiang, China.
+- **Bao, H.-W.-S.**, Cai, H., & Luo, Y. L. L. (2019, October). People with more unique names are more likely to choose and succeed in unique jobs. In the *22nd National Academic Congress of Psychology (NACP)*, Hangzhou, Zhejiang, China.
 
-**Bao, H.-W.-S.**, Cai, H., & Luo, Y. L. L. (2018, October). Name uniqueness predicts job choices: Evidence from big data and experiments. In the *2018 Annual Conference of the Social Psychology Branch of Chinese Psychological Society*, Qufu, Shandong, China.
+- **Bao, H.-W.-S.**, Cai, H., & Luo, Y. L. L. (2018, October). Name uniqueness predicts job choices: Evidence from big data and experiments. In the *2018 Annual Conference of the Social Psychology Branch of Chinese Psychological Society*, Qufu, Shandong, China.
 
 
 ## WORKSHOPS AND INVITED TALKS
