@@ -15,25 +15,23 @@ Zhihu: [@包寒吴霜](https://www.zhihu.com/people/psychbruce/)
 
 ---
 
-#### 2020~2022 **_Ph.D. Student_**
+#### 2020~2022 **_Ph.D. Student_** (*master-doctor combined program*)
 
 Institute of Psychology, Chinese Academy of Sciences (IPCAS), Beijing, China
 
-- Major: Personality and Social Psychology
-- Advisor: Huajian Cai
+- Personality and Social Psychology (Advisor: Huajian Cai)
 
-#### 2017~2020 **_Master Student_**
+#### 2017~2020 **_Master Student_** (*master-doctor combined program*)
 
 Institute of Psychology, Chinese Academy of Sciences (IPCAS), Beijing, China
 
-- Major: Social Neuroscience (master-doctor combined program)
-- Advisor: Yu L. L. Luo (in Huajian Cai’s lab)
+- Social Neuroscience (Advisor: Yu L. L. Luo)
 
 #### 2013~2017 **_B.Sc._**
 
 Faculty of Psychology, Beijing Normal University (BNU), Beijing, China
 
-- Major: Psychology
+- Psychology
 
 
 ## RESEARCH INTERESTS
@@ -109,3 +107,5 @@ Location: 22nd National Academic Congress of Psychology, Hangzhou, Zhejiang, Chi
 - 🥋 Tae-Kwon-Do (2nd-degree black belt)
 - 🎱 Billiards (8-ball & snooker)
 
+
+Curriculum Vitae Update: June 2020
