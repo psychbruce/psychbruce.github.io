@@ -38,17 +38,17 @@ Faculty of Psychology, Beijing Normal University (BNU), Beijing, China
 
 ---
 
-- Programming skills
+- **Programming skills**
   + R, Python
   + JavaScript (jsPsych), E-Prime, MATLAB
   + Excel, SPSS, Mplus
 
-- Statistical expertise
+- **Statistical expertise**
   + Multilevel modeling
   + Machine learning
   + Big-data analysis
 
-- Technical expertise
+- **Technical expertise**
   + Web scraping
   + R package development
     + [bruceR](https://github.com/psychbruce/bruceR)
@@ -109,13 +109,13 @@ Faculty of Psychology, Beijing Normal University (BNU), Beijing, China
 
 Location: Institute of Psychology, Chinese Academy of Sciences, Beijing, China
 
-Material: [HLM_Workshop01_NACP-2019](https://github.com/psychbruce/stats/tree/master/HLM_Workshop01_NACP-2019)
+Material: [HLM_Workshop02_IPCAS-2019](https://github.com/psychbruce/stats/tree/master/HLM_Workshop02_IPCAS-2019)
 
 #### 10/2019 - **_Multilevel Modeling: Methods, Key Issues, and R Programming_**
 
 Location: 22nd National Academic Congress of Psychology, Hangzhou, Zhejiang, China
 
-Material: [HLM_Workshop02_IPCAS-2019](https://github.com/psychbruce/stats/tree/master/HLM_Workshop02_IPCAS-2019)
+Material: [HLM_Workshop01_NACP-2019](https://github.com/psychbruce/stats/tree/master/HLM_Workshop01_NACP-2019)
 
 
 ## PERSONAL HOBBIES
