@@ -61,6 +61,7 @@ Faculty of Psychology, Beijing Normal University (BNU), Beijing, China
 ---
 
 - Name
+- Uniqueness
 - Social cognition
 - Prosocial behavior
 - Antisocial behavior
@@ -87,7 +88,7 @@ Faculty of Psychology, Beijing Normal University (BNU), Beijing, China
 
 ---
 
-- **Bao, H.-W.-S.**, Cai, H., DeWall, C. N., Gu, R., Chen, J., & Luo, Y. L. L. (under review). Name uniqueness predicts career choice and career achievement. Preprint available at [https://doi.org/10.31234/osf.io/53j86](https://doi.org/10.31234/osf.io/53j86)
+- **Bao, H.-W.-S.**, Cai, H., DeWall, C. N., Gu, R., Chen, J., & Luo, Y. L. L. (under review). Name uniqueness predicts career choice and career achievement. Preprint at *PsyArXiv* [https://doi.org/10.31234/osf.io/53j86](https://doi.org/10.31234/osf.io/53j86)
 
 - **Bao, H.-W.-S.**, Wang, J., & Cai, H. (in preparation). Blame crime on name? People with bad names are more likely to commit crime.
 
@@ -109,13 +110,13 @@ Faculty of Psychology, Beijing Normal University (BNU), Beijing, China
 
 Location: Institute of Psychology, Chinese Academy of Sciences, Beijing, China
 
-Material: [HLM_Workshop02_IPCAS-2019](https://github.com/psychbruce/stats/tree/master/HLM_Workshop02_IPCAS-2019)
+Materials: [HLM_Workshop02_IPCAS-2019](https://github.com/psychbruce/stats/tree/master/HLM_Workshop02_IPCAS-2019)
 
 #### 10/2019 - **_Multilevel Modeling: Methods, Key Issues, and R Programming_**
 
 Location: 22nd National Academic Congress of Psychology, Hangzhou, Zhejiang, China
 
-Material: [HLM_Workshop01_NACP-2019](https://github.com/psychbruce/stats/tree/master/HLM_Workshop01_NACP-2019)
+Materials: [HLM_Workshop01_NACP-2019](https://github.com/psychbruce/stats/tree/master/HLM_Workshop01_NACP-2019)
 
 
 ## PERSONAL HOBBIES
