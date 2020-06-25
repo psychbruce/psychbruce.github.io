@@ -1,4 +1,4 @@
-# Han-Wu-Shuang (Bruce) Bao | 包寒吴霜
+## Han-Wu-Shuang (Bruce) Bao | 包寒吴霜
 
 E-mail: [baohws@psych.ac.cn](mailto:baohws@psych.ac.cn)
 
@@ -15,13 +15,13 @@ Zhihu: [@包寒吴霜](https://www.zhihu.com/people/psychbruce/)
 
 ---
 
-#### 2020~2022 **_Ph.D. Student_** (*master-doctor combined program*)
+#### 2020~2022 **_Ph.D. Student_** (master-doctor combined program)
 
 Institute of Psychology, Chinese Academy of Sciences (IPCAS), Beijing, China
 
 - Personality and Social Psychology (Advisor: Huajian Cai)
 
-#### 2017~2020 **_Master Student_** (*master-doctor combined program*)
+#### 2017~2020 **_Master Student_** (master-doctor combined program)
 
 Institute of Psychology, Chinese Academy of Sciences (IPCAS), Beijing, China
 
@@ -51,6 +51,9 @@ Faculty of Psychology, Beijing Normal University (BNU), Beijing, China
 - Technical expertise
   + Web scraping
   + R package development
+    + [bruceR](https://github.com/psychbruce/bruceR)
+    + [drawMap](https://github.com/psychbruce/drawMap)
+    + [ChineseNames](https://github.com/psychbruce/ChineseNames)
 
 
 ## RESEARCH INTERESTS
@@ -84,7 +87,7 @@ Faculty of Psychology, Beijing Normal University (BNU), Beijing, China
 
 ---
 
-- **Bao, H.-W.-S.**, Cai, H., DeWall, C. N., Gu, R., Chen, J., & Luo, Y. L. L. (under review). Name uniqueness predicts career choice and career achievement. Preprint available at https://doi.org/10.31234/osf.io/53j86
+- **Bao, H.-W.-S.**, Cai, H., DeWall, C. N., Gu, R., Chen, J., & Luo, Y. L. L. (under review). Name uniqueness predicts career choice and career achievement. Preprint available at [https://doi.org/10.31234/osf.io/53j86](https://doi.org/10.31234/osf.io/53j86)
 
 - **Bao, H.-W.-S.**, Wang, J., & Cai, H. (in preparation). Blame crime on name? People with bad names are more likely to commit crime.
 
@@ -106,9 +109,13 @@ Faculty of Psychology, Beijing Normal University (BNU), Beijing, China
 
 Location: Institute of Psychology, Chinese Academy of Sciences, Beijing, China
 
+Material: [HLM_Workshop01_NACP-2019](https://github.com/psychbruce/stats/tree/master/HLM_Workshop01_NACP-2019)
+
 #### 10/2019 - **_Multilevel Modeling: Methods, Key Issues, and R Programming_**
 
 Location: 22nd National Academic Congress of Psychology, Hangzhou, Zhejiang, China
+
+Material: [HLM_Workshop02_IPCAS-2019](https://github.com/psychbruce/stats/tree/master/HLM_Workshop02_IPCAS-2019)
 
 
 ## PERSONAL HOBBIES
