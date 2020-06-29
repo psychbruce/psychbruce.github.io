@@ -6,8 +6,6 @@ GitHub: [psychbruce](https://github.com/psychbruce)
 
 ResearchGate: [Han_Wu_Shuang_Bao](https://www.researchgate.net/profile/Han_Wu_Shuang_Bao)
 
-ORCID iD: [0000-0003-3043-710X](https://orcid.org/0000-0003-3043-710X)
-
 Zhihu: [@包寒吴霜](https://www.zhihu.com/people/psychbruce/)
 
 
@@ -15,23 +13,21 @@ Zhihu: [@包寒吴霜](https://www.zhihu.com/people/psychbruce/)
 
 ---
 
-#### 2020~2022 **_Ph.D. Student_** (master-doctor combined program)
+#### 2020~2022 **_Ph.D. Student_** in Personality and Social Psychology (master-doctor combined program)
 
 Institute of Psychology, Chinese Academy of Sciences (IPCAS), Beijing, China
 
-- Personality and Social Psychology (Advisor: Huajian Cai)
+- Advisor: Huajian Cai
 
-#### 2017~2020 **_Master Student_** (master-doctor combined program)
+#### 2017~2020 **_Master Student_** in Social Neuroscience (master-doctor combined program)
 
 Institute of Psychology, Chinese Academy of Sciences (IPCAS), Beijing, China
 
-- Social Neuroscience (Advisor: Yu L. L. Luo)
+- Advisor: Yu L. L. Luo
 
-#### 2013~2017 **_B.Sc._**
+#### 2013~2017 **_B.Sc._** in Psychology
 
 Faculty of Psychology, Beijing Normal University (BNU), Beijing, China
-
-- Psychology
 
 
 ## SKILLS AND EXPERTISE
@@ -71,11 +67,11 @@ Faculty of Psychology, Beijing Normal University (BNU), Beijing, China
 
 ---
 
-#### *In English*
+#### In English
 
 - Shi, Y., Luo, Y. L. L., Yang, Z., Liu, Y., & **Bao, H.** (2018). Do narcissists enjoy visiting social networking sites? It depends on how adaptive they are. *Frontiers in Psychology, 9*, 1739.
 
-#### *In Chinese*
+#### In Chinese
 
 - **包寒吴霜**, 蔡华俭, 罗宇. (2019). 身份认同动机：概念、测量与心理效应. *心理科学, 42*(4), 971–977.
 
@@ -117,6 +113,16 @@ Materials: [HLM_Workshop02_IPCAS-2019](https://github.com/psychbruce/stats/tree/
 Location: 22nd National Academic Congress of Psychology, Hangzhou, Zhejiang, China
 
 Materials: [HLM_Workshop01_NACP-2019](https://github.com/psychbruce/stats/tree/master/HLM_Workshop01_NACP-2019)
+
+
+## ACADEMIC EXPERIENCE
+
+---
+
+#### Ad-Hoc Journal Reviewing
+
+*心理学报*
+*心理科学进展*
 
 
 ## PERSONAL HOBBIES
