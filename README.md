@@ -18,7 +18,7 @@ Institute of Psychology, Chinese Academy of Sciences (IPCAS)
 
 #### 2013~2017 - **_B.Sc._** in Psychology
 
-Beijing Normal University (BNU)
+Faculty of Psychology, Beijing Normal University (BNU)
 
 
 ## SKILLS AND EXPERTISE
@@ -117,9 +117,9 @@ Materials: [HLM_Workshop01_NACP-2019](https://github.com/psychbruce/stats/tree/m
 
 ---
 
-#### Ad-Hoc Journal Reviewer
-- 心理学报 (2)
-- 心理科学进展 (1)
+#### Journal Reviewer
+- Acta Psychologica Sinica (心理学报)
+- Advances in Psychological Science (心理科学进展)
 
 
 ## PERSONAL HOBBIES
