@@ -13,17 +13,11 @@ Zhihu: [@包寒吴霜](https://www.zhihu.com/people/psychbruce/)
 
 ---
 
-#### 2020~2022 **_Ph.D. Student_** in Personality and Social Psychology (master-doctor combined program)
+#### 2017~present **_Ph.D. Student_** in Personality and Social Psychology
+
+Advisor: Huajian Cai (2020~2022), Yu L. L. Luo (2017~2020)
 
 Institute of Psychology, Chinese Academy of Sciences (IPCAS), Beijing, China
-
-- Advisor: Huajian Cai
-
-#### 2017~2020 **_Master Student_** in Social Neuroscience (master-doctor combined program)
-
-Institute of Psychology, Chinese Academy of Sciences (IPCAS), Beijing, China
-
-- Advisor: Yu L. L. Luo
 
 #### 2013~2017 **_B.Sc._** in Psychology
 
@@ -34,22 +28,29 @@ Faculty of Psychology, Beijing Normal University (BNU), Beijing, China
 
 ---
 
-- **Programming skills**
-  + R, Python
-  + JavaScript (jsPsych), E-Prime, MATLAB
-  + Excel, SPSS, Mplus
+Programming Skills
+- R
+- Python
+- JavaScript
+- MATLAB
+- Mplus
+- SPSS
+- Excel
 
-- **Statistical expertise**
-  + Multilevel modeling
-  + Machine learning
-  + Big-data analysis
+Statistical Expertise
+- Multilevel modeling
+- Machine learning
+- Big-data analysis
 
-- **Technical expertise**
-  + Web scraping
-  + R package development
-    + [bruceR](https://github.com/psychbruce/bruceR)
-    + [drawMap](https://github.com/psychbruce/drawMap)
-    + [ChineseNames](https://github.com/psychbruce/ChineseNames)
+Technical Expertise
+- Web scraping
+  + Web crawlers (developed with R or Python) for 20+ websites
+- R package development
+  + [bruceR](https://github.com/psychbruce/bruceR)
+  + [drawMap](https://github.com/psychbruce/drawMap)
+  + [ChineseNames](https://github.com/psychbruce/ChineseNames)
+- jsPsych online experiment development
+  + [Experiment list](https://github.com/psychbruce/jspsych)
 
 
 ## RESEARCH INTERESTS
@@ -57,7 +58,7 @@ Faculty of Psychology, Beijing Normal University (BNU), Beijing, China
 ---
 
 - Name
-- Uniqueness
+- Self-uniqueness
 - Social cognition
 - Prosocial behavior
 - Antisocial behavior
@@ -121,8 +122,8 @@ Materials: [HLM_Workshop01_NACP-2019](https://github.com/psychbruce/stats/tree/m
 
 #### Ad-Hoc Journal Reviewing
 
-*心理学报*
-*心理科学进展*
+- *心理学报*
+- *心理科学进展*
 
 
 ## PERSONAL HOBBIES
