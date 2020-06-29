@@ -1,6 +1,6 @@
 title: 包寒吴霜
-subtitle: Curriculum Vitae
 description: Han-Wu-Shuang (Bruce) Bao
-author: Bruce Bao
-favicon: /favicon.png
+# subtitle: Curriculum Vitae
+# author: Bruce Bao
+favicon: /favicon.ico
 theme: jekyll-theme-cayman
