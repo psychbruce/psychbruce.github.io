@@ -15,8 +15,6 @@ Zhihu: [@包寒吴霜](https://www.zhihu.com/people/psychbruce/)
 
 #### 2017~present **_Ph.D. Student_** in Personality and Social Psychology
 
-Advisor: Huajian Cai (during 2020~2022), Yu L. L. Luo (during 2017~2019)
-
 Institute of Psychology, Chinese Academy of Sciences (IPCAS), Beijing, China
 
 #### 2013~2017 **_B.Sc._** in Psychology
@@ -121,7 +119,6 @@ Materials: [HLM_Workshop01_NACP-2019](https://github.com/psychbruce/stats/tree/m
 ---
 
 #### Ad-Hoc Journal Reviewing
-
 - 心理学报
 - 心理科学进展
 
