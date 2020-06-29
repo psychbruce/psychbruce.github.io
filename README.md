@@ -1,4 +1,3 @@
-## Han-Wu-Shuang (Bruce) Bao | 包寒吴霜
 
 E-mail: [baohws@psych.ac.cn](mailto:baohws@psych.ac.cn)
 
