@@ -15,11 +15,11 @@ Zhihu: [@包寒吴霜](https://www.zhihu.com/people/psychbruce/)
 
 #### 2017~present **_Ph.D. Student_** in Personality and Social Psychology
 
-Institute of Psychology, Chinese Academy of Sciences (IPCAS), Beijing, China
+Institute of Psychology, Chinese Academy of Sciences (IPCAS)
 
 #### 2013~2017 **_B.Sc._** in Psychology
 
-Faculty of Psychology, Beijing Normal University (BNU), Beijing, China
+Beijing Normal University (BNU)
 
 
 ## SKILLS AND EXPERTISE
@@ -118,9 +118,9 @@ Materials: [HLM_Workshop01_NACP-2019](https://github.com/psychbruce/stats/tree/m
 
 ---
 
-#### Ad-Hoc Journal Reviewing
-- 心理学报
-- 心理科学进展
+#### Journal Reviewer
+- 心理学报 (2)
+- 心理科学进展 (1)
 
 
 ## PERSONAL HOBBIES
