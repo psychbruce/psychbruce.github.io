@@ -13,7 +13,7 @@ Zhihu: [@包寒吴霜](https://www.zhihu.com/people/psychbruce/)
 
 ---
 
-#### 2017~present - **_Ph.D. Student_** in Personality and Social Psychology
+#### 2017~now - **_Ph.D. Student_** in Social Psychology
 
 Institute of Psychology, Chinese Academy of Sciences (IPCAS)
 
@@ -114,7 +114,7 @@ Location: 22nd National Academic Congress of Psychology, Hangzhou, Zhejiang, Chi
 Materials: [HLM_Workshop01_NACP-2019](https://github.com/psychbruce/stats/tree/master/HLM_Workshop01_NACP-2019)
 
 
-## ACADEMIC EXPERIENCE
+## ACADEMIC EXPERIENCES
 
 ---
 
@@ -133,4 +133,4 @@ Materials: [HLM_Workshop01_NACP-2019](https://github.com/psychbruce/stats/tree/m
 - 🎱 Billiards (8-ball & snooker)
 
 
-### Curriculum Vitae Update: June 2020
+### Curriculum Vitae Update: July 2020
