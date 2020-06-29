@@ -15,7 +15,7 @@ Zhihu: [@包寒吴霜](https://www.zhihu.com/people/psychbruce/)
 
 #### 2017~present **_Ph.D. Student_** in Personality and Social Psychology
 
-Advisor: Huajian Cai (2020~2022), Yu L. L. Luo (2017~2020)
+Advisor: Huajian Cai (during 2020~2022), Yu L. L. Luo (during 2017~2019)
 
 Institute of Psychology, Chinese Academy of Sciences (IPCAS), Beijing, China
 
@@ -28,7 +28,7 @@ Faculty of Psychology, Beijing Normal University (BNU), Beijing, China
 
 ---
 
-Programming Skills
+#### Programming Skills
 - R
 - Python
 - JavaScript
@@ -37,12 +37,12 @@ Programming Skills
 - SPSS
 - Excel
 
-Statistical Expertise
+#### Statistical Expertise
 - Multilevel modeling
 - Machine learning
 - Big-data analysis
 
-Technical Expertise
+#### Technical Expertise
 - Web scraping
   + Web crawlers (developed with R or Python) for 20+ websites
 - R package development
@@ -122,8 +122,8 @@ Materials: [HLM_Workshop01_NACP-2019](https://github.com/psychbruce/stats/tree/m
 
 #### Ad-Hoc Journal Reviewing
 
-- *心理学报*
-- *心理科学进展*
+- 心理学报
+- 心理科学进展
 
 
 ## PERSONAL HOBBIES
