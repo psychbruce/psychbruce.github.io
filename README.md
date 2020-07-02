@@ -102,7 +102,7 @@ Beijing Normal University
 #### 11/2019 - **_Multilevel Modeling: Methods and Applications_**
 
 - Location: Institute of Psychology, Chinese Academy of Sciences, Beijing, China
-- Materials: [HLM_Workshop02_IPCAS-2019](https://github.com/psychbruce/stats/tree/master/HLM_Workshop02_IPCAS-2019); [WeChat Article](https://mp.weixin.qq.com/s/hMsf0_2TzhtDuRFKR6aBkg)
+- Materials: [HLM_Workshop02_IPCAS-2019](https://github.com/psychbruce/stats/tree/master/HLM_Workshop02_IPCAS-2019)
 
 #### 10/2019 - **_Multilevel Modeling: Methods, Key Issues, and R Programming_**
 
@@ -124,6 +124,7 @@ Beijing Normal University
 ---
 
 - [统计学中的「固定效应 vs. 随机效应」](https://zhuanlan.zhihu.com/p/60528092)
+- [多层线性模型：原理、关键议题与R语言实现](https://mp.weixin.qq.com/s/hMsf0_2TzhtDuRFKR6aBkg)
 - [多层线性模型（HLM）及其自由度问题](https://zhuanlan.zhihu.com/p/50048784)
 - [统计量–效应量的相互转换 \| 元分析基础](https://zhuanlan.zhihu.com/p/47849067)
 - [SPSS方差分析中的简单效应检验：完整教程](https://zhuanlan.zhihu.com/p/30037168)
