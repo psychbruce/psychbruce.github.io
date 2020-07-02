@@ -1,5 +1,5 @@
 
-# 包寒吴霜
+Curriculum Vitae (Update: July 2020)
 
 ## EDUCATION
 
@@ -127,13 +127,10 @@ Beijing Normal University (BNU)
 
 ---
 
-E-mail: [baohws@psych.ac.cn](mailto:baohws@psych.ac.cn) / [brucebhws@gmail.com](mailto:brucebhws@gmail.com) / [psychbruce@qq.com](mailto:psychbruce@qq.com)
+E-mail: [baohws@psych.ac.cn](mailto:baohws@psych.ac.cn); [brucebhws@gmail.com](mailto:brucebhws@gmail.com); [psychbruce@qq.com](mailto:psychbruce@qq.com)
 
 ResearchGate: [Han-Wu-Shuang Bao](https://www.researchgate.net/profile/Han_Wu_Shuang_Bao)
 
 GitHub: [psychbruce](https://github.com/psychbruce)
 
 Zhihu: [@包寒吴霜](https://www.zhihu.com/people/psychbruce/)
-
-
-### Curriculum Vitae Update: July 2020
