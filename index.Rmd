@@ -1,5 +1,7 @@
 ---
-output: html_document
+output: 
+  html_document: 
+    self_contained: no
 ---
 
 ```{r add favicon, echo=FALSE, message=FALSE, warning=FALSE}
@@ -22,7 +24,7 @@ Zhihu: [@包寒吴霜](https://www.zhihu.com/people/psychbruce/)
 
 ---
 
-#### 2017~now - **_Ph.D. Student_** in Social Psychology
+#### 2017~now - **_Ph.D._** in Social Psychology
 
 Institute of Psychology, Chinese Academy of Sciences (IPCAS)
 
