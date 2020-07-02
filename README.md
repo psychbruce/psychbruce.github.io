@@ -1,9 +1,9 @@
 
 E-mail: [baohws@psych.ac.cn](mailto:baohws@psych.ac.cn)
 
-GitHub: [psychbruce](https://github.com/psychbruce)
+ResearchGate: [Han-Wu-Shuang Bao](https://www.researchgate.net/profile/Han_Wu_Shuang_Bao)
 
-ResearchGate: [Han_Wu_Shuang_Bao](https://www.researchgate.net/profile/Han_Wu_Shuang_Bao)
+GitHub: [psychbruce](https://github.com/psychbruce)
 
 Zhihu: [@包寒吴霜](https://www.zhihu.com/people/psychbruce/)
 
@@ -12,11 +12,11 @@ Zhihu: [@包寒吴霜](https://www.zhihu.com/people/psychbruce/)
 
 ---
 
-#### 2017~now - **_Ph.D. Student_** in Social Psychology
+#### 🎓 **Ph.D. Student** in Social Psychology (2017~present)
 
 Institute of Psychology, Chinese Academy of Sciences (IPCAS)
 
-#### 2013~2017 - **_B.Sc._** in Psychology
+#### 🎓 **B.Sc.** in Psychology (2017)
 
 Faculty of Psychology, Beijing Normal University (BNU)
 
