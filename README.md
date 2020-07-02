@@ -1,5 +1,12 @@
 
-Curriculum Vitae (Update: July 2020)
+E-mail: [baohws@psych.ac.cn](mailto:baohws@psych.ac.cn)
+
+ResearchGate: [Han-Wu-Shuang Bao](https://www.researchgate.net/profile/Han_Wu_Shuang_Bao)
+
+GitHub: [psychbruce](https://github.com/psychbruce)
+
+Zhihu: [@包寒吴霜](https://www.zhihu.com/people/psychbruce/)
+
 
 ## EDUCATION
 
@@ -36,9 +43,9 @@ Beijing Normal University (BNU)
 - Web scraping
   + Web crawlers (developed with R or Python) for 20+ websites
 - R package development
-  + [bruceR](https://github.com/psychbruce/bruceR)
-  + [drawMap](https://github.com/psychbruce/drawMap)
-  + [ChineseNames](https://github.com/psychbruce/ChineseNames)
+  + [`bruceR`](https://github.com/psychbruce/bruceR)
+  + [`drawMap`](https://github.com/psychbruce/drawMap)
+  + [`ChineseNames`](https://github.com/psychbruce/ChineseNames)
 - jsPsych online experiment development
   + [Experiment list](https://github.com/psychbruce/jspsych)
 
@@ -123,17 +130,4 @@ Beijing Normal University (BNU)
 - 🎱 Billiards
 
 
-## CONTACT
-
----
-
-- E-mail
-  + [baohws@psych.ac.cn](mailto:baohws@psych.ac.cn)
-  + [brucebhws@gmail.com](mailto:brucebhws@gmail.com)
-  + [psychbruce@qq.com](mailto:psychbruce@qq.com)
-- ResearchGate
-  + [Han-Wu-Shuang Bao](https://www.researchgate.net/profile/Han_Wu_Shuang_Bao)
-- GitHub
-  + [psychbruce](https://github.com/psychbruce)
-- Zhihu
-  + [@包寒吴霜](https://www.zhihu.com/people/psychbruce/)
+### (Update: July 2020)
