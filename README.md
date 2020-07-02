@@ -127,10 +127,13 @@ Beijing Normal University (BNU)
 
 ---
 
-E-mail: [baohws@psych.ac.cn](mailto:baohws@psych.ac.cn); [brucebhws@gmail.com](mailto:brucebhws@gmail.com); [psychbruce@qq.com](mailto:psychbruce@qq.com)
-
-ResearchGate: [Han-Wu-Shuang Bao](https://www.researchgate.net/profile/Han_Wu_Shuang_Bao)
-
-GitHub: [psychbruce](https://github.com/psychbruce)
-
-Zhihu: [@包寒吴霜](https://www.zhihu.com/people/psychbruce/)
+- E-mail
+  + [baohws@psych.ac.cn](mailto:baohws@psych.ac.cn)
+  + [brucebhws@gmail.com](mailto:brucebhws@gmail.com)
+  + [psychbruce@qq.com](mailto:psychbruce@qq.com)
+- ResearchGate
+  + [Han-Wu-Shuang Bao](https://www.researchgate.net/profile/Han_Wu_Shuang_Bao)
+- GitHub
+  + [psychbruce](https://github.com/psychbruce)
+- Zhihu
+  + [@包寒吴霜](https://www.zhihu.com/people/psychbruce/)
