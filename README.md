@@ -18,7 +18,7 @@ Institute of Psychology, Chinese Academy of Sciences (IPCAS)
 
 #### 🎓 **B.Sc.** in Psychology (2017)
 
-Faculty of Psychology, Beijing Normal University (BNU)
+Beijing Normal University (BNU)
 
 
 ## SKILLS AND EXPERTISE
@@ -125,9 +125,9 @@ Faculty of Psychology, Beijing Normal University (BNU)
 ---
 
 - 👊 Wing-Chun (咏春拳)
-- 🥊 Mixed Martial Arts (MMA)
-- 🥋 Tae-Kwon-Do (2nd-degree black belt)
-- 🎱 Billiards (8-ball & snooker)
+- 🥊 Mixed Martial Arts
+- 🥋 Taekwondo (2nd-dan black belt)
+- 🎱 Billiards
 
 
 ### Curriculum Vitae Update: July 2020
