@@ -1,6 +1,4 @@
 
-<link rel="shortcut icon" type="image/x-icon" href="img/favicon.ico?"/>
-
 E-mail: [baohws@psych.ac.cn](mailto:baohws@psych.ac.cn)
 
 GitHub: [psychbruce](https://github.com/psychbruce)
