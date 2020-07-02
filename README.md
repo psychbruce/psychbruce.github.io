@@ -43,9 +43,9 @@ Beijing Normal University (BNU)
 - Web scraping
   + Web crawlers (developed with R or Python) for 20+ websites
 - R package development
-  + [`bruceR`](https://github.com/psychbruce/bruceR)
-  + [`drawMap`](https://github.com/psychbruce/drawMap)
-  + [`ChineseNames`](https://github.com/psychbruce/ChineseNames)
+  + [`**bruceR**`](https://github.com/psychbruce/bruceR)
+  + [`**drawMap**`](https://github.com/psychbruce/drawMap)
+  + [`**ChineseNames**`](https://github.com/psychbruce/ChineseNames)
 - jsPsych online experiment development
   + [Experiment list](https://github.com/psychbruce/jspsych)
 
@@ -116,8 +116,8 @@ Beijing Normal University (BNU)
 ---
 
 #### Journal Reviewer
-- Acta Psychologica Sinica (心理学报)
-- Advances in Psychological Science (心理科学进展)
+- 心理学报
+- 心理科学进展
 
 
 ## PERSONAL HOBBIES
@@ -126,8 +126,8 @@ Beijing Normal University (BNU)
 
 - 👊 Wing-Chun (咏春拳)
 - 🥊 Mixed Martial Arts
-- 🥋 Taekwondo (2nd-*Dan* black belt)
+- 🥋 Taekwondo (2nd Dan black belt)
 - 🎱 Billiards
 
 
-### (Update: July 2020)
+<h4 style='text-align: right'>(Update: July 2020)</h4>
