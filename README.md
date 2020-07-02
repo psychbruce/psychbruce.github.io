@@ -1,11 +1,9 @@
 
 E-mail: [baohws@psych.ac.cn](mailto:baohws@psych.ac.cn)
 
-ResearchGate: [Han-Wu-Shuang Bao](https://www.researchgate.net/profile/Han_Wu_Shuang_Bao)
-
-GitHub: [psychbruce](https://github.com/psychbruce)
-
-Zhihu: [@包寒吴霜](https://www.zhihu.com/people/psychbruce/)
+[ResearchGate](https://www.researchgate.net/profile/Han_Wu_Shuang_Bao) |
+[GitHub](https://github.com/psychbruce) |
+[Zhihu](https://www.zhihu.com/people/psychbruce/)
 
 
 ## EDUCATION
@@ -14,11 +12,11 @@ Zhihu: [@包寒吴霜](https://www.zhihu.com/people/psychbruce/)
 
 #### 🎓 **Ph.D. Student** in Social Psychology (2017~present)
 
-Institute of Psychology, Chinese Academy of Sciences (IPCAS)
+Institute of Psychology, Chinese Academy of Sciences
 
 #### 🎓 **B.Sc.** in Psychology (2017)
 
-Beijing Normal University (BNU)
+Beijing Normal University
 
 
 ## SKILLS AND EXPERTISE
@@ -43,9 +41,9 @@ Beijing Normal University (BNU)
 - Web scraping
   + Web crawlers (developed with R or Python) for 20+ websites
 - R package development
-  + [`**bruceR**`](https://github.com/psychbruce/bruceR)
-  + [`**drawMap**`](https://github.com/psychbruce/drawMap)
-  + [`**ChineseNames**`](https://github.com/psychbruce/ChineseNames)
+  + [**`bruceR`**](https://github.com/psychbruce/bruceR)
+  + [**`drawMap`**](https://github.com/psychbruce/drawMap)
+  + [**`ChineseNames`**](https://github.com/psychbruce/ChineseNames)
 - jsPsych online experiment development
   + [Experiment list](https://github.com/psychbruce/jspsych)
 
