@@ -119,6 +119,21 @@ Beijing Normal University
 - 心理科学进展
 
 
+## SELECTED BLOG ARTICLES
+
+---
+
+#### Column in Zhihu
+- [统计学中的「固定效应 vs. 随机效应」](https://zhuanlan.zhihu.com/p/60528092)
+- [多层线性模型（HLM）及其自由度问题](https://zhuanlan.zhihu.com/p/50048784)
+- [统计量–效应量的相互转换 | 元分析基础](https://zhuanlan.zhihu.com/p/47849067)
+- [SPSS方差分析中的简单效应检验：完整教程](https://zhuanlan.zhihu.com/p/30037168)
+- [SPSS简单效应检验的终极解决方案：MANOVA？GLM！](https://zhuanlan.zhihu.com/p/31863288)
+- [bruceR：数据分析的三头六臂](https://zhuanlan.zhihu.com/p/80732610)
+- [bruceR包重磅更新：方差分析、简单效应检验、事后多重比较](https://zhuanlan.zhihu.com/p/88497589)
+- [jsPsych心理学实验与问卷编程指南（上篇）](https://zhuanlan.zhihu.com/p/150468198)
+
+
 ## PERSONAL HOBBIES
 
 ---
