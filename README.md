@@ -66,9 +66,9 @@ Beijing Normal University
 
 #### In English
 
-- **Bao, H.-W.-S.**, Wang, J., & Cai, H. (2020). Blame crime on name? People with bad names are more likely to commit crime. Preprint at *PsyArXiv* [https://doi.org/10.31234/osf.io/txhqg](https://doi.org/10.31234/osf.io/txhqg)
+- `[Preprint]` **Bao, H.-W.-S.**, Wang, J., & Cai, H. (2020). Blame crime on name? People with bad names are more likely to commit crime. Preprint at *PsyArXiv* [https://doi.org/10.31234/osf.io/txhqg](https://doi.org/10.31234/osf.io/txhqg)
 
-- **Bao, H.-W.-S.**, Cai, H., DeWall, C. N., Gu, R., Chen, J., & Luo, Y. L. L. (2020). Name uniqueness predicts career choice and career achievement. Preprint at *PsyArXiv* [https://doi.org/10.31234/osf.io/53j86](https://doi.org/10.31234/osf.io/53j86)
+- `[Preprint]` **Bao, H.-W.-S.**, Cai, H., DeWall, C. N., Gu, R., Chen, J., & Luo, Y. L. L. (2020). Name uniqueness predicts career choice and career achievement. Preprint at *PsyArXiv* [https://doi.org/10.31234/osf.io/53j86](https://doi.org/10.31234/osf.io/53j86)
 
 - Shi, Y., Luo, Y. L. L., Yang, Z., Liu, Y., & **Bao, H.** (2018). Do narcissists enjoy visiting social networking sites? It depends on how adaptive they are. *Frontiers in Psychology, 9*, 1739. [https://doi.org/10.3389/fpsyg.2018.01739](https://doi.org/10.3389/fpsyg.2018.01739)
 
@@ -79,14 +79,6 @@ Beijing Normal University
 - **包寒吴霜**, 吴胜涛, 郑昊, 陆海蓉, 郑伟, 戴炜, 陆梭, 朱廷劭. (2018). 雾霾下的自我：空气污染与个体主义–集体主义的大数据分析. *社区心理学研究, 6*(2), 71–85.
 
 - **包寒吴霜**, 陈俊霖, 林俊利, 刘力. (2016). 名字与性别的人际吸引机制：性别角色评价的中介作用. *中国临床心理学杂志, 24*(4), 596–600. [https://doi.org/10.16128/j.cnki.1005-3611.2016.04.004](https://doi.org/10.16128/j.cnki.1005-3611.2016.04.004)
-
-
-## MANUSCRIPTS IN PREPARATION
-
----
-
-- **Bao, H.-W.-S.**, Lu, J. G., Lu, H., & Luo, Y. L. L. (in preparation). Unique-named people are perceived more suitable for unique jobs:
-A social perception and its real-life impact on name change.
 
 
 ## CONFERENCE PRESENTATIONS
