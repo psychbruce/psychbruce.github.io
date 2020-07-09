@@ -81,9 +81,12 @@ Beijing Normal University
 
 ---
 
-- **Bao, H.-W.-S.**, Cai, H., DeWall, C. N., Gu, R., Chen, J., & Luo, Y. L. L. (under review). Name uniqueness predicts career choice and career achievement. Preprint at *PsyArXiv* [https://doi.org/10.31234/osf.io/53j86](https://doi.org/10.31234/osf.io/53j86)
+- **Bao, H.-W.-S.**, Cai, H., DeWall, C. N., Gu, R., Chen, J., & Luo, Y. L. L. (2020). Name uniqueness predicts career choice and career achievement. Preprint at *PsyArXiv* [https://doi.org/10.31234/osf.io/53j86](https://doi.org/10.31234/osf.io/53j86)
 
-- **Bao, H.-W.-S.**, Wang, J., & Cai, H. (in preparation). Blame crime on name? People with bad names are more likely to commit crime.
+- **Bao, H.-W.-S.**, Wang, J., & Cai, H. (2020). Blame crime on name? People with bad names are more likely to commit crime. Preprint at *PsyArXiv* [https://doi.org/10.31234/osf.io/txhqg](https://doi.org/10.31234/osf.io/txhqg)
+
+- **Bao, H.-W.-S.**, Lu, J. G., Lu, H., & Luo, Y. L. L. (in preparation). Unique-named people are perceived more suitable for unique jobs:
+A social perception and its real-life impact on name change.
 
 
 ## CONFERENCE PRESENTATIONS
