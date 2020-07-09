@@ -77,7 +77,7 @@ Beijing Normal University
 - **包寒吴霜**, 陈俊霖, 林俊利, 刘力. (2016). 名字与性别的人际吸引机制：性别角色评价的中介作用. *中国临床心理学杂志, 24*(4), 596–600. [https://doi.org/10.16128/j.cnki.1005-3611.2016.04.004](https://doi.org/10.16128/j.cnki.1005-3611.2016.04.004)
 
 
-## MANUSCRIPTS IN REVIEW OR PREPARATION
+## PREPRINTS AND MANUSCRIPTS IN PREPARATION
 
 ---
 
@@ -135,6 +135,7 @@ A social perception and its real-life impact on name change.
 - [bruceR：数据分析的三头六臂](https://zhuanlan.zhihu.com/p/80732610)
 - [bruceR包重磅更新：方差分析、简单效应检验、事后多重比较](https://zhuanlan.zhihu.com/p/88497589)
 - [jsPsych心理学实验与问卷编程指南（上篇）](https://zhuanlan.zhihu.com/p/150468198)
+- [jsPsych心理学实验与问卷编程指南（下篇）](https://zhuanlan.zhihu.com/p/154428604)
 
 
 ## PERSONAL HOBBIES
