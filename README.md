@@ -1,7 +1,7 @@
 
 <table border="0">
   <tr>
-    <td width="70%">
+    <td width="60%">
       <h1>包寒吴霜</h1>
       <p>Ph.D. Student</p>
       <p>E-mail: <a href="mailto:baohws@psych.ac.cn">baohws@psych.ac.cn</a></p>
@@ -10,7 +10,7 @@
       <a href="https://osf.io/gb5uv/">OSF</a> |
       <a href="https://www.zhihu.com/people/psychbruce/">知乎</a></p>
     </td>
-    <td width="30%">
+    <td width="40%">
       <img src="img/Photo-min.jpg" width="100%">
     </td>
   </tr>
@@ -151,4 +151,4 @@ Beijing Normal University
 - 🎱 Billiards
 
 
-<h4 style='text-align: right'>(Update: July 2020)</h4>
+<h4 style='text-align: right'>Update: July 2020</h4>
