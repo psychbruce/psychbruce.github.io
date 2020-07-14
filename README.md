@@ -1,10 +1,20 @@
 
-E-mail: [baohws@psych.ac.cn](mailto:baohws@psych.ac.cn)
-
-[ResearchGate](https://www.researchgate.net/profile/Han_Wu_Shuang_Bao) |
-[GitHub](https://github.com/psychbruce) |
-[OSF](https://osf.io/gb5uv/) |
-[Zhihu](https://www.zhihu.com/people/psychbruce/)
+<table border="0">
+  <tr>
+    <td width="75%">
+      <h1>包寒吴霜</h1>
+      <p>Institute of Psychology, Chinese Academy of Sciences</p>
+      <p>E-mail: <a href="mailto:baohws@psych.ac.cn">baohws@psych.ac.cn</a></p>
+      <p><a href="https://www.researchgate.net/profile/Han_Wu_Shuang_Bao">ResearchGate</a> |
+      <a href="https://github.com/psychbruce">GitHub</a> |
+      <a href="https://osf.io/gb5uv/">OSF</a> |
+      <a href="https://www.zhihu.com/people/psychbruce/">知乎</a></p>
+    </td>
+    <td width="25%">
+      <img src="img/Photo.jpg" width="100%">
+    </td>
+  </tr>
+</table>
 
 
 ## EDUCATION
