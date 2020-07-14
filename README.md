@@ -1,18 +1,12 @@
 
-<table>
-  <tr>
-    <td width="40%">
-      <img src="img/Photo-min.jpg" width="100%">
-    </td>
-    <td width="60%">
-      <p>社会心理学博士在读</p>
-      <p>中国科学院心理研究所</p>
-      <p>E-mail: <a href="mailto:baohws@foxmail.com">baohws@foxmail.com</a></p>
-      <p><a href="https://www.researchgate.net/profile/Han_Wu_Shuang_Bao">ResearchGate</a> | <a href="https://github.com/psychbruce">GitHub</a> |
-      <a href="https://osf.io/gb5uv/">OSF</a> | <a href="https://www.zhihu.com/people/psychbruce/">知乎</a></p>
-    </td>
-  </tr>
-</table>
+![Photo](img/Photo-min.jpg)
+
+E-mail: [baohws@psych.ac.cn](mailto:baohws@psych.ac.cn)
+
+[ResearchGate](https://www.researchgate.net/profile/Han_Wu_Shuang_Bao) |
+[GitHub](https://github.com/psychbruce) |
+[OSF](https://osf.io/gb5uv/) |
+[Zhihu](https://www.zhihu.com/people/psychbruce/)
 
 
 ## EDUCATION
