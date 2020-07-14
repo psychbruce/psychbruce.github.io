@@ -1,12 +1,12 @@
 
-<table border="0" bordercolor="white">
+<table border="1" bordercolor="white">
   <tr>
-    <td width="70%">
+    <td width="60%">
       <h1>包寒吴霜</h1>
       <p>社会心理学博士在读</p>
       <p>中国科学院心理研究所</p>
     </td>
-    <td width="30%">
+    <td width="40%">
       <img src="img/Photo-min.jpg" width="100%">
     </td>
   </tr>
