@@ -1,12 +1,12 @@
 
-![Photo](img/Photo-min.jpg)
+<img src="img/Photo-min.jpg" width="330" height="330">
 
-E-mail: [baohws@psych.ac.cn](mailto:baohws@psych.ac.cn)
+E-mail: [baohws@foxmail.com](mailto:baohws@foxmail.com)
 
 [ResearchGate](https://www.researchgate.net/profile/Han_Wu_Shuang_Bao) |
 [GitHub](https://github.com/psychbruce) |
 [OSF](https://osf.io/gb5uv/) |
-[Zhihu](https://www.zhihu.com/people/psychbruce/)
+[知乎](https://www.zhihu.com/people/psychbruce/)
 
 
 ## EDUCATION
