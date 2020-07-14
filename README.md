@@ -1,12 +1,9 @@
 
-<img src="img/Photo-min.jpg" width="330" height="330">
+<div align="center"><img src="img/Photo-min.jpg" width="300" height="300"></div>
 
-E-mail: [baohws@foxmail.com](mailto:baohws@foxmail.com)
+<p align="center">E-mail: <a href="mailto:baohws@foxmail.com">baohws@foxmail.com</a></p>
 
-[ResearchGate](https://www.researchgate.net/profile/Han_Wu_Shuang_Bao) |
-[GitHub](https://github.com/psychbruce) |
-[OSF](https://osf.io/gb5uv/) |
-[知乎](https://www.zhihu.com/people/psychbruce/)
+<p align="center"><a href="https://www.researchgate.net/profile/Han_Wu_Shuang_Bao">ResearchGate</a> | <a href="https://github.com/psychbruce">GitHub</a> | <a href="https://osf.io/gb5uv/">OSF</a> | <a href="https://www.zhihu.com/people/psychbruce/">知乎</a></p>
 
 
 ## EDUCATION
@@ -151,4 +148,4 @@ Beijing Normal University
 - 🎱 Billiards
 
 
-<h4 style='text-align: right'>Update: July 2020</h4>
+<h4 align="right">Update: July 2020</h4>
