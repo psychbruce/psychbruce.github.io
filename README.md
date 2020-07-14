@@ -1,17 +1,17 @@
 
 <table border="0">
   <tr>
-    <td width="75%">
+    <td width="70%">
       <h1>包寒吴霜</h1>
-      <p>Institute of Psychology, Chinese Academy of Sciences</p>
+      <p>Ph.D. Student</p>
       <p>E-mail: <a href="mailto:baohws@psych.ac.cn">baohws@psych.ac.cn</a></p>
       <p><a href="https://www.researchgate.net/profile/Han_Wu_Shuang_Bao">ResearchGate</a> |
       <a href="https://github.com/psychbruce">GitHub</a> |
       <a href="https://osf.io/gb5uv/">OSF</a> |
       <a href="https://www.zhihu.com/people/psychbruce/">知乎</a></p>
     </td>
-    <td width="25%">
-      <img src="img/Photo.jpg" width="100%">
+    <td width="30%">
+      <img src="img/Photo-min.jpg" width="100%">
     </td>
   </tr>
 </table>
@@ -138,6 +138,7 @@ Beijing Normal University
 - [bruceR包重磅更新：方差分析、简单效应检验、事后多重比较](https://zhuanlan.zhihu.com/p/88497589)
 - [jsPsych心理学实验与问卷编程指南（上篇）](https://zhuanlan.zhihu.com/p/150468198)
 - [jsPsych心理学实验与问卷编程指南（下篇）](https://zhuanlan.zhihu.com/p/154428604)
+- [利用「Cognition」免费平台轻松发布jsPsych在线实验！](https://zhuanlan.zhihu.com/p/159183585)
 
 
 ## PERSONAL HOBBIES
