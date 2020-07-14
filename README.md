@@ -5,9 +5,9 @@
       <h1>包寒吴霜</h1>
       <p>社会心理学博士在读</p>
       <p>中国科学院心理研究所</p>
-      <p>E-mail: <a href="mailto:baohws@psych.ac.cn">baohws@psych.ac.cn</a></p>
-      <p><a href="https://www.researchgate.net/profile/Han_Wu_Shuang_Bao">ResearchGate</a> | <a href="https://osf.io/gb5uv/">OSF</a></p>
-      <p><a href="https://github.com/psychbruce">GitHub</a> | <a href="https://www.zhihu.com/people/psychbruce/">知乎</a></p>
+      <p>E-mail: <a href="mailto:baohws@foxmail.com">baohws@foxmail.com</a></p>
+      <p><a href="https://www.researchgate.net/profile/Han_Wu_Shuang_Bao">ResearchGate</a> | <a href="https://osf.io/gb5uv/">OSF</a> |
+      <a href="https://github.com/psychbruce">GitHub</a> | <a href="https://www.zhihu.com/people/psychbruce/">知乎</a></p>
     </td>
     <td width="38%">
       <img src="img/Photo-min.jpg" width="100%">
