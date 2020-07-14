@@ -1,16 +1,20 @@
 
 <table border="0">
   <tr>
-    <td width="62%">
+    <td width="65%">
       <h1>包寒吴霜</h1>
       <p>社会心理学博士在读</p>
       <p>中国科学院心理研究所</p>
-      <p>E-mail: <a href="mailto:baohws@foxmail.com">baohws@foxmail.com</a></p>
-      <p><a href="https://www.researchgate.net/profile/Han_Wu_Shuang_Bao">ResearchGate</a> | <a href="https://osf.io/gb5uv/">OSF</a> |
-      <a href="https://github.com/psychbruce">GitHub</a> | <a href="https://www.zhihu.com/people/psychbruce/">知乎</a></p>
     </td>
-    <td width="38%">
+    <td width="35%">
       <img src="img/Photo-min.jpg" width="100%">
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <p>E-mail: <a href="mailto:baohws@foxmail.com">baohws@foxmail.com</a></p>
+      <p><a href="https://www.researchgate.net/profile/Han_Wu_Shuang_Bao">ResearchGate</a> | <a href="https://github.com/psychbruce">GitHub</a> |
+      <a href="https://osf.io/gb5uv/">OSF</a> | <a href="https://www.zhihu.com/people/psychbruce/">知乎</a></p>
     </td>
   </tr>
 </table>
@@ -127,14 +131,22 @@ Beijing Normal University
 
 ---
 
+#### Statistics
+
 - [统计学中的「固定效应 vs. 随机效应」](https://zhuanlan.zhihu.com/p/60528092)
 - [多层线性模型：原理、关键议题与R语言实现](https://mp.weixin.qq.com/s/hMsf0_2TzhtDuRFKR6aBkg)
 - [多层线性模型（HLM）及其自由度问题](https://zhuanlan.zhihu.com/p/50048784)
 - [统计量–效应量的相互转换 \| 元分析基础](https://zhuanlan.zhihu.com/p/47849067)
 - [SPSS方差分析中的简单效应检验：完整教程](https://zhuanlan.zhihu.com/p/30037168)
 - [SPSS简单效应检验的终极解决方案：MANOVA？GLM！](https://zhuanlan.zhihu.com/p/31863288)
+
+#### R Programming
+
 - [bruceR：数据分析的三头六臂](https://zhuanlan.zhihu.com/p/80732610)
 - [bruceR包重磅更新：方差分析、简单效应检验、事后多重比较](https://zhuanlan.zhihu.com/p/88497589)
+
+#### jsPsych Programming
+
 - [jsPsych心理学实验与问卷编程指南（上篇）](https://zhuanlan.zhihu.com/p/150468198)
 - [jsPsych心理学实验与问卷编程指南（下篇）](https://zhuanlan.zhihu.com/p/154428604)
 - [利用「Cognition」免费平台轻松发布jsPsych在线实验！](https://zhuanlan.zhihu.com/p/159183585)
