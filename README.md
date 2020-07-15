@@ -13,10 +13,14 @@
 #### 🎓 **Ph.D. Student** in Social Psychology (2017~present)
 
 Institute of Psychology, Chinese Academy of Sciences
+<br/>
+中国科学院心理研究所
 
 #### 🎓 **B.Sc.** in Psychology (2017)
 
 Beijing Normal University
+<br/>
+北京师范大学
 
 
 ## SKILLS AND EXPERTISE
@@ -139,7 +143,6 @@ Beijing Normal University
 
 ---
 
-<p>
 👊 Wing-Chun (咏春拳)
 <br/>
 🥊 Mixed Martial Arts
@@ -147,7 +150,6 @@ Beijing Normal University
 🥋 Taekwondo (2nd Dan black belt)
 <br/>
 🎱 Billiards
-</p>
 
 
 <h4 align="right">Update: July 2020</h4>
