@@ -12,11 +12,11 @@
 
 #### 🎓 **Ph.D. Student** in Social Psychology (2017~present)
 
-Institute of Psychology, Chinese Academy of Sciences | 中国科学院心理研究所
+Institute of Psychology, Chinese Academy of Sciences \| 中国科学院心理研究所
 
 #### 🎓 **B.Sc.** in Psychology (2017)
 
-Beijing Normal University | 北京师范大学
+Beijing Normal University \| 北京师范大学
 
 
 ## SKILLS AND EXPERTISE
