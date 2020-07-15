@@ -12,15 +12,11 @@
 
 #### 🎓 **Ph.D. Student** in Social Psychology (2017~present)
 
-Institute of Psychology, Chinese Academy of Sciences
-<br/>
-中国科学院心理研究所
+Institute of Psychology, Chinese Academy of Sciences | 中国科学院心理研究所
 
 #### 🎓 **B.Sc.** in Psychology (2017)
 
-Beijing Normal University
-<br/>
-北京师范大学
+Beijing Normal University | 北京师范大学
 
 
 ## SKILLS AND EXPERTISE
@@ -47,7 +43,7 @@ Beijing Normal University
 
 #### Technical Expertise
 - Web crawling (with R/Python)
-  + Have crawled 20+ websites for data collection in research (see [here](https://doi.org/10.31234/osf.io/53j86) for an example)
+  + Have crawled 20+ websites for data collection in research (see [here](https://doi.org/10.31234/osf.io/53j86) for an application)
 - R package development
   + [**`bruceR`**](https://github.com/psychbruce/bruceR)
   + [**`drawMap`**](https://github.com/psychbruce/drawMap)
