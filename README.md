@@ -126,13 +126,10 @@ Beijing Normal University
 - [SPSS方差分析中的简单效应检验：完整教程](https://zhuanlan.zhihu.com/p/30037168)
 - [SPSS简单效应检验的终极解决方案：MANOVA？GLM！](https://zhuanlan.zhihu.com/p/31863288)
 
-#### R Programming
+#### Programming
 
 - [bruceR：数据分析的三头六臂](https://zhuanlan.zhihu.com/p/80732610)
 - [bruceR包重磅更新：方差分析、简单效应检验、事后多重比较](https://zhuanlan.zhihu.com/p/88497589)
-
-#### jsPsych Programming
-
 - [jsPsych心理学实验与问卷编程指南（上篇）](https://zhuanlan.zhihu.com/p/150468198)
 - [jsPsych心理学实验与问卷编程指南（下篇）](https://zhuanlan.zhihu.com/p/154428604)
 - [利用「Cognition」免费平台轻松发布jsPsych在线实验！](https://zhuanlan.zhihu.com/p/159183585)
@@ -142,10 +139,15 @@ Beijing Normal University
 
 ---
 
-- 👊 Wing-Chun (咏春拳)
-- 🥊 Mixed Martial Arts
-- 🥋 Taekwondo (2nd Dan black belt)
-- 🎱 Billiards
+<p>
+👊 Wing-Chun (咏春拳)
+<br/>
+🥊 Mixed Martial Arts
+<br/>
+🥋 Taekwondo (2nd Dan black belt)
+<br/>
+🎱 Billiards
+</p>
 
 
 <h4 align="right">Update: July 2020</h4>
