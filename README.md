@@ -34,7 +34,11 @@ Beijing Normal University
 - MATLAB
 - Mplus
 - SPSS
-- Excel
+
+#### Office Software Skills
+- Word<sup>®</sup> (MOS 2010 *Expert* Certification)
+- Excel<sup>®</sup> (MOS 2010 *Expert* Certification)
+- PowerPoint<sup>®</sup> (MOS 2010 *Specialist* Certification)
 
 #### Statistical Expertise
 - Multilevel modeling
@@ -42,8 +46,8 @@ Beijing Normal University
 - Big-data analysis
 
 #### Technical Expertise
-- Web scraping
-  + Web crawlers (developed with R or Python) for 20+ websites
+- Web crawling (with R/Python)
+  + Have crawled 20+ websites for data collection in research (see [here](https://doi.org/10.31234/osf.io/53j86) for an example)
 - R package development
   + [**`bruceR`**](https://github.com/psychbruce/bruceR)
   + [**`drawMap`**](https://github.com/psychbruce/drawMap)
