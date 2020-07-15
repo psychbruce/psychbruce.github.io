@@ -14,7 +14,7 @@
 
 Institute of Psychology, Chinese Academy of Sciences \| 中国科学院心理研究所
 
-#### 🎓 **B.Sc.** in Psychology (2017)
+#### 🎓 **B.Sc.** in Psychology (2013~2017)
 
 Beijing Normal University \| 北京师范大学
 
@@ -48,8 +48,8 @@ Beijing Normal University \| 北京师范大学
   + [**`bruceR`**](https://github.com/psychbruce/bruceR)
   + [**`drawMap`**](https://github.com/psychbruce/drawMap)
   + [**`ChineseNames`**](https://github.com/psychbruce/ChineseNames)
-- jsPsych online experiment development
-  + [Experiment list](https://github.com/psychbruce/jspsych)
+- Online experiment development
+  + [jsPsych experiment list](https://github.com/psychbruce/jspsych)
 
 
 ## RESEARCH INTERESTS
