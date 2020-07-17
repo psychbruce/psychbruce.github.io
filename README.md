@@ -1,5 +1,6 @@
 
 <div align="center"><img src="https://s1.ax1x.com/2020/07/17/UyKyeH.jpg" alt="BaoHWS.png" width="300" height="300"></div>
+<div><img src="https://s1.ax1x.com/2020/07/17/UyKyeH.jpg" style="height:0; width:0; overflow:hidden; display:block" /></div>
 
 <p align="center">E-mail: <a href="mailto:baohws@foxmail.com">baohws@foxmail.com</a></p>
 
