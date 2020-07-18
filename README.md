@@ -114,8 +114,8 @@ WORKSHOPS
 <h2 id="academic-experiences" style="color: #159957">ACADEMIC EXPERIENCES</h2>
 
 ### Ad-Hoc Journal Reviewer
-- *心理学报*
-- *心理科学进展*
+- 心理学报
+- 心理科学进展
 
 ---
 
