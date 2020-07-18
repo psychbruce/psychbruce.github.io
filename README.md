@@ -1,13 +1,15 @@
 
-<h2 id="education" style="color: #159957">EDUCATION</h2>
+<h2 id="education" style="color: #159957">
+EDUCATION
+</h2>
 
-### 🎓 **_Ph.D. Student_** in Social Psychology (2017~present)
+### 🎓 *Ph.D. Student* in Social Psychology (2017~present)
 
 Institute of Psychology, Chinese Academy of Sciences
 <br/>
 中国科学院心理研究所
 
-### 🎓 **_B.Sc._** in Psychology (2013~2017)
+### 🎓 *B.Sc.* in Psychology (2013~2017)
 
 Beijing Normal University
 <br/>
@@ -15,7 +17,9 @@ Beijing Normal University
 
 ---
 
-<h2 id="skills-and-expertise" style="color: #159957">SKILLS AND EXPERTISE</h2>
+<h2 id="skills-and-expertise" style="color: #159957">
+SKILLS & EXPERTISE
+</h2>
 
 ### Programming Skills
 - R
@@ -47,7 +51,9 @@ Beijing Normal University
 
 ---
 
-<h2 id="research-interests" style="color: #159957">RESEARCH INTERESTS</h2>
+<h2 id="research-interests" style="color: #159957">
+RESEARCH INTERESTS
+</h2>
 
 - Name
 - Uniqueness
@@ -57,42 +63,48 @@ Beijing Normal University
 
 ---
 
-<h2 id="publications" style="color: #159957">PUBLICATIONS</h2>
+<h2 id="publications-and-preprints" style="color: #159957">
+PUBLICATIONS & PREPRINTS
+</h2>
 
 ### In English
 
-- `[Preprint]` **Bao, H.-W.-S.**, Wang, J., & Cai, H. (2020). Blame crime on name? People with bad names are more likely to commit crime. Preprint at *PsyArXiv* [https://doi.org/10.31234/osf.io/txhqg](https://doi.org/10.31234/osf.io/txhqg)
+- **Bao, H.-W.-S.**, Wang, J., & Cai, H. (**2020**). Blame crime on name? People with bad names are more likely to commit crime. Preprint at *PsyArXiv* [https://doi.org/10.31234/osf.io/txhqg](https://doi.org/10.31234/osf.io/txhqg)
 
-- `[Preprint]` **Bao, H.-W.-S.**, Cai, H., DeWall, C. N., Gu, R., Chen, J., & Luo, Y. L. L. (2020). Name uniqueness predicts career choice and career achievement. Preprint at *PsyArXiv* [https://doi.org/10.31234/osf.io/53j86](https://doi.org/10.31234/osf.io/53j86)
+- **Bao, H.-W.-S.**, Cai, H., DeWall, C. N., Gu, R., Chen, J., & Luo, Y. L. L. (**2020**). Name uniqueness predicts career choice and career achievement. Preprint at *PsyArXiv* [https://doi.org/10.31234/osf.io/53j86](https://doi.org/10.31234/osf.io/53j86)
 
-- Shi, Y., Luo, Y. L. L., Yang, Z., Liu, Y., & **Bao, H.** (2018). Do narcissists enjoy visiting social networking sites? It depends on how adaptive they are. *Frontiers in Psychology, 9*, 1739. [https://doi.org/10.3389/fpsyg.2018.01739](https://doi.org/10.3389/fpsyg.2018.01739)
+- Shi, Y., Luo, Y. L. L., Yang, Z., Liu, Y., & **Bao, H.** (**2018**). Do narcissists enjoy visiting social networking sites? It depends on how adaptive they are. *Frontiers in Psychology, 9*, 1739. [https://doi.org/10.3389/fpsyg.2018.01739](https://doi.org/10.3389/fpsyg.2018.01739)
 
 ### In Chinese
 
-- **包寒吴霜**, 蔡华俭, 罗宇. (2019). 身份认同动机：概念、测量与心理效应. *心理科学, 42*(4), 971–977. [https://doi.org/10.16719/j.cnki.1671-6981.20190429](https://doi.org/10.16719/j.cnki.1671-6981.20190429)
+- **包寒吴霜**, 蔡华俭, 罗宇. (**2019**). 身份认同动机：概念、测量与心理效应. *心理科学, 42*(4), 971–977. [https://doi.org/10.16719/j.cnki.1671-6981.20190429](https://doi.org/10.16719/j.cnki.1671-6981.20190429)
 
-- **包寒吴霜**, 吴胜涛, 郑昊, 陆海蓉, 郑伟, 戴炜, 陆梭, 朱廷劭. (2018). 雾霾下的自我：空气污染与个体主义–集体主义的大数据分析. *社区心理学研究, 6*(2), 71–85.
+- **包寒吴霜**, 吴胜涛, 郑昊, 陆海蓉, 郑伟, 戴炜, 陆梭, 朱廷劭. (**2018**). 雾霾下的自我：空气污染与个体主义–集体主义的大数据分析. *社区心理学研究, 6*(2), 71–85.
 
-- **包寒吴霜**, 陈俊霖, 林俊利, 刘力. (2016). 名字与性别的人际吸引机制：性别角色评价的中介作用. *中国临床心理学杂志, 24*(4), 596–600. [https://doi.org/10.16128/j.cnki.1005-3611.2016.04.004](https://doi.org/10.16128/j.cnki.1005-3611.2016.04.004)
-
----
-
-<h2 id="conference-presentations" style="color: #159957">CONFERENCE PRESENTATIONS</h2>
-
-- **Bao, H.-W.-S.**, Cai, H., & Luo, Y. L. L. (2019, October). Name-job uniqueness fit: Name uniqueness predicts job choice and is associated with career success. In the *22nd National Academic Congress of Psychology*, Hangzhou, Zhejiang, China.
-
-- **Bao, H.-W.-S.**, Cai, H., & Luo, Y. L. L. (2018, October). Name uniqueness predicts job choice: Evidence from big data and experiments. In the *2018 Annual Conference of the Social Psychology Branch of Chinese Psychological Society*, Qufu, Shandong, China.
+- **包寒吴霜**, 陈俊霖, 林俊利, 刘力. (**2016**). 名字与性别的人际吸引机制：性别角色评价的中介作用. *中国临床心理学杂志, 24*(4), 596–600. [https://doi.org/10.16128/j.cnki.1005-3611.2016.04.004](https://doi.org/10.16128/j.cnki.1005-3611.2016.04.004)
 
 ---
 
-<h2 id="workshops" style="color: #159957">WORKSHOPS</h2>
+<h2 id="conference-presentations" style="color: #159957">
+CONFERENCE PRESENTATIONS
+</h2>
 
-### 11/2019 - **_Multilevel Modeling: Methods and Applications_**
+- **Bao, H.-W.-S.**, Cai, H., & Luo, Y. L. L. (**2019, October**). Name-job uniqueness fit: Name uniqueness predicts job choice and is associated with career success. In the *22nd National Academic Congress of Psychology*, Hangzhou, Zhejiang, China.
+
+- **Bao, H.-W.-S.**, Cai, H., & Luo, Y. L. L. (**2018, October**). Name uniqueness predicts job choice: Evidence from big data and experiments. In the *2018 Annual Conference of the Social Psychology Branch of Chinese Psychological Society*, Qufu, Shandong, China.
+
+---
+
+<h2 id="workshops" style="color: #159957">
+WORKSHOPS
+</h2>
+
+### 11/2019 - *Multilevel Modeling: Methods and Applications*
 
 - Location: Institute of Psychology, Chinese Academy of Sciences, Beijing, China
 - Materials: [HLM_Workshop02_IPCAS-2019](https://github.com/psychbruce/stats/tree/master/HLM_Workshop02_IPCAS-2019)
 
-### 10/2019 - **_Multilevel Modeling: Methods, Key Issues, and R Programming_**
+### 10/2019 - *Multilevel Modeling: Methods, Key Issues, and R Programming*
 
 - Location: 22nd National Academic Congress of Psychology, Hangzhou, Zhejiang, China
 - Materials: [HLM_Workshop01_NACP-2019](https://github.com/psychbruce/stats/tree/master/HLM_Workshop01_NACP-2019)
@@ -107,7 +119,9 @@ Beijing Normal University
 
 ---
 
-<h2 id="selected-blog-articles" style="color: #159957">SELECTED BLOG ARTICLES</h2>
+<h2 id="selected-blog-articles" style="color: #159957">
+SELECTED BLOG ARTICLES
+</h2>
 
 ### Statistics
 
@@ -128,7 +142,9 @@ Beijing Normal University
 
 ---
 
-<h2 id="personal-hobbies" style="color: #159957">PERSONAL HOBBIES</h2>
+<h2 id="personal-hobbies" style="color: #159957">
+PERSONAL HOBBIES
+</h2>
 
 👊 Wing-Chun (咏春拳)
 <br/>
