@@ -1,24 +1,22 @@
 
 ## EDUCATION
 
----
-
-### 🎓 **Ph.D. Student** in Social Psychology (2017~present)
+### 🎓 **_Ph.D. Student_** in Social Psychology (2017~present)
 
 Institute of Psychology, Chinese Academy of Sciences
 <br/>
 中国科学院心理研究所
 
-### 🎓 **B.Sc.** in Psychology (2013~2017)
+### 🎓 **_B.Sc._** in Psychology (2013~2017)
 
 Beijing Normal University
 <br/>
 北京师范大学
 
 
-## SKILLS AND EXPERTISE
-
 ---
+
+## SKILLS AND EXPERTISE
 
 ### Programming Skills
 - R
@@ -49,9 +47,9 @@ Beijing Normal University
   + [jsPsych experiment list](https://github.com/psychbruce/jspsych)
 
 
-## RESEARCH INTERESTS
-
 ---
+
+## RESEARCH INTERESTS
 
 - Name
 - Uniqueness
@@ -60,9 +58,9 @@ Beijing Normal University
 - Antisocial behavior
 
 
-## PUBLICATIONS AND PREPRINTS
-
 ---
+
+## PUBLICATIONS AND PREPRINTS
 
 ### In English
 
@@ -81,18 +79,18 @@ Beijing Normal University
 - **包寒吴霜**, 陈俊霖, 林俊利, 刘力. (2016). 名字与性别的人际吸引机制：性别角色评价的中介作用. *中国临床心理学杂志, 24*(4), 596–600. [https://doi.org/10.16128/j.cnki.1005-3611.2016.04.004](https://doi.org/10.16128/j.cnki.1005-3611.2016.04.004)
 
 
-## CONFERENCE PRESENTATIONS
-
 ---
+
+## CONFERENCE PRESENTATIONS
 
 - **Bao, H.-W.-S.**, Cai, H., & Luo, Y. L. L. (2019, October). Name-job uniqueness fit: Name uniqueness predicts job choice and is associated with career success. In the *22nd National Academic Congress of Psychology*, Hangzhou, Zhejiang, China.
 
 - **Bao, H.-W.-S.**, Cai, H., & Luo, Y. L. L. (2018, October). Name uniqueness predicts job choice: Evidence from big data and experiments. In the *2018 Annual Conference of the Social Psychology Branch of Chinese Psychological Society*, Qufu, Shandong, China.
 
 
-## WORKSHOPS
-
 ---
+
+## WORKSHOPS
 
 ### 11/2019 - **_Multilevel Modeling: Methods and Applications_**
 
@@ -105,18 +103,18 @@ Beijing Normal University
 - Materials: [HLM_Workshop01_NACP-2019](https://github.com/psychbruce/stats/tree/master/HLM_Workshop01_NACP-2019)
 
 
-## ACADEMIC EXPERIENCES
-
 ---
+
+## ACADEMIC EXPERIENCES
 
 ### Journal Reviewer
 - 心理学报
 - 心理科学进展
 
 
-## SELECTED BLOG ARTICLES
-
 ---
+
+## SELECTED BLOG ARTICLES
 
 ### Statistics
 
@@ -136,9 +134,9 @@ Beijing Normal University
 - [利用「Cognition」免费平台轻松发布jsPsych在线实验！](https://zhuanlan.zhihu.com/p/159183585)
 
 
-## PERSONAL HOBBIES
-
 ---
+
+## PERSONAL HOBBIES
 
 👊 Wing-Chun (咏春拳)
 <br/>

@@ -18,14 +18,13 @@
     <div class="wrapper">
       <header>
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title }}</a></h1>
+        <p>{{ site.subtitle }}</p>
 
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
 
-        <p>{{ site.subtitle }}</p>
-
-        <p>E-mail: <a href="mailto:baohws@foxmail.com">baohws@foxmail.com</a></p>
+        <p><br/>E-mail: <a href="mailto:baohws@foxmail.com">baohws@foxmail.com</a></p>
 
         <p><a href="https://www.researchgate.net/profile/Han_Wu_Shuang_Bao">ResearchGate</a> | <a href="https://github.com/psychbruce">GitHub</a> | <a href="https://osf.io/gb5uv/">OSF</a> | <a href="https://www.zhihu.com/people/psychbruce/">知乎</a></p>
       </header>
@@ -36,7 +35,6 @@
       </section>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
-    {% if site.google_analytics %}
     <script>
       (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
       (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -45,6 +43,5 @@
       ga('create', '{{ site.google_analytics }}', 'auto');
       ga('send', 'pageview');
     </script>
-    {% endif %}
   </body>
 </html>
