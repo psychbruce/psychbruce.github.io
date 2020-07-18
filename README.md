@@ -5,15 +5,15 @@ EDUCATION
 
 ### 🎓 **_Ph.D. Student_** in Social Psychology (2017~present)
 
-**Institute of Psychology, Chinese Academy of Sciences**
+Institute of Psychology, Chinese Academy of Sciences
 <br/>
-**中国科学院心理研究所**
+中国科学院心理研究所
 
 ### 🎓 **_B.Sc._** in Psychology (2013~2017)
 
-**Beijing Normal University**
+Faculty of Psychology, Beijing Normal University
 <br/>
-**北京师范大学**
+北京师范大学心理学部
 
 ---
 
