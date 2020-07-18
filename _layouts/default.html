@@ -18,17 +18,22 @@
     <div class="wrapper">
       <header>
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
-        <p>{{ site.subtitle | default: site.github.project_tagline }}</p>
 
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
 
+        <p>{{ site.subtitle | default: site.github.project_tagline }}</p>
+
         <p>E-mail: <a href="mailto:baohws@foxmail.com">baohws@foxmail.com</a></p>
-        <p><a href="https://www.researchgate.net/profile/Han_Wu_Shuang_Bao">ResearchGate</a></p>
-        <p><a href="https://github.com/psychbruce">GitHub</a></p>
-        <p><a href="https://osf.io/gb5uv/">OSF</a></p>
-        <p><a href="https://www.zhihu.com/people/psychbruce/">知乎</a></p>
+
+        <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
+
+        <ul class="downloads">
+          <li><a href="https://www.researchgate.net/profile/Han_Wu_Shuang_Bao">ResearchGate</a></li>
+          <li><a href="https://osf.io/gb5uv/">OSF</a></li>
+          <li><a href="https://www.zhihu.com/people/psychbruce/">知乎</a></li>
+        </ul>
       </header>
       <section>
 
