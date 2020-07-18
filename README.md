@@ -1,5 +1,5 @@
 
-## EDUCATION
+<h2 id="education" style="color: #159957">EDUCATION</h2>
 
 ### 🎓 **_Ph.D. Student_** in Social Psychology (2017~present)
 
@@ -14,7 +14,7 @@ Beijing Normal University
 北京师范大学
 
 
-## SKILLS AND EXPERTISE
+<h2 id="skills-and-expertise" style="color: #159957">SKILLS AND EXPERTISE</h2>
 
 ### Programming Skills
 - R
@@ -45,7 +45,7 @@ Beijing Normal University
   + [jsPsych experiment list](https://github.com/psychbruce/jspsych)
 
 
-## RESEARCH INTERESTS
+<h2 id="research-interests" style="color: #159957">RESEARCH INTERESTS</h2>
 
 - Name
 - Uniqueness
@@ -54,7 +54,7 @@ Beijing Normal University
 - Antisocial behavior
 
 
-## PUBLICATIONS
+<h2 id="publications" style="color: #159957">PUBLICATIONS</h2>
 
 ### In English
 
@@ -73,14 +73,14 @@ Beijing Normal University
 - **包寒吴霜**, 陈俊霖, 林俊利, 刘力. (2016). 名字与性别的人际吸引机制：性别角色评价的中介作用. *中国临床心理学杂志, 24*(4), 596–600. [https://doi.org/10.16128/j.cnki.1005-3611.2016.04.004](https://doi.org/10.16128/j.cnki.1005-3611.2016.04.004)
 
 
-## CONFERENCE PRESENTATIONS
+<h2 id="conference-presentations" style="color: #159957">CONFERENCE PRESENTATIONS</h2>
 
 - **Bao, H.-W.-S.**, Cai, H., & Luo, Y. L. L. (2019, October). Name-job uniqueness fit: Name uniqueness predicts job choice and is associated with career success. In the *22nd National Academic Congress of Psychology*, Hangzhou, Zhejiang, China.
 
 - **Bao, H.-W.-S.**, Cai, H., & Luo, Y. L. L. (2018, October). Name uniqueness predicts job choice: Evidence from big data and experiments. In the *2018 Annual Conference of the Social Psychology Branch of Chinese Psychological Society*, Qufu, Shandong, China.
 
 
-## WORKSHOPS
+<h2 id="workshops" style="color: #159957">WORKSHOPS</h2>
 
 ### 11/2019 - **_Multilevel Modeling: Methods and Applications_**
 
@@ -93,14 +93,14 @@ Beijing Normal University
 - Materials: [HLM_Workshop01_NACP-2019](https://github.com/psychbruce/stats/tree/master/HLM_Workshop01_NACP-2019)
 
 
-## ACADEMIC EXPERIENCES
+<h2 id="academic-experiences" style="color: #159957">ACADEMIC EXPERIENCES</h2>
 
 ### Journal Reviewer
 - 心理学报
 - 心理科学进展
 
 
-## SELECTED BLOG ARTICLES
+<h2 id="selected-blog-articles" style="color: #159957">SELECTED BLOG ARTICLES</h2>
 
 ### Statistics
 
@@ -120,7 +120,7 @@ Beijing Normal University
 - [利用「Cognition」免费平台轻松发布jsPsych在线实验！](https://zhuanlan.zhihu.com/p/159183585)
 
 
-## PERSONAL HOBBIES
+<h2 id="personal-hobbies" style="color: #159957">PERSONAL HOBBIES</h2>
 
 👊 Wing-Chun (咏春拳)
 <br/>
