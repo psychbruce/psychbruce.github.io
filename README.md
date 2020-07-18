@@ -14,8 +14,6 @@ Beijing Normal University
 北京师范大学
 
 
-<br/>
-
 ## SKILLS AND EXPERTISE
 
 ### Programming Skills
@@ -47,8 +45,6 @@ Beijing Normal University
   + [jsPsych experiment list](https://github.com/psychbruce/jspsych)
 
 
-<br/>
-
 ## RESEARCH INTERESTS
 
 - Name
@@ -57,8 +53,6 @@ Beijing Normal University
 - Prosocial behavior
 - Antisocial behavior
 
-
-<br/>
 
 ## PUBLICATIONS
 
@@ -79,16 +73,12 @@ Beijing Normal University
 - **包寒吴霜**, 陈俊霖, 林俊利, 刘力. (2016). 名字与性别的人际吸引机制：性别角色评价的中介作用. *中国临床心理学杂志, 24*(4), 596–600. [https://doi.org/10.16128/j.cnki.1005-3611.2016.04.004](https://doi.org/10.16128/j.cnki.1005-3611.2016.04.004)
 
 
-<br/>
-
 ## CONFERENCE PRESENTATIONS
 
 - **Bao, H.-W.-S.**, Cai, H., & Luo, Y. L. L. (2019, October). Name-job uniqueness fit: Name uniqueness predicts job choice and is associated with career success. In the *22nd National Academic Congress of Psychology*, Hangzhou, Zhejiang, China.
 
 - **Bao, H.-W.-S.**, Cai, H., & Luo, Y. L. L. (2018, October). Name uniqueness predicts job choice: Evidence from big data and experiments. In the *2018 Annual Conference of the Social Psychology Branch of Chinese Psychological Society*, Qufu, Shandong, China.
 
-
-<br/>
 
 ## WORKSHOPS
 
@@ -103,16 +93,12 @@ Beijing Normal University
 - Materials: [HLM_Workshop01_NACP-2019](https://github.com/psychbruce/stats/tree/master/HLM_Workshop01_NACP-2019)
 
 
-<br/>
-
 ## ACADEMIC EXPERIENCES
 
 ### Journal Reviewer
 - 心理学报
 - 心理科学进展
 
-
-<br/>
 
 ## SELECTED BLOG ARTICLES
 
@@ -133,8 +119,6 @@ Beijing Normal University
 - [jsPsych心理学实验与问卷编程指南（下篇）](https://zhuanlan.zhihu.com/p/154428604)
 - [利用「Cognition」免费平台轻松发布jsPsych在线实验！](https://zhuanlan.zhihu.com/p/159183585)
 
-
-<br/>
 
 ## PERSONAL HOBBIES
 
