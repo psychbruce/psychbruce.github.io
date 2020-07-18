@@ -3,13 +3,13 @@
 EDUCATION
 </h2>
 
-### 🎓 Ph.D. Student in Social Psychology (2017~present)
+### 🎓 *Ph.D. Student* in Social Psychology (2017~present)
 
 <b>Institute of Psychology, Chinese Academy of Sciences</b>
 <br/>
 <b>中国科学院心理研究所</b>
 
-### 🎓 B.Sc. in Psychology (2013~2017)
+### 🎓 *B.Sc.* in Psychology (2013~2017)
 
 <b>Faculty of Psychology, Beijing Normal University</b>
 <br/>
@@ -99,12 +99,12 @@ CONFERENCE PRESENTATIONS
 WORKSHOPS
 </h2>
 
-### 11/2019 - **_Multilevel Modeling: Methods and Applications_**
+### 11/2019 - *Multilevel Modeling: Methods and Applications*
 
 - Location: Institute of Psychology, Chinese Academy of Sciences, Beijing, China
 - Materials: [HLM_Workshop02_IPCAS-2019](https://github.com/psychbruce/stats/tree/master/HLM_Workshop02_IPCAS-2019)
 
-### 10/2019 - **_Multilevel Modeling: Methods, Key Issues, and R Programming_**
+### 10/2019 - *Multilevel Modeling: Methods, Key Issues, and R Programming*
 
 - Location: 22nd National Academic Congress of Psychology, Hangzhou, Zhejiang, China
 - Materials: [HLM_Workshop01_NACP-2019](https://github.com/psychbruce/stats/tree/master/HLM_Workshop01_NACP-2019)
