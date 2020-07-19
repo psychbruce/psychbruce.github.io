@@ -1,23 +1,24 @@
 
 <style>
-h2 { color: #159957; }
-h3, h4 { color: rgb(60, 60, 60); }
-p, li { color: rgb(80, 80, 80); }
+h2 { color: #159957; font-size: 20px; }
+h3 { color: rgb(60, 60, 60); font-size: 18px; }
+h4 { color: rgb(60, 60, 60); font-size: 16px; }
+p, li { color: rgb(80, 80, 80); font-size: 14px; }
 </style>
 
 ## EDUCATION
 
 ### 🎓 *Ph.D. Student* in Social Psychology (2017~present)
 
-<b>Institute of Psychology, Chinese Academy of Sciences</b>
+Institute of Psychology, Chinese Academy of Sciences
 <br/>
-<b>中国科学院心理研究所</b>
+中国科学院心理研究所
 
 ### 🎓 *B.Sc.* in Psychology (2013~2017)
 
-<b>Faculty of Psychology, Beijing Normal University</b>
+Faculty of Psychology, Beijing Normal University
 <br/>
-<b>北京师范大学心理学部</b>
+北京师范大学心理学部
 
 ---
 
@@ -64,6 +65,10 @@ p, li { color: rgb(80, 80, 80); }
 ---
 
 ## PUBLICATIONS & PREPRINTS
+
+\* = corresponding author
+<br/>
+\# = shared first authorship
 
 ### In English
 
@@ -141,7 +146,7 @@ p, li { color: rgb(80, 80, 80); }
 <br/>
 🥊 Mixed Martial Arts
 <br/>
-🥋 Taekwondo (level: 2nd Dan black belt)
+🥋 Taekwondo (Level: 2nd *Dan* black belt)
 <br/>
 🎱 Billiards
 
