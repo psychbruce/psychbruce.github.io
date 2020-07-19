@@ -1,7 +1,11 @@
 
-<h2 id="education" style="color: #159957">
-EDUCATION
-</h2>
+<style>
+h2 { color: #159957; }
+h3, h4 { color: rgb(60, 60, 60); }
+p, li { color: rgb(80, 80, 80); }
+</style>
+
+## EDUCATION
 
 ### 🎓 *Ph.D. Student* in Social Psychology (2017~present)
 
@@ -17,9 +21,7 @@ EDUCATION
 
 ---
 
-<h2 id="skills-and-expertise" style="color: #159957">
-SKILLS & EXPERTISE
-</h2>
+## SKILLS & EXPERTISE
 
 ### Programming Skills
 - R
@@ -51,9 +53,7 @@ SKILLS & EXPERTISE
 
 ---
 
-<h2 id="research-interests" style="color: #159957">
-RESEARCH INTERESTS
-</h2>
+## RESEARCH INTERESTS
 
 - Name
 - Uniqueness
@@ -63,9 +63,7 @@ RESEARCH INTERESTS
 
 ---
 
-<h2 id="publications-and-preprints" style="color: #159957">
-PUBLICATIONS & PREPRINTS
-</h2>
+## PUBLICATIONS & PREPRINTS
 
 ### In English
 
@@ -85,9 +83,7 @@ PUBLICATIONS & PREPRINTS
 
 ---
 
-<h2 id="conference-presentations" style="color: #159957">
-CONFERENCE PRESENTATIONS
-</h2>
+## CONFERENCE PRESENTATIONS
 
 - **Bao, H.-W.-S.**, Cai, H., & Luo, Y. L. L.\* (**2019, October**). Name-job uniqueness fit: Name uniqueness predicts job choice and is associated with career success. In the *22nd National Academic Congress of Psychology*, Hangzhou, Zhejiang, China.
 
@@ -95,9 +91,7 @@ CONFERENCE PRESENTATIONS
 
 ---
 
-<h2 id="workshops" style="color: #159957">
-WORKSHOPS
-</h2>
+## WORKSHOPS
 
 ### 11/2019 - *Multilevel Modeling: Methods and Applications*
 
@@ -111,7 +105,7 @@ WORKSHOPS
 
 ---
 
-<h2 id="academic-experiences" style="color: #159957">ACADEMIC EXPERIENCES</h2>
+## ACADEMIC EXPERIENCES
 
 ### Ad-Hoc Journal Reviewer
 - 心理学报
@@ -119,9 +113,7 @@ WORKSHOPS
 
 ---
 
-<h2 id="selected-blog-articles" style="color: #159957">
-SELECTED BLOG ARTICLES
-</h2>
+## SELECTED BLOG ARTICLES
 
 ### Statistics
 
@@ -143,15 +135,13 @@ SELECTED BLOG ARTICLES
 
 ---
 
-<h2 id="personal-hobbies" style="color: #159957">
-PERSONAL HOBBIES
-</h2>
+## PERSONAL HOBBIES
 
 👊 Wing-Chun (咏春拳)
 <br/>
 🥊 Mixed Martial Arts
 <br/>
-🥋 Taekwondo (2nd Dan black belt)
+🥋 Taekwondo (level: 2nd Dan black belt)
 <br/>
 🎱 Billiards
 
