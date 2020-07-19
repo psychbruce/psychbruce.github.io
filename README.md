@@ -1,9 +1,9 @@
 
 <style>
-h2 { color: #159957; font-size: 20px; }
-h3 { color: rgb(60, 60, 60); font-size: 18px; }
+h2 { color: #159957; font-size: 22px; }
+h3 { color: rgb(60, 60, 60); font-size: 17px; }
 h4 { color: rgb(60, 60, 60); font-size: 16px; }
-p, li { color: rgb(80, 80, 80); font-size: 14px; }
+p, li { color: rgb(80, 80, 80); font-size: 16px; }
 </style>
 
 ## EDUCATION
