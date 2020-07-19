@@ -1,5 +1,6 @@
 
 <style>
+h1 { color: #159957; font-size: 22px; }
 h2 { color: #159957; font-size: 21px; }
 h3 { color: rgb(50, 50, 50); font-size: 17px; }
 h4 { color: rgb(50, 50, 50); font-size: 16px; }
@@ -10,13 +11,13 @@ p, li { color: rgb(66, 66, 66); font-size: 16px; }
 
 ### 🎓 *Ph.D. Student* in Social Psychology (2017~present)
 
-Institute of Psychology, Chinese Academy of Sciences
+Institute of Psychology, Chinese Academy of Sciences (IPCAS)
 <br/>
 中国科学院心理研究所
 
 ### 🎓 *B.Sc.* in Psychology (2013~2017)
 
-Faculty of Psychology, Beijing Normal University
+Faculty of Psychology, Beijing Normal University (BNU)
 <br/>
 北京师范大学心理学部
 
@@ -33,9 +34,9 @@ Faculty of Psychology, Beijing Normal University
 - SPSS
 
 ### Office Software Skills
-- Word<sup>®</sup> (MOS 2010 *Expert* Certification)
-- Excel<sup>®</sup> (MOS 2010 *Expert* Certification)
-- PowerPoint<sup>®</sup> (MOS 2010 *Specialist* Certification)
+- Word (MOS *Expert* Certification)
+- Excel (MOS *Expert* Certification)
+- PowerPoint (MOS *Specialist* Certification)
 
 ### Statistical Expertise
 - Multilevel modeling
@@ -57,10 +58,11 @@ Faculty of Psychology, Beijing Normal University
 ## RESEARCH INTERESTS
 
 - Name
-- Uniqueness
+- Self-uniqueness
 - Social perception
 - Prosocial behavior
 - Antisocial behavior
+- Big-data psychology
 
 ---
 
