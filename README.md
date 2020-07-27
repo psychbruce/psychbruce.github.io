@@ -1,3 +1,12 @@
+
+<style>
+h1 { color: #159957; font-size: 22px; }
+h2 { color: #159957; font-size: 21px; }
+h3 { color: rgb(50, 50, 50); font-size: 17px; }
+h4 { color: rgb(50, 50, 50); font-size: 16px; }
+p, li { color: rgb(66, 66, 66); font-size: 16px; }
+</style>
+
 ## EDUCATION
 
 ### 🎓 *Ph.D. Student* in Social Psychology (2017~present)
