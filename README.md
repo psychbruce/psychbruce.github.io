@@ -1,12 +1,3 @@
-
-<style>
-h1 { color: #159957; font-size: 22px; }
-h2 { color: #159957; font-size: 21px; }
-h3 { color: rgb(50, 50, 50); font-size: 17px; }
-h4 { color: rgb(50, 50, 50); font-size: 16px; }
-p, li { color: rgb(66, 66, 66); font-size: 16px; }
-</style>
-
 ## EDUCATION
 
 ### 🎓 *Ph.D. Student* in Social Psychology (2017~present)
@@ -34,9 +25,9 @@ Faculty of Psychology, Beijing Normal University (BNU)
 - SPSS
 
 ### Office Software Skills
-- Word (MOS *Expert* Certification)
-- Excel (MOS *Expert* Certification)
-- PowerPoint (MOS *Specialist* Certification)
+- Word<sup>®</sup> (MOS *Expert* Certification)
+- Excel<sup>®</sup> (MOS *Expert* Certification)
+- PowerPoint<sup>®</sup> (MOS *Specialist* Certification)
 
 ### Statistical Expertise
 - Multilevel modeling
@@ -51,7 +42,7 @@ Faculty of Psychology, Beijing Normal University (BNU)
   + [drawMap](https://github.com/psychbruce/drawMap)
   + [ChineseNames](https://github.com/psychbruce/ChineseNames)
 - Online experiment development
-  + [jsPsych experiment list](https://github.com/psychbruce/jspsych)
+  + See [jsPsych experiment list](https://github.com/psychbruce/jspsych)
 
 ---
 
