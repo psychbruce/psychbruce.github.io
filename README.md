@@ -60,9 +60,8 @@ Faculty of Psychology, Beijing Normal University (BNU)
 - Name
 - Self-uniqueness
 - Social perception
-- Prosocial behavior
-- Antisocial behavior
-- Big-data psychology
+- Moral/immoral behavior
+- Online experiment methodology
 
 ---
 
@@ -81,6 +80,8 @@ Faculty of Psychology, Beijing Normal University (BNU)
 - Shi, Y., Luo, Y. L. L.\*, Yang, Z., Liu, Y., & **Bao, H.** (**2018**). Do narcissists enjoy visiting social networking sites? It depends on how adaptive they are. *Frontiers in Psychology, 9*, 1739. [https://doi.org/10.3389/fpsyg.2018.01739](https://doi.org/10.3389/fpsyg.2018.01739)
 
 ### In Chinese
+
+- 杨盈, 朱慧珺, 周婉, 张明杨, 谢怡萍, **包寒吴霜**, 苏展, 王潇欧, 敬一鸣, 杨紫嫣, 蔡华俭\*. (in press). 行为免疫系统理论及其研究：新视野下的再考察. *心理科学进展*.
 
 - **包寒吴霜**, 蔡华俭, 罗宇\*. (**2019**). 身份认同动机：概念、测量与心理效应. *心理科学, 42*(4), 971–977. [https://doi.org/10.16719/j.cnki.1671-6981.20190429](https://doi.org/10.16719/j.cnki.1671-6981.20190429)
 
