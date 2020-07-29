@@ -51,7 +51,7 @@ Faculty of Psychology, Beijing Normal University (BNU)
   + [drawMap](https://github.com/psychbruce/drawMap)
   + [ChineseNames](https://github.com/psychbruce/ChineseNames)
 - Online experiment development
-  + See [jsPsych experiment list](https://github.com/psychbruce/jspsych)
+  + See [jsPsych Experiment Demos in Chinese](https://github.com/psychbruce/jspsych)
 
 ---
 
@@ -59,8 +59,8 @@ Faculty of Psychology, Beijing Normal University (BNU)
 
 - Name
 - Self-uniqueness
-- Social perception
 - Moral/immoral behavior
+- Implicit social cognition
 - Online experiment methodology
 
 ---
@@ -81,7 +81,7 @@ Faculty of Psychology, Beijing Normal University (BNU)
 
 ### In Chinese
 
-- 杨盈, 朱慧珺, 周婉, 张明杨, 谢怡萍, **包寒吴霜**, 苏展, 王潇欧, 敬一鸣, 杨紫嫣, 蔡华俭\*. (in press). 行为免疫系统理论及其研究：新视野下的再考察. *心理科学进展*.
+- 杨盈, 朱慧珺, 周婉, 张明杨, 谢怡萍, **包寒吴霜**, 苏展, 王潇欧, 敬一鸣, 杨紫嫣, 蔡华俭\*. (**in press**). 行为免疫系统理论及其研究：新视野下的再考察. *心理科学进展*.
 
 - **包寒吴霜**, 蔡华俭, 罗宇\*. (**2019**). 身份认同动机：概念、测量与心理效应. *心理科学, 42*(4), 971–977. [https://doi.org/10.16719/j.cnki.1671-6981.20190429](https://doi.org/10.16719/j.cnki.1671-6981.20190429)
 
