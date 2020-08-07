@@ -111,7 +111,7 @@ Faculty of Psychology, Beijing Normal University (BNU)
 
 ### 08/2020 - *R Programming Summer Workshop*
 
-- Location: Online (only for members in Cai's lab)
+- Location: Online (only for members of Cai's lab)
 - Materials: Not publicly available
 
 ### 11/2019 - *Multilevel Modeling: Methods and Applications*
@@ -159,4 +159,4 @@ Faculty of Psychology, Beijing Normal University (BNU)
 🎱 Billiards
 
 
-<h4 align="right">Update: July 2020</h4>
+<h4 align="right">Update: August 2020</h4>
