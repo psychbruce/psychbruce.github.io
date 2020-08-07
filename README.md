@@ -58,7 +58,7 @@ Faculty of Psychology, Beijing Normal University (BNU)
 ## RESEARCH INTERESTS
 
 - Name
-- Self-uniqueness
+- Agency–communion
 - Implicit social cognition
 - Moral/immoral behavior
 - Online experiment methodology
@@ -91,15 +91,28 @@ Faculty of Psychology, Beijing Normal University (BNU)
 
 ---
 
-## CONFERENCE PRESENTATIONS
+## ACADEMIC EXPERIENCES
 
-- **Bao, H.-W.-S.**, Cai, H., & Luo, Y. L. L.\* (**2019, October**). Name-job uniqueness fit: Name uniqueness predicts job choice and is associated with career success. In the *22nd National Academic Congress of Psychology*, Hangzhou, Zhejiang, China.
+### Conference Presentations
 
-- **Bao, H.-W.-S.**, Cai, H., & Luo, Y. L. L.\* (**2018, October**). Name uniqueness predicts job choice: Evidence from big data and experiments. In the *2018 Annual Conference of the Social Psychology Branch of Chinese Psychological Society*, Qufu, Shandong, China.
+- **Bao, H.-W.-S.**, Cai, H., & Luo, Y. L. L.\* (**2019, October**). *Name-job uniqueness fit: Name uniqueness predicts job choice and is associated with career success*. In the 22nd National Academic Congress of Psychology, Hangzhou, Zhejiang, China.<br/>
+[**包寒吴霜**, 蔡华俭, 罗宇\*. (**2019**). *人如其名，名职匹配？名字独特性预测职业选择与职业成就*. 第二十二届全国心理学学术会议, 浙江杭州.]
+
+- **Bao, H.-W.-S.**, Cai, H., & Luo, Y. L. L.\* (**2018, October**). *Name uniqueness predicts job choice: Evidence from big data and experiments*. In the 2018 Annual Conference of the Social Psychology Branch of Chinese Psychological Society, Qufu, Shandong, China.<br/>
+[**包寒吴霜**, 蔡华俭, 罗宇\*. (**2018**). *名字独特性预测职业选择：来自大数据和实验的证据*. 中国心理学会社会心理学分会2018年学术年会, 山东曲阜.]
+
+### Ad-Hoc Journal Reviewer
+- 心理学报 (3)
+- 心理科学进展 (1)
 
 ---
 
 ## WORKSHOPS
+
+### 08/2020 - *R Programming Summer Workshop*
+
+- Location: Online (only for members in Cai's lab)
+- Materials: Not publicly available
 
 ### 11/2019 - *Multilevel Modeling: Methods and Applications*
 
@@ -110,14 +123,6 @@ Faculty of Psychology, Beijing Normal University (BNU)
 
 - Location: 22nd National Academic Congress of Psychology, Hangzhou, Zhejiang, China
 - Materials: [HLM_Workshop01_NACP-2019](https://github.com/psychbruce/stats/tree/master/HLM_Workshop01_NACP-2019)
-
----
-
-## ACADEMIC EXPERIENCES
-
-### Ad-Hoc Journal Reviewer
-- 心理学报
-- 心理科学进展
 
 ---
 
