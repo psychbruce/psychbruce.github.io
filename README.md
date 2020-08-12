@@ -57,11 +57,11 @@ Faculty of Psychology, Beijing Normal University (BNU)
 
 ## RESEARCH INTERESTS
 
-- Name
-- Agency–communion
-- Implicit social cognition
-- Moral/immoral behavior
-- Online experiment methodology
+- Name<br/>姓名
+- Agency–communion<br/>主体性–社群性
+- Implicit social cognition<br/>内隐社会认知
+- Moral/immoral behavior<br/>道德/不道德行为
+- Online experiment methodology<br/>在线实验方法学
 
 ---
 
@@ -81,7 +81,7 @@ Faculty of Psychology, Beijing Normal University (BNU)
 
 ### In Chinese
 
-- 杨盈, 朱慧珺, 周婉, 张明杨, 谢怡萍, **包寒吴霜**, 苏展, 王潇欧, 敬一鸣, 杨紫嫣, 蔡华俭\*. (**in press**). 行为免疫系统理论及其研究：新视野下的再考察. *心理科学进展*, 出版中.
+- 杨盈, 朱慧珺, 周婉, 张明杨, 谢怡萍, **包寒吴霜**, 苏展, 王潇欧, 敬一鸣, 杨紫嫣, 蔡华俭\*. (**印刷中**). 行为免疫系统理论及其研究：新视野下的再考察. *心理科学进展*.
 
 - **包寒吴霜**, 蔡华俭, 罗宇\*. (**2019**). 身份认同动机：概念、测量与心理效应. *心理科学, 42*(4), 971–977. [https://doi.org/10.16719/j.cnki.1671-6981.20190429](https://doi.org/10.16719/j.cnki.1671-6981.20190429)
 
@@ -95,10 +95,10 @@ Faculty of Psychology, Beijing Normal University (BNU)
 
 ### Conference Presentations
 
-- **Bao, H.-W.-S.**, Cai, H., & Luo, Y. L. L.\* (**2019, October**). *Name-job uniqueness fit: Name uniqueness predicts job choice and is associated with career success*. In the 22nd National Academic Congress of Psychology, Hangzhou, Zhejiang, China.<br/>
+- **Bao, H.-W.-S.**, Cai, H., & Luo, Y. L. L.\* (**2019, October**). *Name-job uniqueness fit: Name uniqueness predicts job choice and is associated with career success*. Paper presented at the 22nd National Academic Congress of Psychology, Hangzhou, Zhejiang, China.<br/>
 [**包寒吴霜**, 蔡华俭, 罗宇\*. (**2019**). *人如其名，名职匹配？名字独特性预测职业选择与职业成就*. 第二十二届全国心理学学术会议, 浙江杭州.]
 
-- **Bao, H.-W.-S.**, Cai, H., & Luo, Y. L. L.\* (**2018, October**). *Name uniqueness predicts job choice: Evidence from big data and experiments*. In the 2018 Annual Conference of the Social Psychology Branch of Chinese Psychological Society, Qufu, Shandong, China.<br/>
+- **Bao, H.-W.-S.**, Cai, H., & Luo, Y. L. L.\* (**2018, October**). *Name uniqueness predicts job choice: Evidence from big data and experiments*. Paper presented at the 2018 Annual Conference of the Social Psychology Branch of Chinese Psychological Society, Qufu, Shandong, China.<br/>
 [**包寒吴霜**, 蔡华俭, 罗宇\*. (**2018**). *名字独特性预测职业选择：来自大数据和实验的证据*. 中国心理学会社会心理学分会2018年学术年会, 山东曲阜.]
 
 ### Ad-Hoc Journal Reviewer
