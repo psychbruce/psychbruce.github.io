@@ -13,13 +13,13 @@ p, li { color: rgb(66, 66, 66); font-size: 16px; }
 
 Institute of Psychology, Chinese Academy of Sciences (IPCAS)
 <br/>
-中国科学院心理研究所
+中国科学院 · 心理研究所 (博士在读)
 
 ### 🎓 *B.Sc.* in Psychology (2013~2017)
 
 Faculty of Psychology, Beijing Normal University (BNU)
 <br/>
-北京师范大学心理学部
+北京师范大学 · 心理学部 (理学学士)
 
 ---
 
@@ -61,7 +61,7 @@ Faculty of Psychology, Beijing Normal University (BNU)
 - Agency–communion<br/>主体性–社群性
 - Implicit social cognition<br/>内隐社会认知
 - Moral/immoral behavior<br/>道德/不道德行为
-- Online experiment methodology<br/>在线实验方法学
+- Online experiment methodology<br/>在线行为实验方法学
 
 ---
 
