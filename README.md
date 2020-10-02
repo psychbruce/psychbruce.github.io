@@ -39,9 +39,8 @@ Faculty of Psychology, Beijing Normal University (BNU)
 - PowerPoint<sup>®</sup> (MOS *Specialist* Certification)
 
 ### Statistical Expertise
-- Multilevel modeling
-- Machine learning
-- Big-data analysis
+- Multilevel modeling (aka. HLM, LMM)
+- Machine learning (esp. random forests)
 
 ### Technical Expertise
 - Web crawling (with R/Python)
@@ -58,6 +57,7 @@ Faculty of Psychology, Beijing Normal University (BNU)
 ## RESEARCH INTERESTS
 
 - Name<br/>姓名
+- Uniqueness<br/>独特性
 - Agency–communion<br/>主体性–社群性
 - Implicit social cognition<br/>内隐社会认知
 - Online experiment methodology<br/>在线行为实验方法学
@@ -158,4 +158,4 @@ Faculty of Psychology, Beijing Normal University (BNU)
 🎱 Billiards
 
 
-<h4 align="right">Update: 09/2020</h4>
+<h4 align="right">Update: 10/2020</h4>
