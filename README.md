@@ -48,7 +48,7 @@ Faculty of Psychology, Beijing Normal University (BNU)
   + [drawMap](https://github.com/psychbruce/drawMap)
   + [ChineseNames](https://github.com/psychbruce/ChineseNames)
 - Web crawling (using R/Python)
-  + Have crawled 20+ websites for data collection in research (see [here](https://doi.org/10.31234/osf.io/53j86) for an application)
+  + Have crawled 20+ websites for data collection in research
 - Online experiment development (using JavaScript)
   + See [jsPsych Experiment Demos in Chinese](https://github.com/psychbruce/jspsych)
 
@@ -57,24 +57,20 @@ Faculty of Psychology, Beijing Normal University (BNU)
 ## RESEARCH INTERESTS
 
 - Name<br/>姓名
-- Uniqueness<br/>独特性
+- Self-uniqueness<br/>自我独特性
+- Self-authenticity<br/>自我本真性
 - Agency–communion<br/>主体性–社群性
-- Implicit social cognition<br/>内隐社会认知
-- Online experiment methodology<br/>在线实验方法学
+- Person–environment fit<br/>人–环境匹配
 
 ---
 
-## PUBLICATIONS & PREPRINTS
+## PUBLICATIONS
 
 \* = corresponding author
 <br/>
 \# = shared first authorship
 
 ### In English
-
-- [Preprint] **Bao, H.-W.-S.**, Wang, J., & Cai, H.\* (**2020**). Blame crime on name? People with bad names are more likely to commit crime. Preprint at *PsyArXiv* [https://doi.org/10.31234/osf.io/txhqg](https://doi.org/10.31234/osf.io/txhqg)
-
-- [Preprint] **Bao, H.-W.-S.**, Cai, H., DeWall, C. N., Gu, R., Chen, J., & Luo, Y. L. L.\* (**2020**). Name uniqueness predicts career choice and career achievement. Preprint at *PsyArXiv* [https://doi.org/10.31234/osf.io/53j86](https://doi.org/10.31234/osf.io/53j86)
 
 - Shi, Y., Luo, Y. L. L.\*, Yang, Z., Liu, Y., & **Bao, H.** (**2018**). Do narcissists enjoy visiting social networking sites? It depends on how adaptive they are. *Frontiers in Psychology, 9*, 1739. [https://doi.org/10.3389/fpsyg.2018.01739](https://doi.org/10.3389/fpsyg.2018.01739)
 
@@ -90,6 +86,24 @@ Faculty of Psychology, Beijing Normal University (BNU)
 
 ---
 
+## PREPRINTS & WORKING PAPERS
+
+[Preprint] = not formally published
+
+- [Preprint] **Bao, H.-W.-S.**, Lu, H., & Luo, Y. L. L.\* (**2020**). Unique-named people are perceived more suitable for unique jobs: A social perception and its real-life impact on name change. Preprint at *PsyArXiv* [https://doi.org/10.31234/osf.io/xeag2](https://doi.org/10.31234/osf.io/xeag2)
+
+- [Preprint] **Bao, H.-W.-S.**, Wang, J., & Cai, H.\* (**2020**). Blame crime on name? People with bad names are more likely to commit crime. Preprint at *PsyArXiv* [https://doi.org/10.31234/osf.io/txhqg](https://doi.org/10.31234/osf.io/txhqg)
+
+- [Preprint] **Bao, H.-W.-S.**, Cai, H., DeWall, C. N., Gu, R., Chen, J., & Luo, Y. L. L.\* (**2020**). Name uniqueness predicts career choice and career achievement. Preprint at *PsyArXiv* [https://doi.org/10.31234/osf.io/53j86](https://doi.org/10.31234/osf.io/53j86)
+
+Bao, H.-W.-S., & Cai, H.\* (**manuscript in preparation**). Chinese names are becoming more unique over time: New evidence and mechanisms.
+
+Jing, Y., Ji, L.-J., Yang, Z., **Bao, H.-W.-S.**, Xie, Y., Wang, X., …Cai, H.\* (**under review**). Understanding regional cultural-psychological variations in China: A large-scale examination.
+
+包寒吴霜, 蔡华俭\*. (**审稿中**). 姓名对个体心理与行为的实际影响：证据和理论.
+
+---
+
 ## ACADEMIC EXPERIENCES
 
 ### Conference Presentations
@@ -101,6 +115,7 @@ Faculty of Psychology, Beijing Normal University (BNU)
 [**包寒吴霜**, 蔡华俭, 罗宇\*. (**2018**). *名字独特性预测职业选择：来自大数据和实验的证据*. 中国心理学会社会心理学分会2018年学术年会, 山东曲阜.]
 
 ### Ad-Hoc Journal Reviewer
+
 - 心理学报 (4)
 - 心理科学进展 (1)
 
@@ -136,7 +151,7 @@ Faculty of Psychology, Beijing Normal University (BNU)
 - [SPSS方差分析中的简单效应检验：完整教程](https://zhuanlan.zhihu.com/p/30037168)
 - [SPSS简单效应检验的终极解决方案：MANOVA？GLM！](https://zhuanlan.zhihu.com/p/31863288)
 
-### Programming
+### Techniques
 
 - [bruceR：数据分析的三头六臂](https://zhuanlan.zhihu.com/p/80732610)
 - [bruceR包重磅更新：方差分析、简单效应检验、事后多重比较](https://zhuanlan.zhihu.com/p/88497589)
@@ -144,6 +159,7 @@ Faculty of Psychology, Beijing Normal University (BNU)
 - [jsPsych心理学实验与问卷编程指南（上篇）](https://zhuanlan.zhihu.com/p/150468198)
 - [jsPsych心理学实验与问卷编程指南（下篇）](https://zhuanlan.zhihu.com/p/154428604)
 - [利用「Cognition」免费平台轻松发布jsPsych在线实验！](https://zhuanlan.zhihu.com/p/159183585)
+- [熟练使用办公软件——你是认真的吗？](https://zhuanlan.zhihu.com/p/158356693)
 
 ---
 
@@ -158,4 +174,4 @@ Faculty of Psychology, Beijing Normal University (BNU)
 🎱 Billiards
 
 
-<h4 align="right">Update: 10/2020</h4>
+<h4 align="right">Update: 12/2020</h4>
