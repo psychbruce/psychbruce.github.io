@@ -96,17 +96,20 @@ Faculty of Psychology, Beijing Normal University (BNU)
 
 - [Preprint] **Bao, H.-W.-S.**, Cai, H., DeWall, C. N., Gu, R., Chen, J., & Luo, Y. L. L.\* (**2020**). Name uniqueness predicts career choice and career achievement. Preprint at *PsyArXiv* [https://doi.org/10.31234/osf.io/53j86](https://doi.org/10.31234/osf.io/53j86)
 
-Bao, H.-W.-S., & Cai, H.\* (**manuscript in preparation**). Chinese names are becoming more unique over time: New evidence and mechanisms.
+- Bao, H.-W.-S., & Cai, H.\* (**manuscript in preparation**). Chinese names are becoming more unique over time: New evidence and mechanisms.
 
-Jing, Y., Ji, L.-J., Yang, Z., **Bao, H.-W.-S.**, Xie, Y., Wang, X., …Cai, H.\* (**under review**). Understanding regional cultural-psychological variations in China: A large-scale examination.
+- Jing, Y., Ji, L.-J., Yang, Z., **Bao, H.-W.-S.**, Xie, Y., Wang, X., …Cai, H.\* (**under review**). Understanding regional cultural-psychological variations in China: A large-scale examination.
 
-包寒吴霜, 蔡华俭\*. (**审稿中**). 姓名对个体心理与行为的实际影响：证据和理论.
+- 包寒吴霜, 蔡华俭\*. (**审稿中**). 姓名对个体心理与行为的实际影响：证据和理论.
 
 ---
 
 ## ACADEMIC EXPERIENCES
 
 ### Conference Presentations
+
+- **Bao, H.-W.-S.**, & Cai, H.\* (**2020, December**). *Chinese names are becoming more unique over time: New evidence and mechanisms*. Paper presented at the 2020 Annual Conference of the Social Psychology Branch of Chinese Psychological Society, Haikou, Hainan, China.<br/>
+[**包寒吴霜**, 蔡华俭\*. (**2020**). *中国人名字独特性的上升：新证据与机制*. 中国心理学会社会心理学分会2020年学术年会, 海南海口.]
 
 - **Bao, H.-W.-S.**, Cai, H., & Luo, Y. L. L.\* (**2019, October**). *Name-job uniqueness fit: Name uniqueness predicts job choice and is associated with career success*. Paper presented at the 22nd National Academic Congress of Psychology, Hangzhou, Zhejiang, China.<br/>
 [**包寒吴霜**, 蔡华俭, 罗宇\*. (**2019**). *人如其名，名职匹配？名字独特性预测职业选择与职业成就*. 第二十二届全国心理学学术会议, 浙江杭州.]
