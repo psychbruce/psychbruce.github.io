@@ -100,7 +100,7 @@ Faculty of Psychology, Beijing Normal University (BNU)
 
 - Jing, Y., Ji, L.-J., Yang, Z., **Bao, H.-W.-S.**, Xie, Y., Wang, X., …Cai, H.\* (**under review**). Understanding regional cultural-psychological variations in China: A large-scale examination.
 
-- 包寒吴霜, 蔡华俭\*. (**审稿中**). 姓名对个体心理与行为的实际影响：证据和理论.
+- **包寒吴霜**, 蔡华俭\*. (**审稿中**). 姓名对个体心理与行为的实际影响：证据和理论.
 
 ---
 
