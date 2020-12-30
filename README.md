@@ -33,15 +33,6 @@ Faculty of Psychology, Beijing Normal University (BNU)
 - Mplus
 - SPSS
 
-### Office Software Skills
-- Word<sup>®</sup> (MOS *Expert* Certification)
-- Excel<sup>®</sup> (MOS *Expert* Certification)
-- PowerPoint<sup>®</sup> (MOS *Specialist* Certification)
-
-### Statistical Expertise
-- Multilevel modeling (aka. HLM, LMM)
-- Machine learning (esp. random forests)
-
 ### Technical Expertise
 - R package development
   + [bruceR](https://github.com/psychbruce/bruceR)
@@ -50,7 +41,7 @@ Faculty of Psychology, Beijing Normal University (BNU)
 - Web crawling (using R/Python)
   + Have crawled 20+ websites for data collection in research
 - Online experiment development (using JavaScript)
-  + See [jsPsych Experiment Demos in Chinese](https://github.com/psychbruce/jspsych)
+  + [jsPsych Experiment Demos in Chinese](https://github.com/psychbruce/jspsych)
 
 ---
 
@@ -76,7 +67,7 @@ Faculty of Psychology, Beijing Normal University (BNU)
 
 ### In Chinese
 
-- **包寒吴霜**, 蔡华俭\*. (**已接收**). 姓名对个体心理与行为的实际影响：证据和理论. *心理科学进展*.
+- **包寒吴霜**, 蔡华俭\*. (**2021**). 姓名对个体心理与行为的实际影响：证据和理论. *心理科学进展*, 已录用.
 
 - 杨盈, 朱慧珺, 周婉, 张明杨, 谢怡萍, **包寒吴霜**, 苏展, 王潇欧, 敬一鸣, 杨紫嫣, 蔡华俭\*. (**2020**). 行为免疫系统理论及其研究：新视野下的再考察. *心理科学进展, 28*(11), 1865–1879. [https://doi.org/10.3724/SP.J.1042.2020.01865](http://journal.psych.ac.cn/xlkxjz/CN/10.3724/SP.J.1042.2020.01865)
 
@@ -177,4 +168,4 @@ Faculty of Psychology, Beijing Normal University (BNU)
 🎱 Billiards
 
 
-<h4 align="right">Update: 12/2020</h4>
+<h4 align="right">Update: 01/2021</h4>
