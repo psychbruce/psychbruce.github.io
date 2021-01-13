@@ -51,7 +51,7 @@ Faculty of Psychology, Beijing Normal University (BNU)
 - Self-uniqueness<br/>自我独特性
 - Self-authenticity<br/>自我本真性
 - Agency–communion<br/>主体性–社群性
-- Person–environment fit<br/>个人–环境匹配
+- Person–environment fit<br/>人–环境匹配
 
 ---
 
@@ -67,7 +67,7 @@ Faculty of Psychology, Beijing Normal University (BNU)
 
 ### In Chinese
 
-- **包寒吴霜**, 蔡华俭\*. (**2021**). 姓名对个体心理与行为的实际影响：证据和理论. *心理科学进展*, 已录用.
+- **包寒吴霜**, 蔡华俭\*. (**2021**). 姓名对个体心理与行为的实际影响：证据和理论. *心理科学进展*, 已录用. ChinaXiv预印本: [http://www.chinaxiv.org/abs/202101.00044](http://www.chinaxiv.org/abs/202101.00044)
 
 - 杨盈, 朱慧珺, 周婉, 张明杨, 谢怡萍, **包寒吴霜**, 苏展, 王潇欧, 敬一鸣, 杨紫嫣, 蔡华俭\*. (**2020**). 行为免疫系统理论及其研究：新视野下的再考察. *心理科学进展, 28*(11), 1865–1879. [https://doi.org/10.3724/SP.J.1042.2020.01865](http://journal.psych.ac.cn/xlkxjz/CN/10.3724/SP.J.1042.2020.01865)
 
