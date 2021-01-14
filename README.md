@@ -50,7 +50,6 @@ Faculty of Psychology, Beijing Normal University (BNU)
 - Name<br/>姓名
 - Self-uniqueness<br/>自我独特性
 - Self-authenticity<br/>自我本真性
-- Agency–communion<br/>主体性–社群性
 - Person–environment fit<br/>人–环境匹配
 
 ---
