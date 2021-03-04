@@ -26,6 +26,7 @@ Faculty of Psychology, Beijing Normal University (BNU)
 ## SKILLS & EXPERTISE
 
 ### Programming Skills
+
 - R
 - Python
 - JavaScript
@@ -34,6 +35,7 @@ Faculty of Psychology, Beijing Normal University (BNU)
 - SPSS
 
 ### Technical Expertise
+
 - R package development
   + [bruceR](https://github.com/psychbruce/bruceR)
   + [drawMap](https://github.com/psychbruce/drawMap)
@@ -66,7 +68,9 @@ Faculty of Psychology, Beijing Normal University (BNU)
 
 ### In Chinese
 
-- **包寒吴霜**, 蔡华俭\*. (**2021**). 姓名对个体心理与行为的实际影响：证据和理论. *心理科学进展*, [已录用](http://journal.psych.ac.cn/xlkxjz/CN/abstract/abstract5354.shtml). [ChinaXiv预印本](http://www.chinaxiv.org/abs/202101.00044)
+- **包寒吴霜**, 蔡华俭\*. (**2021**). 姓名对个体心理与行为的实际影响：证据和理论. *心理科学进展*, [印刷中](http://journal.psych.ac.cn/xlkxjz/CN/abstract/abstract5354.shtml). [ChinaXiv预印本](http://www.chinaxiv.org/abs/202101.00044)
+
+- **包寒吴霜**, 蔡华俭. (**2021**). 提高姓名心理学研究的可靠程度. *中国社会科学报, 2118*, 5. [http://sscp.cssn.cn/xkpd/xlx/202103/t20210304_5315368.html](http://sscp.cssn.cn/xkpd/xlx/202103/t20210304_5315368.html)
 
 - 杨盈, 朱慧珺, 周婉, 张明杨, 谢怡萍, **包寒吴霜**, 苏展, 王潇欧, 敬一鸣, 杨紫嫣, 蔡华俭\*. (**2020**). 行为免疫系统理论及其研究：新视野下的再考察. *心理科学进展, 28*(11), 1865–1879. [https://doi.org/10.3724/SP.J.1042.2020.01865](http://journal.psych.ac.cn/xlkxjz/CN/10.3724/SP.J.1042.2020.01865)
 
@@ -88,7 +92,7 @@ Faculty of Psychology, Beijing Normal University (BNU)
 
 - [Preprint] **Bao, H.-W.-S.**, Cai, H., DeWall, C. N., Gu, R., Chen, J., & Luo, Y. L. L.\* (**2020**). Name uniqueness predicts career choice and career achievement. Preprint at *PsyArXiv* [https://doi.org/10.31234/osf.io/53j86](https://doi.org/10.31234/osf.io/53j86)
 
-- **Bao, H.-W.-S.**, & Cai, H.\* (**in preparation**). Chinese names are becoming more unique over time: New evidence and mechanisms.
+- **Bao, H.-W.-S.**, & Cai, H.\* (**in preparation**). Unique naming over time: Individualism and baby-naming uniqueness in China.
 
 - Jing, Y., Ji, L.-J., Yang, Z., **Bao, H.-W.-S.**, Xie, Y., Wang, X., …Cai, H.\* (**under review**). Understanding regional cultural-psychological variations in China: A large-scale examination.
 
@@ -146,6 +150,7 @@ Faculty of Psychology, Beijing Normal University (BNU)
 
 ### Techniques
 
+- [R语言必学之「data.table」学习资源合集](https://zhuanlan.zhihu.com/p/346366577)
 - [bruceR：数据分析的三头六臂](https://zhuanlan.zhihu.com/p/80732610)
 - [bruceR包重磅更新：方差分析、简单效应检验、事后多重比较](https://zhuanlan.zhihu.com/p/88497589)
 - [【合集】jsPsych教程收藏夹（持续更新）](https://zhuanlan.zhihu.com/p/158022294)
@@ -167,4 +172,4 @@ Faculty of Psychology, Beijing Normal University (BNU)
 🎱 Billiards
 
 
-<h4 align="right">Update: 01/2021</h4>
+<h4 align="right">Update: 03/2021</h4>
