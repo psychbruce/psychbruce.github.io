@@ -95,7 +95,7 @@ Faculty of Psychology, Beijing Normal University (BNU)\
 
 - [Preprint] **Bao, H.-W.-S.**, Cai, H., DeWall, C. N., Gu, R., Chen, J., & Luo, Y. L. L.\* (**2020**). Name uniqueness predicts career choice and career achievement. Preprint at *PsyArXiv* <https://doi.org/10.31234/osf.io/53j86>
 
-- **Bao, H.-W.-S.**, & Cai, H.\* (**in preparation**). Unique naming over time: Individualism and baby-naming uniqueness in China.
+- **Bao, H.-W.-S.**, & Cai, H.\* (**in preparation**). Increasing prevalence of unique names: Cultural mind of need for uniqueness matters.
 
 - Jing, Y., Ji, L.-J., Yang, Z., **Bao, H.-W.-S.**, Xie, Y., Wang, X., …Cai, H.\* (**under review**). Understanding regional cultural-psychological variations in China: A large-scale examination.
 
@@ -169,7 +169,7 @@ Faculty of Psychology, Beijing Normal University (BNU)\
 👊 Wing-Chun (咏春拳)\
 🥊 Mixed Martial Arts (综合格斗)\
 🥋 Taekwondo (Level: 2nd *Dan* black belt)\
-🎱 Billiards\
+🎱 Billiards
 
 
 <h4 align="right">Update: 03/2021</h4>
