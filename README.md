@@ -11,14 +11,12 @@ p, li { color: rgb(66, 66, 66); font-size: 16px; }
 
 ### 🎓 *Ph.D. Student* in Social Psychology (2017~present)
 
-Institute of Psychology, Chinese Academy of Sciences (IPCAS)
-<br/>
+Institute of Psychology, Chinese Academy of Sciences (IPCAS)\
 中国科学院 · 心理研究所 (博士在读)
 
 ### 🎓 *B.Sc.* in Psychology (2013~2017)
 
-Faculty of Psychology, Beijing Normal University (BNU)
-<br/>
+Faculty of Psychology, Beijing Normal University (BNU)\
 北京师范大学 · 心理学部 (理学学士)
 
 ---
@@ -37,11 +35,13 @@ Faculty of Psychology, Beijing Normal University (BNU)
 ### Technical Expertise
 
 - R package development
-  + [bruceR](https://github.com/psychbruce/bruceR)
-  + [drawMap](https://github.com/psychbruce/drawMap)
-  + [ChineseNames](https://github.com/psychbruce/ChineseNames)
+  + [bruceR](https://github.com/psychbruce/bruceR) [![GitHub-Version](https://img.shields.io/github/r-package/v/psychbruce/bruceR?label=GitHub&color=blue)](https://github.com/psychbruce/bruceR) [![CRAN-Version](https://www.r-pkg.org/badges/version/bruceR?color=orange)](https://CRAN.R-project.org/package=bruceR)
+  + [drawMap](https://github.com/psychbruce/drawMap) [![GitHub-Version](https://img.shields.io/github/r-package/v/psychbruce/drawMap?label=GitHub&color=blue)](https://github.com/psychbruce/drawMap)
+  + [ChineseNames](https://github.com/psychbruce/ChineseNames) [![GitHub-Version](https://img.shields.io/github/r-package/v/psychbruce/ChineseNames?label=GitHub&color=blue)](https://github.com/psychbruce/ChineseNames)
+  
 - Web crawling (using R/Python)
   + Have crawled 20+ websites for data collection in research
+  
 - Online experiment development (using JavaScript)
   + [jsPsych Experiment Demos in Chinese](https://github.com/psychbruce/jspsych)
 
@@ -49,36 +49,39 @@ Faculty of Psychology, Beijing Normal University (BNU)
 
 ## RESEARCH INTERESTS
 
-- Name<br/>姓名
-- Self-uniqueness<br/>自我独特性
-- Self-authenticity<br/>自我本真性
-- Person–environment fit<br/>人–环境匹配
+- Name\
+姓名
+- Self-uniqueness\
+自我独特性
+- Self-authenticity\
+自我本真性
+- Person–environment fit\
+人–环境匹配
 
 ---
 
 ## PUBLICATIONS
 
-\* = corresponding author
-<br/>
+\* = corresponding author\
 \# = shared first authorship
 
 ### In English
 
-- Shi, Y., Luo, Y. L. L.\*, Yang, Z., Liu, Y., & **Bao, H.** (**2018**). Do narcissists enjoy visiting social networking sites? It depends on how adaptive they are. *Frontiers in Psychology, 9*, 1739. [https://doi.org/10.3389/fpsyg.2018.01739](https://doi.org/10.3389/fpsyg.2018.01739)
+- Shi, Y., Luo, Y. L. L.\*, Yang, Z., Liu, Y., & **Bao, H.** (**2018**). Do narcissists enjoy visiting social networking sites? It depends on how adaptive they are. *Frontiers in Psychology, 9*, 1739. <https://doi.org/10.3389/fpsyg.2018.01739>
 
 ### In Chinese
 
 - **包寒吴霜**, 蔡华俭\*. (**2021**). 姓名对个体心理与行为的实际影响：证据和理论. *心理科学进展*, [印刷中](http://journal.psych.ac.cn/xlkxjz/CN/abstract/abstract5354.shtml). [ChinaXiv预印本](http://www.chinaxiv.org/abs/202101.00044)
 
-- **包寒吴霜**, 蔡华俭. (**2021**). 提高姓名心理学研究的可靠程度. *中国社会科学报, 2118*, 5. [http://sscp.cssn.cn/xkpd/xlx/202103/t20210304_5315368.html](http://sscp.cssn.cn/xkpd/xlx/202103/t20210304_5315368.html)
+- **包寒吴霜**, 蔡华俭. (**2021**). 提高姓名心理学研究的可靠程度. *中国社会科学报, 2118*, 5. <http://sscp.cssn.cn/xkpd/xlx/202103/t20210304_5315368.html>
 
-- 杨盈, 朱慧珺, 周婉, 张明杨, 谢怡萍, **包寒吴霜**, 苏展, 王潇欧, 敬一鸣, 杨紫嫣, 蔡华俭\*. (**2020**). 行为免疫系统理论及其研究：新视野下的再考察. *心理科学进展, 28*(11), 1865–1879. [https://doi.org/10.3724/SP.J.1042.2020.01865](http://journal.psych.ac.cn/xlkxjz/CN/10.3724/SP.J.1042.2020.01865)
+- 杨盈, 朱慧珺, 周婉, 张明杨, 谢怡萍, **包寒吴霜**, 苏展, 王潇欧, 敬一鸣, 杨紫嫣, 蔡华俭\*. (**2020**). 行为免疫系统理论及其研究：新视野下的再考察. *心理科学进展, 28*(11), 1865–1879. <https://doi.org/10.3724/SP.J.1042.2020.01865>
 
-- **包寒吴霜**, 蔡华俭, 罗宇\*. (**2019**). 身份认同动机：概念、测量与心理效应. *心理科学, 42*(4), 971–977. [https://doi.org/10.16719/j.cnki.1671-6981.20190429](https://doi.org/10.16719/j.cnki.1671-6981.20190429)
+- **包寒吴霜**, 蔡华俭, 罗宇\*. (**2019**). 身份认同动机：概念、测量与心理效应. *心理科学, 42*(4), 971–977. <https://doi.org/10.16719/j.cnki.1671-6981.20190429>
 
 - **包寒吴霜**, 吴胜涛\*, 郑昊, 陆海蓉, 郑伟, 戴炜, 陆梭, 朱廷劭\*. (**2018**). 雾霾下的自我：空气污染与个体主义–集体主义的大数据分析. *社区心理学研究, 6*(2), 71–85.
 
-- **包寒吴霜**, 陈俊霖, 林俊利, 刘力\*. (**2016**). 名字与性别的人际吸引机制：性别角色评价的中介作用. *中国临床心理学杂志, 24*(4), 596–600. [https://doi.org/10.16128/j.cnki.1005-3611.2016.04.004](https://doi.org/10.16128/j.cnki.1005-3611.2016.04.004)
+- **包寒吴霜**, 陈俊霖, 林俊利, 刘力\*. (**2016**). 名字与性别的人际吸引机制：性别角色评价的中介作用. *中国临床心理学杂志, 24*(4), 596–600. <https://doi.org/10.16128/j.cnki.1005-3611.2016.04.004>
 
 ---
 
@@ -86,11 +89,11 @@ Faculty of Psychology, Beijing Normal University (BNU)
 
 [Preprint] = not formally published
 
-- [Preprint] **Bao, H.-W.-S.**, Lu, H., & Luo, Y. L. L.\* (**2020**). Unique-named people are perceived more suitable for unique jobs: A social perception and its real-life impact on name change. Preprint at *PsyArXiv* [https://doi.org/10.31234/osf.io/xeag2](https://doi.org/10.31234/osf.io/xeag2)
+- [Preprint] **Bao, H.-W.-S.**, Lu, H., & Luo, Y. L. L.\* (**2020**). Unique-named people are perceived more suitable for unique jobs: A social perception and its real-life impact on name change. Preprint at *PsyArXiv* <https://doi.org/10.31234/osf.io/xeag2>
 
-- [Preprint] **Bao, H.-W.-S.**, Wang, J., & Cai, H.\* (**2020**). Blame crime on name? People with bad names are more likely to commit crime. Preprint at *PsyArXiv* [https://doi.org/10.31234/osf.io/txhqg](https://doi.org/10.31234/osf.io/txhqg)
+- [Preprint] **Bao, H.-W.-S.**, Wang, J., & Cai, H.\* (**2020**). Blame crime on name? People with bad names are more likely to commit crime. Preprint at *PsyArXiv* <https://doi.org/10.31234/osf.io/txhqg>
 
-- [Preprint] **Bao, H.-W.-S.**, Cai, H., DeWall, C. N., Gu, R., Chen, J., & Luo, Y. L. L.\* (**2020**). Name uniqueness predicts career choice and career achievement. Preprint at *PsyArXiv* [https://doi.org/10.31234/osf.io/53j86](https://doi.org/10.31234/osf.io/53j86)
+- [Preprint] **Bao, H.-W.-S.**, Cai, H., DeWall, C. N., Gu, R., Chen, J., & Luo, Y. L. L.\* (**2020**). Name uniqueness predicts career choice and career achievement. Preprint at *PsyArXiv* <https://doi.org/10.31234/osf.io/53j86>
 
 - **Bao, H.-W.-S.**, & Cai, H.\* (**in preparation**). Unique naming over time: Individualism and baby-naming uniqueness in China.
 
@@ -102,13 +105,13 @@ Faculty of Psychology, Beijing Normal University (BNU)
 
 ### Conference Presentations
 
-- **Bao, H.-W.-S.**, & Cai, H.\* (**2020, December**). *Chinese names are becoming more unique over time: New evidence and mechanisms*. Paper presented at the 2020 Annual Conference of the Social Psychology Branch of Chinese Psychological Society, Haikou, Hainan, China.<br/>
+- **Bao, H.-W.-S.**, & Cai, H.\* (**2020, December**). *Chinese names are becoming more unique over time: New evidence and mechanisms*. Paper presented at the 2020 Annual Conference of the Social Psychology Branch of Chinese Psychological Society, Haikou, Hainan, China.\
 [**包寒吴霜**, 蔡华俭\*. (**2020**). *中国人名字独特性的上升：新证据和机制*. 中国心理学会社会心理学分会2020年学术年会, 海南海口.]
 
-- **Bao, H.-W.-S.**, Cai, H., & Luo, Y. L. L.\* (**2019, October**). *Name-job uniqueness fit: Name uniqueness predicts job choice and is associated with career success*. Paper presented at the 22nd National Academic Congress of Psychology, Hangzhou, Zhejiang, China.<br/>
+- **Bao, H.-W.-S.**, Cai, H., & Luo, Y. L. L.\* (**2019, October**). *Name-job uniqueness fit: Name uniqueness predicts job choice and is associated with career success*. Paper presented at the 22nd National Academic Congress of Psychology, Hangzhou, Zhejiang, China.\
 [**包寒吴霜**, 蔡华俭, 罗宇\*. (**2019**). *人如其名，名职匹配？名字独特性预测职业选择与职业成就*. 第二十二届全国心理学学术会议, 浙江杭州.]
 
-- **Bao, H.-W.-S.**, Cai, H., & Luo, Y. L. L.\* (**2018, October**). *Name uniqueness predicts job choice: Evidence from big data and experiments*. Paper presented at the 2018 Annual Conference of the Social Psychology Branch of Chinese Psychological Society, Qufu, Shandong, China.<br/>
+- **Bao, H.-W.-S.**, Cai, H., & Luo, Y. L. L.\* (**2018, October**). *Name uniqueness predicts job choice: Evidence from big data and experiments*. Paper presented at the 2018 Annual Conference of the Social Psychology Branch of Chinese Psychological Society, Qufu, Shandong, China.\
 [**包寒吴霜**, 蔡华俭, 罗宇\*. (**2018**). *名字独特性预测职业选择：来自大数据和实验的证据*. 中国心理学会社会心理学分会2018年学术年会, 山东曲阜.]
 
 ### Ad-Hoc Journal Reviewer
@@ -163,13 +166,10 @@ Faculty of Psychology, Beijing Normal University (BNU)
 
 ## PERSONAL HOBBIES
 
-👊 Wing-Chun (咏春拳)
-<br/>
-🥊 Mixed Martial Arts (综合格斗)
-<br/>
-🥋 Taekwondo (Level: 2nd *Dan* black belt)
-<br/>
-🎱 Billiards
+👊 Wing-Chun (咏春拳)\
+🥊 Mixed Martial Arts (综合格斗)\
+🥋 Taekwondo (Level: 2nd *Dan* black belt)\
+🎱 Billiards\
 
 
 <h4 align="right">Update: 03/2021</h4>
