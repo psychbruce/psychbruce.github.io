@@ -35,9 +35,9 @@ Faculty of Psychology, Beijing Normal University (BNU)\
 ### Technical Expertise
 
 - R package development
-  + [bruceR](https://github.com/psychbruce/bruceR) [![GitHub-Version](https://img.shields.io/github/r-package/v/psychbruce/bruceR?label=GitHub&color=blue)](https://github.com/psychbruce/bruceR) [![CRAN-Version](https://www.r-pkg.org/badges/version/bruceR?color=orange)](https://CRAN.R-project.org/package=bruceR)
-  + [drawMap](https://github.com/psychbruce/drawMap) [![GitHub-Version](https://img.shields.io/github/r-package/v/psychbruce/drawMap?label=GitHub&color=blue)](https://github.com/psychbruce/drawMap)
-  + [ChineseNames](https://github.com/psychbruce/ChineseNames) [![GitHub-Version](https://img.shields.io/github/r-package/v/psychbruce/ChineseNames?label=GitHub&color=blue)](https://github.com/psychbruce/ChineseNames)
+  + [bruceR](https://github.com/psychbruce/bruceR) [![GitHub-Version](https://img.shields.io/github/r-package/v/psychbruce/bruceR?label=GitHub&color=orange)](https://github.com/psychbruce/bruceR) [![CRAN-Version](https://www.r-pkg.org/badges/version/bruceR?color=blue)](https://CRAN.R-project.org/package=bruceR)
+  + [drawMap](https://github.com/psychbruce/drawMap) [![GitHub-Version](https://img.shields.io/github/r-package/v/psychbruce/drawMap?label=GitHub&color=orange)](https://github.com/psychbruce/drawMap)
+  + [ChineseNames](https://github.com/psychbruce/ChineseNames) [![GitHub-Version](https://img.shields.io/github/r-package/v/psychbruce/ChineseNames?label=GitHub&color=orange)](https://github.com/psychbruce/ChineseNames) [![CRAN-Version](https://www.r-pkg.org/badges/version/ChineseNames?color=blue)](https://CRAN.R-project.org/package=ChineseNames)
   
 - Web crawling (using R/Python)
   + Have crawled 20+ websites for data collection in research
@@ -95,7 +95,7 @@ Faculty of Psychology, Beijing Normal University (BNU)\
 
 - [Preprint] **Bao, H.-W.-S.**, Cai, H., DeWall, C. N., Gu, R., Chen, J., & Luo, Y. L. L.\* (**2020**). Name uniqueness predicts career choice and career achievement. Preprint at *PsyArXiv* <https://doi.org/10.31234/osf.io/53j86>
 
-- **Bao, H.-W.-S.**, & Cai, H.\* (**in preparation**). Increasing prevalence of unique names: Cultural mind of need for uniqueness matters.
+- **Bao, H.-W.-S.**, Wang, J., & Cai, H.\* (**in preparation**). Unique naming over time: Cultural mind of uniqueness matters.
 
 - Jing, Y., Ji, L.-J., Yang, Z., **Bao, H.-W.-S.**, Xie, Y., Wang, X., …Cai, H.\* (**under review**). Understanding regional cultural-psychological variations in China: A large-scale examination.
 
