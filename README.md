@@ -57,6 +57,8 @@ Faculty of Psychology, Beijing Normal University (BNU)\
 自我本真性
 - Person–environment fit\
 人–环境匹配
+- Cultural diffusion\
+文化传播
 
 ---
 
@@ -71,9 +73,9 @@ Faculty of Psychology, Beijing Normal University (BNU)\
 
 ### In Chinese
 
-- **包寒吴霜**, 蔡华俭\*. (**2021**). 姓名对个体心理与行为的实际影响：证据和理论. *心理科学进展*, [印刷中](http://journal.psych.ac.cn/xlkxjz/CN/abstract/abstract5354.shtml). [ChinaXiv预印本](http://www.chinaxiv.org/abs/202101.00044)
+- **包寒吴霜**, 蔡华俭\*. (**2021**). 姓名对个体心理与行为的实际影响：证据和理论. *心理科学进展, 29*(6), 1067–1085. <https://doi.org/10.3724/SP.J.1042.2021.01067>
 
-- **包寒吴霜**, 蔡华俭. (**2021**). 提高姓名心理学研究的可靠程度. *中国社会科学报, 2118*, 5. <http://sscp.cssn.cn/xkpd/xlx/202103/t20210304_5315368.html>
+- **包寒吴霜**, 蔡华俭\*. (**2021**). 提高姓名心理学研究的可靠程度. *中国社会科学报, 2118*, 5. <https://doi.org/10.28131/n.cnki.ncshk.2021.001194> or <http://sscp.cssn.cn/xkpd/xlx/202103/t20210304_5315368.html>
 
 - 杨盈, 朱慧珺, 周婉, 张明杨, 谢怡萍, **包寒吴霜**, 苏展, 王潇欧, 敬一鸣, 杨紫嫣, 蔡华俭\*. (**2020**). 行为免疫系统理论及其研究：新视野下的再考察. *心理科学进展, 28*(11), 1865–1879. <https://doi.org/10.3724/SP.J.1042.2020.01865>
 
@@ -95,9 +97,9 @@ Faculty of Psychology, Beijing Normal University (BNU)\
 
 - [Preprint] **Bao, H.-W.-S.**, Cai, H., DeWall, C. N., Gu, R., Chen, J., & Luo, Y. L. L.\* (**2020**). Name uniqueness predicts career choice and career achievement. Preprint at *PsyArXiv* <https://doi.org/10.31234/osf.io/53j86>
 
-- **Bao, H.-W.-S.**, Wang, J., & Cai, H.\* (**in preparation**). Unique naming over time: Cultural mind of uniqueness matters.
+- **Bao, H.-W.-S.**, Cai, H.\*, Chen, J., & Wang, J. (**in preparation**). Unique naming over time: Cultural mind of uniqueness matters.
 
-- Jing, Y., Ji, L.-J., Yang, Z., **Bao, H.-W.-S.**, Xie, Y., Wang, X., …Cai, H.\* (**under review**). Understanding regional cultural-psychological variations in China: A large-scale examination.
+- Jing, Y., Ji, L.-J., Yang, Z., **Bao, H.-W.-S.**, Xie, Y., Wang, X., … Cai, H.\* (**under review**). Understanding regional cultural-psychological variations in China: A large-scale examination.
 
 ---
 
@@ -154,8 +156,7 @@ Faculty of Psychology, Beijing Normal University (BNU)\
 ### Techniques
 
 - [R语言必学之「data.table」学习资源合集](https://zhuanlan.zhihu.com/p/346366577)
-- [bruceR：数据分析的三头六臂](https://zhuanlan.zhihu.com/p/80732610)
-- [bruceR包重磅更新：方差分析、简单效应检验、事后多重比较](https://zhuanlan.zhihu.com/p/88497589)
+- [bruceR包（CRAN正式版v0.6.0）使用指南：让R语言数据分析变得更简单](https://zhuanlan.zhihu.com/p/356411193)
 - [【合集】jsPsych教程收藏夹（持续更新）](https://zhuanlan.zhihu.com/p/158022294)
 - [jsPsych心理学实验与问卷编程指南（上篇）](https://zhuanlan.zhihu.com/p/150468198)
 - [jsPsych心理学实验与问卷编程指南（下篇）](https://zhuanlan.zhihu.com/p/154428604)
@@ -172,4 +173,4 @@ Faculty of Psychology, Beijing Normal University (BNU)\
 🎱 Billiards
 
 
-<h4 align="right">Update: 03/2021</h4>
+<h4 align="right">Update: 04/2021</h4>
