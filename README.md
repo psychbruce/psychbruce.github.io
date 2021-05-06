@@ -51,14 +51,12 @@ Faculty of Psychology, Beijing Normal University (BNU)\
 
 - Name\
 姓名
-- Self-uniqueness\
-自我独特性
-- Self-authenticity\
-自我本真性
+- Uniqueness\
+独特性
 - Person–environment fit\
 人–环境匹配
 - Cultural diffusion\
-文化传播
+文化扩散
 
 ---
 
@@ -97,7 +95,7 @@ Faculty of Psychology, Beijing Normal University (BNU)\
 
 - [Preprint] **Bao, H.-W.-S.**, Cai, H., DeWall, C. N., Gu, R., Chen, J., & Luo, Y. L. L.\* (**2020**). Name uniqueness predicts career choice and career achievement. Preprint at *PsyArXiv* <https://doi.org/10.31234/osf.io/53j86>
 
-- **Bao, H.-W.-S.**, Cai, H.\*, Chen, J., & Wang, J. (**in preparation**). Unique naming over time: Cultural mind of uniqueness matters.
+- **Bao, H.-W.-S.**, Cai, H.\*, Jing, Y., Chen, J., & Wang, J. (**manuscript in preparation**). Uniqueness seeking—but not all domains of individualism—explains the increasing preference for uncommon baby names over time.
 
 - Jing, Y., Ji, L.-J., Yang, Z., **Bao, H.-W.-S.**, Xie, Y., Wang, X., … Cai, H.\* (**under review**). Understanding regional cultural-psychological variations in China: A large-scale examination.
 
@@ -118,7 +116,7 @@ Faculty of Psychology, Beijing Normal University (BNU)\
 
 ### Ad-Hoc Journal Reviewer
 
-- 心理学报 (4)
+- 心理学报 (5)
 - 心理科学进展 (1)
 
 ---
@@ -173,4 +171,4 @@ Faculty of Psychology, Beijing Normal University (BNU)\
 🎱 Billiards
 
 
-<h4 align="right">Update: 04/2021</h4>
+<h4 align="right">Update: 05/2021</h4>
