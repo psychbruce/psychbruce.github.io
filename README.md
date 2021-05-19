@@ -55,8 +55,8 @@ Faculty of Psychology, Beijing Normal University (BNU)\
 独特性
 - Person–environment fit\
 人–环境匹配
-- Cultural diffusion\
-文化扩散
+- Cultural dynamics\
+文化动力
 
 ---
 
@@ -67,21 +67,21 @@ Faculty of Psychology, Beijing Normal University (BNU)\
 
 ### In English
 
-- Shi, Y., Luo, Y. L. L.\*, Yang, Z., Liu, Y., & **Bao, H.** (**2018**). Do narcissists enjoy visiting social networking sites? It depends on how adaptive they are. *Frontiers in Psychology, 9*, 1739. <https://doi.org/10.3389/fpsyg.2018.01739>
+- Shi, Y., Luo, Y. L. L.\*, Yang, Z., Liu, Y., & **Bao, H.** (**2018**). Do narcissists enjoy visiting social networking sites? It depends on how adaptive they are. *Frontiers in Psychology, 9*, 1739. <https://doi.org/10.3389/fpsyg.2018.01739> (SSCI)
 
 ### In Chinese
 
-- **包寒吴霜**, 蔡华俭\*. (**2021**). 姓名对个体心理与行为的实际影响：证据和理论. *心理科学进展, 29*(6), 1067–1085. <https://doi.org/10.3724/SP.J.1042.2021.01067>
+- **包寒吴霜**, 蔡华俭\*. (**2021**). 姓名对个体心理与行为的实际影响：证据和理论. *心理科学进展, 29*(6), 1067–1085. <https://doi.org/10.3724/SP.J.1042.2021.01067> (CSSCI / CSCD)
 
 - **包寒吴霜**, 蔡华俭\*. (**2021**). 提高姓名心理学研究的可靠程度. *中国社会科学报, 2118*, 5. <https://doi.org/10.28131/n.cnki.ncshk.2021.001194> or <http://sscp.cssn.cn/xkpd/xlx/202103/t20210304_5315368.html>
 
-- 杨盈, 朱慧珺, 周婉, 张明杨, 谢怡萍, **包寒吴霜**, 苏展, 王潇欧, 敬一鸣, 杨紫嫣, 蔡华俭\*. (**2020**). 行为免疫系统理论及其研究：新视野下的再考察. *心理科学进展, 28*(11), 1865–1879. <https://doi.org/10.3724/SP.J.1042.2020.01865>
+- 杨盈, 朱慧珺, 周婉, 张明杨, 谢怡萍, **包寒吴霜**, 苏展, 王潇欧, 敬一鸣, 杨紫嫣, 蔡华俭\*. (**2020**). 行为免疫系统理论及其研究：新视野下的再考察. *心理科学进展, 28*(11), 1865–1879. <https://doi.org/10.3724/SP.J.1042.2020.01865> (CSSCI / CSCD)
 
-- **包寒吴霜**, 蔡华俭, 罗宇\*. (**2019**). 身份认同动机：概念、测量与心理效应. *心理科学, 42*(4), 971–977. <https://doi.org/10.16719/j.cnki.1671-6981.20190429>
+- **包寒吴霜**, 蔡华俭, 罗宇\*. (**2019**). 身份认同动机：概念、测量与心理效应. *心理科学, 42*(4), 971–977. <https://doi.org/10.16719/j.cnki.1671-6981.20190429> (CSSCI / CSCD)
 
-- **包寒吴霜**, 吴胜涛\*, 郑昊, 陆海蓉, 郑伟, 戴炜, 陆梭, 朱廷劭\*. (**2018**). 雾霾下的自我：空气污染与个体主义–集体主义的大数据分析. *社区心理学研究, 6*(2), 71–85.
+- **包寒吴霜**, 吴胜涛\*, 郑昊, 陆海蓉, 郑伟, 戴炜, 陆梭, 朱廷劭\*. (**2018**). 雾霾下的自我：空气污染与个体主义–集体主义的大数据分析. *社区心理学研究, 6*(2), 71–85. (CSSCI)
 
-- **包寒吴霜**, 陈俊霖, 林俊利, 刘力\*. (**2016**). 名字与性别的人际吸引机制：性别角色评价的中介作用. *中国临床心理学杂志, 24*(4), 596–600. <https://doi.org/10.16128/j.cnki.1005-3611.2016.04.004>
+- **包寒吴霜**, 陈俊霖, 林俊利, 刘力\*. (**2016**). 名字与性别的人际吸引机制：性别角色评价的中介作用. *中国临床心理学杂志, 24*(4), 596–600. <https://doi.org/10.16128/j.cnki.1005-3611.2016.04.004> (CSSCI / CSCD)
 
 ---
 
@@ -95,7 +95,7 @@ Faculty of Psychology, Beijing Normal University (BNU)\
 
 - [Preprint] **Bao, H.-W.-S.**, Cai, H., DeWall, C. N., Gu, R., Chen, J., & Luo, Y. L. L.\* (**2020**). Name uniqueness predicts career choice and career achievement. Preprint at *PsyArXiv* <https://doi.org/10.31234/osf.io/53j86>
 
-- **Bao, H.-W.-S.**, Cai, H.\*, Jing, Y., Chen, J., & Wang, J. (**manuscript in preparation**). Uniqueness seeking—but not all domains of individualism—explains the increasing preference for uncommon baby names over time.
+- **Bao, H.-W.-S.**, Cai, H.\*, Jing, Y., Chen, J., & Wang, J. (**manuscript in preparation**). Increasing prevalence of unique names: The emphasis on uniqueness matters.
 
 - Jing, Y., Ji, L.-J., Yang, Z., **Bao, H.-W.-S.**, Xie, Y., Wang, X., … Cai, H.\* (**under review**). Understanding regional cultural-psychological variations in China: A large-scale examination.
 
