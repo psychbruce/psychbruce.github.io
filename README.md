@@ -98,11 +98,13 @@ Self, Culture, and Social Cognition\
 
 - **Bao, H.-W.-S.**, Wang, J., & Cai, H.\* (**in preparation**). Blame crime on name? Investigating the link between name and crime. [Preprint at *PsyArXiv*](https://doi.org/10.31234/osf.io/txhqg)
 
+- **Bao, H.-W.-S.**, Cai, H.\*, & Wang, J. (**in preparation**). Name uniqueness is associated with socioeconomic achievement: Cultural fit matters.
+
+- **Bao, H.-W.-S.**, Cai, H.\*. (**in preparation**). Being distinctive: How name uniqueness predicts creative output in real world.
+
 - Jing, Y., Ji, L.-J., Yang, Z., **Bao, H.-W.-S.**, Xie, Y., Wang, X., … Cai, H.\* (**under review**). Understanding regional cultural-psychological variations in China: A large-scale examination.
 
-- [Preprint] **Bao, H.-W.-S.**, Lu, H., & Luo, Y. L. L.\* (**2020**). Unique-named people are perceived more suitable for unique jobs: A social perception and its real-life impact on name change. Preprint at *PsyArXiv* <https://doi.org/10.31234/osf.io/xeag2>
-
-- [Preprint] **Bao, H.-W.-S.**, Cai, H., DeWall, C. N., Gu, R., Chen, J., & Luo, Y. L. L.\* (**2020**). Name uniqueness predicts career choice and career achievement. Preprint at *PsyArXiv* <https://doi.org/10.31234/osf.io/53j86>
+- **Bao, H.-W.-S.**, Lu, H., & Luo, Y. L. L.\* (**in preparation**). Unique-named people are perceived more suitable for unique jobs: A social perception and its real-life impact on name change. [Preprint at *PsyArXiv*](https://doi.org/10.31234/osf.io/xeag2)
 
 ---
 
@@ -130,22 +132,22 @@ Self, Culture, and Social Cognition\
 
 ### 06/2021 - *How to “Uninstall” SPSS? Tips on Learning R Language*
 
-- Location: Nanjing Normal University (online)
+- Nanjing Normal University (online)
 - A talk presented on the *Psychological Research Method Workshop: R Programming* (Lecturer: Dr. Chuan-Peng Hu)
 
 ### 08/2020 - *R Programming Summer Workshop*
 
-- Location: Online (only for members of Cai's lab)
+- Online (only for members of Cai's lab)
 - Video: Not publicly available
 
 ### 11/2019 - *Multilevel Modeling: Methods and Applications*
 
-- Location: Institute of Psychology, Chinese Academy of Sciences, Beijing, China
+- Institute of Psychology, Chinese Academy of Sciences, Beijing, China
 - Material: [HLM_Workshop02_IPCAS-2019](https://github.com/psychbruce/stats/tree/master/HLM_Workshop02_IPCAS-2019)
 
 ### 10/2019 - *Multilevel Modeling: Methods, Key Issues, and R Programming*
 
-- Location: 22nd National Academic Congress of Psychology, Hangzhou, Zhejiang, China
+- The 22nd National Academic Congress of Psychology, Hangzhou, Zhejiang, China
 - Material: [HLM_Workshop01_NACP-2019](https://github.com/psychbruce/stats/tree/master/HLM_Workshop01_NACP-2019)
 
 ---
