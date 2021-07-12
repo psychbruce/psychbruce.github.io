@@ -35,9 +35,9 @@ Faculty of Psychology, Beijing Normal University (BNU)\
 ### Technical Expertise
 
 - R package development
-  + [bruceR](https://github.com/psychbruce/bruceR) [![GitHub-Version](https://img.shields.io/github/r-package/v/psychbruce/bruceR?label=GitHub&color=orange)](https://github.com/psychbruce/bruceR) [![CRAN-Version](https://www.r-pkg.org/badges/version/bruceR?color=blue)](https://CRAN.R-project.org/package=bruceR)
+  + [bruceR](https://github.com/psychbruce/bruceR)  [![CRAN-Version](https://www.r-pkg.org/badges/version/bruceR?color=red)](https://CRAN.R-project.org/package=bruceR) [![CRAN-Downloads](https://cranlogs.r-pkg.org/badges/grand-total/bruceR)](https://CRAN.R-project.org/package=bruceR)
   + [drawMap](https://github.com/psychbruce/drawMap) [![GitHub-Version](https://img.shields.io/github/r-package/v/psychbruce/drawMap?label=GitHub&color=orange)](https://github.com/psychbruce/drawMap)
-  + [ChineseNames](https://github.com/psychbruce/ChineseNames) [![GitHub-Version](https://img.shields.io/github/r-package/v/psychbruce/ChineseNames?label=GitHub&color=orange)](https://github.com/psychbruce/ChineseNames) [![CRAN-Version](https://www.r-pkg.org/badges/version/ChineseNames?color=blue)](https://CRAN.R-project.org/package=ChineseNames)
+  + [ChineseNames](https://github.com/psychbruce/ChineseNames) [![CRAN-Version](https://www.r-pkg.org/badges/version/ChineseNames?color=red)](https://CRAN.R-project.org/package=ChineseNames) [![CRAN-Downloads](https://cranlogs.r-pkg.org/badges/grand-total/ChineseNames)](https://CRAN.R-project.org/package=ChineseNames)
   
 - Web crawling (using R/Python)
   + Have crawled 20+ websites for data collection in research
@@ -49,6 +49,9 @@ Faculty of Psychology, Beijing Normal University (BNU)\
 
 ## RESEARCH INTERESTS
 
+Self, Culture, and Social Cognition\
+自我-文化-社会认知
+
 - Name\
 姓名
 - Uniqueness\
@@ -56,7 +59,7 @@ Faculty of Psychology, Beijing Normal University (BNU)\
 - Person–environment fit\
 人–环境匹配
 - Cultural dynamics\
-文化动力
+文化动力/文化变迁
 
 ---
 
@@ -89,15 +92,17 @@ Faculty of Psychology, Beijing Normal University (BNU)\
 
 [Preprint] = not formally published
 
-- [Preprint] **Bao, H.-W.-S.**, Lu, H., & Luo, Y. L. L.\* (**2020**). Unique-named people are perceived more suitable for unique jobs: A social perception and its real-life impact on name change. Preprint at *PsyArXiv* <https://doi.org/10.31234/osf.io/xeag2>
+- **Bao, H.-W.-S.**, Cai, H.\*, Jing, Y., Chen, J., & Wang, J. (**under review**). Increasing prevalence of unique names: The emphasis on uniqueness matters.
 
-- [Preprint] **Bao, H.-W.-S.**, Wang, J., & Cai, H.\* (**2020**). Blame crime on name? People with bad names are more likely to commit crime. Preprint at *PsyArXiv* <https://doi.org/10.31234/osf.io/txhqg>
+- **Bao, H.-W.-S.**, Cai, H.\*, Jing, Y., & Wang, J. (**under review**). Novel evidence for the increasing prevalence of unique names in China: A reply to Ogihara (2020).
 
-- [Preprint] **Bao, H.-W.-S.**, Cai, H., DeWall, C. N., Gu, R., Chen, J., & Luo, Y. L. L.\* (**2020**). Name uniqueness predicts career choice and career achievement. Preprint at *PsyArXiv* <https://doi.org/10.31234/osf.io/53j86>
-
-- **Bao, H.-W.-S.**, Cai, H.\*, Jing, Y., Chen, J., & Wang, J. (**manuscript in preparation**). Increasing prevalence of unique names: The emphasis on uniqueness matters.
+- **Bao, H.-W.-S.**, Wang, J., & Cai, H.\* (**in preparation**). Blame crime on name? Investigating the link between name and crime. [Preprint at *PsyArXiv*](https://doi.org/10.31234/osf.io/txhqg)
 
 - Jing, Y., Ji, L.-J., Yang, Z., **Bao, H.-W.-S.**, Xie, Y., Wang, X., … Cai, H.\* (**under review**). Understanding regional cultural-psychological variations in China: A large-scale examination.
+
+- [Preprint] **Bao, H.-W.-S.**, Lu, H., & Luo, Y. L. L.\* (**2020**). Unique-named people are perceived more suitable for unique jobs: A social perception and its real-life impact on name change. Preprint at *PsyArXiv* <https://doi.org/10.31234/osf.io/xeag2>
+
+- [Preprint] **Bao, H.-W.-S.**, Cai, H., DeWall, C. N., Gu, R., Chen, J., & Luo, Y. L. L.\* (**2020**). Name uniqueness predicts career choice and career achievement. Preprint at *PsyArXiv* <https://doi.org/10.31234/osf.io/53j86>
 
 ---
 
@@ -121,22 +126,27 @@ Faculty of Psychology, Beijing Normal University (BNU)\
 
 ---
 
-## WORKSHOPS
+## WORKSHOPS & TALKS
+
+### 06/2021 - *How to “Uninstall” SPSS? Tips on Learning R Language*
+
+- Location: Nanjing Normal University (online)
+- A talk presented on the *Psychological Research Method Workshop: R Programming* (Lecturer: Dr. Chuan-Peng Hu)
 
 ### 08/2020 - *R Programming Summer Workshop*
 
 - Location: Online (only for members of Cai's lab)
-- Materials: Not publicly available
+- Video: Not publicly available
 
 ### 11/2019 - *Multilevel Modeling: Methods and Applications*
 
 - Location: Institute of Psychology, Chinese Academy of Sciences, Beijing, China
-- Materials: [HLM_Workshop02_IPCAS-2019](https://github.com/psychbruce/stats/tree/master/HLM_Workshop02_IPCAS-2019)
+- Material: [HLM_Workshop02_IPCAS-2019](https://github.com/psychbruce/stats/tree/master/HLM_Workshop02_IPCAS-2019)
 
 ### 10/2019 - *Multilevel Modeling: Methods, Key Issues, and R Programming*
 
 - Location: 22nd National Academic Congress of Psychology, Hangzhou, Zhejiang, China
-- Materials: [HLM_Workshop01_NACP-2019](https://github.com/psychbruce/stats/tree/master/HLM_Workshop01_NACP-2019)
+- Material: [HLM_Workshop01_NACP-2019](https://github.com/psychbruce/stats/tree/master/HLM_Workshop01_NACP-2019)
 
 ---
 
@@ -150,11 +160,12 @@ Faculty of Psychology, Beijing Normal University (BNU)\
 - [统计量–效应量的相互转换 \| 元分析基础](https://zhuanlan.zhihu.com/p/47849067)
 - [SPSS方差分析中的简单效应检验：完整教程](https://zhuanlan.zhihu.com/p/30037168)
 - [SPSS简单效应检验的终极解决方案：MANOVA？GLM！](https://zhuanlan.zhihu.com/p/31863288)
+- [bruceR包v0.7.0：PROCESS()函数轻松实现中介效应和调节效应分析](https://zhuanlan.zhihu.com/p/376007591)
+- [bruceR包（CRAN正式版v0.6.0）使用指南：让R语言数据分析变得更简单](https://zhuanlan.zhihu.com/p/356411193)
+- [R语言必学之「data.table」学习资源合集](https://zhuanlan.zhihu.com/p/346366577)
 
 ### Techniques
 
-- [R语言必学之「data.table」学习资源合集](https://zhuanlan.zhihu.com/p/346366577)
-- [bruceR包（CRAN正式版v0.6.0）使用指南：让R语言数据分析变得更简单](https://zhuanlan.zhihu.com/p/356411193)
 - [【合集】jsPsych教程收藏夹（持续更新）](https://zhuanlan.zhihu.com/p/158022294)
 - [jsPsych心理学实验与问卷编程指南（上篇）](https://zhuanlan.zhihu.com/p/150468198)
 - [jsPsych心理学实验与问卷编程指南（下篇）](https://zhuanlan.zhihu.com/p/154428604)
@@ -171,4 +182,4 @@ Faculty of Psychology, Beijing Normal University (BNU)\
 🎱 Billiards
 
 
-<h4 align="right">Update: 05/2021</h4>
+<h4 align="right">Update: 07/2021</h4>
