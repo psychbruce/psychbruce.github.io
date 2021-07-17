@@ -27,10 +27,10 @@ Faculty of Psychology, Beijing Normal University (BNU)\
 
 - R
 - Python
-- JavaScript
-- MATLAB
-- Mplus
 - SPSS
+- Mplus
+- JavaScript (jsPsych)
+- MATLAB
 
 ### Technical Expertise
 
@@ -54,8 +54,8 @@ Self, Culture, and Social Cognition\
 
 - Name\
 姓名
-- Uniqueness\
-独特性
+- Individualism–collectivism\
+个人主义–集体主义
 - Person–environment fit\
 人–环境匹配
 - Cultural dynamics\
@@ -92,17 +92,23 @@ Self, Culture, and Social Cognition\
 
 [Preprint] = not formally published
 
+### Under Review
+
 - **Bao, H.-W.-S.**, Cai, H.\*, Jing, Y., Chen, J., & Wang, J. (**under review**). Increasing prevalence of unique names: The emphasis on uniqueness matters.
 
 - **Bao, H.-W.-S.**, Cai, H.\*, Jing, Y., & Wang, J. (**under review**). Novel evidence for the increasing prevalence of unique names in China: A reply to Ogihara (2020).
 
-- **Bao, H.-W.-S.**, Wang, J., & Cai, H.\* (**in preparation**). Blame crime on name? Investigating the link between name and crime. [Preprint at *PsyArXiv*](https://doi.org/10.31234/osf.io/txhqg)
+- Jing, Y., Ji, L.-J., Yang, Z., **Bao, H.-W.-S.**, Xie, Y., Wang, X., … Cai, H.\* (**under review**). Understanding regional cultural-psychological variations in China: A large-scale examination.
+
+### In Preparation
+
+- **Bao, H.-W.-S.**, Wang, J., & Cai, H.\* (**in preparation**). Blame crime on name? Investigating the link between name and criminal behavior. [Preprint at *PsyArXiv*](https://doi.org/10.31234/osf.io/txhqg)
+
+- **Bao, H.-W.-S.**, Cai, H.\*, & Jing, Y. (**in preparation**). Worldwide cultural diffusion of individualism over a century.
 
 - **Bao, H.-W.-S.**, Cai, H.\*, & Wang, J. (**in preparation**). Name uniqueness is associated with socioeconomic achievement: Cultural fit matters.
 
-- **Bao, H.-W.-S.**, Cai, H.\*. (**in preparation**). Being distinctive: How name uniqueness predicts creative output in real world.
-
-- Jing, Y., Ji, L.-J., Yang, Z., **Bao, H.-W.-S.**, Xie, Y., Wang, X., … Cai, H.\* (**under review**). Understanding regional cultural-psychological variations in China: A large-scale examination.
+- **Bao, H.-W.-S.**, Cai, H.\*. (**in preparation**). Being creative: How name uniqueness predicts creative output in real world.
 
 - **Bao, H.-W.-S.**, Lu, H., & Luo, Y. L. L.\* (**in preparation**). Unique-named people are perceived more suitable for unique jobs: A social perception and its real-life impact on name change. [Preprint at *PsyArXiv*](https://doi.org/10.31234/osf.io/xeag2)
 
@@ -140,7 +146,7 @@ Self, Culture, and Social Cognition\
 - Online (only for members of Cai's lab)
 - Video: Not publicly available
 
-### 11/2019 - *Multilevel Modeling: Methods and Applications*
+### 11/2019 - *Multilevel Modeling: Methods, Key Issues, and Applications*
 
 - Institute of Psychology, Chinese Academy of Sciences, Beijing, China
 - Material: [HLM_Workshop02_IPCAS-2019](https://github.com/psychbruce/stats/tree/master/HLM_Workshop02_IPCAS-2019)
