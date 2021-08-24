@@ -102,13 +102,13 @@ Self, Culture, and Social Cognition\
 
 ### In Preparation
 
-- **Bao, H.-W.-S.**, Wang, J., & Cai, H.\* (**in preparation**). Blame crime on name? Investigating the link between name and criminal behavior. [Preprint at *PsyArXiv*](https://doi.org/10.31234/osf.io/txhqg)
+- **Bao, H.-W.-S.**, Wang, J., & Cai, H.\* (**in preparation**). Blame crime on name? How name warmth and name competence are associated with criminal behavior. [Preprint at *PsyArXiv*](https://doi.org/10.31234/osf.io/txhqg)
+
+- **Bao, H.-W.-S.**, Cai, H.\*, & Wang, J. (**in preparation**). A matter of cultural fit: Name uniqueness is associated with higher socioeconomic status in modern cultures.
+
+- **Bao, H.-W.-S.**, Cai, H.\*. (**in preparation**). Being distinctive: How name uniqueness is associated with creative achievement.
 
 - **Bao, H.-W.-S.**, Cai, H.\*, & Jing, Y. (**in preparation**). Worldwide cultural diffusion of individualism over a century.
-
-- **Bao, H.-W.-S.**, Cai, H.\*, & Wang, J. (**in preparation**). Name uniqueness is associated with socioeconomic achievement: Cultural fit matters.
-
-- **Bao, H.-W.-S.**, Cai, H.\*. (**in preparation**). Being creative: How name uniqueness predicts creative output in real world.
 
 - **Bao, H.-W.-S.**, Lu, H., & Luo, Y. L. L.\* (**in preparation**). Unique-named people are perceived more suitable for unique jobs: A social perception and its real-life impact on name change. [Preprint at *PsyArXiv*](https://doi.org/10.31234/osf.io/xeag2)
 
@@ -129,7 +129,7 @@ Self, Culture, and Social Cognition\
 
 ### Ad-Hoc Journal Reviewer
 
-- 心理学报 (5)
+- 心理学报 (6)
 - 心理科学进展 (1)
 
 ---
@@ -190,4 +190,4 @@ Self, Culture, and Social Cognition\
 🎱 Billiards
 
 
-<h4 align="right">Update: 07/2021</h4>
+<h4 align="right">Update: 08/2021</h4>
