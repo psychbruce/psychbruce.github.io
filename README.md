@@ -35,9 +35,9 @@ Faculty of Psychology, Beijing Normal University (BNU)\
 ### Technical Expertise
 
 - R package development
-  + [bruceR](https://github.com/psychbruce/bruceR)  [![CRAN-Version](https://www.r-pkg.org/badges/version/bruceR?color=red)](https://CRAN.R-project.org/package=bruceR) [![CRAN-Downloads](https://cranlogs.r-pkg.org/badges/grand-total/bruceR)](https://CRAN.R-project.org/package=bruceR)
+  + [bruceR](https://CRAN.R-project.org/package=bruceR)  [![CRAN-Version](https://www.r-pkg.org/badges/version/bruceR?color=red)](https://CRAN.R-project.org/package=bruceR) [![CRAN-Downloads](https://cranlogs.r-pkg.org/badges/grand-total/bruceR)](https://CRAN.R-project.org/package=bruceR)
   + [drawMap](https://github.com/psychbruce/drawMap) [![GitHub-Version](https://img.shields.io/github/r-package/v/psychbruce/drawMap?label=GitHub&color=orange)](https://github.com/psychbruce/drawMap)
-  + [ChineseNames](https://github.com/psychbruce/ChineseNames) [![CRAN-Version](https://www.r-pkg.org/badges/version/ChineseNames?color=red)](https://CRAN.R-project.org/package=ChineseNames) [![CRAN-Downloads](https://cranlogs.r-pkg.org/badges/grand-total/ChineseNames)](https://CRAN.R-project.org/package=ChineseNames)
+  + [ChineseNames](https://CRAN.R-project.org/package=ChineseNames) [![CRAN-Version](https://www.r-pkg.org/badges/version/ChineseNames?color=red)](https://CRAN.R-project.org/package=ChineseNames) [![CRAN-Downloads](https://cranlogs.r-pkg.org/badges/grand-total/ChineseNames)](https://CRAN.R-project.org/package=ChineseNames)
   
 - Web crawling (using R/Python)
   + Have crawled 20+ websites for data collection in research
@@ -54,12 +54,12 @@ Self, Culture, and Social Cognition\
 
 - Name\
 姓名
+- Cultural dynamics\
+文化变迁
 - Individualism–collectivism\
 个人主义–集体主义
 - Person–environment fit\
 人–环境匹配
-- Cultural dynamics\
-文化动力/文化变迁
 
 ---
 
@@ -94,8 +94,6 @@ Self, Culture, and Social Cognition\
 
 ### Under Review
 
-- **Bao, H.-W.-S.**, Cai, H.\*, Jing, Y., Chen, J., & Wang, J. (**under review**). Increasing prevalence of unique names: The emphasis on uniqueness matters.
-
 - **Bao, H.-W.-S.**, Cai, H.\*, Jing, Y., & Wang, J. (**under review**). Novel evidence for the increasing prevalence of unique names in China: A reply to Ogihara (2020).
 
 - Jing, Y., Ji, L.-J., Yang, Z., **Bao, H.-W.-S.**, Xie, Y., Wang, X., … Cai, H.\* (**under review**). Understanding regional cultural-psychological variations in China: A large-scale examination.
@@ -127,12 +125,17 @@ Self, Culture, and Social Cognition\
 
 ### Ad-Hoc Journal Reviewer
 
-- 心理学报 (6)
+- 心理学报 (7)
 - 心理科学进展 (1)
 
 ---
 
 ## WORKSHOPS & TALKS
+
+### 09/2021 - *How to Learn R Programming? Some Useful Advice*
+
+- Online (Holland Psychometrics Association, HPA)
+- Video: <https://mp.weixin.qq.com/s/Y4b2fsQTalXtf1JTIJKreg>
 
 ### 06/2021 - *How to “Uninstall” SPSS? Tips on Learning R Language*
 
