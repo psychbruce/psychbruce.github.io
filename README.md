@@ -56,10 +56,12 @@ Self, Culture, and Social Cognition\
 姓名
 - Cultural dynamics\
 文化变迁
+- Uniqueness seeking\
+独特性追求
 - Individualism–collectivism\
 个人主义–集体主义
 - Person–environment fit\
-人–环境匹配
+个人–环境匹配
 
 ---
 
@@ -69,6 +71,8 @@ Self, Culture, and Social Cognition\
 \# = shared first authorship
 
 ### In English
+
+- **Bao, H.-W.-S.**, Cai, H.\*, Jing, Y., & Wang, J. (**2021**). Novel evidence for the increasing prevalence of unique names in China: A reply to Ogihara (2020). *Frontiers in Psychology*. <https://doi.org/10.3389/fpsyg.2021.731244> (SSCI)
 
 - Shi, Y., Luo, Y. L. L.\*, Yang, Z., Liu, Y., & **Bao, H.** (**2018**). Do narcissists enjoy visiting social networking sites? It depends on how adaptive they are. *Frontiers in Psychology, 9*, 1739. <https://doi.org/10.3389/fpsyg.2018.01739> (SSCI)
 
@@ -94,7 +98,7 @@ Self, Culture, and Social Cognition\
 
 ### Under Review
 
-- **Bao, H.-W.-S.**, Cai, H.\*, Jing, Y., & Wang, J. (**under review**). Novel evidence for the increasing prevalence of unique names in China: A reply to Ogihara (2020).
+- **Bao, H.-W.-S.**, Cai, H.\*, Jing, Y., Chen, J., & Wang, J. (**under review**). Increasing prevalence of unique names: The emphasis on uniqueness matters.
 
 - Jing, Y., Ji, L.-J., Yang, Z., **Bao, H.-W.-S.**, Xie, Y., Wang, X., … Cai, H.\* (**under review**). Understanding regional cultural-psychological variations in China: A large-scale examination.
 
@@ -125,17 +129,17 @@ Self, Culture, and Social Cognition\
 
 ### Ad-Hoc Journal Reviewer
 
-- 心理学报 (7)
+- 心理学报 (8)
 - 心理科学进展 (1)
 
 ---
 
 ## WORKSHOPS & TALKS
 
-### 09/2021 - *How to Learn R Programming? Some Useful Advice*
+### 09/2021 - *How to Learn R Programming? My Advice*
 
 - Online (Holland Psychometrics Association, HPA)
-- Video: <https://mp.weixin.qq.com/s/Y4b2fsQTalXtf1JTIJKreg>
+- Link: [Intro](https://mp.weixin.qq.com/s/Y4b2fsQTalXtf1JTIJKreg), [Video](https://mp.weixin.qq.com/s/2HrTpJWchVeW7_8m8HL9cA)
 
 ### 06/2021 - *How to “Uninstall” SPSS? Tips on Learning R Language*
 
@@ -191,4 +195,4 @@ Self, Culture, and Social Cognition\
 🎱 Billiards
 
 
-<h4 align="right">Update: 09/2021</h4>
+<h4 align="right">Update: 11/2021</h4>
