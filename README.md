@@ -29,7 +29,7 @@ Faculty of Psychology, Beijing Normal University (BNU)\
 - Python
 - SPSS
 - Mplus
-- JavaScript (jsPsych)
+- JavaScript
 - MATLAB
 
 ### Technical Expertise
@@ -72,7 +72,7 @@ Self, Culture, and Social Cognition\
 
 ### In English
 
-- **Bao, H.-W.-S.**, Cai, H.\*, Jing, Y., & Wang, J. (**2021**). Novel evidence for the increasing prevalence of unique names in China: A reply to Ogihara (2020). *Frontiers in Psychology*. <https://doi.org/10.3389/fpsyg.2021.731244> (SSCI)
+- **Bao, H.-W.-S.**, Cai, H.\*, Jing, Y., & Wang, J. (**2021**). Novel evidence for the increasing prevalence of unique names in China: A reply to Ogihara (2020). *Frontiers in Psychology, 12*, 731244. <https://doi.org/10.3389/fpsyg.2021.731244> (SSCI)
 
 - Shi, Y., Luo, Y. L. L.\*, Yang, Z., Liu, Y., & **Bao, H.** (**2018**). Do narcissists enjoy visiting social networking sites? It depends on how adaptive they are. *Frontiers in Psychology, 9*, 1739. <https://doi.org/10.3389/fpsyg.2018.01739> (SSCI)
 
@@ -134,11 +134,15 @@ Self, Culture, and Social Cognition\
 
 ---
 
-## WORKSHOPS & TALKS
+## WORKSHOPS & INVITED TALKS
 
-### 09/2021 - *How to Learn R Programming? My Advice*
+### 11/2021 - *R Programming and the bruceR Package*
 
-- Online (Holland Psychometrics Association, HPA)
+- Peking University (only for members of Prof. Guiquan Li's lab)
+
+### 09/2021 - *How to Learn R Programming?*
+
+- Holland Psychometrics Association (online)
 - Link: [Intro](https://mp.weixin.qq.com/s/Y4b2fsQTalXtf1JTIJKreg), [Video](https://mp.weixin.qq.com/s/2HrTpJWchVeW7_8m8HL9cA)
 
 ### 06/2021 - *How to “Uninstall” SPSS? Tips on Learning R Language*
@@ -148,8 +152,7 @@ Self, Culture, and Social Cognition\
 
 ### 08/2020 - *R Programming Summer Workshop*
 
-- Online (only for members of Cai's lab)
-- Video: Not publicly available
+- Online (only for members of Prof. Huajian Cai's lab)
 
 ### 11/2019 - *Multilevel Modeling: Methods, Key Issues, and Applications*
 
