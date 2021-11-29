@@ -78,9 +78,9 @@ Self, Culture, and Social Cognition\
 
 ### In Chinese
 
-- **包寒吴霜**, 蔡华俭\*. (**2021**). 姓名对个体心理与行为的实际影响：证据和理论. *心理科学进展, 29*(6), 1067–1085. <https://doi.org/10.3724/SP.J.1042.2021.01067> (CSSCI / CSCD)
+- **包寒吴霜**, 蔡华俭\*. (**2021**). 姓名对个体心理与行为的实际影响：证据和理论. *心理科学进展, 29*(6), 1067–1085. <https://doi.org/10.3724/SP.J.1042.2021.01067> (CSSCI / CSCD) (被[中国人民大学复印报刊资料B4《心理学》2021年第10期](http://zlzx.ruc.edu.cn/xlqk/index.jhtml)全文转载)
 
-- **包寒吴霜**, 蔡华俭\*. (**2021**). 提高姓名心理学研究的可靠程度. *中国社会科学报, 2118*, 5. <https://doi.org/10.28131/n.cnki.ncshk.2021.001194> or <http://sscp.cssn.cn/xkpd/xlx/202103/t20210304_5315368.html>
+- **包寒吴霜**, 蔡华俭\*. (**2021**). 提高姓名心理学研究的可靠程度. *中国社会科学报, 2118*, 5. <https://doi.org/10.28131/n.cnki.ncshk.2021.001194>; <http://sscp.cssn.cn/xkpd/xlx/202103/t20210304_5315368.html>
 
 - 杨盈, 朱慧珺, 周婉, 张明杨, 谢怡萍, **包寒吴霜**, 苏展, 王潇欧, 敬一鸣, 杨紫嫣, 蔡华俭\*. (**2020**). 行为免疫系统理论及其研究：新视野下的再考察. *心理科学进展, 28*(11), 1865–1879. <https://doi.org/10.3724/SP.J.1042.2020.01865> (CSSCI / CSCD)
 
@@ -174,15 +174,12 @@ Self, Culture, and Social Cognition\
 - [多层线性模型（HLM）及其自由度问题](https://zhuanlan.zhihu.com/p/50048784)
 - [统计学中的「固定效应 vs. 随机效应」](https://zhuanlan.zhihu.com/p/60528092)
 - [统计量–效应量的相互转换 \| 元分析基础](https://zhuanlan.zhihu.com/p/47849067)
-- [SPSS方差分析中的简单效应检验：完整教程](https://zhuanlan.zhihu.com/p/30037168)
-- [SPSS简单效应检验的终极解决方案：MANOVA？GLM！](https://zhuanlan.zhihu.com/p/31863288)
-- [bruceR包v0.7.0：PROCESS()函数轻松实现中介效应和调节效应分析](https://zhuanlan.zhihu.com/p/376007591)
-- [bruceR包（CRAN正式版v0.6.0）使用指南：让R语言数据分析变得更简单](https://zhuanlan.zhihu.com/p/356411193)
+- [R语言综合工具包：bruceR中文帮助文档](https://zhuanlan.zhihu.com/p/281150493)
 - [R语言必学之「data.table」学习资源合集](https://zhuanlan.zhihu.com/p/346366577)
 
 ### Techniques
 
-- [【合集】jsPsych教程收藏夹（持续更新）](https://zhuanlan.zhihu.com/p/158022294)
+- [【合集】jsPsych教程收藏夹](https://zhuanlan.zhihu.com/p/158022294)
 - [jsPsych心理学实验与问卷编程指南（上篇）](https://zhuanlan.zhihu.com/p/150468198)
 - [jsPsych心理学实验与问卷编程指南（下篇）](https://zhuanlan.zhihu.com/p/154428604)
 - [利用「Cognition」免费平台轻松发布jsPsych在线实验！](https://zhuanlan.zhihu.com/p/159183585)
