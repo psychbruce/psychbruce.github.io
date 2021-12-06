@@ -72,7 +72,7 @@ Self, Culture, and Social Cognition\
 
 ### In English
 
-- **Bao, H.-W.-S.**, Cai, H.\*, Jing, Y., & Wang, J. (**2021**). Novel evidence for the increasing prevalence of unique names in China: A reply to Ogihara (2020). *Frontiers in Psychology, 12*, 731244. <https://doi.org/10.3389/fpsyg.2021.731244> (SSCI)
+- **Bao, H.-W.-S.**, Cai, H.\*, Jing, Y., & Wang, J. (**2021**). Novel evidence for the increasing prevalence of unique names in China: A reply to Ogihara. *Frontiers in Psychology, 12*, 731244. <https://doi.org/10.3389/fpsyg.2021.731244> (SSCI)
 
 - Shi, Y., Luo, Y. L. L.\*, Yang, Z., Liu, Y., & **Bao, H.** (**2018**). Do narcissists enjoy visiting social networking sites? It depends on how adaptive they are. *Frontiers in Psychology, 9*, 1739. <https://doi.org/10.3389/fpsyg.2018.01739> (SSCI)
 
@@ -100,7 +100,7 @@ Self, Culture, and Social Cognition\
 
 - **Bao, H.-W.-S.**, Cai, H.\*, Jing, Y., Chen, J., & Wang, J. (**under review**). Increasing prevalence of unique names: The emphasis on uniqueness matters.
 
-- Jing, Y., Ji, L.-J., Yang, Z., **Bao, H.-W.-S.**, Xie, Y., Wang, X., … Cai, H.\* (**under review**). Understanding regional cultural-psychological variations in China: A large-scale examination.
+- Jing, Y., Ji, L.-J., **Bao, H.-W.-S.**, Yang, Z., Xie, Y., Wang, X., … Cai, H.\* (**under review**). Understanding regional cultural-psychological variations and their sources: A large-scale examination in China.
 
 ### In Preparation
 
@@ -127,10 +127,11 @@ Self, Culture, and Social Cognition\
 - **Bao, H.-W.-S.**, Cai, H., & Luo, Y. L. L.\* (**2018, October**). *Name uniqueness predicts job choice: Evidence from big data and experiments*. Paper presented at the 2018 Annual Conference of the Social Psychology Branch of Chinese Psychological Society, Qufu, Shandong, China.\
 [**包寒吴霜**, 蔡华俭, 罗宇\*. (**2018**). *名字独特性预测职业选择：来自大数据和实验的证据*. 中国心理学会社会心理学分会2018年学术年会, 山东曲阜.]
 
-### Ad-Hoc Journal Reviewer
+### Ad-Hoc Journal Reviewer (# of Reviewed Submissions)
 
 - 心理学报 (8)
 - 心理科学进展 (1)
+- Journal of Cross-Cultural Psychology (1 with my Ph.D. supervisor)
 
 ---
 
@@ -195,4 +196,4 @@ Self, Culture, and Social Cognition\
 🎱 Billiards
 
 
-<h4 align="right">Update: 11/2021</h4>
+<h4 align="right">Update: 12/2021</h4>
