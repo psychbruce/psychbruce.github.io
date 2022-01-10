@@ -45,23 +45,26 @@ Faculty of Psychology, Beijing Normal University (BNU)\
 - Online experiment development (using JavaScript)
   + [jsPsych Experiment Demos in Chinese](https://github.com/psychbruce/jspsych)
 
+- Microsoft Office Specialist (MOS, 微软办公软件国际认证)
+  + Word (Expert-Level)
+  + Excel (Expert-Level)
+  + PowerPoint (Specialist-Level)
+
 ---
 
 ## RESEARCH INTERESTS
 
-Self, Culture, and Social Cognition\
-自我-文化-社会认知
+Personality, Social, & Cultural Psychology\
+人格/社会/文化心理学
 
-- Name\
-姓名
-- Cultural dynamics\
-文化变迁
-- Uniqueness seeking\
-独特性追求
-- Individualism–collectivism\
-个人主义–集体主义
+- Sociocultural change\
+社会文化变迁
+- Cross-cultural psychology\
+跨文化心理学
 - Person–environment fit\
-个人–环境匹配
+个人环境匹配
+- Name effects\
+名字心理效应
 
 ---
 
@@ -96,21 +99,17 @@ Self, Culture, and Social Cognition\
 
 [Preprint] = not formally published
 
-### Under Review
-
-- **Bao, H.-W.-S.**, Cai, H.\*, Jing, Y., Chen, J., & Wang, J. (**under review**). Increasing prevalence of unique names: The emphasis on uniqueness matters.
-
-- Jing, Y., Ji, L.-J., **Bao, H.-W.-S.**, Yang, Z., Xie, Y., Wang, X., … Cai, H.\* (**under review**). Understanding regional cultural-psychological variations and their sources: A large-scale examination in China.
-
-### In Preparation
+- **Bao, H.-W.-S.**, Cai, H.\*, & Jing, Y. (**in preparation**). Do shifts in unique-naming practices validly indicate changes in individualism? A cross-cultural study in the United States and China.
 
 - **Bao, H.-W.-S.**, Wang, J., & Cai, H.\* (**in preparation**). Blame crime on name? How name warmth and name competence are associated with criminal behavior. [Preprint at *PsyArXiv*](https://doi.org/10.31234/osf.io/txhqg)
 
-- **Bao, H.-W.-S.**, Cai, H.\*, & Wang, J. (**in preparation**). A matter of cultural fit: Name uniqueness is associated with higher socioeconomic status in modernized societies.
+- **Bao, H.-W.-S.**, & Cai, H.\* (**in preparation**). Is name uniqueness associated with socioeconomic status? Cultural fit matters.
 
-- **Bao, H.-W.-S.**, Cai, H.\*. (**in preparation**). Being distinctive: How name uniqueness is associated with creative achievement.
+- **Bao, H.-W.-S.**, & Cai, H.\* (**in preparation**). Being distinctive: How name uniqueness is associated with creative achievement.
 
 - **Bao, H.-W.-S.**, Lu, H., & Luo, Y. L. L.\* (**in preparation**). Unique-named people are perceived more suitable for unique jobs: A social perception and its real-life impact on name change. [Preprint at *PsyArXiv*](https://doi.org/10.31234/osf.io/xeag2)
+
+- Jing, Y., Ji, L.-J., **Bao, H.-W.-S.**, Yang, Z., Xie, Y., Wang, X., … Cai, H.\* (**under review**). Understanding regional cultural-psychological variations and their sources: A large-scale examination in China.
 
 ---
 
@@ -131,38 +130,45 @@ Self, Culture, and Social Cognition\
 
 - 心理学报 (8)
 - 心理科学进展 (1)
-- Journal of Cross-Cultural Psychology (1 with my Ph.D. supervisor)
+- Personality and Social Psychology Bulletin (1)
+- Journal of Cross-Cultural Psychology (1)
+- Frontiers in Education (1)
+- SAGE Open (1)
 
 ---
 
 ## WORKSHOPS & INVITED TALKS
 
-### 11/2021 - *R Programming and the bruceR Package*
+### [2021-12] *R in Data Science*
 
-- Peking University (only for members of Prof. Guiquan Li's lab)
+- Beijing Normal University (invited by Prof. Zijun Cai)
 
-### 09/2021 - *How to Learn R Programming?*
+### [2021-11] *R Programming and the bruceR Package*
+
+- Peking University (invited by Prof. Guiquan Li)
+
+### [2021-09] *How to Learn R Programming?*
 
 - Holland Psychometrics Association (online)
 - Link: [Intro](https://mp.weixin.qq.com/s/Y4b2fsQTalXtf1JTIJKreg), [Video](https://mp.weixin.qq.com/s/2HrTpJWchVeW7_8m8HL9cA)
 
-### 06/2021 - *How to “Uninstall” SPSS? Tips on Learning R Language*
+### [2021-06] *How to “Uninstall” SPSS? Tips on Learning R Language*
 
-- Nanjing Normal University (online)
-- A talk presented on the *Psychological Research Method Workshop: R Programming* (Lecturer: Dr. Chuan-Peng Hu)
+- Nanjing Normal University (invited by Prof. Chuan-Peng Hu)
+- A talk presented on the *Psychological Research Method Workshop: R Programming*
 
-### 08/2020 - *R Programming Summer Workshop*
+### [2020-08] *R Programming Summer Workshop*
 
 - Online (only for members of Prof. Huajian Cai's lab)
 
-### 11/2019 - *Multilevel Modeling: Methods, Key Issues, and Applications*
+### [2019-11] *Multilevel Modeling: Methods, Key Issues, and Applications*
 
-- Institute of Psychology, Chinese Academy of Sciences, Beijing, China
+- Institute of Psychology, Chinese Academy of Sciences (invited by Prof. Xingshan Li)
 - Material: [HLM_Workshop02_IPCAS-2019](https://github.com/psychbruce/stats/tree/master/HLM_Workshop02_IPCAS-2019)
 
-### 10/2019 - *Multilevel Modeling: Methods, Key Issues, and R Programming*
+### [2019-10] *Multilevel Modeling: Methods, Key Issues, and R Programming*
 
-- The 22nd National Academic Congress of Psychology, Hangzhou, Zhejiang, China
+- The 22nd National Academic Congress of Psychology, Hangzhou, Zhejiang, China (invited by Dr. Chuan-Peng Hu)
 - Material: [HLM_Workshop01_NACP-2019](https://github.com/psychbruce/stats/tree/master/HLM_Workshop01_NACP-2019)
 
 ---
@@ -196,4 +202,4 @@ Self, Culture, and Social Cognition\
 🎱 Billiards
 
 
-<h4 align="right">Update: 12/2021</h4>
+<h4 align="right">Update: 2022-01-10</h4>
