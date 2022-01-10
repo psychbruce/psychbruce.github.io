@@ -46,8 +46,8 @@ Faculty of Psychology, Beijing Normal University (BNU)\
   + [jsPsych Experiment Demos in Chinese](https://github.com/psychbruce/jspsych)
 
 - Microsoft Office Specialist (MOS, 微软办公软件国际认证)
-  + Word (Expert-Level)
   + Excel (Expert-Level)
+  + Word (Expert-Level)
   + PowerPoint (Specialist-Level)
 
 ---
@@ -81,7 +81,7 @@ Personality, Social, & Cultural Psychology\
 
 ### In Chinese
 
-- **包寒吴霜**, 蔡华俭\*. (**2021**). 姓名对个体心理与行为的实际影响：证据和理论. *心理科学进展, 29*(6), 1067–1085. <https://doi.org/10.3724/SP.J.1042.2021.01067> (CSSCI / CSCD) (被[中国人民大学复印报刊资料B4《心理学》2021年第10期](http://zlzx.ruc.edu.cn/xlqk/index.jhtml)全文转载)
+- **包寒吴霜**, 蔡华俭\*. (**2021**). 姓名对个体心理与行为的实际影响：证据和理论. *心理科学进展, 29*(6), 1067–1085. <https://doi.org/10.3724/SP.J.1042.2021.01067> (CSSCI / CSCD) ([中国人民大学复印报刊资料《心理学》2021年第10期](http://zlzx.ruc.edu.cn/xlqk/index.jhtml)全文转载)
 
 - **包寒吴霜**, 蔡华俭\*. (**2021**). 提高姓名心理学研究的可靠程度. *中国社会科学报, 2118*, 5. <https://doi.org/10.28131/n.cnki.ncshk.2021.001194>; <http://sscp.cssn.cn/xkpd/xlx/202103/t20210304_5315368.html>
 
@@ -181,15 +181,15 @@ Personality, Social, & Cultural Psychology\
 - [多层线性模型（HLM）及其自由度问题](https://zhuanlan.zhihu.com/p/50048784)
 - [统计学中的「固定效应 vs. 随机效应」](https://zhuanlan.zhihu.com/p/60528092)
 - [统计量–效应量的相互转换 \| 元分析基础](https://zhuanlan.zhihu.com/p/47849067)
-- [R语言综合工具包：bruceR中文帮助文档](https://zhuanlan.zhihu.com/p/281150493)
-- [R语言必学之「data.table」学习资源合集](https://zhuanlan.zhihu.com/p/346366577)
 
 ### Techniques
 
-- [【合集】jsPsych教程收藏夹](https://zhuanlan.zhihu.com/p/158022294)
+- [R语言综合工具包：bruceR中文帮助文档](https://zhuanlan.zhihu.com/p/281150493)
+- [R语言必学之「data.table」学习资源合集](https://zhuanlan.zhihu.com/p/346366577)
+- [jsPsych教程合集](https://zhuanlan.zhihu.com/p/158022294)
 - [jsPsych心理学实验与问卷编程指南（上篇）](https://zhuanlan.zhihu.com/p/150468198)
 - [jsPsych心理学实验与问卷编程指南（下篇）](https://zhuanlan.zhihu.com/p/154428604)
-- [利用「Cognition」免费平台轻松发布jsPsych在线实验！](https://zhuanlan.zhihu.com/p/159183585)
+- [利用「Cognition」免费平台轻松发布jsPsych在线实验](https://zhuanlan.zhihu.com/p/159183585)
 - [熟练使用办公软件——你是认真的吗？](https://zhuanlan.zhihu.com/p/158356693)
 
 ---
