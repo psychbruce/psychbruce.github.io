@@ -99,23 +99,19 @@ Beijing Normal University\
 [**包寒吴霜**, 蔡华俭\*. (**2021**). 姓名对个体心理与行为的实际影响：证据和理论. *心理科学进展, 29*(6), 1067–1085.]\
 ([中国人民大学复印报刊资料《心理学》2021年第10期](http://zlzx.ruc.edu.cn/xlqk/index.jhtml)全文转载)
 
-- **Bao, H.-W.-S.**, & Cai, H.\* (**2021**). Improve the reliability of psychological research on names. *Chinese Social Sciences Today, 2118*, 5. <https://doi.org/10.28131/n.cnki.ncshk.2021.001194>;
-<http://sscp.cssn.cn/xkpd/xlx/202103/t20210304_5315368.html>\
+- **Bao, H.-W.-S.**, & Cai, H.\* (**2021**). Improve the reliability of psychological research on names. *Chinese Social Sciences Today, 2118*, 5. <https://doi.org/10.28131/n.cnki.ncshk.2021.001194>; <http://sscp.cssn.cn/xkpd/xlx/202103/t20210304_5315368.html>\
 [**包寒吴霜**, 蔡华俭\*. (**2021**). 提高姓名心理学研究的可靠程度. *中国社会科学报, 2118*, 5.]
 
-- Yang, Y., Zhu, H.-J., Zhou, W., Zhang, M.-Y., Xie, Y.-P., **Bao, H.-W.-S.**, Su, Z., Wang, X.-O., Jing, Y.-M., Yang, Z.-Y., & Cai, H.\* (**2020**). The behavioral immune system: A multi-level reconsideration. *Advances in Psychological Science, 28*(11), 1865–1879.
-<https://doi.org/10.3724/SP.J.1042.2020.01865>\
+- Yang, Y., Zhu, H.-J., Zhou, W., Zhang, M.-Y., Xie, Y.-P., **Bao, H.-W.-S.**, Su, Z., Wang, X.-O., Jing, Y.-M., Yang, Z.-Y., & Cai, H.\* (**2020**). The behavioral immune system: A multi-level reconsideration. *Advances in Psychological Science, 28*(11), 1865–1879. <https://doi.org/10.3724/SP.J.1042.2020.01865>\
 [杨盈, 朱慧珺, 周婉, 张明杨, 谢怡萍, **包寒吴霜**, 苏展, 王潇欧, 敬一鸣, 杨紫嫣, 蔡华俭\*. (**2020**). 行为免疫系统理论及其研究：新视野下的再考察. *心理科学进展, 28*(11), 1865–1879.]
 
-- **Bao, H.-W.-S.**, Cai, H., & Luo, Y.\* (**2019**). Identity motives: Concept, measurement, and psychological effects. *Journal of Psychological Science, 42*(4), 971–977.
-<https://doi.org/10.16719/j.cnki.1671-6981.20190429>\
+- **Bao, H.-W.-S.**, Cai, H., & Luo, Y.\* (**2019**). Identity motives: Concept, measurement, and psychological effects. *Journal of Psychological Science, 42*(4), 971–977. <https://doi.org/10.16719/j.cnki.1671-6981.20190429>\
 [**包寒吴霜**, 蔡华俭, 罗宇\*. (**2019**). 身份认同动机：概念、测量与心理效应. *心理科学, 42*(4), 971–977.]
 
 - **Bao, H.-W.-S.**, Wu, S.-T.\*, Zheng, H., Lu, H.-R., Zheng, W., Dai, W., Lu, S., & Zhu, T.-S.\* (**2018**). Polluted self: A big-data analysis based on daily-level air pollution and individualism-collectivism on social media. *Community Psychology Research, 6*(2), 71–85.\
 [**包寒吴霜**, 吴胜涛\*, 郑昊, 陆海蓉, 郑伟, 戴炜, 陆梭, 朱廷劭\*. (**2018**). 雾霾下的自我：空气污染与个体主义–集体主义的大数据分析. *社区心理学研究, 6*(2), 71–85.]
 
-- **Bao, H.-W.-S.**, Chen, J.-L., Lin, J.-L., & Liu, L.\* (**2016**). Effects of name and gender on interpersonal attraction: Gender role evaluation as a mediator. *Chinese Journal of Clinical Psychology, 24*(4), 596–600.
-<https://doi.org/10.16128/j.cnki.1005-3611.2016.04.004>\
+- **Bao, H.-W.-S.**, Chen, J.-L., Lin, J.-L., & Liu, L.\* (**2016**). Effects of name and gender on interpersonal attraction: Gender role evaluation as a mediator. *Chinese Journal of Clinical Psychology, 24*(4), 596–600. <https://doi.org/10.16128/j.cnki.1005-3611.2016.04.004>\
 [**包寒吴霜**, 陈俊霖, 林俊利, 刘力\*. (**2016**). 名字与性别的人际吸引机制：性别角色评价的中介作用. *中国临床心理学杂志, 24*(4), 596–600.]
 
 ### Working Papers:
