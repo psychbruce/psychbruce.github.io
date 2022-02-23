@@ -1,7 +1,7 @@
 
 <style>
-  h1 { color: #159957; font-size: 22px; }
-  h2 { color: #159957; font-size: 21px; }
+  h1 { color: rgb(107, 44, 145); font-size: 22px; }
+  h2 { color: rgb(107, 44, 145); font-size: 21px; }
   h3 { color: rgb(50, 50, 50); font-size: 17px; }
   h4 { color: rgb(50, 50, 50); font-size: 16px; }
   p, li { color: rgb(66, 66, 66); font-size: 16px; }
@@ -11,7 +11,8 @@
 
 ### 2022~2024: *Postdoc Research Associate*
 
-Manchester China Institute, **The University of Manchester**\
+[Manchester China Institute](https://www.mci.manchester.ac.uk/), **University of Manchester**\
+(Political/Social Psychology of China and the World)\
 (Supervisor: Prof. Peter Gries)\
 英国曼彻斯特大学 · 曼彻斯特中国研究院 (博士后研究员)
 
@@ -21,13 +22,13 @@ Manchester China Institute, **The University of Manchester**\
 
 ### 2017~2022: *Ph.D.* in Personality and Social Psychology
 
-Institute of Psychology, **Chinese Academy of Sciences**\
+[Institute of Psychology](http://www.psych.ac.cn/), **Chinese Academy of Sciences**\
 (Supervisor: Prof. Huajian Cai)\
 中国科学院 · 心理研究所 (理学博士)
 
 ### 2013~2017: *B.Sc.* in Psychology
 
-Faculty of Psychology, **Beijing Normal University**\
+[Faculty of Psychology](https://psych.bnu.edu.cn/), **Beijing Normal University**\
 北京师范大学 · 心理学部 (理学学士)
 
 ---
@@ -36,6 +37,7 @@ Faculty of Psychology, **Beijing Normal University**\
 
 - Social Cognition
 - Cultural Changes
+- Word Embeddings
 - Cross-Cultural Psychology
 - Computational Social Psychology
 - Personal Names and Human Behavior
@@ -189,19 +191,22 @@ Faculty of Psychology, **Beijing Normal University**\
 
 ## Teaching Experiences
 
-### [2021-Fall] *Self and Identity* (Graduate Level)
+### [2022-Spring] *Self & Identity - II* (Graduate Level)
+- *Instructor* (Professor: Huajian Cai)
+
+### [2021-Fall] *Self & Identity - I* (Graduate Level)
 - *Instructor* (Professor: Huajian Cai)
 
 ### [2020-Summer] *R Programming* (Beginner and Advanced Levels)
 - *Instructor* (for members of Prof. Huajian Cai’s lab)
 
-### [2018-Spring] *Cultural and Cross-Cultural Psychology* (Graduate Level)
+### [2018-Spring] *Cultural & Cross-Cultural Psychology* (Graduate Level)
 - *Teaching Assistant* (Professors: Huajian Cai & Yiming Jing)
 
 ### [2017-Fall] *Implicit Social Cognition* (Graduate Level)
 - *Teaching Assistant* (Professors: Huajian Cai, Xiaoqing Hu, & Yang Ye)
 
-### [2017-Spring] *Self and Identity* (Graduate Level)
+### [2017-Spring] *Self & Identity* (Graduate Level)
 - *Teaching Assistant* (Professor: Huajian Cai)
 
 ---
@@ -234,8 +239,8 @@ Faculty of Psychology, **Beijing Normal University**\
 🥊 Mixed Martial Arts (综合格斗)\
 🥋 Tae-Kwon-Do (Level: 2nd *Dan* black belt)\
 🎱 Snooker/Pool\
-🎿 Skiing\
+⛷️ Skiing\
 🎩 Magic
 
 
-<h4 align="right">Update: 2022-02-24</h4>
+<h4 align="right">Update: 2022-02-28</h4>
