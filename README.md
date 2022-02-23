@@ -13,7 +13,7 @@
 
 Manchester China Institute, **The University of Manchester**\
 (Supervisor: Prof. Peter Gries)\
-英国曼彻斯特大学 · 中国研究院 (博士后研究员)
+英国曼彻斯特大学 · 曼彻斯特中国研究院 (博士后研究员)
 
 ---
 
