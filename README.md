@@ -12,7 +12,7 @@
 ### 2022~2024: *Postdoc Research Associate*
 
 Manchester China Institute, **The University of Manchester**\
-(Supervisor: Prof. Peter Gries)
+(Supervisor: Prof. Peter Gries)\
 英国曼彻斯特大学 · 中国研究院 (博士后研究员)
 
 ---
@@ -233,8 +233,8 @@ Faculty of Psychology, **Beijing Normal University**\
 👊 Wing-Chun (咏春拳)\
 🥊 Mixed Martial Arts (综合格斗)\
 🥋 Tae-Kwon-Do (Level: 2nd *Dan* black belt)\
-🎱 Snooker/Pool
-🎿 Skiing
+🎱 Snooker/Pool\
+🎿 Skiing\
 🎩 Magic
 
 
