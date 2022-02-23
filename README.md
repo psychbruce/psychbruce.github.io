@@ -1,29 +1,33 @@
 
 <style>
-h1 { color: #159957; font-size: 22px; }
-h2 { color: #159957; font-size: 21px; }
-h3 { color: rgb(50, 50, 50); font-size: 17px; }
-h4 { color: rgb(50, 50, 50); font-size: 16px; }
-p, li { color: rgb(66, 66, 66); font-size: 16px; }
+  h1 { color: #159957; font-size: 22px; }
+  h2 { color: #159957; font-size: 21px; }
+  h3 { color: rgb(50, 50, 50); font-size: 17px; }
+  h4 { color: rgb(50, 50, 50); font-size: 16px; }
+  p, li { color: rgb(66, 66, 66); font-size: 16px; }
 </style>
 
 ## Employment
 
-(Seeking...)
+### 2022~2024: *Postdoc Research Associate*
+
+Manchester China Institute, **The University of Manchester**\
+(Supervisor: Prof. Peter Gries)
+英国曼彻斯特大学 · 中国研究院 (博士后研究员)
 
 ---
 
 ## Education
 
-### 🎓 2017~2022: *Ph.D.* in Personality and Social Psychology
+### 2017~2022: *Ph.D.* in Personality and Social Psychology
 
-Institute of Psychology, Chinese Academy of Sciences\
+Institute of Psychology, **Chinese Academy of Sciences**\
 (Supervisor: Prof. Huajian Cai)\
 中国科学院 · 心理研究所 (理学博士)
 
-### 🎓 2013~2017: *B.Sc.* in Psychology
+### 2013~2017: *B.Sc.* in Psychology
 
-Beijing Normal University\
+Faculty of Psychology, **Beijing Normal University**\
 北京师范大学 · 心理学部 (理学学士)
 
 ---
@@ -122,7 +126,7 @@ Beijing Normal University\
 - Jing, Y., Ji, L.-J., **Bao, H.-W.-S.**, Yang, Z., Xie, Y., Wang, X., … Cai, H.\* (**revise & resubmission**). Understanding regional cultural-psychological variations and their sources: A large-scale examination in China.\
 (Target Journal: *Journal of Personality and Social Psychology*)
 
-- **Bao, H.-W.-S.**, Cai, H.\*, Huang, Z., & Jing, Y. (**in preparation**). Trend of characteristics but not prevalence of individualism in China: Comment on Hamamura et al. (2021).\
+- **Bao, H.-W.-S.**, Cai, H.\*, Huang, Z., & Jing, Y. (**in preparation**). Discerning cultural shifts in China? Comment on Hamamura et al. (2021).\
 (Target Journal: *American Psychologist*)
 
 - **Bao, H.-W.-S.**, Wang, Y.-T., Huang, Z., Jing, Y., & Cai, H.\* (**in preparation**). Long-term dynamic interactions between cultural regions explain cultural change.\
@@ -209,7 +213,8 @@ Beijing Normal University\
 - [多层线性模型：原理、关键议题与R语言实现](https://mp.weixin.qq.com/s/hMsf0_2TzhtDuRFKR6aBkg)
 - [多层线性模型（HLM）及其自由度问题](https://zhuanlan.zhihu.com/p/50048784)
 - [统计学中的「固定效应 vs. 随机效应」](https://zhuanlan.zhihu.com/p/60528092)
-- [统计量–效应量的相互转换 \| 元分析基础](https://zhuanlan.zhihu.com/p/47849067)
+- [统计量–效应量的相互转换｜元分析基础](https://zhuanlan.zhihu.com/p/47849067)
+- [姥姥也听懂｜相关/因果关系、中介/调节效应、词向量](https://zhuanlan.zhihu.com/p/469475189)
 
 ### Techniques
 
@@ -229,6 +234,8 @@ Beijing Normal University\
 🥊 Mixed Martial Arts (综合格斗)\
 🥋 Tae-Kwon-Do (Level: 2nd *Dan* black belt)\
 🎱 Snooker/Pool
+🎿 Skiing
+🎩 Magic
 
 
-<h4 align="right">Update: 2022-01-25</h4>
+<h4 align="right">Update: 2022-02-24</h4>
