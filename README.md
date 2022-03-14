@@ -36,11 +36,11 @@
 ## Research Interests
 
 - Social Cognition
-- Cultural Changes
-- Word Embeddings
+- Cultural Change
+- Word Embedding
 - Cross-Cultural Psychology
 - Computational Social Psychology
-- Personal Names and Human Behavior
+- Personal Name and Human Behavior
 
 ---
 
@@ -122,14 +122,16 @@
 
 ### Working Papers:
 
-- **Bao, H.-W.-S.**, Cai, H.\*, & Jing, Y. (**revise & resubmission**). Do shifts in unique-naming practices validly indicate changes in individualism? A cross-cultural study in the United States and China.\
-(Target Journal: *Social Psychological and Personality Science*)
+- **Bao, H.-W.-S.**, Cai, H.\*, & Huang, Z. (**under review**). Discerning cultural shifts in China? Comment on Hamamura et al. (2021). *American Psychologist*.
 
 - Jing, Y., Ji, L.-J., **Bao, H.-W.-S.**, Yang, Z., Xie, Y., Wang, X., … Cai, H.\* (**revise & resubmission**). Understanding regional cultural-psychological variations and their sources: A large-scale examination in China.\
 (Target Journal: *Journal of Personality and Social Psychology*)
 
-- **Bao, H.-W.-S.**, Cai, H.\*, Huang, Z., & Jing, Y. (**in preparation**). Discerning cultural shifts in China? Comment on Hamamura et al. (2021).\
-(Target Journal: *American Psychologist*)
+- **Bao, H.-W.-S.#**, Huang, Z.#, Jing, Y., & Cai, H.\* (**in preparation**). Individualism-collectivism cultural changes in China revisited: Novel evidence and socio-ecological explanations.\
+(Target Journal: *Social Psychological and Personality Science*)
+
+- **Bao, H.-W.-S.**, Cai, H.\*, & Jing, Y. (**in preparation**). Do shifts in unique-naming practices validly indicate changes in individualism? A cross-cultural study in the United States and China.\
+(Target Journal: *Social Psychological and Personality Science*)
 
 - **Bao, H.-W.-S.**, Wang, Y.-T., Huang, Z., Jing, Y., & Cai, H.\* (**in preparation**). Long-term dynamic interactions between cultural regions explain cultural change.\
 (Target Journal: *Psychological Science*)
@@ -164,6 +166,9 @@
 ---
 
 ## Workshops & Invited Talks
+
+### [2022-03] *Embedded in Word Embedding: Methodological Revolution of Psychology in the Era of AI*
+- Institute of Psychology, Chinese Academy of Sciences
 
 ### [2021-12] *R in Data Science*
 - Beijing Normal University (invited by Prof. Zijun Cai)
@@ -243,4 +248,4 @@
 🎩 Magic
 
 
-<h4 align="right">Update: 2022-02-28</h4>
+<h4 align="right">Update: 2022-03-14</h4>
