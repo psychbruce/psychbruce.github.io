@@ -196,10 +196,7 @@
 
 ## Teaching Experiences
 
-### [2022-Spring] *Self & Identity - II* (Graduate Level)
-- *Instructor* (Professor: Huajian Cai)
-
-### [2021-Fall] *Self & Identity - I* (Graduate Level)
+### [2021-Fall] *Self & Identity* (Graduate Level)
 - *Instructor* (Professor: Huajian Cai)
 
 ### [2020-Summer] *R Programming* (Beginner and Advanced Levels)
@@ -248,4 +245,5 @@
 🎩 Magic
 
 
-<h4 align="right">Update: 2022-03-14</h4>
+<h4 align="right">Update: March 2022</h4>
+
