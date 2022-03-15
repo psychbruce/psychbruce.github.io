@@ -244,6 +244,13 @@
 ⛷️ Skiing\
 🎩 Magic
 
+---
+
+## Hometowns
+
+Born in *Xinxiang*, Henan Province (1995~2001)\
+Grown up in *Ningbo*, Zhejiang Province (2001~2013)
+
 
 <h4 align="right">Update: March 2022</h4>
 
