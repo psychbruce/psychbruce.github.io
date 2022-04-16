@@ -11,7 +11,7 @@
 
 ### 2022~2024: *Postdoc Research Associate*
 
-[Manchester China Institute](https://www.mci.manchester.ac.uk/), **University of Manchester**\
+[Manchester China Institute](https://www.mci.manchester.ac.uk/), **The University of Manchester**\
 (Political/Social Psychology of China and the World)\
 (Supervisor: Prof. Peter Gries)\
 英国曼彻斯特大学 · 曼彻斯特中国研究院 (博士后研究员)
@@ -63,10 +63,12 @@
 - **R** (proficient)
   + Using R programming to do basic and advanced data analyses
   + Independently developed R packages:
-    + [bruceR](https://CRAN.R-project.org/package=bruceR)  [![CRAN-Version](https://www.r-pkg.org/badges/version/bruceR?color=red)](https://CRAN.R-project.org/package=bruceR) [![CRAN-Downloads](https://cranlogs.r-pkg.org/badges/grand-total/bruceR)](https://CRAN.R-project.org/package=bruceR)\
+    + [bruceR](https://psychbruce.github.io/bruceR/)  [![CRAN-Version](https://www.r-pkg.org/badges/version/bruceR?color=red)](https://CRAN.R-project.org/package=bruceR) [![CRAN-Downloads](https://cranlogs.r-pkg.org/badges/grand-total/bruceR)](https://CRAN.R-project.org/package=bruceR)\
     “*Broadly Useful Convenient and Efficient R Functions*”
     + [ChineseNames](https://CRAN.R-project.org/package=ChineseNames) [![CRAN-Version](https://www.r-pkg.org/badges/version/ChineseNames?color=red)](https://CRAN.R-project.org/package=ChineseNames) [![CRAN-Downloads](https://cranlogs.r-pkg.org/badges/grand-total/ChineseNames)](https://CRAN.R-project.org/package=ChineseNames)\
     “*Chinese Name Database 1930-2008*”
+    + [PsychWordVec](https://psychbruce.github.io/PsychWordVec/) [![GitHub-Version](https://img.shields.io/github/r-package/v/psychbruce/PsychWordVec?label=GitHub&color=orange)](https://github.com/psychbruce/PsychWordVec)\
+    “*Toolkit for Word Embedding Research in Psychological Science*”
     + [drawMap](https://github.com/psychbruce/drawMap) [![GitHub-Version](https://img.shields.io/github/r-package/v/psychbruce/drawMap?label=GitHub&color=orange)](https://github.com/psychbruce/drawMap)\
     “*Easily Draw China Maps*”
 - **Python** (proficient)
@@ -95,9 +97,14 @@
 
 ### Published in English:
 
-- **Bao, H.-W.-S.**, Cai, H.\*, Jing, Y., & Wang, J. (**2021**). Novel evidence for the increasing prevalence of unique names in China: A reply to Ogihara. *Frontiers in Psychology, 12*, 731244. <https://doi.org/10.3389/fpsyg.2021.731244>
+- **Bao, H.-W.-S.**, Cai, H.\*, & Huang, Z. (**accepted**). Discerning cultural shifts in China? Commentary on Hamamura et al. (2021). *American Psychologist*.\
+(SSCI Q1, IF = 10.885)
 
-- Shi, Y., Luo, Y. L. L.\*, Yang, Z., Liu, Y., & **Bao, H.** (**2018**). Do narcissists enjoy visiting social networking sites? It depends on how adaptive they are. *Frontiers in Psychology, 9*, 1739. <https://doi.org/10.3389/fpsyg.2018.01739>
+- **Bao, H.-W.-S.**, Cai, H.\*, Jing, Y., & Wang, J. (**2021**). Novel evidence for the increasing prevalence of unique names in China: A reply to Ogihara. *Frontiers in Psychology, 12*, 731244. <https://doi.org/10.3389/fpsyg.2021.731244>\
+(SSCI Q2, IF = 2.990)
+
+- Shi, Y., Luo, Y. L. L.\*, Yang, Z., Liu, Y., & **Bao, H.** (**2018**). Do narcissists enjoy visiting social networking sites? It depends on how adaptive they are. *Frontiers in Psychology, 9*, 1739. <https://doi.org/10.3389/fpsyg.2018.01739>\
+(SSCI Q2, IF = 2.990)
 
 ### Published in Chinese:
 
@@ -122,11 +129,6 @@
 
 ### Working Papers:
 
-- **Bao, H.-W.-S.**, Cai, H.\*, & Huang, Z. (**under review**). Discerning cultural shifts in China? Comment on Hamamura et al. (2021). *American Psychologist*.
-
-- Jing, Y., Ji, L.-J., **Bao, H.-W.-S.**, Yang, Z., Xie, Y., Wang, X., … Cai, H.\* (**revise & resubmission**). Understanding regional cultural-psychological variations and their sources: A large-scale examination in China.\
-(Target Journal: *Journal of Personality and Social Psychology*)
-
 - **Bao, H.-W.-S.#**, Huang, Z.#, Jing, Y., & Cai, H.\* (**in preparation**). Individualism-collectivism cultural changes in China revisited: Novel evidence and socio-ecological explanations.\
 (Target Journal: *Social Psychological and Personality Science*)
 
@@ -138,6 +140,9 @@
 
 - **Bao, H.-W.-S.**, & Cai, H.\* (**in preparation**). Is name uniqueness associated with socioeconomic status? Cultural fit matters.\
 (Target Journal: *Psychological Science*)
+
+- Jing, Y., Ji, L.-J., **Bao, H.-W.-S.**, Yang, Z., Xie, Y., Wang, X., … Cai, H.\* (**revise & resubmission**). Understanding regional cultural-psychological variations and their sources: A large-scale examination in China.\
+(Target Journal: *Journal of Personality and Social Psychology*)
 
 ### Conference Presentations:
 
@@ -154,14 +159,11 @@
 
 ## Academic Services
 
-### Journal Reviewer:
+### Journal Reviewer (Articles Reviewed):
 
-- *Acta Psychologica Sinica* (心理学报)
-- *Advances in Psychological Science* (心理科学进展)
-- *Frontiers in Education*
-- *Journal of Cross-Cultural Psychology*
-- *Personality and Social Psychology Bulletin*
-- *SAGE Open*
+- *Acta Psychologica Sinica* 心理学报 (8)
+- *Advances in Psychological Science* 心理科学进展 (1)
+- *Frontiers in Education* (1)
 
 ---
 
@@ -252,5 +254,5 @@ Born in *Xinxiang*, Henan Province (1995~2001)\
 Grown up in *Ningbo*, Zhejiang Province (2001~2013)
 
 
-<h4 align="right">Update: March 2022</h4>
+<h4 align="right">Update: April 2022</h4>
 
