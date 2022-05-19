@@ -209,6 +209,7 @@
 - [统计学中的「固定效应 vs. 随机效应」](https://zhuanlan.zhihu.com/p/60528092)
 - [统计量–效应量的相互转换｜元分析基础](https://zhuanlan.zhihu.com/p/47849067)
 - [姥姥也听懂｜相关/因果关系、中介/调节效应、词向量](https://zhuanlan.zhihu.com/p/469475189)
+- [差之毫厘，谬以千里：辨析「固定效应、主效应、简单效应」](https://zhuanlan.zhihu.com/p/513227882)
 
 ### Techniques
 
