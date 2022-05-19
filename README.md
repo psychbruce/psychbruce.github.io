@@ -97,7 +97,7 @@
 
 ### Published in English:
 
-- **Bao, H.-W.-S.**, Cai, H.\*, & Huang, Z. (**accepted**). Discerning cultural shifts in China? Commentary on Hamamura et al. (2021). *American Psychologist*.\
+- **Bao, H.-W.-S.**, Cai, H.\*, & Huang, Z. (**2022**). Discerning cultural shifts in China? Commentary on Hamamura et al. (2021). *American Psychologist*. Advance online publication. <https://doi.org/10.1037/amp0001013>\
 (SSCI Q1, IF = 10.885)
 
 - **Bao, H.-W.-S.**, Cai, H.\*, Jing, Y., & Wang, J. (**2021**). Novel evidence for the increasing prevalence of unique names in China: A reply to Ogihara. *Frontiers in Psychology, 12*, 731244. <https://doi.org/10.3389/fpsyg.2021.731244>\
@@ -127,23 +127,6 @@
 - **Bao, H.-W.-S.**, Chen, J.-L., Lin, J.-L., & Liu, L.\* (**2016**). Effects of name and gender on interpersonal attraction: Gender role evaluation as a mediator. *Chinese Journal of Clinical Psychology, 24*(4), 596–600. <https://doi.org/10.16128/j.cnki.1005-3611.2016.04.004>\
 [**包寒吴霜**, 陈俊霖, 林俊利, 刘力\*. (**2016**). 名字与性别的人际吸引机制：性别角色评价的中介作用. *中国临床心理学杂志, 24*(4), 596–600.]
 
-### Working Papers:
-
-- **Bao, H.-W.-S.#**, Huang, Z.#, Jing, Y., & Cai, H.\* (**in preparation**). Individualism-collectivism cultural changes in China revisited: Novel evidence and socio-ecological explanations.\
-(Target Journal: *Social Psychological and Personality Science*)
-
-- **Bao, H.-W.-S.**, Cai, H.\*, & Jing, Y. (**in preparation**). Do shifts in unique-naming practices validly indicate changes in individualism? A cross-cultural study in the United States and China.\
-(Target Journal: *Social Psychological and Personality Science*)
-
-- **Bao, H.-W.-S.**, Wang, Y.-T., Huang, Z., Jing, Y., & Cai, H.\* (**in preparation**). Long-term dynamic interactions between cultural regions explain cultural change.\
-(Target Journal: *Psychological Science*)
-
-- **Bao, H.-W.-S.**, & Cai, H.\* (**in preparation**). Is name uniqueness associated with socioeconomic status? Cultural fit matters.\
-(Target Journal: *Psychological Science*)
-
-- Jing, Y., Ji, L.-J., **Bao, H.-W.-S.**, Yang, Z., Xie, Y., Wang, X., … Cai, H.\* (**revise & resubmission**). Understanding regional cultural-psychological variations and their sources: A large-scale examination in China.\
-(Target Journal: *Journal of Personality and Social Psychology*)
-
 ### Conference Presentations:
 
 - **Bao, H.-W.-S.**, & Cai, H.\* (**2020, December**). *Chinese names are becoming more unique over time: New evidence and mechanisms*. Paper presented at the 2020 Annual Conference of the Social Psychology Branch of Chinese Psychological Society, Haikou, Hainan, China.\
@@ -161,8 +144,9 @@
 
 ### Journal Reviewer (Articles Reviewed):
 
-- *Acta Psychologica Sinica* 心理学报 (8)
-- *Advances in Psychological Science* 心理科学进展 (1)
+- 心理学报 *Acta Psychologica Sinica* (9)
+- 心理科学进展 *Advances in Psychological Science* (1)
+- 心理学通讯 *Psychological Communications* (2)
 - *Frontiers in Education* (1)
 
 ---
@@ -192,6 +176,7 @@
 
 ### [2019-10] *Multilevel Modeling: Methods, Key Issues, and R Programming*
 - The 22nd National Academic Congress of Psychology, Hangzhou, Zhejiang, China
+- Link: [增强心理学研究的可重复性工作坊：方法与实践](http://nacp2019.psysoc.org.cn/a21.html)
 - Materials: [HLM_Workshop01_NACP-2019](https://github.com/psychbruce/stats/tree/master/HLM_Workshop01_NACP-2019)
 
 ---
@@ -242,7 +227,7 @@
 👊 Wing-Chun (咏春拳)\
 🥊 Mixed Martial Arts (综合格斗)\
 🥋 Tae-Kwon-Do (Level: 2nd *Dan* black belt)\
-🎱 Snooker/Pool\
+🎱 Billiards/Snooker/Pool\
 ⛷️ Skiing\
 🎩 Magic
 
@@ -251,8 +236,8 @@
 ## Hometowns
 
 Born in *Xinxiang*, Henan Province (1995~2001)\
-Grown up in *Ningbo*, Zhejiang Province (2001~2013)
+Grew up in *Ningbo*, Zhejiang Province (2001~2013)
 
 
-<h4 align="right">Update: April 2022</h4>
+<h4 align="right">Update: May 2022</h4>
 
