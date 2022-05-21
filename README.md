@@ -225,10 +225,11 @@
 
 ## Personal Hobbies
 
+🎱 Billiards/Snooker\
 👊 Wing-Chun (咏春拳)\
-🥊 Mixed Martial Arts (综合格斗)\
+🔗️ Nunchakus\
+🥊 Mixed Martial Arts\
 🥋 Tae-Kwon-Do (Level: 2nd *Dan* black belt)\
-🎱 Billiards/Snooker/Pool\
 ⛷️ Skiing\
 🎩 Magic
 
