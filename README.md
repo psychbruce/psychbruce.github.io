@@ -153,6 +153,10 @@
 
 ## Workshops & Invited Talks
 
+### [2022-06] *bruceR in the Workflow of Data Analysis*
+- Nanjing Normal University (invited by Prof. Chuan-Peng Hu)
+- Video: [Zhihu](https://www.zhihu.com/zvideo/1518929994206601217), [Bilibili](https://www.bilibili.com/video/BV1T94y1274r)
+
 ### [2022-03] *Embedded in Word Embedding: Methodological Revolution of Psychology in the Era of AI*
 - Institute of Psychology, Chinese Academy of Sciences
 
@@ -241,5 +245,5 @@ Born in *Xinxiang*, Henan Province (1995~2001)\
 Grew up in *Ningbo*, Zhejiang Province (2001~2013)
 
 
-<h4 align="right">Update: May 2022</h4>
+<h4 align="right">Update: June 2022</h4>
 
