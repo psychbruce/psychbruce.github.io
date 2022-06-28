@@ -35,12 +35,14 @@
 
 ## Research Interests
 
-- Social Cognition
-- Cultural Change
-- Word Embedding
-- Cross-Cultural Psychology
-- Computational Social Psychology
-- Personal Name and Human Behavior
+- Cultural Psychology
+  + Cultural Changes
+  + Cultural Differences
+- Social Psychology
+  + Names & Naming Practices
+  + Implicit Social Cognition
+- Computational Social Science
+  + Word Embedding (NLP)
 
 ---
 
@@ -98,13 +100,13 @@
 ### Published in English:
 
 - **Bao, H.-W.-S.**, Cai, H.\*, & Huang, Z. (**2022**). Discerning cultural shifts in China? Commentary on Hamamura et al. (2021). *American Psychologist*. Advance online publication. <https://doi.org/10.1037/amp0001013>\
-(SSCI Q1, IF = 10.885)
+(SSCI Q1, IF = 16.358)
 
 - **Bao, H.-W.-S.**, Cai, H.\*, Jing, Y., & Wang, J. (**2021**). Novel evidence for the increasing prevalence of unique names in China: A reply to Ogihara. *Frontiers in Psychology, 12*, 731244. <https://doi.org/10.3389/fpsyg.2021.731244>\
-(SSCI Q2, IF = 2.990)
+(SSCI Q1, IF = 4.232)
 
 - Shi, Y., Luo, Y. L. L.\*, Yang, Z., Liu, Y., & **Bao, H.** (**2018**). Do narcissists enjoy visiting social networking sites? It depends on how adaptive they are. *Frontiers in Psychology, 9*, 1739. <https://doi.org/10.3389/fpsyg.2018.01739>\
-(SSCI Q2, IF = 2.990)
+(SSCI Q1, IF = 4.232)
 
 ### Published in Chinese:
 
@@ -145,7 +147,7 @@
 ### Journal Reviewer (Articles Reviewed):
 
 - 心理学报 *Acta Psychologica Sinica* (9)
-- 心理科学进展 *Advances in Psychological Science* (1)
+- 心理科学进展 *Advances in Psychological Science* (2)
 - 心理学通讯 *Psychological Communications* (2)
 - *Frontiers in Education* (1)
 
@@ -245,5 +247,5 @@ Born in *Xinxiang*, Henan Province (1995~2001)\
 Grew up in *Ningbo*, Zhejiang Province (2001~2013)
 
 
-<h4 align="right">Update: June 2022</h4>
+<h4 align="right">Update: July 2022</h4>
 
