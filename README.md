@@ -146,10 +146,11 @@
 
 ### Journal Reviewer (Articles Reviewed):
 
-- 心理学报 *Acta Psychologica Sinica* (9)
-- 心理科学进展 *Advances in Psychological Science* (2)
-- 心理学通讯 *Psychological Communications* (2)
+- 心理学报 *Acta Psychologica Sinica* (10)
+- 心理科学进展 *Advances in Psychological Science* (3)
+- 心理学通讯 *Psychological Communications* (3)
 - *Frontiers in Education* (1)
+- *F1000Research* (1)
 
 ---
 
@@ -247,5 +248,5 @@ Born in *Xinxiang*, Henan Province (1995~2001)\
 Grew up in *Ningbo*, Zhejiang Province (2001~2013)
 
 
-<h4 align="right">Update: July 2022</h4>
+<h4 align="right">Update: Aug 2022</h4>
 
