@@ -67,10 +67,10 @@
   + R packages developed independently:
     + [bruceR](https://psychbruce.github.io/bruceR/)  [![CRAN-Version](https://www.r-pkg.org/badges/version/bruceR?color=red)](https://CRAN.R-project.org/package=bruceR) [![CRAN-Downloads](https://cranlogs.r-pkg.org/badges/grand-total/bruceR)](https://CRAN.R-project.org/package=bruceR)\
     “*Broadly Useful Convenient and Efficient R Functions*”
+    + [PsychWordVec](https://psychbruce.github.io/PsychWordVec/) [![CRAN-Version](https://www.r-pkg.org/badges/version/PsychWordVec?color=red)](https://CRAN.R-project.org/package=PsychWordVec) [![CRAN-Downloads](https://cranlogs.r-pkg.org/badges/grand-total/PsychWordVec)](https://CRAN.R-project.org/package=PsychWordVec)\
+    “*Word Embedding Research Framework for Psychological Science*”
     + [ChineseNames](https://CRAN.R-project.org/package=ChineseNames) [![CRAN-Version](https://www.r-pkg.org/badges/version/ChineseNames?color=red)](https://CRAN.R-project.org/package=ChineseNames) [![CRAN-Downloads](https://cranlogs.r-pkg.org/badges/grand-total/ChineseNames)](https://CRAN.R-project.org/package=ChineseNames)\
     “*Chinese Name Database 1930-2008*”
-    + [PsychWordVec](https://psychbruce.github.io/PsychWordVec/) [![GitHub-Version](https://img.shields.io/github/r-package/v/psychbruce/PsychWordVec?label=GitHub&color=orange)](https://github.com/psychbruce/PsychWordVec)\
-    “*Toolkit for Word Embedding Research in Psychological Science*”
     + [drawMap](https://github.com/psychbruce/drawMap) [![GitHub-Version](https://img.shields.io/github/r-package/v/psychbruce/drawMap?label=GitHub&color=orange)](https://github.com/psychbruce/drawMap)\
     “*Easily Draw China Maps*”
 - **Python** (proficient)
@@ -110,6 +110,9 @@
 
 ### Published in Chinese:
 
+- Cai, H.\*, Zhang, M.-Y., **Bao, H.-W.-S.**, Zhu, H.-J., Yang, Z.-Y., Cheng, X., Huang, Z.-H., & Wang, Z.-X. (**2023**). Examining psychological impacts of societal change: Research design and analysis techniques. *Advances in Psychological Science*, accepted.\
+[蔡华俭\*, 张明杨, **包寒吴霜**, 朱慧珺, 杨紫嫣, 程曦, 黄梓航, 王梓西. (**2023**). 探索社会变迁过程中的心理与行为变化：研究设计与分析方法. *心理科学进展*, 已录用.]
+
 - **Bao, H.-W.-S.**, & Cai, H.\* (**2021**). Psychological and behavioral effects of personal names in real world: Evidence and theories. *Advances in Psychological Science, 29*(6), 1067–1085. <https://doi.org/10.3724/SP.J.1042.2021.01067>\
 [**包寒吴霜**, 蔡华俭\*. (**2021**). 姓名对个体心理与行为的实际影响：证据和理论. *心理科学进展, 29*(6), 1067–1085.]\
 ([中国人民大学复印报刊资料《心理学》2021年第10期](http://zlzx.ruc.edu.cn/xlqk/index.jhtml)全文转载)
@@ -146,9 +149,9 @@
 
 ### Journal Reviewer (Articles Reviewed):
 
-- 心理学报 *Acta Psychologica Sinica* (10)
+- 心理学报 *Acta Psychologica Sinica* (11)
 - 心理科学进展 *Advances in Psychological Science* (3)
-- 心理学通讯 *Psychological Communications* (3)
+- 心理学通讯 *Psychological Communications* (4)
 - *Frontiers in Education* (1)
 - *F1000Research* (1)
 
