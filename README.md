@@ -35,14 +35,11 @@
 
 ## Research Interests
 
-- Cultural Psychology
-  + Cultural Changes
-  + Cultural Differences
 - Social Psychology
-  + Names & Naming Practices
-  + Implicit Social Cognition
-- Computational Social Science
-  + Word Embedding (NLP)
+  + Social Cognition
+  + Social and Cultural Changes
+  + Names and Naming Practices
+  + Text Analysis (Natural Language Processing)
 
 ---
 
@@ -110,8 +107,8 @@
 
 ### Published in Chinese:
 
-- Cai, H.\*, Zhang, M.-Y., **Bao, H.-W.-S.**, Zhu, H.-J., Yang, Z.-Y., Cheng, X., Huang, Z.-H., & Wang, Z.-X. (**2023**). Examining psychological impacts of societal change: Research design and analysis techniques. *Advances in Psychological Science*, accepted.\
-[蔡华俭\*, 张明杨, **包寒吴霜**, 朱慧珺, 杨紫嫣, 程曦, 黄梓航, 王梓西. (**2023**). 探索社会变迁过程中的心理与行为变化：研究设计与分析方法. *心理科学进展*, 已录用.]
+- Cai, H.\*, Zhang, M.-Y., **Bao, H.-W.-S.**, Zhu, H.-J., Yang, Z.-Y., Cheng, X., Huang, Z.-H., & Wang, Z.-X. (**2023**). Examining societal change from the perspective of psychology: Research design and analytic techniques. *Advances in Psychological Science, 31*(2), 159–172.\
+[蔡华俭\*, 张明杨, **包寒吴霜**, 朱慧珺, 杨紫嫣, 程曦, 黄梓航, 王梓西. (**2023**). 心理学视野下的社会变迁研究：研究设计与分析方法. *心理科学进展, 31*(2), 159–172.]
 
 - **Bao, H.-W.-S.**, & Cai, H.\* (**2021**). Psychological and behavioral effects of personal names in real world: Evidence and theories. *Advances in Psychological Science, 29*(6), 1067–1085. <https://doi.org/10.3724/SP.J.1042.2021.01067>\
 [**包寒吴霜**, 蔡华俭\*. (**2021**). 姓名对个体心理与行为的实际影响：证据和理论. *心理科学进展, 29*(6), 1067–1085.]\
@@ -152,7 +149,9 @@
 - 心理学报 *Acta Psychologica Sinica* (11)
 - 心理科学进展 *Advances in Psychological Science* (3)
 - 心理学通讯 *Psychological Communications* (4)
+- *Frontiers in Psychology* (1)
 - *Frontiers in Education* (1)
+- *PeerJ Computer Science* (1)
 - *F1000Research* (1)
 
 ---
@@ -251,5 +250,5 @@ Born in *Xinxiang*, Henan Province (1995~2001)\
 Grew up in *Ningbo*, Zhejiang Province (2001~2013)
 
 
-<h4 align="right">Update: Sep 2022</h4>
+<h4 align="right">Update: Dec 2022</h4>
 
