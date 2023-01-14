@@ -37,9 +37,9 @@
 
 - Social Psychology
   + Social Cognition
-  + Social and Cultural Changes
+  + Socio-Cultural Changes
   + Names and Naming Practices
-  + Text Analysis (Natural Language Processing)
+  + Natural Language Analysis (Word Embedding and Language Modeling)
 
 ---
 
@@ -146,13 +146,20 @@
 
 ### Journal Reviewer (Articles Reviewed):
 
-- 心理学报 *Acta Psychologica Sinica* (11)
-- 心理科学进展 *Advances in Psychological Science* (3)
-- 心理学通讯 *Psychological Communications* (4)
+International Journals:
+
+- *Nature Human Behaviour* (1)
 - *Frontiers in Psychology* (1)
 - *Frontiers in Education* (1)
 - *PeerJ Computer Science* (1)
-- *F1000Research* (1)
+- *Acta Psychologica* (1)
+- *F1000Research* (2)
+
+Chinese Journals:
+
+- 心理学报 *Acta Psychologica Sinica* (11)
+- 心理科学进展 *Advances in Psychological Science* (3)
+- 心理学通讯 *Psychological Communications* (4)
 
 ---
 
@@ -250,5 +257,5 @@ Born in *Xinxiang*, Henan Province (1995~2001)\
 Grew up in *Ningbo*, Zhejiang Province (2001~2013)
 
 
-<h4 align="right">Update: Dec 2022</h4>
+<h4 align="right">Update: Jan 2023</h4>
 
