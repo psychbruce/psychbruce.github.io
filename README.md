@@ -9,7 +9,7 @@
 
 ## Overview
 
-Dr. Bao’s research focuses on social perceptions, cultural stereotypes, and their psychological consequences, with a quantitative methodology based on natural language processing (NLP) and large-scale text analysis. He is also focusing on developing new, broader methodologies and research tools for psychological science.
+Dr. Bao’s (包寒吴霜) research focuses on social perceptions, cultural stereotypes, and their psychological consequences, with a quantitative methodology based on natural language processing and large-scale text analysis. He also focuses on developing new, broader methods and research tools for psychological science.
 
 ---
 
