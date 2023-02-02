@@ -7,6 +7,12 @@
   p, li { color: rgb(66, 66, 66); font-size: 16px; }
 </style>
 
+## Overview
+
+Dr. Bao’s research focuses on social perceptions, cultural stereotypes, and their psychological consequences, with a quantitative methodology based on natural language processing (NLP) and large-scale text analysis. He is also focusing on developing new, broader methodologies and research tools for psychological science.
+
+---
+
 ## Employment
 
 ### 2022~2024: *Postdoc Research Associate*
@@ -43,7 +49,7 @@
 
 ---
 
-## Advanced Statistical Skills
+## Methodological Knowledge
 
 - Multiple Regression Analysis
 - Mediation/Moderation Analysis
