@@ -18,7 +18,6 @@ Dr. Bao’s (包寒吴霜) research focuses on social perceptions, cultural ster
 ### 2022~2024: *Postdoc Research Associate*
 
 [Manchester China Institute](https://www.mci.manchester.ac.uk/), **The University of Manchester**, UK\
-(Social Psychology of China and the World)\
 (Supervisor: Prof. Peter Gries)\
 英国曼彻斯特大学 · 曼彻斯特中国研究院 (博士后研究员)
 
@@ -269,5 +268,5 @@ Born in *Xinxiang*, Henan Province (1995~2001)\
 Grew up in *Ningbo*, Zhejiang Province (2001~2013)
 
 
-<h4 align="right">Update: Jan 2023</h4>
+<h4 align="right">Update: Feb 2023</h4>
 
