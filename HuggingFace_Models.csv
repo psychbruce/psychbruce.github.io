@@ -1,0 +1,40 @@
+﻿Model,Cased,Language,Vocabulary,Dims,Layers,Corpus
+<b>bert-base-uncased</b>,,English,30522,768,12,"wiki, book"
+bert-large-uncased,,English,30522,1024,24,"wiki, book"
+bert-large-uncased-whole-word-masking,,English,30522,1024,24,"wiki, book"
+bert-base-multilingual-uncased,,Multiple,105879,768,12,wiki
+<b>bert-base-cased</b>,Yes,English,28996,768,12,"wiki, book"
+bert-large-cased,Yes,English,28996,1024,24,"wiki, book"
+bert-large-cased-whole-word-masking,Yes,English,28996,1024,24,"wiki, book"
+bert-base-chinese,Yes,Chinese,21128,768,12,wiki
+bert-base-multilingual-cased,Yes,Multiple,119547,768,12,wiki
+<b>albert-base-v1</b>,,English,30000,768,12,"wiki, book"
+<b>albert-base-v2</b>,,English,30000,768,12,"wiki, book"
+albert-large-v1,,English,30000,1024,24,"wiki, book"
+albert-large-v2,,English,30000,1024,24,"wiki, book"
+albert-xlarge-v1,,English,30000,2048,24,"wiki, book"
+albert-xlarge-v2,,English,30000,2048,24,"wiki, book"
+albert-xxlarge-v1,,English,30000,4096,12,"wiki, book"
+albert-xxlarge-v2,,English,30000,4096,12,"wiki, book"
+<b>distilbert-base-uncased</b>,,English,30522,768,6,"wiki, book"
+<b>distilbert-base-cased</b>,Yes,English,28996,768,6,"wiki, book"
+distilbert-base-german-cased,Yes,German,31102,768,6,wiki
+distilbert-base-multilingual-cased,Yes,Multiple,119547,768,6,wiki
+<b>roberta-base</b>,Yes,English,50265,768,12,"wiki, book, cc, open"
+roberta-large,Yes,English,50265,1024,24,"wiki, book, cc, open"
+<b>distilroberta-base</b>,Yes,English,50265,768,6,open
+xlm-roberta-base,Yes,Multiple,250002,768,12,cc
+xlm-roberta-large,Yes,Multiple,250002,1024,24,cc
+microsoft/deberta-base,Yes,English,50265,768,12,"wiki, book, cc, open"
+microsoft/deberta-large,Yes,English,50265,1024,24,"wiki, book, cc, open"
+microsoft/deberta-xlarge,Yes,English,50265,1024,48,"wiki, book, cc, open"
+microsoft/deberta-v2-xlarge,Yes,English,128100,1536,24,"wiki, book, cc, open"
+microsoft/deberta-v2-xxlarge,Yes,English,128100,1536,48,"wiki, book, cc, open"
+microsoft/deberta-v3-base,Yes,English,128100,768,12,"wiki, book, cc, open"
+microsoft/deberta-v3-large,Yes,English,128100,1024,24,"wiki, book, cc, open"
+microsoft/deberta-v3-small,Yes,English,128100,768,6,"wiki, book, cc, open"
+microsoft/deberta-v3-xsmall,Yes,English,128100,384,12,"wiki, book, cc, open"
+hfl/chinese-bert-wwm,Yes,Chinese,21128,768,12,中文维基
+hfl/chinese-bert-wwm-ext,Yes,Chinese,21128,768,12,中文维基+通用数据
+hfl/chinese-roberta-wwm-ext,Yes,Chinese,21128,768,12,中文维基+通用数据
+hfl/chinese-roberta-wwm-ext-large,Yes,Chinese,21128,1024,24,中文维基+通用数据
