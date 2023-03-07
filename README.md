@@ -65,7 +65,7 @@ Dr. Bao’s (包寒吴霜) research focuses on social perceptions, cultural ster
 ## Software & Programming Expertise
 
 - **R** (proficient)
-  + Using R programming to do basic and advanced data analyses
+  + Data analysis and visualization using R
   + R packages developed independently:
     + [bruceR](https://psychbruce.github.io/bruceR/)  [![CRAN-Version](https://www.r-pkg.org/badges/version/bruceR?color=red)](https://CRAN.R-project.org/package=bruceR) [![CRAN-Downloads](https://cranlogs.r-pkg.org/badges/grand-total/bruceR)](https://CRAN.R-project.org/package=bruceR)\
     “*Broadly Useful Convenient and Efficient R Functions*”
@@ -112,13 +112,13 @@ Dr. Bao’s (包寒吴霜) research focuses on social perceptions, cultural ster
 
 ### Published in Chinese Journals:
 
-- **Bao, H.-W.-S.**, Wang, Z.-X., Cheng, X., Su, Z., Yang, Y., Zhang, G.-Y., Wang, B., & Cai, H.\* (**2023**). Using word embeddings to investigate human psychology: Methods and applications. *Advances in Psychological Science*, in press.\
-[**包寒吴霜**, 王梓西, 程曦, 苏展, 杨盈, 张光耀, 王博, 蔡华俭\*. (**2023**). 基于词嵌入技术的心理学研究：方法及应用. *心理科学进展*, 印刷中.]
+- **Bao, H.-W.-S.**, Wang, Z.-X., Cheng, X., Su, Z., Yang, Y., Zhang, G.-Y., Wang, B., & Cai, H.\* (**2023**). Using word embeddings to investigate human psychology: Methods and applications. *Advances in Psychological Science, 31*(6), 887–904. <https://doi.org/10.3724/SP.J.1042.2023.00887>\
+[**包寒吴霜**, 王梓西, 程曦, 苏展, 杨盈, 张光耀, 王博, 蔡华俭\*. (**2023**). 基于词嵌入技术的心理学研究：方法及应用. *心理科学进展, 31*(6), 887–904.]
 
 - Zhang, M.-Y., Yang, Y., **Bao, H.-W.-S.**, & Cai, H.\* (**2023**). The positive ideal affect of Chinese people: Trends over the past decades. *Acta Psychologica Sinica*, in press.\
 [张明杨, 杨盈, **包寒吴霜**, 蔡华俭\*. (**2023**). 中国人的积极理想情绪：近几十年来的变迁. *心理学报*, 印刷中.]
 
-- Cai, H.\*, Zhang, M.-Y., **Bao, H.-W.-S.**, Zhu, H.-J., Yang, Z.-Y., Cheng, X., Huang, Z.-H., & Wang, Z.-X. (**2023**). Examining societal change from the perspective of psychology: Research design and analytic techniques. *Advances in Psychological Science, 31*(2), 159–172.\
+- Cai, H.\*, Zhang, M.-Y., **Bao, H.-W.-S.**, Zhu, H.-J., Yang, Z.-Y., Cheng, X., Huang, Z.-H., & Wang, Z.-X. (**2023**). Examining societal change from the perspective of psychology: Research design and analytic techniques. *Advances in Psychological Science, 31*(2), 159–172. <https://doi.org/10.3724/SP.J.1042.2023.00159>\
 [蔡华俭\*, 张明杨, **包寒吴霜**, 朱慧珺, 杨紫嫣, 程曦, 黄梓航, 王梓西. (**2023**). 心理学视野下的社会变迁研究：研究设计与分析方法. *心理科学进展, 31*(2), 159–172.]
 
 - **Bao, H.-W.-S.**, & Cai, H.\* (**2021**). Psychological and behavioral effects of personal names in real world: Evidence and theories. *Advances in Psychological Science, 29*(6), 1067–1085. <https://doi.org/10.3724/SP.J.1042.2021.01067>\
@@ -268,5 +268,5 @@ Born in *Xinxiang*, Henan Province (1995~2001)\
 Grew up in *Ningbo*, Zhejiang Province (2001~2013)
 
 
-<h4 align="right">Update: Feb 2023</h4>
+<h4 align="right">Update: Mar 2023</h4>
 
