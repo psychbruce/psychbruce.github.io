@@ -40,11 +40,10 @@ Dr. Bao’s (包寒吴霜) research focuses on social perceptions, cultural ster
 
 ## Research Interests
 
-- Social Psychology
-  + Social Cognition
-  + Socio-Cultural Changes
-  + Names and Naming Practices
-  + Natural Language Analysis (Word Embedding and Language Modeling)
+- Computational Intelligent Social Psychology
+  + Social Cognition and Cultural Psychology
+  + Natural Language Analysis in Psychology
+  + Contextualized Language Models in Psychology
 
 ---
 
