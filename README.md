@@ -98,7 +98,7 @@ Dr. Bao’s (包寒吴霜) research focuses on social perceptions, cultural ster
 \* Corresponding author\
 \# Shared first authorship
 
-### Published in International Journals:
+### Published in International Journals (3):
 
 - **Bao, H.-W.-S.**, Cai, H.\*, & Huang, Z. (**2022**). Discerning cultural shifts in China? Commentary on Hamamura et al. (2021). *American Psychologist, 77*(6), 786–788. <https://doi.org/10.1037/amp0001013>\
 (SSCI Q1, IF = 16.358)
@@ -109,7 +109,7 @@ Dr. Bao’s (包寒吴霜) research focuses on social perceptions, cultural ster
 - Shi, Y., Luo, Y. L. L.\*, Yang, Z., Liu, Y., & **Bao, H.** (**2018**). Do narcissists enjoy visiting social networking sites? It depends on how adaptive they are. *Frontiers in Psychology, 9*, 1739. <https://doi.org/10.3389/fpsyg.2018.01739>\
 (SSCI Q1, IF = 4.232)
 
-### Published in Chinese Journals:
+### Published in Chinese Journals (9):
 
 - **Bao, H.-W.-S.**, Wang, Z.-X., Cheng, X., Su, Z., Yang, Y., Zhang, G.-Y., Wang, B., & Cai, H.\* (**2023**). Using word embeddings to investigate human psychology: Methods and applications. *Advances in Psychological Science, 31*(6), 887–904. <https://doi.org/10.3724/SP.J.1042.2023.00887>\
 [**包寒吴霜**, 王梓西, 程曦, 苏展, 杨盈, 张光耀, 王博, 蔡华俭\*. (**2023**). 基于词嵌入技术的心理学研究：方法及应用. *心理科学进展, 31*(6), 887–904.]
@@ -139,7 +139,7 @@ Dr. Bao’s (包寒吴霜) research focuses on social perceptions, cultural ster
 - **Bao, H.-W.-S.**, Chen, J.-L., Lin, J.-L., & Liu, L.\* (**2016**). Effects of name and gender on interpersonal attraction: Gender role evaluation as a mediator. *Chinese Journal of Clinical Psychology, 24*(4), 596–600. <https://doi.org/10.16128/j.cnki.1005-3611.2016.04.004>\
 [**包寒吴霜**, 陈俊霖, 林俊利, 刘力\*. (**2016**). 名字与性别的人际吸引机制：性别角色评价的中介作用. *中国临床心理学杂志, 24*(4), 596–600.]
 
-### Conference Presentations:
+### Conference Presentations (3):
 
 - **Bao, H.-W.-S.**, & Cai, H.\* (**2020, December**). *Chinese names are becoming more unique over time: New evidence and mechanisms*. Paper presented at the 2020 Annual Conference of the Social Psychology Branch of Chinese Psychological Society, Haikou, Hainan, China.\
 [**包寒吴霜**, 蔡华俭\*. (**2020**). *中国人名字独特性的上升：新证据和机制*. 中国心理学会社会心理学分会2020年学术年会, 海南海口.]
@@ -170,6 +170,25 @@ Chinese Journals:
 - 心理学报 *Acta Psychologica Sinica* (11)
 - 心理科学进展 *Advances in Psychological Science* (3)
 - 心理学通讯 *Psychological Communications* (4)
+
+---
+
+## Teaching Experiences
+
+### [2021-Fall] *Self & Identity* (Graduate Level)
+- *Instructor* (Professor: Huajian Cai)
+
+### [2020-Summer] *R Programming* (Beginner and Advanced Levels)
+- *Instructor* (for members of Prof. Huajian Cai’s lab)
+
+### [2018-Spring] *Cultural & Cross-Cultural Psychology* (Graduate Level)
+- *Teaching Assistant* (Professors: Huajian Cai & Yiming Jing)
+
+### [2017-Fall] *Implicit Social Cognition* (Graduate Level)
+- *Teaching Assistant* (Professors: Huajian Cai, Xiaoqing Hu, & Yang Ye)
+
+### [2017-Spring] *Self & Identity* (Graduate Level)
+- *Teaching Assistant* (Professor: Huajian Cai)
 
 ---
 
@@ -207,25 +226,6 @@ Chinese Journals:
 
 ---
 
-## Teaching Experiences
-
-### [2021-Fall] *Self & Identity* (Graduate Level)
-- *Instructor* (Professor: Huajian Cai)
-
-### [2020-Summer] *R Programming* (Beginner and Advanced Levels)
-- *Instructor* (for members of Prof. Huajian Cai’s lab)
-
-### [2018-Spring] *Cultural & Cross-Cultural Psychology* (Graduate Level)
-- *Teaching Assistant* (Professors: Huajian Cai & Yiming Jing)
-
-### [2017-Fall] *Implicit Social Cognition* (Graduate Level)
-- *Teaching Assistant* (Professors: Huajian Cai, Xiaoqing Hu, & Yang Ye)
-
-### [2017-Spring] *Self & Identity* (Graduate Level)
-- *Teaching Assistant* (Professor: Huajian Cai)
-
----
-
 ## Selected Blog Articles
 
 ### Statistics
@@ -246,6 +246,7 @@ Chinese Journals:
 - [jsPsych心理学实验与问卷编程指南（下篇）](https://zhuanlan.zhihu.com/p/154428604)
 - [利用「Cognition」免费平台轻松发布jsPsych在线实验](https://zhuanlan.zhihu.com/p/159183585)
 - [熟练使用办公软件——你是认真的吗？](https://zhuanlan.zhihu.com/p/158356693)
+- [「词嵌入」怎么会从我嘴巴说出？](https://zhuanlan.zhihu.com/p/437512469)
 
 ---
 
