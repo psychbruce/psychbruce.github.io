@@ -169,6 +169,7 @@ Chinese Journals:
 
 - 心理学报 *Acta Psychologica Sinica* (11)
 - 心理科学进展 *Advances in Psychological Science* (3)
+- 心理技术与应用 *Psychology: Techniques and Applications* (1)
 - 心理学通讯 *Psychological Communications* (4)
 
 ---
@@ -185,7 +186,7 @@ Chinese Journals:
 - *Teaching Assistant* (Professors: Huajian Cai & Yiming Jing)
 
 ### [2017-Fall] *Implicit Social Cognition* (Graduate Level)
-- *Teaching Assistant* (Professors: Huajian Cai, Xiaoqing Hu, & Yang Ye)
+- *Teaching Assistant* (Professors: Huajian Cai & Xiaoqing Hu)
 
 ### [2017-Spring] *Self & Identity* (Graduate Level)
 - *Teaching Assistant* (Professor: Huajian Cai)
@@ -193,6 +194,9 @@ Chinese Journals:
 ---
 
 ## Workshops & Invited Talks
+
+### [2023-04] *Discerning Human Society in Natural Language: Methods Based on Frequency, Similarity, and Probability* (GNARC ECR Methods Workshop)
+- University of Manchester (invited by Prof. Nan Zhang)
 
 ### [2022-06] *bruceR in the Workflow of Data Analysis*
 - Nanjing Normal University (invited by Prof. Chuan-Peng Hu)
@@ -268,5 +272,5 @@ Born in *Xinxiang*, Henan Province (1995~2001)\
 Grew up in *Ningbo*, Zhejiang Province (2001~2013)
 
 
-<h4 align="right">Update: Mar 2023</h4>
+<h4 align="right">Last updated: Apr 2023</h4>
 
