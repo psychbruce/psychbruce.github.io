@@ -1,10 +1,10 @@
 ﻿Model,Cased,Language,Vocabulary,Dims,Layers,Corpus
 <b>bert-base-uncased</b>,,English,30522,768,12,"wiki, book"
-bert-large-uncased,,English,30522,1024,24,"wiki, book"
+<b>bert-large-uncased</b>,,English,30522,1024,24,"wiki, book"
 bert-large-uncased-whole-word-masking,,English,30522,1024,24,"wiki, book"
 bert-base-multilingual-uncased,,Multiple,105879,768,12,wiki
 <b>bert-base-cased</b>,Yes,English,28996,768,12,"wiki, book"
-bert-large-cased,Yes,English,28996,1024,24,"wiki, book"
+<b>bert-large-cased</b>,Yes,English,28996,1024,24,"wiki, book"
 bert-large-cased-whole-word-masking,Yes,English,28996,1024,24,"wiki, book"
 bert-base-chinese,Yes,Chinese,21128,768,12,wiki
 bert-base-multilingual-cased,Yes,Multiple,119547,768,12,wiki
