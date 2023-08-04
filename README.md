@@ -40,76 +40,32 @@ Dr. Bao’s (包寒吴霜) research focuses on social perceptions, cultural ster
 
 ## Research Interests
 
-- Computational Intelligent Social Psychology
+- Computational Intelligent Social Psychology (计算智能社会心理学)
   + Social Cognition and Cultural Psychology
-  + Natural Language Analysis in Psychology
-  + Contextualized Language Models in Psychology
-
----
-
-## Methodological Knowledge
-
-- Multiple Regression Analysis
-- Mediation/Moderation Analysis
-- Meta-Analysis and Meta-Regression
-- Structural Equation Modeling (SEM)
-- Multilevel Analysis (aka. Hierarchical Linear Modeling, HLM; Linear Mixed Modeling, LMM)
-- Multivariate Time Series Analysis (e.g., Granger Causality Test; Vector Autoregression, VAR)
-- Econometrics (e.g., Instrumental Variable Regression, IVR; Panel Data Modeling)
-- Machine Learning (e.g., Random Forest Algorithm)
-- Big Data Collection, Management, and Processing
-
----
-
-## Software & Programming Expertise
-
-- **R** (proficient)
-  + Data analysis and visualization using R
-  + R packages developed independently:
-    + [bruceR](https://psychbruce.github.io/bruceR/)  [![CRAN-Version](https://www.r-pkg.org/badges/version/bruceR?color=red)](https://CRAN.R-project.org/package=bruceR) [![CRAN-Downloads](https://cranlogs.r-pkg.org/badges/grand-total/bruceR)](https://CRAN.R-project.org/package=bruceR)\
-    “*Broadly Useful Convenient and Efficient R Functions*”
-    + [PsychWordVec](https://psychbruce.github.io/PsychWordVec/) [![CRAN-Version](https://www.r-pkg.org/badges/version/PsychWordVec?color=red)](https://CRAN.R-project.org/package=PsychWordVec) [![CRAN-Downloads](https://cranlogs.r-pkg.org/badges/grand-total/PsychWordVec)](https://CRAN.R-project.org/package=PsychWordVec)\
-    “*Word Embedding Research Framework for Psychological Science*”
-    + [ChineseNames](https://CRAN.R-project.org/package=ChineseNames) [![CRAN-Version](https://www.r-pkg.org/badges/version/ChineseNames?color=red)](https://CRAN.R-project.org/package=ChineseNames) [![CRAN-Downloads](https://cranlogs.r-pkg.org/badges/grand-total/ChineseNames)](https://CRAN.R-project.org/package=ChineseNames)\
-    “*Chinese Name Database 1930-2008*”
-    + [drawMap](https://github.com/psychbruce/drawMap) [![GitHub-Version](https://img.shields.io/github/r-package/v/psychbruce/drawMap?label=GitHub&color=orange)](https://github.com/psychbruce/drawMap)\
-    “*Easily Draw China Maps*”
-- **Python** (proficient)
-  + Web crawling, big data collection and processing
-  + Have crawled 20+ websites for data collection in research
-- **SPSS** (proficient)
-  + Basic and advanced data analyses
-- **Mplus** (familiar)
-  + Structural equation modeling
-- **JavaScript** (familiar)
-  + [Online experiment development](https://github.com/psychbruce/jspsych) using “jsPsych”
-- **MATLAB** (familiar)
-  + Experiment development using “PsychToolBox”
-- **Microsoft Office** (proficient)
-  + *Microsoft Office Specialist* (MOS) Certification
-    + Excel (Expert-Level)
-    + Word (Expert-Level)
-    + PowerPoint (Specialist-Level)
+    + Social Attitudes, Biases, and Stereotypes
+    + Cultural Values, Products, and Practices
+  + Natural Language Processing (NLP) in Psychology
+    + Word Embeddings
+    + Large Language Models (LLM)
 
 ---
 
 ## Publications
 
-\* Corresponding author\
-\# Shared first authorship
+\* Corresponding author
 
-### Published in International Journals (3):
+### Published in English (3):
 
 - **Bao, H.-W.-S.**, Cai, H.\*, & Huang, Z. (**2022**). Discerning cultural shifts in China? Commentary on Hamamura et al. (2021). *American Psychologist, 77*(6), 786–788. <https://doi.org/10.1037/amp0001013>\
-(SSCI Q1, IF = 16.358)
+(IF = 16.4, SSCI Q1)
 
 - **Bao, H.-W.-S.**, Cai, H.\*, Jing, Y., & Wang, J. (**2021**). Novel evidence for the increasing prevalence of unique names in China: A reply to Ogihara. *Frontiers in Psychology, 12*, 731244. <https://doi.org/10.3389/fpsyg.2021.731244>\
-(SSCI Q1, IF = 4.232)
+(IF = 3.8, SSCI Q1)
 
 - Shi, Y., Luo, Y. L. L.\*, Yang, Z., Liu, Y., & **Bao, H.** (**2018**). Do narcissists enjoy visiting social networking sites? It depends on how adaptive they are. *Frontiers in Psychology, 9*, 1739. <https://doi.org/10.3389/fpsyg.2018.01739>\
-(SSCI Q1, IF = 4.232)
+(IF = 3.8, SSCI Q1)
 
-### Published in Chinese Journals (9):
+### Published in Chinese (9):
 
 - **Bao, H.-W.-S.**, Wang, Z.-X., Cheng, X., Su, Z., Yang, Y., Zhang, G.-Y., Wang, B., & Cai, H.\* (**2023**). Using word embeddings to investigate human psychology: Methods and applications. *Advances in Psychological Science, 31*(6), 887–904. <https://doi.org/10.3724/SP.J.1042.2023.00887>\
 [**包寒吴霜**, 王梓西, 程曦, 苏展, 杨盈, 张光耀, 王博, 蔡华俭\*. (**2023**). 基于词嵌入技术的心理学研究：方法及应用. *心理科学进展, 31*(6), 887–904.]
@@ -159,6 +115,8 @@ Dr. Bao’s (包寒吴霜) research focuses on social perceptions, cultural ster
 International Journals:
 
 - *Nature Human Behaviour* (1)
+- *Communications Psychology* (1)
+- *Journal of Cross-Cultural Psychology* (1)
 - *Frontiers in Psychology* (1)
 - *Frontiers in Education* (1)
 - *PeerJ Computer Science* (1)
@@ -169,8 +127,58 @@ Chinese Journals:
 
 - 心理学报 *Acta Psychologica Sinica* (11)
 - 心理科学进展 *Advances in Psychological Science* (3)
-- 心理技术与应用 *Psychology: Techniques and Applications* (1)
+- 心理技术与应用 *Psychology: Techniques and Applications* (2)
 - 心理学通讯 *Psychological Communications* (4)
+
+### Academic Committee Member:
+
+- Chinese Association for Artificial Intelligence - Big Data & Social Computing (CAAI-BDSC):\
+[Judging Panel Member](https://mp.weixin.qq.com/s/dyKeDrk02sewenIjq3vi7g) of the CAAI-BDSC 2023 Social Computing Innovation Contest
+
+---
+
+## Methodological Knowledge
+
+- Multiple Regression and Mediation/Moderation Analysis
+- Multilevel Modeling (Hierarchical Linear Modeling, HLM; Linear Mixed Modeling, LMM)
+- Meta-Analysis and Meta-Regression
+- Structural Equation Modeling (SEM)
+- Multivariate Time Series Analysis (e.g., Granger Causality Test; Vector Autoregression, VAR)
+- Econometrics (e.g., Instrumental Variable Regression, IVR; Panel Data Modeling)
+- Machine Learning (e.g., Random Forest Algorithm)
+- Big Data Collection, Management, and Processing
+
+---
+
+## Software & Programming Expertise
+
+- **R** (proficient)
+  + Data analysis and visualization using R
+  + R packages developed independently:
+    + [bruceR](https://psychbruce.github.io/bruceR/)  [![CRAN-Version](https://www.r-pkg.org/badges/version/bruceR?color=red)](https://CRAN.R-project.org/package=bruceR) [![CRAN-Downloads](https://cranlogs.r-pkg.org/badges/grand-total/bruceR)](https://CRAN.R-project.org/package=bruceR)\
+    “*Broadly Useful Convenient and Efficient R Functions*”
+    + [PsychWordVec](https://psychbruce.github.io/PsychWordVec/) [![CRAN-Version](https://www.r-pkg.org/badges/version/PsychWordVec?color=red)](https://CRAN.R-project.org/package=PsychWordVec) [![CRAN-Downloads](https://cranlogs.r-pkg.org/badges/grand-total/PsychWordVec)](https://CRAN.R-project.org/package=PsychWordVec)\
+    “*Word Embedding Research Framework for Psychological Science*”
+    + [ChineseNames](https://CRAN.R-project.org/package=ChineseNames) [![CRAN-Version](https://www.r-pkg.org/badges/version/ChineseNames?color=red)](https://CRAN.R-project.org/package=ChineseNames) [![CRAN-Downloads](https://cranlogs.r-pkg.org/badges/grand-total/ChineseNames)](https://CRAN.R-project.org/package=ChineseNames)\
+    “*Chinese Name Database 1930-2008*”
+    + [drawMap](https://github.com/psychbruce/drawMap) [![GitHub-Version](https://img.shields.io/github/r-package/v/psychbruce/drawMap?label=GitHub&color=orange)](https://github.com/psychbruce/drawMap)\
+    “*Easily Draw China Maps*”
+- **Python** (proficient)
+  + Web crawling, big data collection and processing
+  + Have crawled 20+ websites for data collection in research
+- **SPSS** (proficient)
+  + Basic and advanced data analyses
+- **Mplus** (familiar)
+  + Structural equation modeling
+- **JavaScript** (familiar)
+  + [Online experiment development](https://github.com/psychbruce/jspsych) using “jsPsych”
+- **MATLAB** (familiar)
+  + Experiment development using “PsychToolBox”
+- **Microsoft Office** (proficient)
+  + *Microsoft Office Specialist* (MOS) Certification
+    + Excel (Expert-Level)
+    + Word (Expert-Level)
+    + PowerPoint (Specialist-Level)
 
 ---
 
@@ -254,7 +262,7 @@ Chinese Journals:
 
 ---
 
-## Personal Hobbies
+## Hobbies
 
 🎱 Billiards/Snooker\
 👊 Wing-Chun (咏春拳)\
@@ -269,8 +277,8 @@ Chinese Journals:
 ## Hometowns
 
 Born in *Xinxiang*, Henan Province (1995~2001)\
-Grew up in *Ningbo*, Zhejiang Province (2001~2013)
+Grown up in *Ningbo*, Zhejiang Province (2001~2013)
 
 
-<h4 align="right">Last updated: Apr 2023</h4>
+<h4 align="right">Updated: Aug 2023</h4>
 
