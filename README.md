@@ -41,7 +41,8 @@ Dr. Bao’s (包寒吴霜) research focuses on social perceptions, cultural ster
 ## Research Interests
 
 - Computational Intelligent Social Psychology\
-(计算智能社会心理学)
+(计算智能社会心理学)\
+
   + Natural Language Processing (NLP) in Psychology
     + Word Embeddings
     + Large Language Models (LLM)
@@ -55,18 +56,18 @@ Dr. Bao’s (包寒吴霜) research focuses on social perceptions, cultural ster
 
 \* Corresponding author
 
-### Published in English (3):
+### Articles in English (3):
 
 - **Bao, H.-W.-S.**, Cai, H.\*, & Huang, Z. (**2022**). Discerning cultural shifts in China? Commentary on Hamamura et al. (2021). *American Psychologist, 77*(6), 786–788. <https://doi.org/10.1037/amp0001013>\
-(IF~2022~ = 16.4, SSCI Q1)
+(IF<sub>2022</sub> = 16.4, SSCI Q1)
 
 - **Bao, H.-W.-S.**, Cai, H.\*, Jing, Y., & Wang, J. (**2021**). Novel evidence for the increasing prevalence of unique names in China: A reply to Ogihara. *Frontiers in Psychology, 12*, 731244. <https://doi.org/10.3389/fpsyg.2021.731244>\
-(IF~2022~ = 3.8, SSCI Q1)
+(IF<sub>2022</sub> = 3.8, SSCI Q1)
 
 - Shi, Y., Luo, Y. L. L.\*, Yang, Z., Liu, Y., & **Bao, H.** (**2018**). Do narcissists enjoy visiting social networking sites? It depends on how adaptive they are. *Frontiers in Psychology, 9*, 1739. <https://doi.org/10.3389/fpsyg.2018.01739>\
-(IF~2022~ = 3.8, SSCI Q1)
+(IF<sub>2022</sub> = 3.8, SSCI Q1)
 
-### Published in Chinese (9):
+### Articles in Chinese (9):
 
 - **Bao, H.-W.-S.**, Wang, Z.-X., Cheng, X., Su, Z., Yang, Y., Zhang, G.-Y., Wang, B., & Cai, H.\* (**2023**). Using word embeddings to investigate human psychology: Methods and applications. *Advances in Psychological Science, 31*(6), 887–904. <https://doi.org/10.3724/SP.J.1042.2023.00887>\
 [**包寒吴霜**, 王梓西, 程曦, 苏展, 杨盈, 张光耀, 王博, 蔡华俭\*. (**2023**). 基于词嵌入技术的心理学研究：方法及应用. *心理科学进展, 31*(6), 887–904.]
