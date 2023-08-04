@@ -40,13 +40,14 @@ Dr. Bao’s (包寒吴霜) research focuses on social perceptions, cultural ster
 
 ## Research Interests
 
-- Computational Intelligent Social Psychology (计算智能社会心理学)
-  + Social Cognition and Cultural Psychology
-    + Social Attitudes, Biases, and Stereotypes
-    + Cultural Values, Products, and Practices
+- Computational Intelligent Social Psychology\
+(计算智能社会心理学)
   + Natural Language Processing (NLP) in Psychology
     + Word Embeddings
     + Large Language Models (LLM)
+  + Social Cognition and Cultural Psychology
+    + Social Attitudes, Biases, and Stereotypes
+    + Cultural Values, Products, and Practices
 
 ---
 
@@ -57,13 +58,13 @@ Dr. Bao’s (包寒吴霜) research focuses on social perceptions, cultural ster
 ### Published in English (3):
 
 - **Bao, H.-W.-S.**, Cai, H.\*, & Huang, Z. (**2022**). Discerning cultural shifts in China? Commentary on Hamamura et al. (2021). *American Psychologist, 77*(6), 786–788. <https://doi.org/10.1037/amp0001013>\
-(IF = 16.4, SSCI Q1)
+(IF~2022~ = 16.4, SSCI Q1)
 
 - **Bao, H.-W.-S.**, Cai, H.\*, Jing, Y., & Wang, J. (**2021**). Novel evidence for the increasing prevalence of unique names in China: A reply to Ogihara. *Frontiers in Psychology, 12*, 731244. <https://doi.org/10.3389/fpsyg.2021.731244>\
-(IF = 3.8, SSCI Q1)
+(IF~2022~ = 3.8, SSCI Q1)
 
 - Shi, Y., Luo, Y. L. L.\*, Yang, Z., Liu, Y., & **Bao, H.** (**2018**). Do narcissists enjoy visiting social networking sites? It depends on how adaptive they are. *Frontiers in Psychology, 9*, 1739. <https://doi.org/10.3389/fpsyg.2018.01739>\
-(IF = 3.8, SSCI Q1)
+(IF~2022~ = 3.8, SSCI Q1)
 
 ### Published in Chinese (9):
 
