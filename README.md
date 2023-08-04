@@ -40,15 +40,14 @@ Dr. Bao’s (包寒吴霜) research focuses on social perceptions, cultural ster
 
 ## Research Interests
 
-- Computational Intelligent Social Psychology\
-(计算智能社会心理学)
+### Computational Intelligent Social Psychology
 
-  + Natural Language Processing (NLP)
-    + Word Embeddings and Large Language Models (LLM)
-  + Social Cognition
-    + Social Attitudes, Biases, and Stereotypes
-  + Cultural Psychology
-    + Cultural Values, Products, and Practices
+- Natural Language Processing (NLP)
+  + Word Embeddings and Large Language Models (LLM)
+- Social Cognition
+  + Social Attitudes, Biases, and Stereotypes
+- Cultural Psychology
+  + Cultural Values, Products, and Practices
 
 ---
 
