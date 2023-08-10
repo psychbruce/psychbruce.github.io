@@ -162,20 +162,31 @@ Chinese Journals:
 
 ## Software & Programming Expertise
 
+<p>
+<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png">
+<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
+<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
+<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
+<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png">
+<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
+<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png">
+</p>
+
 - **R** (proficient)
   + Data analysis and visualization using R
-  + R packages developed independently:
-    + [bruceR](https://psychbruce.github.io/bruceR/)  [![CRAN-Version](https://www.r-pkg.org/badges/version/bruceR?color=red)](https://CRAN.R-project.org/package=bruceR) [![CRAN-Downloads](https://cranlogs.r-pkg.org/badges/grand-total/bruceR)](https://CRAN.R-project.org/package=bruceR)\
-    “*Broadly Useful Convenient and Efficient R Functions*”
-    + [ChineseNames](https://psychbruce.github.io/ChineseNames/) [![CRAN-Version](https://www.r-pkg.org/badges/version/ChineseNames?color=red)](https://CRAN.R-project.org/package=ChineseNames) [![CRAN-Downloads](https://cranlogs.r-pkg.org/badges/grand-total/ChineseNames)](https://CRAN.R-project.org/package=ChineseNames)\
-    “*Chinese Name Database 1930-2008*”
-    + [PsychWordVec](https://psychbruce.github.io/PsychWordVec/) [![CRAN-Version](https://www.r-pkg.org/badges/version/PsychWordVec?color=red)](https://CRAN.R-project.org/package=PsychWordVec) [![CRAN-Downloads](https://cranlogs.r-pkg.org/badges/grand-total/PsychWordVec)](https://CRAN.R-project.org/package=PsychWordVec)\
-    “*Word Embedding Research Framework for Psychological Science*”
-    + [FMAT](https://psychbruce.github.io/FMAT/) [![CRAN-Version](https://www.r-pkg.org/badges/version/FMAT?color=red)](https://CRAN.R-project.org/package=FMAT) [![CRAN-Downloads](https://cranlogs.r-pkg.org/badges/grand-total/FMAT)](https://CRAN.R-project.org/package=FMAT)\
-    “*The Fill-Mask Association Test*”
-    + [NgramTools](https://github.com/psychbruce/NgramTools) [![GitHub-Version](https://img.shields.io/github/r-package/v/psychbruce/NgramTools?label=GitHub&color=orange)](https://github.com/psychbruce/NgramTools)\
-    “*Efficient R Functions for Google Books Ngram Data Analysis*”
-    + [drawMap](https://github.com/psychbruce/drawMap) [![GitHub-Version](https://img.shields.io/github/r-package/v/psychbruce/drawMap?label=GitHub&color=orange)](https://github.com/psychbruce/drawMap)\
+  + R package development:\
+    [![](https://img.shields.io/badge/R_package-bruceR-purple)](https://psychbruce.github.io/bruceR/) [![CRAN-Version](https://www.r-pkg.org/badges/version/bruceR?color=blue)](https://CRAN.R-project.org/package=bruceR) [![CRAN-Downloads](https://cranlogs.r-pkg.org/badges/grand-total/bruceR)](https://CRAN.R-project.org/package=bruceR)\
+    “*Broadly Useful Convenient and Efficient R Functions*”\
+    [![](https://img.shields.io/badge/R_package-ChineseNames-purple)](https://psychbruce.github.io/ChineseNames/) [![CRAN-Version](https://www.r-pkg.org/badges/version/ChineseNames?color=blue)](https://CRAN.R-project.org/package=ChineseNames) [![CRAN-Downloads](https://cranlogs.r-pkg.org/badges/grand-total/ChineseNames)](https://CRAN.R-project.org/package=ChineseNames)\
+    “*Chinese Name Database 1930-2008*”\
+    [![](https://img.shields.io/badge/R_package-PsychWordVec-purple)](https://psychbruce.github.io/PsychWordVec/) [![CRAN-Version](https://www.r-pkg.org/badges/version/PsychWordVec?color=blue)](https://CRAN.R-project.org/package=PsychWordVec) [![CRAN-Downloads](https://cranlogs.r-pkg.org/badges/grand-total/PsychWordVec)](https://CRAN.R-project.org/package=PsychWordVec)\
+    “*Word Embedding Research Framework for Psychological Science*”\
+    [![](https://img.shields.io/badge/R_package-FMAT-purple)](https://psychbruce.github.io/FMAT/) [![CRAN-Version](https://www.r-pkg.org/badges/version/FMAT?color=blue)](https://CRAN.R-project.org/package=FMAT) [![CRAN-Downloads](https://cranlogs.r-pkg.org/badges/grand-total/FMAT)](https://CRAN.R-project.org/package=FMAT)\
+    “*The Fill-Mask Association Test*”\
+    [![](https://img.shields.io/badge/R_package-NgramTools-purple)](https://github.com/psychbruce/NgramTools) [![GitHub-Version](https://img.shields.io/github/r-package/v/psychbruce/NgramTools?label=GitHub&color=blue)](https://github.com/psychbruce/NgramTools)\
+    “*Efficient R Functions for Google Books Ngram Data Analysis*”\
+    [![](https://img.shields.io/badge/R_package-drawMap-purple)](https://github.com/psychbruce/drawMap) [![GitHub-Version](https://img.shields.io/github/r-package/v/psychbruce/drawMap?label=GitHub&color=blue)](https://github.com/psychbruce/drawMap)\
     “*Easily Draw China Maps*”
 - **Python** (proficient)
   + Web crawling, big data collection and processing
