@@ -55,45 +55,48 @@ Dr. Bao’s (包寒吴霜) research focuses on social perceptions, cultural ster
 
 \* Corresponding author
 
-### Articles in English (3):
+### Articles in English (4):
 
-- **Bao, H.-W.-S.**, Cai, H.\*, & Huang, Z. (**2022**). Discerning cultural shifts in China? Commentary on Hamamura et al. (2021). *American Psychologist, 77*(6), 786–788. <https://doi.org/10.1037/amp0001013>\
+4. **Bao, H.-W.-S.**, Cai, H.\*, & Jing, Y. (**in press**). Understanding the rise of unique names: The emphasis on uniqueness matters. *Acta Psychologica Sinica (心理学报)*.\
+(IF<sub>2022</sub> = 1.5, ESCI, CSSCI Top Journal)
+
+3. **Bao, H.-W.-S.**, Cai, H.\*, & Huang, Z. (**2022**). Discerning cultural shifts in China? Commentary on Hamamura et al. (2021). *American Psychologist, 77*(6), 786–788. <https://doi.org/10.1037/amp0001013>\
 (IF<sub>2022</sub> = 16.4, SSCI Q1)
 
-- **Bao, H.-W.-S.**, Cai, H.\*, Jing, Y., & Wang, J. (**2021**). Novel evidence for the increasing prevalence of unique names in China: A reply to Ogihara. *Frontiers in Psychology, 12*, 731244. <https://doi.org/10.3389/fpsyg.2021.731244>\
+2. **Bao, H.-W.-S.**, Cai, H.\*, Jing, Y., & Wang, J. (**2021**). Novel evidence for the increasing prevalence of unique names in China: A reply to Ogihara. *Frontiers in Psychology, 12*, 731244. <https://doi.org/10.3389/fpsyg.2021.731244>\
 (IF<sub>2022</sub> = 3.8, SSCI Q1)
 
-- Shi, Y., Luo, Y. L. L.\*, Yang, Z., Liu, Y., & **Bao, H.** (**2018**). Do narcissists enjoy visiting social networking sites? It depends on how adaptive they are. *Frontiers in Psychology, 9*, 1739. <https://doi.org/10.3389/fpsyg.2018.01739>\
+1. Shi, Y., Luo, Y. L. L.\*, Yang, Z., Liu, Y., & **Bao, H.** (**2018**). Do narcissists enjoy visiting social networking sites? It depends on how adaptive they are. *Frontiers in Psychology, 9*, 1739. <https://doi.org/10.3389/fpsyg.2018.01739>\
 (IF<sub>2022</sub> = 3.8, SSCI Q1)
 
 ### Articles in Chinese (9):
 
-- **Bao, H.-W.-S.**, Wang, Z.-X., Cheng, X., Su, Z., Yang, Y., Zhang, G.-Y., Wang, B., & Cai, H.\* (**2023**). Using word embeddings to investigate human psychology: Methods and applications. *Advances in Psychological Science, 31*(6), 887–904. <https://doi.org/10.3724/SP.J.1042.2023.00887>\
+9. Zhang, M.-Y., Yang, Y., **Bao, H.-W.-S.**, & Cai, H.\* (**in press**). The positive ideal affect of Chinese people: Trends over the past decades. *Acta Psychologica Sinica*.\
+[张明杨, 杨盈, **包寒吴霜**, 蔡华俭\*. (**印刷中**). 中国人的积极理想情绪：近几十年来的变迁. *心理学报*.]
+
+8. **Bao, H.-W.-S.**, Wang, Z.-X., Cheng, X., Su, Z., Yang, Y., Zhang, G.-Y., Wang, B., & Cai, H.\* (**2023**). Using word embeddings to investigate human psychology: Methods and applications. *Advances in Psychological Science, 31*(6), 887–904. <https://doi.org/10.3724/SP.J.1042.2023.00887>\
 [**包寒吴霜**, 王梓西, 程曦, 苏展, 杨盈, 张光耀, 王博, 蔡华俭\*. (**2023**). 基于词嵌入技术的心理学研究：方法及应用. *心理科学进展, 31*(6), 887–904.]
 
-- Zhang, M.-Y., Yang, Y., **Bao, H.-W.-S.**, & Cai, H.\* (**2023**). The positive ideal affect of Chinese people: Trends over the past decades. *Acta Psychologica Sinica*, in press.\
-[张明杨, 杨盈, **包寒吴霜**, 蔡华俭\*. (**2023**). 中国人的积极理想情绪：近几十年来的变迁. *心理学报*, 印刷中.]
-
-- Cai, H.\*, Zhang, M.-Y., **Bao, H.-W.-S.**, Zhu, H.-J., Yang, Z.-Y., Cheng, X., Huang, Z.-H., & Wang, Z.-X. (**2023**). Examining societal change from the perspective of psychology: Research design and analytic techniques. *Advances in Psychological Science, 31*(2), 159–172. <https://doi.org/10.3724/SP.J.1042.2023.00159>\
+7. Cai, H.\*, Zhang, M.-Y., **Bao, H.-W.-S.**, Zhu, H.-J., Yang, Z.-Y., Cheng, X., Huang, Z.-H., & Wang, Z.-X. (**2023**). Examining societal change from the perspective of psychology: Research design and analytic techniques. *Advances in Psychological Science, 31*(2), 159–172. <https://doi.org/10.3724/SP.J.1042.2023.00159>\
 [蔡华俭\*, 张明杨, **包寒吴霜**, 朱慧珺, 杨紫嫣, 程曦, 黄梓航, 王梓西. (**2023**). 心理学视野下的社会变迁研究：研究设计与分析方法. *心理科学进展, 31*(2), 159–172.]
 
-- **Bao, H.-W.-S.**, & Cai, H.\* (**2021**). Psychological and behavioral effects of personal names in real world: Evidence and theories. *Advances in Psychological Science, 29*(6), 1067–1085. <https://doi.org/10.3724/SP.J.1042.2021.01067>\
+6. **Bao, H.-W.-S.**, & Cai, H.\* (**2021**). Psychological and behavioral effects of personal names in real world: Evidence and theories. *Advances in Psychological Science, 29*(6), 1067–1085. <https://doi.org/10.3724/SP.J.1042.2021.01067>\
 [**包寒吴霜**, 蔡华俭\*. (**2021**). 姓名对个体心理与行为的实际影响：证据和理论. *心理科学进展, 29*(6), 1067–1085.]\
 ([中国人民大学复印报刊资料《心理学》2021年第10期](http://zlzx.ruc.edu.cn/xlqk/index.jhtml)全文转载)
 
-- **Bao, H.-W.-S.**, & Cai, H.\* (**2021**). Improve the reliability of psychological research on names. *Chinese Social Sciences Today, 2118*, 5. <https://doi.org/10.28131/n.cnki.ncshk.2021.001194>; <http://sscp.cssn.cn/xkpd/xlx/202103/t20210304_5315368.html>\
+5. **Bao, H.-W.-S.**, & Cai, H.\* (**2021**). Improve the reliability of psychological research on names. *Chinese Social Sciences Today, 2118*, 5. <https://doi.org/10.28131/n.cnki.ncshk.2021.001194>; <http://sscp.cssn.cn/xkpd/xlx/202103/t20210304_5315368.html>\
 [**包寒吴霜**, 蔡华俭\*. (**2021**). 提高姓名心理学研究的可靠程度. *中国社会科学报, 2118*, 5.]
 
-- Yang, Y., Zhu, H.-J., Zhou, W., Zhang, M.-Y., Xie, Y.-P., **Bao, H.-W.-S.**, Su, Z., Wang, X.-O., Jing, Y.-M., Yang, Z.-Y., & Cai, H.\* (**2020**). The behavioral immune system: A multi-level reconsideration. *Advances in Psychological Science, 28*(11), 1865–1879. <https://doi.org/10.3724/SP.J.1042.2020.01865>\
+4. Yang, Y., Zhu, H.-J., Zhou, W., Zhang, M.-Y., Xie, Y.-P., **Bao, H.-W.-S.**, Su, Z., Wang, X.-O., Jing, Y.-M., Yang, Z.-Y., & Cai, H.\* (**2020**). The behavioral immune system: A multi-level reconsideration. *Advances in Psychological Science, 28*(11), 1865–1879. <https://doi.org/10.3724/SP.J.1042.2020.01865>\
 [杨盈, 朱慧珺, 周婉, 张明杨, 谢怡萍, **包寒吴霜**, 苏展, 王潇欧, 敬一鸣, 杨紫嫣, 蔡华俭\*. (**2020**). 行为免疫系统理论及其研究：新视野下的再考察. *心理科学进展, 28*(11), 1865–1879.]
 
-- **Bao, H.-W.-S.**, Cai, H., & Luo, Y.\* (**2019**). Identity motives: Concept, measurement, and psychological effects. *Journal of Psychological Science, 42*(4), 971–977. <https://doi.org/10.16719/j.cnki.1671-6981.20190429>\
+3. **Bao, H.-W.-S.**, Cai, H., & Luo, Y.\* (**2019**). Identity motives: Concept, measurement, and psychological effects. *Journal of Psychological Science, 42*(4), 971–977. <https://doi.org/10.16719/j.cnki.1671-6981.20190429>\
 [**包寒吴霜**, 蔡华俭, 罗宇\*. (**2019**). 身份认同动机：概念、测量与心理效应. *心理科学, 42*(4), 971–977.]
 
-- **Bao, H.-W.-S.**, Wu, S.-T.\*, Zheng, H., Lu, H.-R., Zheng, W., Dai, W., Lu, S., & Zhu, T.-S.\* (**2018**). Polluted self: A big-data analysis based on daily-level air pollution and individualism-collectivism on social media. *Community Psychology Research, 6*(2), 71–85.\
+2. **Bao, H.-W.-S.**, Wu, S.-T.\*, Zheng, H., Lu, H.-R., Zheng, W., Dai, W., Lu, S., & Zhu, T.-S.\* (**2018**). Polluted self: A big-data analysis based on daily-level air pollution and individualism-collectivism on social media. *Community Psychology Research, 6*(2), 71–85.\
 [**包寒吴霜**, 吴胜涛\*, 郑昊, 陆海蓉, 郑伟, 戴炜, 陆梭, 朱廷劭\*. (**2018**). 雾霾下的自我：空气污染与个体主义–集体主义的大数据分析. *社区心理学研究, 6*(2), 71–85.]
 
-- **Bao, H.-W.-S.**, Chen, J.-L., Lin, J.-L., & Liu, L.\* (**2016**). Effects of name and gender on interpersonal attraction: Gender role evaluation as a mediator. *Chinese Journal of Clinical Psychology, 24*(4), 596–600. <https://doi.org/10.16128/j.cnki.1005-3611.2016.04.004>\
+1. **Bao, H.-W.-S.**, Chen, J.-L., Lin, J.-L., & Liu, L.\* (**2016**). Effects of name and gender on interpersonal attraction: Gender role evaluation as a mediator. *Chinese Journal of Clinical Psychology, 24*(4), 596–600. <https://doi.org/10.16128/j.cnki.1005-3611.2016.04.004>\
 [**包寒吴霜**, 陈俊霖, 林俊利, 刘力\*. (**2016**). 名字与性别的人际吸引机制：性别角色评价的中介作用. *中国临床心理学杂志, 24*(4), 596–600.]
 
 ### Conference Presentations (3):
@@ -138,16 +141,22 @@ Chinese Journals:
 
 ---
 
-## Methodological Knowledge
+## Teaching Experiences
 
-- Multiple Regression and Mediation/Moderation Analysis
-- Multilevel Modeling (Hierarchical Linear Modeling, HLM; Linear Mixed Modeling, LMM)
-- Meta-Analysis and Meta-Regression
-- Structural Equation Modeling (SEM)
-- Multivariate Time Series Analysis (e.g., Granger Causality Test; Vector Autoregression, VAR)
-- Econometrics (e.g., Instrumental Variable Regression, IVR; Panel Data Modeling)
-- Machine Learning (e.g., Random Forest Algorithm)
-- Big Data Collection, Management, and Processing
+### [2021-Fall] *Self & Identity* (Graduate Level)
+- *Lecturer*
+
+### [2020-Summer] *R Programming* (Beginner and Advanced Levels)
+- *Lecturer*
+
+### [2018-Spring] *Cultural & Cross-Cultural Psychology* (Graduate Level)
+- *Teaching Assistant* (Professors: Huajian Cai & Yiming Jing)
+
+### [2017-Fall] *Implicit Social Cognition* (Graduate Level)
+- *Teaching Assistant* (Professors: Huajian Cai & Xiaoqing Hu)
+
+### [2017-Spring] *Self & Identity* (Graduate Level)
+- *Teaching Assistant* (Professor: Huajian Cai)
 
 ---
 
@@ -158,10 +167,14 @@ Chinese Journals:
   + R packages developed independently:
     + [bruceR](https://psychbruce.github.io/bruceR/)  [![CRAN-Version](https://www.r-pkg.org/badges/version/bruceR?color=red)](https://CRAN.R-project.org/package=bruceR) [![CRAN-Downloads](https://cranlogs.r-pkg.org/badges/grand-total/bruceR)](https://CRAN.R-project.org/package=bruceR)\
     “*Broadly Useful Convenient and Efficient R Functions*”
+    + [ChineseNames](https://psychbruce.github.io/ChineseNames/) [![CRAN-Version](https://www.r-pkg.org/badges/version/ChineseNames?color=red)](https://CRAN.R-project.org/package=ChineseNames) [![CRAN-Downloads](https://cranlogs.r-pkg.org/badges/grand-total/ChineseNames)](https://CRAN.R-project.org/package=ChineseNames)\
+    “*Chinese Name Database 1930-2008*”
     + [PsychWordVec](https://psychbruce.github.io/PsychWordVec/) [![CRAN-Version](https://www.r-pkg.org/badges/version/PsychWordVec?color=red)](https://CRAN.R-project.org/package=PsychWordVec) [![CRAN-Downloads](https://cranlogs.r-pkg.org/badges/grand-total/PsychWordVec)](https://CRAN.R-project.org/package=PsychWordVec)\
     “*Word Embedding Research Framework for Psychological Science*”
-    + [ChineseNames](https://CRAN.R-project.org/package=ChineseNames) [![CRAN-Version](https://www.r-pkg.org/badges/version/ChineseNames?color=red)](https://CRAN.R-project.org/package=ChineseNames) [![CRAN-Downloads](https://cranlogs.r-pkg.org/badges/grand-total/ChineseNames)](https://CRAN.R-project.org/package=ChineseNames)\
-    “*Chinese Name Database 1930-2008*”
+    + [FMAT](https://psychbruce.github.io/FMAT/) [![CRAN-Version](https://www.r-pkg.org/badges/version/FMAT?color=red)](https://CRAN.R-project.org/package=FMAT) [![CRAN-Downloads](https://cranlogs.r-pkg.org/badges/grand-total/FMAT)](https://CRAN.R-project.org/package=FMAT)\
+    “*The Fill-Mask Association Test*”
+    + [NgramTools](https://github.com/psychbruce/NgramTools) [![GitHub-Version](https://img.shields.io/github/r-package/v/psychbruce/NgramTools?label=GitHub&color=orange)](https://github.com/psychbruce/NgramTools)\
+    “*Efficient R Functions for Google Books Ngram Data Analysis*”
     + [drawMap](https://github.com/psychbruce/drawMap) [![GitHub-Version](https://img.shields.io/github/r-package/v/psychbruce/drawMap?label=GitHub&color=orange)](https://github.com/psychbruce/drawMap)\
     “*Easily Draw China Maps*”
 - **Python** (proficient)
@@ -181,24 +194,20 @@ Chinese Journals:
     + Word (Expert-Level)
     + PowerPoint (Specialist-Level)
 
+[![Star History Chart](https://api.star-history.com/svg?repos=psychbruce/bruceR,psychbruce/ChineseNames,psychbruce/drawMap,psychbruce/NgramTools,psychbruce/PsychWordVec,psychbruce/FMAT,psychbruce/jspsych,psychbruce/stats&type=Date)](https://github.com/psychbruce)
+
 ---
 
-## Teaching Experiences
+## Methodological Knowledge
 
-### [2021-Fall] *Self & Identity* (Graduate Level)
-- *Instructor* (Professor: Huajian Cai)
-
-### [2020-Summer] *R Programming* (Beginner and Advanced Levels)
-- *Instructor* (for members of Prof. Huajian Cai’s lab)
-
-### [2018-Spring] *Cultural & Cross-Cultural Psychology* (Graduate Level)
-- *Teaching Assistant* (Professors: Huajian Cai & Yiming Jing)
-
-### [2017-Fall] *Implicit Social Cognition* (Graduate Level)
-- *Teaching Assistant* (Professors: Huajian Cai & Xiaoqing Hu)
-
-### [2017-Spring] *Self & Identity* (Graduate Level)
-- *Teaching Assistant* (Professor: Huajian Cai)
+- Multiple Regression and Mediation/Moderation Analysis
+- Multilevel Modeling (Hierarchical Linear Modeling, HLM; Linear Mixed Modeling, LMM)
+- Meta-Analysis and Meta-Regression
+- Structural Equation Modeling (SEM)
+- Multivariate Time Series Analysis (e.g., Granger Causality Test; Vector Autoregression, VAR)
+- Econometrics (e.g., Instrumental Variable Regression, IVR; Panel Data Modeling)
+- Machine Learning (e.g., Random Forest Algorithm)
+- Big Data Collection, Management, and Processing
 
 ---
 
@@ -278,7 +287,8 @@ Chinese Journals:
 ## Hometowns
 
 Born in *Xinxiang*, Henan Province (1995~2001)\
-Grown up in *Ningbo*, Zhejiang Province (2001~2013)
+Grown up in *Ningbo*, Zhejiang Province (2001~2013)\
+Studied in *Beijing* (2013~2022)
 
 
 <h4 align="right">Updated: Aug 2023</h4>
