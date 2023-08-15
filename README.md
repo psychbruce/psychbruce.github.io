@@ -55,7 +55,10 @@ Dr. Bao’s (包寒吴霜) research focuses on social perceptions, cultural ster
 
 \* Corresponding author
 
-### Articles in English (4):
+### Articles in English (5):
+
+5. **Bao, H.-W.-S.**, Lu, H., & Luo, Y. L. L.\* (**in press**). Do unique names fit people for creative work? Implications for job recruitment, name change, and product evaluation. *European Journal of Social Psychology*.\
+(IF<sub>2022</sub> = 3.9, SSCI Q2)
 
 4. **Bao, H.-W.-S.**, Cai, H.\*, & Jing, Y. (**in press**). Understanding the rise of unique names: The emphasis on uniqueness matters. *Acta Psychologica Sinica (心理学报)*.\
 (IF<sub>2022</sub> = 1.5, ESCI, CSSCI Top Journal)
