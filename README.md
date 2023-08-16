@@ -55,7 +55,7 @@ Dr. Bao’s (包寒吴霜) research focuses on social perceptions, cultural ster
 
 \* Corresponding author
 
-### Articles in English (5):
+### Journal Articles in English (5):
 
 5. **Bao, H.-W.-S.**, Lu, H., & Luo, Y. L. L.\* (**in press**). Do unique names fit people for creative work? Implications for job recruitment, name change, and product evaluation. _**European Journal of Social Psychology**_.\
 (IF<sub>2022</sub> = 3.9, SSCI Q2)
@@ -72,23 +72,20 @@ Dr. Bao’s (包寒吴霜) research focuses on social perceptions, cultural ster
 1. Shi, Y., Luo, Y. L. L.\*, Yang, Z., Liu, Y., & **Bao, H.** (**2018**). Do narcissists enjoy visiting social networking sites? It depends on how adaptive they are. _**Frontiers in Psychology**, 9_, Article 1739. <https://doi.org/10.3389/fpsyg.2018.01739>\
 (IF<sub>2022</sub> = 3.8, SSCI Q1)
 
-### Articles in Chinese (9):
+### Journal Articles in Chinese (8):
 
-9. Zhang, M.-Y., Yang, Y., **Bao, H.-W.-S.**, & Cai, H.\* (**in press**). The positive ideal affect of Chinese people: Trends over the past decades. _**Acta Psychologica Sinica**_.\
+8. Zhang, M.-Y., Yang, Y., **Bao, H.-W.-S.**, & Cai, H.\* (**in press**). The positive ideal affect of Chinese people: Trends over the past decades. _**Acta Psychologica Sinica**_.\
 [张明杨, 杨盈, **包寒吴霜**, 蔡华俭\*. (**印刷中**). 中国人的积极理想情绪：近几十年来的变迁. _**心理学报**_.]
 
-8. **Bao, H.-W.-S.**, Wang, Z.-X., Cheng, X., Su, Z., Yang, Y., Zhang, G.-Y., Wang, B., & Cai, H.\* (**2023**). Using word embeddings to investigate human psychology: Methods and applications. _**Advances in Psychological Science**, 31_(6), 887–904. <https://doi.org/10.3724/SP.J.1042.2023.00887>\
+7. **Bao, H.-W.-S.**, Wang, Z.-X., Cheng, X., Su, Z., Yang, Y., Zhang, G.-Y., Wang, B., & Cai, H.\* (**2023**). Using word embeddings to investigate human psychology: Methods and applications. _**Advances in Psychological Science**, 31_(6), 887–904. <https://doi.org/10.3724/SP.J.1042.2023.00887>\
 [**包寒吴霜**, 王梓西, 程曦, 苏展, 杨盈, 张光耀, 王博, 蔡华俭\*. (**2023**). 基于词嵌入技术的心理学研究：方法及应用. _**心理科学进展**, 31_(6), 887–904.]
 
-7. Cai, H.\*, Zhang, M.-Y., **Bao, H.-W.-S.**, Zhu, H.-J., Yang, Z.-Y., Cheng, X., Huang, Z.-H., & Wang, Z.-X. (**2023**). Examining societal change from the perspective of psychology: Research design and analytic techniques. _**Advances in Psychological Science**, 31_(2), 159–172. <https://doi.org/10.3724/SP.J.1042.2023.00159>\
+6. Cai, H.\*, Zhang, M.-Y., **Bao, H.-W.-S.**, Zhu, H.-J., Yang, Z.-Y., Cheng, X., Huang, Z.-H., & Wang, Z.-X. (**2023**). Examining societal change from the perspective of psychology: Research design and analytic techniques. _**Advances in Psychological Science**, 31_(2), 159–172. <https://doi.org/10.3724/SP.J.1042.2023.00159>\
 [蔡华俭\*, 张明杨, **包寒吴霜**, 朱慧珺, 杨紫嫣, 程曦, 黄梓航, 王梓西. (**2023**). 心理学视野下的社会变迁研究：研究设计与分析方法. _**心理科学进展**, 31_(2), 159–172.]
 
-6. **Bao, H.-W.-S.**, & Cai, H.\* (**2021**). Psychological and behavioral effects of personal names in real world: Evidence and theories. _**Advances in Psychological Science**, 29_(6), 1067–1085. <https://doi.org/10.3724/SP.J.1042.2021.01067>\
+5. **Bao, H.-W.-S.**, & Cai, H.\* (**2021**). Psychological and behavioral effects of personal names in real world: Evidence and theories. _**Advances in Psychological Science**, 29_(6), 1067–1085. <https://doi.org/10.3724/SP.J.1042.2021.01067>\
 [**包寒吴霜**, 蔡华俭\*. (**2021**). 姓名对个体心理与行为的实际影响：证据和理论. _**心理科学进展**, 29_(6), 1067–1085.]\
 ([中国人民大学复印报刊资料《心理学》2021年第10期](http://zlzx.ruc.edu.cn/xlqk/index.jhtml)全文转载)
-
-5. **Bao, H.-W.-S.**, & Cai, H.\* (**2021**). Improve the reliability of psychological research on names. _**Chinese Social Sciences Today**, 2118_, 5. <https://doi.org/10.28131/n.cnki.ncshk.2021.001194>; <http://sscp.cssn.cn/xkpd/xlx/202103/t20210304_5315368.html>\
-[**包寒吴霜**, 蔡华俭\*. (**2021**). 提高姓名心理学研究的可靠程度. _**中国社会科学报**, 2118_, 5.]
 
 4. Yang, Y., Zhu, H.-J., Zhou, W., Zhang, M.-Y., Xie, Y.-P., **Bao, H.-W.-S.**, Su, Z., Wang, X.-O., Jing, Y.-M., Yang, Z.-Y., & Cai, H.\* (**2020**). The behavioral immune system: A multi-level reconsideration. _**Advances in Psychological Science**, 28_(11), 1865–1879. <https://doi.org/10.3724/SP.J.1042.2020.01865>\
 [杨盈, 朱慧珺, 周婉, 张明杨, 谢怡萍, **包寒吴霜**, 苏展, 王潇欧, 敬一鸣, 杨紫嫣, 蔡华俭\*. (**2020**). 行为免疫系统理论及其研究：新视野下的再考察. _**心理科学进展**, 28_(11), 1865–1879.]
@@ -101,6 +98,11 @@ Dr. Bao’s (包寒吴霜) research focuses on social perceptions, cultural ster
 
 1. **Bao, H.-W.-S.**, Chen, J.-L., Lin, J.-L., & Liu, L.\* (**2016**). Effects of name and gender on interpersonal attraction: Gender role evaluation as a mediator. _**Chinese Journal of Clinical Psychology**, 24_(4), 596–600. <https://doi.org/10.16128/j.cnki.1005-3611.2016.04.004>\
 [**包寒吴霜**, 陈俊霖, 林俊利, 刘力\*. (**2016**). 名字与性别的人际吸引机制：性别角色评价的中介作用. _**中国临床心理学杂志**, 24_(4), 596–600.]
+
+### Newspaper Articles (1):
+
+- **Bao, H.-W.-S.**, & Cai, H.\* (**2021, March 4**). Improve the reliability of psychological research on names. _**Chinese Social Sciences Today**_. <http://sscp.cssn.cn/xkpd/xlx/202103/t20210304_5315368.html>\
+[**包寒吴霜**, 蔡华俭\*. (**2021-03-04**). 提高姓名心理学研究的可靠程度. _**中国社会科学报**_, 2118.]
 
 ### Conference Presentations (3):
 
