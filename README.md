@@ -42,12 +42,13 @@ Dr. Bao’s (包寒吴霜) research focuses on social perceptions, cultural ster
 
 ### Computational Intelligent Social Psychology
 
-- Natural Language Processing (NLP)
-  + Word Embeddings and Large Language Models (LLM)
-- Social Cognition
+- Methodology Based on Natural Language Processing (NLP)
+  + Word Embeddings
+  + Large Language Models (LLM)
+- Social Cognition and Cultural Psychology
   + Social Attitudes, Biases, and Stereotypes
-- Cultural Psychology
-  + Cultural Values, Products, and Practices
+  + Cultural Values, Practices, and Products
+  + Names and Naming Behavior
 
 ---
 
@@ -58,19 +59,19 @@ Dr. Bao’s (包寒吴霜) research focuses on social perceptions, cultural ster
 ### Journal Articles in English (5):
 
 5. **Bao, H.-W.-S.**, Lu, H., & Luo, Y. L. L.\* (**in press**). Do unique names fit people for creative work? Implications for job recruitment, name change, and product evaluation. _**European Journal of Social Psychology**_. Advance online publication. <https://doi.org/10.1002/ejsp.2994>\
-(IF<sub>2022</sub> = 3.9, SSCI Q2)
+(IF<sub>2022</sub> = [3.9](https://jcr.clarivate.com/jcr-jp/journal-profile?journal=EUR_J_SOC_PSYCHOL&year=2022), SSCI Q2)
 
 4. **Bao, H.-W.-S.**, Cai, H.\*, & Jing, Y. (**in press**). Understanding the rise of unique names: The emphasis on uniqueness matters. _**Acta Psychologica Sinica (心理学报)**_.\
-(IF<sub>2022</sub> = 1.5, ESCI, CSSCI Top Journal)
+(IF<sub>2022</sub> = [1.5](https://jcr.clarivate.com/jcr-jp/journal-profile?journal=ACTA_PSYCHOL_SIN&year=2022), ESCI, CSSCI Top Journal)
 
 3. **Bao, H.-W.-S.**, Cai, H.\*, & Huang, Z. (**2022**). Discerning cultural shifts in China? Commentary on Hamamura et al. (2021). _**American Psychologist**, 77_(6), 786–788. <https://doi.org/10.1037/amp0001013>\
-(IF<sub>2022</sub> = 16.4, SSCI Q1)
+(IF<sub>2022</sub> = [16.4](https://jcr.clarivate.com/jcr-jp/journal-profile?journal=AM_PSYCHOL&year=2022), SSCI Q1)
 
 2. **Bao, H.-W.-S.**, Cai, H.\*, Jing, Y., & Wang, J. (**2021**). Novel evidence for the increasing prevalence of unique names in China: A reply to Ogihara. _**Frontiers in Psychology**, 12_, Article 731244. <https://doi.org/10.3389/fpsyg.2021.731244>\
-(IF<sub>2022</sub> = 3.8, SSCI Q1)
+(IF<sub>2022</sub> = [3.8](https://jcr.clarivate.com/jcr-jp/journal-profile?journal=FRONT_PSYCHOL&year=2022), SSCI Q1)
 
 1. Shi, Y., Luo, Y. L. L.\*, Yang, Z., Liu, Y., & **Bao, H.** (**2018**). Do narcissists enjoy visiting social networking sites? It depends on how adaptive they are. _**Frontiers in Psychology**, 9_, Article 1739. <https://doi.org/10.3389/fpsyg.2018.01739>\
-(IF<sub>2022</sub> = 3.8, SSCI Q1)
+(IF<sub>2022</sub> = [3.8](https://jcr.clarivate.com/jcr-jp/journal-profile?journal=FRONT_PSYCHOL&year=2022), SSCI Q1)
 
 ### Journal Articles in Chinese (8):
 
