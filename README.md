@@ -138,7 +138,7 @@ Chinese Journals:
 - 心理学报 *Acta Psychologica Sinica* (11)
 - 心理科学进展 *Advances in Psychological Science* (3)
 - 心理技术与应用 *Psychology: Techniques and Applications* (2)
-- 心理学通讯 *Psychological Communications* (5)
+- 心理学通讯 *Psychological Communications* (7)
 
 ### Academic Committee Member:
 
@@ -222,6 +222,9 @@ Chinese Journals:
 
 ## Workshops & Invited Talks
 
+### [2023-10] *Western Views of China in Natural Language* (Early Career Research Workshop)
+- Manchester China Institute, University of Manchester
+
 ### [2023-09] *Social Science in Natural Language: Word Counting, Word Embedding, and Language Modeling* ("Translation Academy" Salon Series)
 - University of Manchester (online)
 
@@ -303,5 +306,5 @@ Grown up in *Ningbo*, Zhejiang Province (2001~2013)\
 Studied in *Beijing* (2013~2022)
 
 
-<h4 align="right">Updated: Sep 2023</h4>
+<h4 align="right">Updated: Oct 2023</h4>
 
