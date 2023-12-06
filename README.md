@@ -42,7 +42,7 @@ Dr. Bao’s (包寒吴霜) research focuses on social perceptions, cultural ster
 
 ### Computational Intelligent Social Psychology
 
-- Methodology Based on Natural Language Processing (NLP)
+- Methodology with Natural Language Processing (NLP)
   + Word Embeddings
   + Large Language Models (LLM)
 - Social Cognition and Cultural Psychology
@@ -56,13 +56,19 @@ Dr. Bao’s (包寒吴霜) research focuses on social perceptions, cultural ster
 
 \* Corresponding author
 
-### Journal Articles in English (5):
+### Journal Articles in English (5 + 2 R&R):
 
-5. **Bao, H.-W.-S.**, Lu, H., & Luo, Y. L. L.\* (**in press**). Do unique names fit people for creative work? Implications for job recruitment, name change, and product evaluation. _**European Journal of Social Psychology**_. Advance online publication. <https://doi.org/10.1002/ejsp.2994>\
-(IF<sub>2022</sub> = 3.9, SSCI Q2)
+7. **Bao, H.-W.-S.**, & Gries, P.\* (**Revise & Resubmit**). Racial stereotypes differ by gender: How Asian and Black men and women are depicted in natural language. _**British Journal of Social Psychology**_.\
+(IF<sub>2022</sub> = 5.4, SSCI Q1)
 
-4. **Bao, H.-W.-S.**, Cai, H.\*, & Jing, Y. (**in press**). Understanding the rise of unique names: The emphasis on uniqueness matters. _**Acta Psychologica Sinica (心理学报)**_.\
+6. **Bao, H.-W.-S.**\* (**Revise & Resubmit**). The Fill-Mask Association Test (FMAT): Using AI language models to better understand society and culture. _**Journal of Personality and Social Psychology**_.\
+(IF<sub>2022</sub> = 7.6, SSCI Q1 Top Journal)
+
+5. **Bao, H.-W.-S.**, Cai, H.\*, & Jing, Y. (**2024**). Understanding the rise of unique names: The emphasis on uniqueness matters. _**Acta Psychologica Sinica (心理学报)**_, in press.\
 (IF<sub>2022</sub> = 1.5, ESCI, CSSCI Top Journal)
+
+4. **Bao, H.-W.-S.**, Lu, H., & Luo, Y. L. L.\* (**2023**). Do unique names fit people for creative work? Implications for job recruitment, name change, and product evaluation. _**European Journal of Social Psychology**, 53_(7), 1524–1541. <https://doi.org/10.1002/ejsp.2994>\
+(IF<sub>2022</sub> = 3.9, SSCI Q2)
 
 3. **Bao, H.-W.-S.**, Cai, H.\*, & Huang, Z. (**2022**). Discerning cultural shifts in China? Commentary on Hamamura et al. (2021). _**American Psychologist**, 77_(6), 786–788. <https://doi.org/10.1037/amp0001013>\
 (IF<sub>2022</sub> = 16.4, SSCI Q1)
@@ -135,7 +141,7 @@ International Journals:
 
 Chinese Journals:
 
-- 心理学报 *Acta Psychologica Sinica* (11)
+- 心理学报 *Acta Psychologica Sinica* (12)
 - 心理科学进展 *Advances in Psychological Science* (3)
 - 心理技术与应用 *Psychology: Techniques and Applications* (2)
 - 心理学通讯 *Psychological Communications* (7)
@@ -149,10 +155,13 @@ Chinese Journals:
 
 ## Teaching Experiences
 
+### [2023-Winter] *Advanced R Programming & Visualization* (4-Day Online Course)
+- *Lecturer*
+
 ### [2021-Fall] *Self & Identity* (Graduate Level)
 - *Lecturer*
 
-### [2020-Summer] *R Programming* (Beginner and Advanced Levels)
+### [2020-Summer] *R Programming* (Beginner & Advanced Levels)
 - *Lecturer*
 
 ### [2018-Spring] *Cultural & Cross-Cultural Psychology* (Graduate Level)
@@ -222,6 +231,9 @@ Chinese Journals:
 
 ## Workshops & Invited Talks
 
+### [2023-11] *Using Natural Language to Study Human Society: Word Embedding Association Test (WEAT) and Fill-Mask Association Test (FMAT) with R* (Social Data Science Workshop)
+- Cathie Marsh Institute, University of Manchester
+
 ### [2023-10] *Western Views of China in Natural Language* (Early Career Research Workshop)
 - Manchester China Institute, University of Manchester
 
@@ -252,7 +264,7 @@ Chinese Journals:
 - Nanjing Normal University (invited by Prof. Chuan-Peng Hu)
 - A talk presented on the *Psychological Research Method Workshop: R Programming*
 
-### [2019-11] *Multilevel Modeling: Methods, Key Issues, and Applications* (2-Days Workshop)
+### [2019-11] *Multilevel Modeling: Methods, Key Issues, and Applications* (2-Day Workshop)
 - Institute of Psychology, Chinese Academy of Sciences (invited by Prof. Xingshan Li)
 - Materials: [HLM_Workshop02_IPCAS-2019](https://github.com/psychbruce/stats/tree/master/HLM_Workshop02_IPCAS-2019)
 
@@ -304,7 +316,4 @@ Chinese Journals:
 Born in *Xinxiang*, Henan Province (1995~2001)\
 Grown up in *Ningbo*, Zhejiang Province (2001~2013)\
 Studied in *Beijing* (2013~2022)
-
-
-<h4 align="right">Updated: Oct 2023</h4>
 
