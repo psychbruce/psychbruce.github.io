@@ -15,10 +15,10 @@ Dr. Bao’s (包寒吴霜) research focuses on social perceptions, cultural ster
 
 ## Employment
 
-### 2022~2024: *Postdoc Research Associate*
+### 2022.9~2024.9: *Postdoc Research Associate*
 
 [Manchester China Institute](https://www.mci.manchester.ac.uk/), **The University of Manchester**, UK\
-(Supervisor: Prof. Peter Gries)\
+(Cooperative Supervisor: Prof. Peter Gries)\
 英国曼彻斯特大学 · 曼彻斯特中国研究院 (博士后研究员)
 
 ---
@@ -58,10 +58,10 @@ Dr. Bao’s (包寒吴霜) research focuses on social perceptions, cultural ster
 
 ### Journal Articles in English (5 + 2 R&R):
 
-7. **Bao, H.-W.-S.**, & Gries, P.\* (**Revise & Resubmit**). Racial stereotypes differ by gender: How Asian and Black men and women are depicted in natural language. _**British Journal of Social Psychology**_.\
+7. **Bao, H.-W.-S.**, & Gries, P.\* (**Revise & Resubmit**). Racial stereotypes differ by gender: Asian and Black men and women in natural language. _**British Journal of Social Psychology**_.\
 (IF<sub>2022</sub> = 5.4, SSCI Q1)
 
-6. **Bao, H.-W.-S.**\* (**Revise & Resubmit**). The Fill-Mask Association Test (FMAT): Using AI language models to better understand society and culture. _**Journal of Personality and Social Psychology**_.\
+6. **Bao, H.-W.-S.**\* (**Revise & Resubmit**). The Fill-Mask Association Test (FMAT): Measuring propositional semantic representations in natural language. _**Journal of Personality and Social Psychology**_.\
 (IF<sub>2022</sub> = 7.6, SSCI Q1 Top Journal)
 
 5. **Bao, H.-W.-S.**, Cai, H.\*, & Jing, Y. (**2024**). Understanding the rise of unique names: The emphasis on uniqueness matters. _**Acta Psychologica Sinica (心理学报)**_, in press.\
@@ -82,7 +82,8 @@ Dr. Bao’s (包寒吴霜) research focuses on social perceptions, cultural ster
 ### Journal Articles in Chinese (8):
 
 8. **Bao, H.-W.-S.**, Wang, Z.-X., Cheng, X., Su, Z., Yang, Y., Zhang, G.-Y., Wang, B., & Cai, H.\* (**2023**). Using word embeddings to investigate human psychology: Methods and applications. _**Advances in Psychological Science**, 31_(6), 887–904. <https://doi.org/10.3724/SP.J.1042.2023.00887>\
-[**包寒吴霜**, 王梓西, 程曦, 苏展, 杨盈, 张光耀, 王博, 蔡华俭\*. (**2023**). 基于词嵌入技术的心理学研究：方法及应用. _**心理科学进展**, 31_(6), 887–904.]
+[**包寒吴霜**, 王梓西, 程曦, 苏展, 杨盈, 张光耀, 王博, 蔡华俭\*. (**2023**). 基于词嵌入技术的心理学研究：方法及应用. _**心理科学进展**, 31_(6), 887–904.]\
+([中国人民大学复印报刊资料《心理学》2023年第11期](http://zlzx.ruc.edu.cn/xlqk/index.jhtml)全文转载)
 
 7. **Bao, H.-W.-S.**, & Cai, H.\* (**2021**). Psychological and behavioral effects of personal names in real world: Evidence and theories. _**Advances in Psychological Science**, 29_(6), 1067–1085. <https://doi.org/10.3724/SP.J.1042.2021.01067>\
 [**包寒吴霜**, 蔡华俭\*. (**2021**). 姓名对个体心理与行为的实际影响：证据和理论. _**心理科学进展**, 29_(6), 1067–1085.]\
@@ -141,9 +142,9 @@ International Journals:
 
 Chinese Journals:
 
-- 心理学报 *Acta Psychologica Sinica* (12)
+- 心理学报 *Acta Psychologica Sinica* (13)
 - 心理科学进展 *Advances in Psychological Science* (3)
-- 心理技术与应用 *Psychology: Techniques and Applications* (2)
+- 心理技术与应用 *Psychology: Techniques and Applications* (3)
 - 心理学通讯 *Psychological Communications* (7)
 
 ### Academic Committee Member:
@@ -229,7 +230,10 @@ Chinese Journals:
 
 ---
 
-## Workshops & Invited Talks
+## Invited Talks & Workshops
+
+### [2023-12] *Computational Intelligent Social Psychology: Using AI Language Models to Understand Society and Culture*
+- School of Psychology and Cognitive Science, East China Normal University
 
 ### [2023-11] *Using Natural Language to Study Human Society: Word Embedding Association Test (WEAT) and Fill-Mask Association Test (FMAT) with R* (Social Data Science Workshop)
 - Cathie Marsh Institute, University of Manchester
