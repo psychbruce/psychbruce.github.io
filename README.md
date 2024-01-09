@@ -58,7 +58,7 @@ Dr. Bao’s (包寒吴霜) research focuses on social perceptions, cultural ster
 
 ### Journal Articles in English (5 + 2 R&R):
 
-7. **Bao, H.-W.-S.**, & Gries, P.\* (**Revise & Resubmit**). Racial stereotypes differ by gender: Asian and Black men and women in natural language. _**British Journal of Social Psychology**_.\
+7. **Bao, H.-W.-S.**, & Gries, P.\* (**Revise & Resubmit**). Intersectional racial stereotypes in natural language. _**British Journal of Social Psychology**_.\
 (IF<sub>2022</sub> = 5.4, SSCI Q1)
 
 6. **Bao, H.-W.-S.**\* (**Revise & Resubmit**). The Fill-Mask Association Test (FMAT): Measuring propositional semantic representations in natural language. _**Journal of Personality and Social Psychology**_.\
