@@ -15,7 +15,7 @@ Dr. Bao’s (包寒吴霜) research focuses on social perceptions, cultural ster
 
 ## Employment
 
-### 2022.9~2024.9: *Postdoc Research Associate*
+### 💼 2022.9~2024.9: *Postdoc Research Associate*
 
 [Manchester China Institute](https://www.mci.manchester.ac.uk/), **The University of Manchester**, UK\
 (Cooperative Supervisor: Prof. Peter Gries)\
@@ -25,13 +25,13 @@ Dr. Bao’s (包寒吴霜) research focuses on social perceptions, cultural ster
 
 ## Education
 
-### 2017~2022: *Ph.D.* in Personality and Social Psychology
+### 🎓 2017~2022: *Ph.D.* in Personality and Social Psychology
 
 [Institute of Psychology](http://www.psych.ac.cn/), **Chinese Academy of Sciences**, China\
 (Supervisor: Prof. Huajian Cai)\
 中国科学院 · 心理研究所 (理学博士)
 
-### 2013~2017: *B.Sc.* in Psychology
+### 🎓 2013~2017: *B.Sc.* in Psychology
 
 [Faculty of Psychology](https://psych.bnu.edu.cn/), **Beijing Normal University**, China\
 北京师范大学 · 心理学部 (理学学士)
