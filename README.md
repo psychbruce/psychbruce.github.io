@@ -42,13 +42,14 @@ Dr. Bao’s (包寒吴霜) research focuses on social perceptions, cultural ster
 
 ### Computational Intelligent Social Psychology
 
-- Methodology with Natural Language Processing (NLP)
-  + Word Embeddings
+- Natural Language Processing (NLP) Methodology
+  + The Fill-Mask Association Test (FMAT)
   + Large Language Models (LLM)
+  + Word Embeddings
 - Social Cognition and Cultural Psychology
-  + Social Attitudes, Biases, and Stereotypes
-  + Cultural Values, Practices, and Products
-  + Names and Naming Behavior
+  + Propositional Semantic Representations
+  + Stereotypes, Prejudices, and Discrimination
+  + Sociocultural Changes and Regional Variations
 
 ---
 
@@ -145,7 +146,7 @@ Chinese Journals:
 - 心理学报 *Acta Psychologica Sinica* (13)
 - 心理科学进展 *Advances in Psychological Science* (3)
 - 心理技术与应用 *Psychology: Techniques and Applications* (3)
-- 心理学通讯 *Psychological Communications* (7)
+- 心理学通讯 *Psychological Communications* (8)
 
 ### Academic Committee Member:
 
