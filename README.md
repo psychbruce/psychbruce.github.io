@@ -15,7 +15,7 @@ Dr. Bao’s (包寒吴霜) research focuses on social perceptions, cultural ster
 
 ## Employment
 
-### 💼 2022.9~2024.9: *Postdoc Research Associate*
+### 💼 2022.9~2024.8: *Postdoc Research Associate*
 
 [Manchester China Institute](https://www.mci.manchester.ac.uk/), **The University of Manchester**, UK\
 (Cooperative Supervisor: Prof. Peter Gries)\
@@ -62,7 +62,7 @@ Dr. Bao’s (包寒吴霜) research focuses on social perceptions, cultural ster
 7. **Bao, H.-W.-S.**, & Gries, P.\* (**Revise & Resubmit**). Intersectional racial stereotypes in natural language. _**British Journal of Social Psychology**_.\
 (IF<sub>2022</sub> = 5.4, SSCI Q1)
 
-6. **Bao, H.-W.-S.**\* (**Revise & Resubmit**). The Fill-Mask Association Test (FMAT): Measuring propositional semantic representations in natural language. _**Journal of Personality and Social Psychology**_.\
+6. **Bao, H.-W.-S.**\* (**Minor Revision**). The Fill-Mask Association Test (FMAT): Measuring propositions in natural language. _**Journal of Personality and Social Psychology**_.\
 (IF<sub>2022</sub> = 7.6, SSCI Q1 Top Journal)
 
 5. **Bao, H.-W.-S.**, Cai, H.\*, & Jing, Y. (**2024**). Understanding the rise of unique names: The emphasis on uniqueness matters. _**Acta Psychologica Sinica (心理学报)**_, in press.\
