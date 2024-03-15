@@ -15,15 +15,17 @@ Dr. Bao’s (包寒吴霜) research focuses on social perceptions, cultural ster
 
 ## Employment
 
-### 💼 2024.6~present: *Assistant Professor*
+### 💼 2024.6~ : *Assistant Professor*
 
-[School of Psychology and Cognitive Science](https://psy.ecnu.edu.cn/), **East China Normal University**, China\
+[School of Psychology and Cognitive Science](https://psy.ecnu.edu.cn/)\
+**East China Normal University**, China\
 华东师范大学 · 心理与认知科学学院 (助理教授/晨晖学者)
 
 ### 💼 2022.9~2024.8: *Postdoc Research Associate*
 
-[Manchester China Institute](https://www.mci.manchester.ac.uk/), **University of Manchester**, UK\
-(Cooperative Supervisor: Prof. Peter Gries)\
+[Manchester China Institute](https://www.mci.manchester.ac.uk/)\
+**University of Manchester**, UK\
+(Collaborative Supervisor: Prof. Peter Gries)\
 英国曼彻斯特大学 · 曼彻斯特中国研究院 (博士后研究员)
 
 ---
@@ -67,7 +69,7 @@ Dr. Bao’s (包寒吴霜) research focuses on social perceptions, cultural ster
 7. **Bao, H.-W.-S.**, & Gries, P.\* (**minor revision**). Intersectional racial stereotypes in natural language. _**British Journal of Social Psychology**_.\
 (IF<sub>2022</sub> = 5.4, SSCI Q1)
 
-6. **Bao, H.-W.-S.**\* (**in press**). The Fill-Mask Association Test (FMAT): Measuring propositions in natural language. _**Journal of Personality and Social Psychology**_. DOI: 10.1037/pspa0000396\
+6. **Bao, H.-W.-S.**\* (**in press**). The Fill-Mask Association Test (FMAT): Measuring propositions in natural language. _**Journal of Personality and Social Psychology**_. <https://doi.org/10.1037/pspa0000396>\
 (IF<sub>2022</sub> = 7.6, SSCI Q1 Top Journal)
 
 5. **Bao, H.-W.-S.**, Cai, H.\*, & Jing, Y. (**in press**). Understanding the rise of unique names: The emphasis on uniqueness matters. _**Acta Psychologica Sinica (心理学报)**_.\
