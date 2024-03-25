@@ -9,7 +9,7 @@
 
 ## Overview
 
-Dr. Bao’s (包寒吴霜) research focuses on social psychology with a *computational intelligent* approach, using quantitative methodology based on natural language processing and large-scale text analysis. He also focuses on developing new, broader methods and research tools for psychological science.
+Dr. Bao’s (包寒吴霜) research focuses on social psychology with a *computational intelligent* approach, using natural language processing and large-scale text analysis as the methodology. He also focuses on developing new, broader methods and research tools for psychological science.
 
 ---
 
@@ -67,11 +67,11 @@ Dr. Bao’s (包寒吴霜) research focuses on social psychology with a *computa
 ### Journal Articles in English (7):
 
 7. **Bao, H.-W.-S.**, & Gries, P.\* (**in press**). Intersectional race-gender stereotypes in natural language. _**British Journal of Social Psychology**_.\
-Download: [Accepted Manuscript](https://psychbruce.github.io/paper/Bao_Accepted_BJSP_FMAT_Stereotype_Manuscript.pdf)\
+→ Download PDF: [Accepted Manuscript](https://psychbruce.github.io/paper/Bao_Accepted_BJSP_FMAT_Stereotype_Manuscript.pdf)\
 (IF<sub>2022</sub> = 5.4, SSCI Q1)
 
 6. **Bao, H.-W.-S.**\* (**in press**). The Fill-Mask Association Test (FMAT): Measuring propositions in natural language. _**Journal of Personality and Social Psychology**_. <https://doi.org/10.1037/pspa0000396>\
-Download: [Accepted Manuscript](https://psychbruce.github.io/paper/Bao_Accepted_JPSP_FMAT_Manuscript.pdf)\
+→ Download PDF: [Accepted Manuscript](https://psychbruce.github.io/paper/Bao_Accepted_JPSP_FMAT_Manuscript.pdf)\
 (IF<sub>2022</sub> = 7.6, SSCI Q1 Top Journal)
 
 5. **Bao, H.-W.-S.**, Cai, H.\*, & Jing, Y. (**in press**). Understanding the rise of unique names: The emphasis on uniqueness matters. _**Acta Psychologica Sinica (心理学报)**_.\
