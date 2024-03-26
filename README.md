@@ -97,7 +97,8 @@ Dr. Bao (包寒吴霜) studies social psychology with a *computational intellige
 
 7. **Bao, H.-W.-S.**, & Cai, H.\* (**2021**). Psychological and behavioral effects of personal names in real world: Evidence and theories. _**Advances in Psychological Science**, 29_(6), 1067–1085. <https://doi.org/10.3724/SP.J.1042.2021.01067>\
 [**包寒吴霜**, 蔡华俭\*. (**2021**). 姓名对个体心理与行为的实际影响：证据和理论. _**心理科学进展**, 29_(6), 1067–1085.]\
-([中国人民大学复印报刊资料《心理学》2021年第10期](http://zlzx.ruc.edu.cn/xlqk/index.jhtml)全文转载)
+([中国人民大学复印报刊资料《心理学》2021年第10期](http://zlzx.ruc.edu.cn/xlqk/index.jhtml)全文转载)\
+(入选[哲学社会科学主文献](https://zszwx.cn/mainDetails?id=21945&referenceNumber=773725))
 
 6. **Bao, H.-W.-S.**, Cai, H., & Luo, Y.\* (**2019**). Identity motives: Concept, measurement, and psychological effects. _**Journal of Psychological Science**, 42_(4), 971–977. <https://doi.org/10.16719/j.cnki.1671-6981.20190429>\
 [**包寒吴霜**, 蔡华俭, 罗宇\*. (**2019**). 身份认同动机：概念、测量与心理效应. _**心理科学**, 42_(4), 971–977.]
@@ -142,8 +143,9 @@ Dr. Bao (包寒吴霜) studies social psychology with a *computational intellige
 International Journals:
 
 - *Nature Human Behaviour* (1)
-- *Communications Psychology* (1)
+- *Behavior Research Methods* (1)
 - *Journal of Cross-Cultural Psychology* (1)
+- *Communications Psychology* (1)
 - *Frontiers in Psychology* (1)
 - *Frontiers in Education* (1)
 - *PeerJ Computer Science* (1)
