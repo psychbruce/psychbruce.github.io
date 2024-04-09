@@ -21,7 +21,7 @@ Dr. Bao (包寒吴霜) studies social psychology with a *computational intellige
 **East China Normal University**, China\
 华东师范大学 · 心理与认知科学学院 (助理教授/晨晖学者)
 
-### 💼 2022.9~2024.5: *Postdoc Research Associate*
+### 💼 2022.9~2024.5: *Research Associate*
 
 [Manchester China Institute](https://www.mci.manchester.ac.uk/)\
 **University of Manchester**, UK\
@@ -47,16 +47,18 @@ Dr. Bao (包寒吴霜) studies social psychology with a *computational intellige
 
 ## Research Interests
 
-### Computational Intelligent Social Psychology
+### Computational Intelligent Social Psychology\
+(计算智能社会心理学)
 
 - Natural Language Processing (NLP) Methodology
-  + The Fill-Mask Association Test (FMAT)
-  + Large Language Models (LLM)
-  + Word Embeddings
+  + AI/Large Language Models (LLM)
+  + [The Fill-Mask Association Test (FMAT)](https://psychbruce.github.io/FMAT/)
+  + [Word Embeddings](https://psychbruce.github.io/PsychWordVec/)
 - Social Cognition and Cultural Psychology
-  + Propositional Semantic Representations
-  + Stereotypes, Prejudices, and Discrimination
-  + Sociocultural Changes and Regional Variations
+  + Propositional Semantic Representation
+  + Stereotyping, Prejudice, and Discrimination
+  + Sociocultural Change and Regional Variation
+  + [Chinese Names](https://psychbruce.github.io/ChineseNames/)
 
 ---
 
@@ -66,7 +68,7 @@ Dr. Bao (包寒吴霜) studies social psychology with a *computational intellige
 
 ### Journal Articles in English (7):
 
-7. **Bao, H.-W.-S.**, & Gries, P.\* (**in press**). Intersectional race-gender stereotypes in natural language. _**British Journal of Social Psychology**_.\
+7. **Bao, H.-W.-S.**, & Gries, P.\* (**in press**). Intersectional race-gender stereotypes in natural language. _**British Journal of Social Psychology**_. <https://doi.org/10.1111/bjso.12748>\
 🔥 Download PDF: [Accepted Manuscript](https://psychbruce.github.io/paper/Bao_Accepted_BJSP_FMAT_Stereotype_Manuscript.pdf)\
 (IF<sub>2022</sub> = 5.4, SSCI Q1)
 
@@ -192,14 +194,14 @@ Chinese Journals:
 ## Software & Programming Expertise
 
 <p>
-<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png">
-<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
-<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
-<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
-<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
-<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png">
-<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
-<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png">
+<img height="40" src="https://psychbruce.github.io/img/raw-github/r.png">
+<img height="40" src="https://psychbruce.github.io/img/raw-github/python.png">
+<img height="40" src="https://psychbruce.github.io/img/raw-github/html.png">
+<img height="40" src="https://psychbruce.github.io/img/raw-github/css.png">
+<img height="40" src="https://psychbruce.github.io/img/raw-github/javascript.png">
+<img height="40" src="https://psychbruce.github.io/img/raw-github/matlab.png">
+<img height="40" src="https://psychbruce.github.io/img/raw-github/git.png">
+<img height="40" src="https://psychbruce.github.io/img/raw-github/markdown.png">
 </p>
 
 - **R** (proficient)
@@ -245,47 +247,47 @@ Chinese Journals:
 
 ## Invited Talks & Workshops
 
-### [2023-12] *Computational Intelligent Social Psychology: Using AI Language Models to Understand Society and Culture*
+### [2023.12] *Computational Intelligent Social Psychology: Using AI Language Models to Understand Society and Culture*
 - School of Psychology and Cognitive Science, East China Normal University
 
-### [2023-11] *Using Natural Language to Study Human Society: Word Embedding Association Test (WEAT) and Fill-Mask Association Test (FMAT) with R* (Social Data Science Workshop)
+### [2023.11] *Using Natural Language to Study Human Society: Word Embedding Association Test (WEAT) and Fill-Mask Association Test (FMAT) with R* (Social Data Science Workshop)
 - Cathie Marsh Institute, University of Manchester
 
-### [2023-10] *Western Views of China in Natural Language* (Early Career Research Workshop)
+### [2023.10] *Western Views of China in Natural Language* (Early Career Research Workshop)
 - Manchester China Institute, University of Manchester
 
-### [2023-09] *Social Science in Natural Language: Word Counting, Word Embedding, and Language Modeling* ("Translation Academy" Salon Series)
+### [2023.9] *Social Science in Natural Language: Word Counting, Word Embedding, and Language Modeling* ("Translation Academy" Salon Series)
 - University of Manchester (online)
 
-### [2023-04] *Discerning Human Society in Natural Language: Methods Based on Frequency, Similarity, and Probability* (GNARC ECR Methods Workshop)
+### [2023.4] *Discerning Human Society in Natural Language: Methods Based on Frequency, Similarity, and Probability* (GNARC ECR Methods Workshop)
 - University of Manchester (invited by Prof. Nan Zhang)
 
-### [2022-06] *bruceR in the Workflow of Data Analysis*
+### [2022.6] *bruceR in the Workflow of Data Analysis*
 - Nanjing Normal University (invited by Prof. Chuan-Peng Hu)
 - Video: [Zhihu](https://www.zhihu.com/zvideo/1518929994206601217), [Bilibili](https://www.bilibili.com/video/BV1T94y1274r)
 
-### [2022-03] *Embedded in Word Embedding: Methodological Evolution of Psychology in the Era of AI*
+### [2022.3] *Embedded in Word Embedding: Methodological Evolution of Psychology in the Era of AI*
 - Institute of Psychology, Chinese Academy of Sciences
 
-### [2021-12] *R in Data Science*
+### [2021.12] *R in Data Science*
 - Beijing Normal University (invited by Prof. Zijun Cai)
 
-### [2021-11] *R Programming and the bruceR Package*
+### [2021.11] *R Programming and the bruceR Package*
 - Peking University (invited by Prof. Guiquan Li)
 
-### [2021-09] *How to Learn R Programming?*
+### [2021.9] *How to Learn R Programming?*
 - Holland Psychometrics Association (online)
 - Link: [Intro](https://mp.weixin.qq.com/s/Y4b2fsQTalXtf1JTIJKreg), [Video](https://mp.weixin.qq.com/s/2HrTpJWchVeW7_8m8HL9cA)
 
-### [2021-06] *How to “Uninstall” SPSS? Tips on Learning R Programming*
+### [2021.6] *How to “Uninstall” SPSS? Tips on Learning R Programming*
 - Nanjing Normal University (invited by Prof. Chuan-Peng Hu)
 - A talk presented on the *Psychological Research Method Workshop: R Programming*
 
-### [2019-11] *Multilevel Modeling: Methods, Key Issues, and Applications* (2-Day Workshop)
+### [2019.11] *Multilevel Modeling: Methods, Key Issues, and Applications* (2-Day Workshop)
 - Institute of Psychology, Chinese Academy of Sciences (invited by Prof. Xingshan Li)
 - Materials: [HLM_Workshop02_IPCAS-2019](https://github.com/psychbruce/stats/tree/master/HLM_Workshop02_IPCAS-2019)
 
-### [2019-10] *Multilevel Modeling: Methods, Key Issues, and R Programming*
+### [2019.10] *Multilevel Modeling: Methods, Key Issues, and R Programming*
 - The 22nd National Academic Congress of Psychology, Hangzhou, Zhejiang, China
 - Link: [增强心理学研究的可重复性工作坊：方法与实践](http://nacp2019.psysoc.org.cn/a21.html)
 - Materials: [HLM_Workshop01_NACP-2019](https://github.com/psychbruce/stats/tree/master/HLM_Workshop01_NACP-2019)
