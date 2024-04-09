@@ -47,14 +47,13 @@ Dr. Bao (包寒吴霜) studies social psychology with a *computational intellige
 
 ## Research Interests
 
-### Computational Intelligent Social Psychology\
-(计算智能社会心理学)
+### Computational Intelligent Social Psychology<br/>(计算智能社会心理学)
 
-- Natural Language Processing (NLP) Methodology
+- **Natural Language Processing (NLP) Methodology**
   + AI/Large Language Models (LLM)
   + [The Fill-Mask Association Test (FMAT)](https://psychbruce.github.io/FMAT/)
   + [Word Embeddings](https://psychbruce.github.io/PsychWordVec/)
-- Social Cognition and Cultural Psychology
+- **Social Cognition and Cultural Psychology**
   + Propositional Semantic Representation
   + Stereotyping, Prejudice, and Discrimination
   + Sociocultural Change and Regional Variation
@@ -229,19 +228,6 @@ Chinese Journals:
     + Excel (Expert-Level)
     + Word (Expert-Level)
     + PowerPoint (Specialist-Level)
-
----
-
-## Methodological Knowledge
-
-- Multiple Regression and Mediation/Moderation Analysis
-- Multilevel Modeling (Hierarchical Linear Modeling, HLM; Linear Mixed Modeling, LMM)
-- Meta-Analysis and Meta-Regression
-- Structural Equation Modeling (SEM)
-- Multivariate Time Series Analysis (e.g., Granger Causality Test; Vector Autoregression, VAR)
-- Econometrics (e.g., Instrumental Variable Regression, IVR; Panel Data Modeling)
-- Machine Learning (e.g., Random Forest Algorithm)
-- Big Data Collection, Management, and Processing
 
 ---
 
