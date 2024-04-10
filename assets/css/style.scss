@@ -1,0 +1,15 @@
+---
+---
+
+.wrapper { width: 1100px; }
+header { width: 250px; }
+section { width: 800px; }
+body { font-family: "Roboto Condensed", Helvetica, Arial, sans-serif; }
+h1 { color: rgb(107, 44, 145); font-size: 24px; }
+h2 { color: rgb(107, 44, 145); font-size: 24px; }
+h3 { color: rgb(50, 50, 50); font-size: 18px; }
+h4 { color: rgb(50, 50, 50); font-size: 17px; }
+p, li { color: rgb(66, 66, 66); font-size: 17px; }
+
+@import "fonts";
+@import "{{ site.theme }}";

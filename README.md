@@ -1,16 +1,3 @@
-
-<style>
-  .wrapper { width: 1100px; }
-  header { width: 250px; }
-  section { width: 800px; }
-  body { font-family: "Roboto Condensed", "Arial", sans-serif; }
-  h1 { color: rgb(107, 44, 145); font-size: 24px; }
-  h2 { color: rgb(107, 44, 145); font-size: 24px; }
-  h3 { color: rgb(50, 50, 50); font-size: 18px; }
-  h4 { color: rgb(50, 50, 50); font-size: 17px; }
-  p, li { color: rgb(66, 66, 66); font-size: 17px; }
-</style>
-
 ## Overview
 
 Dr. Bao (包寒吴霜) studies social psychology with a *computational intelligent* approach, using natural language processing (NLP) as the main methodology. He also focuses on developing new methods and research tools for psychological science.
@@ -27,7 +14,6 @@ Dr. Bao (包寒吴霜) studies social psychology with a *computational intellige
 ### 💼 2022.9~2024.5: *Research Associate*
 
 [Manchester China Institute](https://www.mci.manchester.ac.uk/), **University of Manchester**, UK\
-(Collaborative Supervisor: Prof. Peter Gries)\
 英国曼彻斯特大学 · 曼彻斯特中国研究院 (博士后研究员)
 
 ---
@@ -37,7 +23,6 @@ Dr. Bao (包寒吴霜) studies social psychology with a *computational intellige
 ### 🎓 2017~2022: *Ph.D.* in Personality and Social Psychology
 
 [Institute of Psychology](http://www.psych.ac.cn/), **Chinese Academy of Sciences**, China\
-(Supervisor: Prof. Huajian Cai)\
 中国科学院 · 心理研究所 (理学博士)
 
 ### 🎓 2013~2017: *B.Sc.* in Psychology
