@@ -1,4 +1,4 @@
-Dr. Bao (包寒吴霜) studies social psychology with a *computational intelligent* approach, using natural language processing (NLP) as the main methodology. He also focuses on developing new methods and research tools for psychological science.
+Dr. Bao (包寒吴霜) studies social psychology with a *computational intelligent* approach, using natural language processing (NLP) as the main methodology. He also focuses on developing new methods (e.g., [FMAT](https://psychbruce.github.io/FMAT/)) and research tools (e.g., [bruceR](https://psychbruce.github.io/bruceR/), [PsychWordVec](https://psychbruce.github.io/PsychWordVec/)) for psychological science.
 
 ------------------------------------------------------------------------
 
@@ -48,7 +48,8 @@ Dr. Bao (包寒吴霜) studies social psychology with a *computational intellige
 
 ## Publications
 
-\* Corresponding author
+\* Corresponding author\
+\# Supervised students
 
 ### Journal Articles in English (7):
 
