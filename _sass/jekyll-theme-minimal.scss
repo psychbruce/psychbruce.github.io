@@ -4,9 +4,8 @@
 body {
   background-color: #fff;
   padding: 50px;
-  font-family: "Roboto Condensed", Helvetica, Arial, sans-serif;
-  font-size: 17px;
-  color: rgb(66, 66, 66);
+  font: 17px/1.2 "Roboto Condensed", Helvetica, Arial, sans-serif;
+  color: rgb(50, 50, 50);
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -16,10 +15,6 @@ h1, h2, h3, h4, h5, h6 {
 
 p, ul, ol, table, pre, dl {
   margin: 0 0 20px;
-}
-
-h1, h2, h3 {
-  line-height: 1.1;
 }
 
 h1, h2 {
