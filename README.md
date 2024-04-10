@@ -1,15 +1,19 @@
 
 <style>
-  h1 { color: rgb(107, 44, 145); font-size: 22px; }
-  h2 { color: rgb(107, 44, 145); font-size: 21px; }
-  h3 { color: rgb(50, 50, 50); font-size: 17px; }
-  h4 { color: rgb(50, 50, 50); font-size: 16px; }
-  p, li { color: rgb(66, 66, 66); font-size: 16px; }
+  .wrapper { width: 1100px; }
+  header { width: 250px; }
+  section { width: 800px; }
+  body { font-family: "Roboto Condensed", "Arial", sans-serif; }
+  h1 { color: rgb(107, 44, 145); font-size: 24px; }
+  h2 { color: rgb(107, 44, 145); font-size: 24px; }
+  h3 { color: rgb(50, 50, 50); font-size: 18px; }
+  h4 { color: rgb(50, 50, 50); font-size: 17px; }
+  p, li { color: rgb(66, 66, 66); font-size: 17px; }
 </style>
 
 ## Overview
 
-Dr. Bao (包寒吴霜) studies social psychology with a *computational intelligent* approach, using natural language processing as the main methodology. He also focuses on developing new methods and research tools for psychological science.
+Dr. Bao (包寒吴霜) studies social psychology with a *computational intelligent* approach, using natural language processing (NLP) as the main methodology. He also focuses on developing new methods and research tools for psychological science.
 
 ---
 
@@ -17,14 +21,12 @@ Dr. Bao (包寒吴霜) studies social psychology with a *computational intellige
 
 ### 💼 2024.6~ : *Assistant Professor*
 
-[School of Psychology and Cognitive Science](https://psy.ecnu.edu.cn/)\
-**East China Normal University**, China\
+[School of Psychology and Cognitive Science](https://psy.ecnu.edu.cn/), **East China Normal University**, China\
 华东师范大学 · 心理与认知科学学院 (助理教授/晨晖学者)
 
 ### 💼 2022.9~2024.5: *Research Associate*
 
-[Manchester China Institute](https://www.mci.manchester.ac.uk/)\
-**University of Manchester**, UK\
+[Manchester China Institute](https://www.mci.manchester.ac.uk/), **University of Manchester**, UK\
 (Collaborative Supervisor: Prof. Peter Gries)\
 英国曼彻斯特大学 · 曼彻斯特中国研究院 (博士后研究员)
 
@@ -47,7 +49,7 @@ Dr. Bao (包寒吴霜) studies social psychology with a *computational intellige
 
 ## Research Interests
 
-### Computational Intelligent Social Psychology<br/>(计算智能社会心理学)
+### Computational Intelligent Social Psychology (计算智能社会心理学)
 
 - **Natural Language Processing (NLP) Methodology**
   + AI/Large Language Models (LLM)
@@ -98,8 +100,7 @@ Dr. Bao (包寒吴霜) studies social psychology with a *computational intellige
 
 7. **Bao, H.-W.-S.**, & Cai, H.\* (**2021**). Psychological and behavioral effects of personal names in real world: Evidence and theories. _**Advances in Psychological Science**, 29_(6), 1067–1085. <https://doi.org/10.3724/SP.J.1042.2021.01067>\
 [**包寒吴霜**, 蔡华俭\*. (**2021**). 姓名对个体心理与行为的实际影响：证据和理论. _**心理科学进展**, 29_(6), 1067–1085.]\
-([中国人民大学复印报刊资料《心理学》2021年第10期](http://zlzx.ruc.edu.cn/xlqk/index.jhtml)全文转载)\
-(入选[哲学社会科学主文献](https://zszwx.cn/mainDetails?id=21945&referenceNumber=773725))
+([中国人民大学复印报刊资料《心理学》2021年第10期](http://zlzx.ruc.edu.cn/xlqk/index.jhtml)全文转载) (入选[哲学社会科学主文献](https://zszwx.cn/mainDetails?id=21945&referenceNumber=773725))
 
 6. **Bao, H.-W.-S.**, Cai, H., & Luo, Y.\* (**2019**). Identity motives: Concept, measurement, and psychological effects. _**Journal of Psychological Science**, 42_(4), 971–977. <https://doi.org/10.16719/j.cnki.1671-6981.20190429>\
 [**包寒吴霜**, 蔡华俭, 罗宇\*. (**2019**). 身份认同动机：概念、测量与心理效应. _**心理科学**, 42_(4), 971–977.]
