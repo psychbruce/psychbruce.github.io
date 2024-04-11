@@ -210,73 +210,73 @@ Chinese Journals:
 
 **[2018-Spring] _Cultural & Cross-Cultural Psychology_** (Graduate Level)
 
--   *Teaching Assistant* (Professors: Huajian Cai & Yiming Jing)
+-   *Teaching Assistant* (Lecturers: Huajian Cai & Yiming Jing)
 
 **[2017-Fall] _Implicit Social Cognition_** (Graduate Level)
 
--   *Teaching Assistant* (Professors: Huajian Cai & Xiaoqing Hu)
+-   *Teaching Assistant* (Lecturers: Huajian Cai & Xiaoqing Hu)
 
 **[2017-Spring] _Self & Identity_** (Graduate Level)
 
--   *Teaching Assistant* (Professor: Huajian Cai)
+-   *Teaching Assistant* (Lecturer: Huajian Cai)
 
 ------------------------------------------------------------------------
 
 ## Invited Talks
 
-**[2023.12] *Computational Intelligent Social Psychology: Using AI Language Models to Understand Society and Culture***
+**[2023.12] _Computational Intelligent Social Psychology: Using AI Language Models to Understand Society and Culture_**
 
 -   School of Psychology and Cognitive Science, East China Normal University
 
-**[2023.11] *Using Natural Language to Study Human Society: WEAT and FMAT with R*** (Social Data Science Workshop)
+**[2023.11] _Using Natural Language to Study Human Society: WEAT and FMAT with R_** (Social Data Science Workshop)
 
--   Cathie Marsh Institute, University of Manchester
+-   Cathie Marsh Institute, University of Manchester (invited by Arkadiusz Wiśniowski)
 
-**[2023.10] *Western Views of China in Natural Language*** (Early Career Research Workshop)
+**[2023.10] _Western Views of China in Natural Language_** (Early Career Research Workshop)
 
 -   Manchester China Institute, University of Manchester
 
-**[2023.9] *Social Science in Natural Language: Word Counting, Word Embedding, and Language Modeling*** ("Translation Academy" Salon Series)
+**[2023.9] _Social Science in Natural Language: Word Counting, Word Embedding, and Language Modeling_** ("Translation Academy" Salon Series)
 
 -   University of Manchester (online)
 
-**[2023.4] *Discerning Human Society in Natural Language: Methods Based on Frequency, Similarity, and Probability*** (GNARC ECR Methods Workshop)
+**[2023.4] _Discerning Human Society in Natural Language: Methods Based on Frequency, Similarity, and Probability_** (GNARC ECR Methods Workshop)
 
--   University of Manchester (invited by Prof. Nan Zhang)
+-   University of Manchester (invited by Nan Zhang)
 
-**[2022.6] *bruceR in the Workflow of Data Analysis***
+**[2022.6] _bruceR in the Workflow of Data Analysis_**
 
--   Nanjing Normal University (invited by Prof. Chuan-Peng Hu)
+-   Nanjing Normal University (invited by Chuan-Peng Hu)
 -   Video: [Zhihu](https://www.zhihu.com/zvideo/1518929994206601217), [Bilibili](https://www.bilibili.com/video/BV1T94y1274r)
 
-**[2022.3] *Embedded in Word Embedding: Methodological Evolution of Psychology in the Era of AI***
+**[2022.3] _Embedded in Word Embedding: Methodological Evolution of Psychology in the Era of AI_**
 
 -   Institute of Psychology, Chinese Academy of Sciences
 
-**[2021.12] *R in Data Science***
+**[2021.12] _R in Data Science_**
 
--   Beijing Normal University (invited by Prof. Zijun Cai)
+-   Beijing Normal University (invited by Zijun Cai)
 
-**[2021.11] *R Programming and the bruceR Package***
+**[2021.11] _R Programming and the bruceR Package_**
 
--   Peking University (invited by Prof. Guiquan Li)
+-   Peking University (invited by Guiquan Li)
 
-**[2021.9] *How to Learn R Programming?***
+**[2021.9] _How to Learn R Programming?_**
 
 -   Holland Psychometrics Association (online)
 -   Link: [Intro](https://mp.weixin.qq.com/s/Y4b2fsQTalXtf1JTIJKreg), [Video](https://mp.weixin.qq.com/s/2HrTpJWchVeW7_8m8HL9cA)
 
-**[2021.6] *How to “Uninstall” SPSS? Tips on Learning R Programming***
+**[2021.6] _How to “Uninstall” SPSS? Tips on Learning R Programming_**
 
--   Nanjing Normal University (invited by Prof. Chuan-Peng Hu)
+-   Nanjing Normal University (invited by Chuan-Peng Hu)
 -   A talk presented on the *Psychological Research Method Workshop: R Programming*
 
-**[2019.11] *Multilevel Modeling: Methods, Key Issues, and Applications*** (2-Day Workshop)
+**[2019.11] _Multilevel Modeling: Methods, Key Issues, and Applications_** (2-Day Workshop)
 
--   Institute of Psychology, Chinese Academy of Sciences (invited by Prof. Xingshan Li)
+-   Institute of Psychology, Chinese Academy of Sciences (invited by Xingshan Li)
 -   Materials: [HLM_Workshop02_IPCAS-2019](https://github.com/psychbruce/stats/tree/master/HLM_Workshop02_IPCAS-2019)
 
-**[2019.10] *Multilevel Modeling: Methods, Key Issues, and R Programming***
+**[2019.10] _Multilevel Modeling: Methods, Key Issues, and R Programming_**
 
 -   The 22nd National Academic Congress of Psychology, Hangzhou, Zhejiang, China
 -   Link: [增强心理学研究的可重复性工作坊：方法与实践](http://nacp2019.psysoc.org.cn/a21.html)
