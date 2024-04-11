@@ -2,7 +2,7 @@ Dr. Bao (包寒吴霜) is an Assistant Professor studying *computational intelli
 
 ------------------------------------------------------------------------
 
-## Academic Appointments
+## Academic Positions
 
 ### 💼 *Assistant Professor* (2024.6~ )
 
