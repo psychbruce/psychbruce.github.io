@@ -2,30 +2,30 @@ Dr. Bao (包寒吴霜) is an Assistant Professor studying *computational intelli
 
 ------------------------------------------------------------------------
 
-## Employment
+## Academic Appointments
 
-### 💼 2024.6~ : *Assistant Professor*
+### 💼 *Assistant Professor* (2024.6~ )
 
-[School of Psychology and Cognitive Science](https://psy.ecnu.edu.cn/), **East China Normal University**, China\
+**East China Normal University**, [School of Psychology and Cognitive Science](https://psy.ecnu.edu.cn/)\
 华东师范大学 · 心理与认知科学学院 (助理教授/晨晖学者)
 
-### 💼 2022.9~2024.5: *Research Associate*
+### 💼 *Research Associate* (2022.9~2024.5)
 
-[Manchester China Institute](https://www.mci.manchester.ac.uk/), **University of Manchester**, UK\
+**The University of Manchester**, [Manchester China Institute](https://www.mci.manchester.ac.uk/)\
 英国曼彻斯特大学 · 曼彻斯特中国研究院 (博士后研究员)
 
 ------------------------------------------------------------------------
 
 ## Education
 
-### 🎓 2017~2022: *Ph.D.* in Personality and Social Psychology
+### 🎓 *Ph.D.* in Personality and Social Psychology (2017~2022)
 
-[Institute of Psychology](http://www.psych.ac.cn/), **Chinese Academy of Sciences**, China\
+**Chinese Academy of Sciences**, [Institute of Psychology](http://www.psych.ac.cn/)\
 中国科学院 · 心理研究所 (理学博士)
 
-### 🎓 2013~2017: *B.Sc.* in Psychology
+### 🎓 *B.Sc.* in Psychology (2013~2017)
 
-[Faculty of Psychology](https://psych.bnu.edu.cn/), **Beijing Normal University**, China\
+**Beijing Normal University**, [Faculty of Psychology](https://psych.bnu.edu.cn/)\
 北京师范大学 · 心理学部 (理学学士)
 
 ------------------------------------------------------------------------
@@ -122,7 +122,7 @@ Dr. Bao (包寒吴霜) is an Assistant Professor studying *computational intelli
 
 ------------------------------------------------------------------------
 
-## Academic Services
+## Service
 
 ### Journal Reviewer (Articles Reviewed):
 
@@ -153,35 +153,7 @@ Chinese Journals:
 
 ------------------------------------------------------------------------
 
-## Teaching Experiences
-
-**[2023-Winter] *Advanced R Programming & Visualization*** (4-Day Online Course)
-
--   *Lecturer*
-
-**[2021-Fall] *Self & Identity*** (Graduate Level)
-
--   *Lecturer*
-
-**[2020-Summer] *R Programming*** (Beginner & Advanced Levels)
-
--   *Lecturer*
-
-**[2018-Spring] *Cultural & Cross-Cultural Psychology*** (Graduate Level)
-
--   *Teaching Assistant* (Professors: Huajian Cai & Yiming Jing)
-
-**[2017-Fall] *Implicit Social Cognition*** (Graduate Level)
-
--   *Teaching Assistant* (Professors: Huajian Cai & Xiaoqing Hu)
-
-**[2017-Spring] *Self & Identity*** (Graduate Level)
-
--   *Teaching Assistant* (Professor: Huajian Cai)
-
-------------------------------------------------------------------------
-
-## Software & Programming Expertise
+## Programming
 
 <p>
   <img src="https://psychbruce.github.io/img/raw-github/r.png" height="40"/>
@@ -196,7 +168,7 @@ Chinese Journals:
 
 -   **R** (proficient)
     -   Data analysis and visualization using R
-    -   R package development:\
+    -   R packages developed independently:\
         [![](https://img.shields.io/badge/R_package-bruceR-purple)](https://psychbruce.github.io/bruceR/) [![CRAN-Version](https://www.r-pkg.org/badges/version/bruceR?color=blue)](https://CRAN.R-project.org/package=bruceR) [![CRAN-Downloads](https://cranlogs.r-pkg.org/badges/grand-total/bruceR)](https://CRAN.R-project.org/package=bruceR)\
         [![](https://img.shields.io/badge/R_package-ChineseNames-purple)](https://psychbruce.github.io/ChineseNames/) [![CRAN-Version](https://www.r-pkg.org/badges/version/ChineseNames?color=blue)](https://CRAN.R-project.org/package=ChineseNames) [![CRAN-Downloads](https://cranlogs.r-pkg.org/badges/grand-total/ChineseNames)](https://CRAN.R-project.org/package=ChineseNames)\
         [![](https://img.shields.io/badge/R_package-PsychWordVec-purple)](https://psychbruce.github.io/PsychWordVec/) [![CRAN-Version](https://www.r-pkg.org/badges/version/PsychWordVec?color=blue)](https://CRAN.R-project.org/package=PsychWordVec) [![CRAN-Downloads](https://cranlogs.r-pkg.org/badges/grand-total/PsychWordVec)](https://CRAN.R-project.org/package=PsychWordVec)\
@@ -222,7 +194,35 @@ Chinese Journals:
 
 ------------------------------------------------------------------------
 
-## Invited Talks & Workshops
+## Teaching
+
+**[2023-Winter] _Advanced R Programming & Visualization_** (4-Day Online Course)
+
+-   *Lecturer*
+
+**[2021-Fall] _Self & Identity_** (Graduate Level)
+
+-   *Lecturer*
+
+**[2020-Summer] _R Programming_** (Beginner & Advanced Levels)
+
+-   *Lecturer*
+
+**[2018-Spring] _Cultural & Cross-Cultural Psychology_** (Graduate Level)
+
+-   *Teaching Assistant* (Professors: Huajian Cai & Yiming Jing)
+
+**[2017-Fall] _Implicit Social Cognition_** (Graduate Level)
+
+-   *Teaching Assistant* (Professors: Huajian Cai & Xiaoqing Hu)
+
+**[2017-Spring] _Self & Identity_** (Graduate Level)
+
+-   *Teaching Assistant* (Professor: Huajian Cai)
+
+------------------------------------------------------------------------
+
+## Invited Talks
 
 **[2023.12] *Computational Intelligent Social Psychology: Using AI Language Models to Understand Society and Culture***
 
