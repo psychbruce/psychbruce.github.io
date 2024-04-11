@@ -17,7 +17,7 @@ p, ul, ol, table, pre, dl {
 }
 
 h1, h2 {
-  color: rgb(107, 44, 145);
+  color: rgb(100, 10, 150);
   font-size: 24px;
 }
 
@@ -48,24 +48,14 @@ section {
 }
 
 a {
-  color: #267CB9;
+  color: rgb(0, 100, 180);
   text-decoration: none;
 }
 
 a:hover, a:focus {
-  color: #069;
+  color: rgb(0, 80, 145);
   font-weight: bold;
-}
-
-a small {
-  font-size: 11px;
-  color: #777;
-  margin-top: -0.3em;
-  display: block;
-}
-
-a:hover small {
-  color: #777;
+  text-decoration: underline;
 }
 
 blockquote {
@@ -73,11 +63,6 @@ blockquote {
   margin: 0;
   padding: 0 0 0 20px;
   font-style: italic;
-}
-
-code, pre {
-  font-family: Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal, Consolas, Liberation Mono, DejaVu Sans Mono, Courier New, monospace;
-  color: #333;
 }
 
 pre {
@@ -112,78 +97,9 @@ img {
   max-width: 100%;
 }
 
-kbd {
-  background-color: #fafbfc;
-  border: 1px solid #c6cbd1;
-  border-bottom-color: #959da5;
-  border-radius: 3px;
-  box-shadow: inset 0 -1px 0 #959da5;
-  color: #444d56;
-  display: inline-block;
-  font-size: 11px;
-  line-height: 10px;
-  padding: 3px 5px;
-  vertical-align: middle;
-}
-
-ul.downloads {
-  list-style: none;
-  height: 40px;
-  padding: 0;
-  background: #f4f4f4;
-  border-radius: 5px;
-  border: 1px solid #e0e0e0;
-  width: 270px;
-}
-
-.downloads li {
-  width: 89px;
-  float: left;
-  border-right: 1px solid #e0e0e0;
-  height: 40px;
-}
-
-.downloads li:first-child a {
-  border-radius: 5px 0 0 5px;
-}
-
-.downloads li:last-child a {
-  border-radius: 0 5px 5px 0;
-}
-
-.downloads a {
-  line-height: 1;
-  font-size: 11px;
-  color: #676767;
-  display: block;
-  text-align: center;
-  padding-top: 6px;
-  height: 34px;
-}
-
-.downloads a:hover, .downloads a:focus {
-  color: #675C5C;
-  font-weight: bold;
-}
-
-.downloads ul a:active {
-  background-color: #f0f0f0;
-}
-
 strong {
   color: #222;
   font-weight: 700;
-}
-
-.downloads li + li + li {
-  border-right: none;
-  width: 89px;
-}
-
-.downloads a strong {
-  font-size: 14px;
-  display: block;
-  color: #222;
 }
 
 small {
@@ -206,7 +122,6 @@ footer {
 }
 
 @media print, screen and (max-width: 960px) {
-
   div.wrapper {
     width: auto;
     margin: 0;
@@ -261,14 +176,6 @@ footer {
 @media print, screen and (max-width: 480px) {
   body {
     padding: 15px;
-  }
-
-  .downloads {
-    width: 99%;
-  }
-
-  .downloads li, .downloads li + li + li {
-    width: 33%;
   }
 }
 
