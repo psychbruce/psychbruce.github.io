@@ -47,6 +47,34 @@ section {
   padding-bottom: 50px;
 }
 
+.toc {
+  position: static;
+  background-color: #f0f0f0;
+  padding: 20px;
+}
+
+.toc-list {
+  position: static;
+  list-style-type: none;
+  padding: 0;
+}
+
+.toc-list li {
+  font-size: 18px;
+  font-weight: bold;
+  margin: 10px;
+}
+
+.flex {
+  display: flex;
+  justify-content: space-between;
+}
+
+.logo {
+  width: 200px;
+  margin-bottom: 20px;
+}
+
 a {
   color: rgb(0, 100, 180);
   text-decoration: none;
@@ -86,7 +114,7 @@ th, td {
 
 dt {
   color: #444;
-  font-weight: 700;
+  font-weight: bold;
 }
 
 th {
@@ -99,11 +127,11 @@ img {
 
 strong {
   color: #222;
-  font-weight: 700;
+  font-weight: bold;
 }
 
 small {
-  font-size: 11px;
+  font-size: 12px;
 }
 
 hr {
@@ -133,8 +161,12 @@ footer {
     width: auto;
   }
 
-  header {
-    padding-right: 320px;
+  .flex {
+    flex-direction: column-reverse;
+  }
+
+  .logo {
+    width: auto;
   }
 
   section {
@@ -142,16 +174,6 @@ footer {
     border-width: 1px 0;
     padding: 20px 0;
     margin: 0 0 20px;
-  }
-
-  header a small {
-    display: inline;
-  }
-
-  header ul {
-    position: absolute;
-    right: 50px;
-    top: 52px;
   }
 }
 

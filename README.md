@@ -1,4 +1,4 @@
-Dr. Bao (包寒吴霜) studies social psychology with a *computational intelligent* approach, using natural language processing (NLP) as the main methodology. He also focuses on developing new methods (e.g., [FMAT](https://psychbruce.github.io/FMAT/)) and research tools (e.g., [bruceR](https://psychbruce.github.io/bruceR/), [PsychWordVec](https://psychbruce.github.io/PsychWordVec/)) for psychological science.
+Dr. Bao (包寒吴霜) is an Assistant Professor studying *computational intelligent* social psychology at the East China Normal University. He uses natural language processing (NLP) as the main methodology and also focuses on developing new methods (e.g., [FMAT](https://psychbruce.github.io/FMAT/)) and tools (e.g., [bruceR](https://psychbruce.github.io/bruceR/), [PsychWordVec](https://psychbruce.github.io/PsychWordVec/)) for psychological science.
 
 ------------------------------------------------------------------------
 
@@ -315,8 +315,7 @@ Chinese Journals:
 👊 Wing-Chun (咏春拳)\
 🔗️ Nunchakus (双节棍)\
 🥊 Mixed Martial Arts (综合格斗)\
-🥋 Tae-Kwon-Do (Level: 2nd *Dan* black belt)\
-🪖 CS2 (CSGO)
+🥋 Tae-Kwon-Do (Level: 2nd *Dan* black belt)
 
 ------------------------------------------------------------------------
 
