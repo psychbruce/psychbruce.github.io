@@ -53,15 +53,15 @@ Dr. Bao (包寒吴霜) is an Assistant Professor studying *computational intelli
 
 ### Journal Articles in English (7):
 
-7.  **Bao, H.-W.-S.**, & Gries, P.<sup>\*</sup> (**in press**). Intersectional race–gender stereotypes in natural language. _**British Journal of Social Psychology**_. Advance online publication. <https://doi.org/10.1111/bjso.12748>\
+7.  **Bao, H.-W.-S.**, & Gries, P.<sup>\*</sup> (**2024**). Intersectional race–gender stereotypes in natural language. _**British Journal of Social Psychology**_. Advance online publication. <https://doi.org/10.1111/bjso.12748>\
 🔥 Download [PDF](https://bpspsychub.onlinelibrary.wiley.com/doi/epdf/10.1111/bjso.12748)\
 (IF<sub>2022</sub> = 5.4, SSCI Q1)
 
-6.  **Bao, H.-W.-S.**<sup>\*</sup> (**in press**). The Fill-Mask Association Test (FMAT): Measuring propositions in natural language. _**Journal of Personality and Social Psychology**_. <https://doi.org/10.1037/pspa0000396>\
+6.  **Bao, H.-W.-S.**<sup>\*</sup> (**2024**). The Fill-Mask Association Test (FMAT): Measuring propositions in natural language. _**Journal of Personality and Social Psychology**_. Advance online publication. <https://doi.org/10.1037/pspa0000396>\
 🔥 Download [Preprint](https://osf.io/bgsxr) / [Manuscript](https://psychbruce.github.io/paper/Bao_Accepted_JPSP_FMAT_Manuscript.pdf)\
 (IF<sub>2022</sub> = 7.6, SSCI Q1 Top Journal)
 
-5.  **Bao, H.-W.-S.**, Cai, H.<sup>\*</sup>, & Jing, Y. (**in press**). Understanding the rise of unique names: The emphasis on uniqueness matters. _**Acta Psychologica Sinica (心理学报)**_.\
+5.  **Bao, H.-W.-S.**, Cai, H.<sup>\*</sup>, & Jing, Y. (**2024**). Understanding the rise of unique names: The emphasis on uniqueness matters. _**Acta Psychologica Sinica (心理学报)**_. Advance online publication.\
 (IF<sub>2022</sub> = 1.5, ESCI, CSSCI Top Journal)
 
 4.  **Bao, H.-W.-S.**, Lu, H., & Luo, Y. L. L.<sup>\*</sup> (**2023**). Do unique names fit people for creative work? Implications for job recruitment, name change, and product evaluation. _**European Journal of Social Psychology**, 53_(7), 1524–1541. <https://doi.org/10.1002/ejsp.2994>\
