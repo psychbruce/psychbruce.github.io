@@ -141,6 +141,7 @@ International Journals:
 Chinese Journals:
 
 -   心理学报 *Acta Psychologica Sinica* (13)
+-   心理科学 *Journal of Psychological Science* (1)
 -   心理科学进展 *Advances in Psychological Science* (3)
 -   心理技术与应用 *Psychology: Techniques and Applications* (3)
 -   心理学通讯 *Psychological Communications* (8)
