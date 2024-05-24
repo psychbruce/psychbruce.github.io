@@ -61,7 +61,7 @@ Dr. Bao (包寒吴霜) is an Assistant Professor studying *computational intelli
 🔥 Download [Preprint](https://osf.io/bgsxr) / [Manuscript](https://psychbruce.github.io/paper/Bao_Accepted_JPSP_FMAT_Manuscript.pdf)\
 (IF<sub>2022</sub> = 7.6, SSCI Q1 Top Journal)
 
-5.  **Bao, H.-W.-S.**, Cai, H.<sup>\*</sup>, & Jing, Y. (**2024**). Understanding the rise of unique names: The emphasis on uniqueness matters. _**Acta Psychologica Sinica (心理学报)**_. Advance online publication.\
+5.  **Bao, H.-W.-S.**, Cai, H.<sup>\*</sup>, & Jing, Y. (**2024**). Understanding the rise of unique names: The emphasis on uniqueness matters. _**Acta Psychologica Sinica (心理学报)**, 56_(7), 954–963. <https://doi.org/10.3724/SP.J.1041.2024.00954>\
 (IF<sub>2022</sub> = 1.5, ESCI, CSSCI Top Journal)
 
 4.  **Bao, H.-W.-S.**, Lu, H., & Luo, Y. L. L.<sup>\*</sup> (**2023**). Do unique names fit people for creative work? Implications for job recruitment, name change, and product evaluation. _**European Journal of Social Psychology**, 53_(7), 1524–1541. <https://doi.org/10.1002/ejsp.2994>\
@@ -78,7 +78,7 @@ Dr. Bao (包寒吴霜) is an Assistant Professor studying *computational intelli
 
 ### Journal Articles in Chinese (8):
 
-8.  **Bao, H.-W.-S.**, Wang, Z.-X., Cheng, X., Su, Z., Yang, Y., Zhang, G.-Y., Wang, B., & Cai, H.<sup>\*</sup> (**2023**). Using word embeddings to investigate human psychology: Methods and applications. _**Advances in Psychological Science**, 31_(6), 887–904. <https://doi.org/10.3724/SP.J.1042.2023.00887>\
+8.  **Bao, H.-W.-S.**, Wang, Z., Cheng, X., Su, Z., Yang, Y., Zhang, G., Wang, B., & Cai, H.<sup>\*</sup> (**2023**). Using word embeddings to investigate human psychology: Methods and applications. _**Advances in Psychological Science**, 31_(6), 887–904. <https://doi.org/10.3724/SP.J.1042.2023.00887>\
 [**包寒吴霜**, 王梓西, 程曦, 苏展, 杨盈, 张光耀, 王博, 蔡华俭<sup>\*</sup>. (**2023**). 基于词嵌入技术的心理学研究：方法及应用. _**心理科学进展**, 31_(6), 887–904.]\
 ([中国人民大学复印报刊资料《心理学》2023年第11期](http://zlzx.ruc.edu.cn/xlqk/index.jhtml)全文转载)
 
@@ -89,19 +89,19 @@ Dr. Bao (包寒吴霜) is an Assistant Professor studying *computational intelli
 6.  **Bao, H.-W.-S.**, Cai, H., & Luo, Y.<sup>\*</sup> (**2019**). Identity motives: Concept, measurement, and psychological effects. _**Journal of Psychological Science**, 42_(4), 971–977. <https://doi.org/10.16719/j.cnki.1671-6981.20190429>\
 [**包寒吴霜**, 蔡华俭, 罗宇<sup>\*</sup>. (**2019**). 身份认同动机：概念、测量与心理效应. _**心理科学**, 42_(4), 971–977.]
 
-5.  **Bao, H.-W.-S.**, Wu, S.-T.<sup>\*</sup>, Zheng, H., Lu, H.-R., Zheng, W., Dai, W., Lu, S., & Zhu, T.-S.<sup>\*</sup> (**2018**). Polluted self: A big-data analysis based on daily-level air pollution and individualism-collectivism on social media. _**Community Psychology Research**, 6_(2), 71–85.\
+5.  **Bao, H.-W.-S.**, Wu, S.<sup>\*</sup>, Zheng, H., Lu, H., Zheng, W., Dai, W., Lu, S., & Zhu, T.<sup>\*</sup> (**2018**). Polluted self: A big-data analysis based on daily-level air pollution and individualism-collectivism on social media. _**Community Psychology Research**, 6_(2), 71–85.\
 [**包寒吴霜**, 吴胜涛<sup>\*</sup>, 郑昊, 陆海蓉, 郑伟, 戴炜, 陆梭, 朱廷劭<sup>\*</sup>. (**2018**). 雾霾下的自我：空气污染与个体主义–集体主义的大数据分析. _**社区心理学研究**, 6_(2), 71–85.]
 
-4.  **Bao, H.-W.-S.**, Chen, J.-L., Lin, J.-L., & Liu, L.<sup>\*</sup> (**2016**). Effects of name and gender on interpersonal attraction: Gender role evaluation as a mediator. _**Chinese Journal of Clinical Psychology**, 24_(4), 596–600. <https://doi.org/10.16128/j.cnki.1005-3611.2016.04.004>\
+4.  **Bao, H.-W.-S.**, Chen, J., Lin, J., & Liu, L.<sup>\*</sup> (**2016**). Effects of name and gender on interpersonal attraction: Gender role evaluation as a mediator. _**Chinese Journal of Clinical Psychology**, 24_(4), 596–600. <https://doi.org/10.16128/j.cnki.1005-3611.2016.04.004>\
 [**包寒吴霜**, 陈俊霖, 林俊利, 刘力<sup>\*</sup>. (**2016**). 名字与性别的人际吸引机制：性别角色评价的中介作用. _**中国临床心理学杂志**, 24_(4), 596–600.]
 
-3.  Zhang, M.-Y., Yang, Y., **Bao, H.-W.-S.**, & Cai, H.<sup>\*</sup> (**in press**). The positive ideal affect of Chinese people: Trends over the past decades. _**Acta Psychologica Sinica**_.\
-[张明杨, 杨盈, **包寒吴霜**, 蔡华俭<sup>\*</sup>. (**印刷中**). 中国人的积极理想情绪：近几十年来的变迁. _**心理学报**_.]
+3.  Zhang, M., Yang, Y., **Bao, H.-W.-S.**, & Cai, H.<sup>\*</sup> (**2024**). The positive ideal affect of Chinese people: Trends over the past decades. _**Acta Psychologica Sinica**, 56_(7), 847–858. <https://doi.org/10.3724/SP.J.1041.2024.00847>\
+[张明杨, 杨盈, **包寒吴霜**, 蔡华俭<sup>\*</sup>. (**2024**). 中国人的积极理想情绪：近几十年来的变迁. _**心理学报**, 56_(7), 847–858.]
 
-2.  Cai, H.<sup>\*</sup>, Zhang, M.-Y., **Bao, H.-W.-S.**, Zhu, H.-J., Yang, Z.-Y., Cheng, X., Huang, Z.-H., & Wang, Z.-X. (**2023**). Examining societal change from the perspective of psychology: Research design and analytic techniques. _**Advances in Psychological Science**, 31_(2), 159–172. <https://doi.org/10.3724/SP.J.1042.2023.00159>\
+2.  Cai, H.<sup>\*</sup>, Zhang, M., **Bao, H.-W.-S.**, Zhu, H., Yang, Z., Cheng, X., Huang, Z., & Wang, Z. (**2023**). Examining societal change from the perspective of psychology: Research design and analytic techniques. _**Advances in Psychological Science**, 31_(2), 159–172. <https://doi.org/10.3724/SP.J.1042.2023.00159>\
 [蔡华俭<sup>\*</sup>, 张明杨, **包寒吴霜**, 朱慧珺, 杨紫嫣, 程曦, 黄梓航, 王梓西. (**2023**). 心理学视野下的社会变迁研究：研究设计与分析方法. _**心理科学进展**, 31_(2), 159–172.]
 
-1.  Yang, Y., Zhu, H.-J., Zhou, W., Zhang, M.-Y., Xie, Y.-P., **Bao, H.-W.-S.**, Su, Z., Wang, X.-O., Jing, Y.-M., Yang, Z.-Y., & Cai, H.<sup>\*</sup> (**2020**). The behavioral immune system: A multi-level reconsideration. _**Advances in Psychological Science**, 28_(11), 1865–1879. <https://doi.org/10.3724/SP.J.1042.2020.01865>\
+1.  Yang, Y., Zhu, H., Zhou, W., Zhang, M., Xie, Y., **Bao, H.-W.-S.**, Su, Z., Wang, X., Jing, Y., Yang, Z., & Cai, H.<sup>\*</sup> (**2020**). The behavioral immune system: A multi-level reconsideration. _**Advances in Psychological Science**, 28_(11), 1865–1879. <https://doi.org/10.3724/SP.J.1042.2020.01865>\
 [杨盈, 朱慧珺, 周婉, 张明杨, 谢怡萍, **包寒吴霜**, 苏展, 王潇欧, 敬一鸣, 杨紫嫣, 蔡华俭<sup>\*</sup>. (**2020**). 行为免疫系统理论及其研究：新视野下的再考察. _**心理科学进展**, 28_(11), 1865–1879.]
 
 ### Newspaper Articles (1):
