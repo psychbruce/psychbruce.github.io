@@ -6,7 +6,7 @@ Dr. Bao (包寒吴霜) is an Assistant Professor studying *computational intelli
 
 ### 💼 *Assistant Professor* (2024.6~ )
 
-**East China Normal University**, [School of Psychology and Cognitive Science](https://psy.ecnu.edu.cn/)\
+**East China Normal University**, [School of Psychology and Cognitive Science](https://psy.ecnu.edu.cn/shyglxlxx/list.htm)\
 华东师范大学 · 心理与认知科学学院 (助理教授/晨晖学者)
 
 ### 💼 *Research Associate* (2022.9~2024.5)
