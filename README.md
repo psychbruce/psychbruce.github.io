@@ -131,6 +131,7 @@ International Journals:
 -   *Nature Human Behaviour* (1)
 -   *Behavior Research Methods* (1)
 -   *Journal of Cross-Cultural Psychology* (1)
+-   *Applied Psychology: An International Review* (1)
 -   *Communications Psychology* (1)
 -   *Frontiers in Psychology* (1)
 -   *Frontiers in Education* (1)
@@ -141,14 +142,15 @@ International Journals:
 Chinese Journals:
 
 -   心理学报 *Acta Psychologica Sinica* (13)
--   心理科学 *Journal of Psychological Science* (1)
+-   心理科学 *Journal of Psychological Science* (2)
 -   心理科学进展 *Advances in Psychological Science* (3)
 -   心理技术与应用 *Psychology: Techniques and Applications* (3)
 -   心理学通讯 *Psychological Communications* (8)
 
-### Academic Committee Member:
+### Academic Committee Membership:
 
--   Chinese Association for Artificial Intelligence - Big Data & Social Computing (CAAI-BDSC)
+-   Shanghai Psychological Society: Psychology + Artificial Intelligence
+-   Chinese Association for Artificial Intelligence: Big Data & Social Computing (CAAI-BDSC)
     -   [Judging Panel Member](https://mp.weixin.qq.com/s/BMHU6g0KC830aLxB_V04Xg) of the CAAI-BDSC 2024 Social Computing Innovation Contest
     -   [Judging Panel Member](https://mp.weixin.qq.com/s/dyKeDrk02sewenIjq3vi7g) of the CAAI-BDSC 2023 Social Computing Innovation Contest
 
