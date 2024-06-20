@@ -55,26 +55,26 @@ Dr. Bao (包寒吴霜) is an Assistant Professor studying *computational intelli
 
 7.  **Bao, H.-W.-S.**, & Gries, P.<sup>\*</sup> (**2024**). Intersectional race–gender stereotypes in natural language. _**British Journal of Social Psychology**_. Advance online publication. <https://doi.org/10.1111/bjso.12748>\
 🔥 Download [PDF](https://bpspsychub.onlinelibrary.wiley.com/doi/epdf/10.1111/bjso.12748)\
-(IF<sub>2022</sub> = 5.4, SSCI Q1)
+(IF<sub>2023</sub> = 3.2, SSCI Q1)
 
 6.  **Bao, H.-W.-S.**<sup>\*</sup> (**2024**). The Fill-Mask Association Test (FMAT): Measuring propositions in natural language. _**Journal of Personality and Social Psychology**_. Advance online publication. <https://doi.org/10.1037/pspa0000396>\
 🔥 Download [Preprint](https://osf.io/bgsxr) / [Manuscript](https://psychbruce.github.io/paper/Bao_Accepted_JPSP_FMAT_Manuscript.pdf)\
-(IF<sub>2022</sub> = 7.6, SSCI Q1 Top Journal)
+(IF<sub>2023</sub> = 6.4, SSCI Q1 Top Journal)
 
 5.  **Bao, H.-W.-S.**, Cai, H.<sup>\*</sup>, & Jing, Y. (**2024**). Understanding the rise of unique names: The emphasis on uniqueness matters. _**Acta Psychologica Sinica (心理学报)**, 56_(7), 954–963. <https://doi.org/10.3724/SP.J.1041.2024.00954>\
-(IF<sub>2022</sub> = 1.5, ESCI, CSSCI Top Journal)
+(IF<sub>2023</sub> = 1.3, ESCI Q3, CSSCI Top Journal)
 
 4.  **Bao, H.-W.-S.**, Lu, H., & Luo, Y. L. L.<sup>\*</sup> (**2023**). Do unique names fit people for creative work? Implications for job recruitment, name change, and product evaluation. _**European Journal of Social Psychology**, 53_(7), 1524–1541. <https://doi.org/10.1002/ejsp.2994>\
-(IF<sub>2022</sub> = 3.9, SSCI Q2)
+(IF<sub>2023</sub> = 2.8, SSCI Q2)
 
 3.  **Bao, H.-W.-S.**, Cai, H.<sup>\*</sup>, & Huang, Z. (**2022**). Discerning cultural shifts in China? Commentary on Hamamura et al. (2021). _**American Psychologist**, 77_(6), 786–788. <https://doi.org/10.1037/amp0001013>\
-(IF<sub>2022</sub> = 16.4, SSCI Q1)
+(IF<sub>2023</sub> = 12.3, SSCI Q1)
 
 2.  **Bao, H.-W.-S.**, Cai, H.<sup>\*</sup>, Jing, Y., & Wang, J. (**2021**). Novel evidence for the increasing prevalence of unique names in China: A reply to Ogihara. _**Frontiers in Psychology**, 12_, Article 731244. <https://doi.org/10.3389/fpsyg.2021.731244>\
-(IF<sub>2022</sub> = 3.8, SSCI Q1)
+(IF<sub>2023</sub> = 2.6, SSCI Q2)
 
 1.  Shi, Y., Luo, Y. L. L.<sup>\*</sup>, Yang, Z., Liu, Y., & **Bao, H.** (**2018**). Do narcissists enjoy visiting social networking sites? It depends on how adaptive they are. _**Frontiers in Psychology**, 9_, Article 1739. <https://doi.org/10.3389/fpsyg.2018.01739>\
-(IF<sub>2022</sub> = 3.8, SSCI Q1)
+(IF<sub>2023</sub> = 2.6, SSCI Q2)
 
 ### Journal Articles in Chinese (8):
 
