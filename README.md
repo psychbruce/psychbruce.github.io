@@ -142,17 +142,19 @@ International Journals:
 Chinese Journals:
 
 -   心理学报 *Acta Psychologica Sinica* (13)
--   心理科学 *Journal of Psychological Science* (6)
+-   心理科学 *Journal of Psychological Science* (8)
 -   心理科学进展 *Advances in Psychological Science* (3)
 -   心理技术与应用 *Psychology: Techniques and Applications* (5)
 -   心理学通讯 *Psychological Communications* (8)
 
 ### Academic Committee Membership:
 
--   Shanghai Psychological Society: *Psychology + Artificial Intelligence*
--   Chinese Association for Artificial Intelligence: *Big Data & Social Computing (CAAI-BDSC)*
+-   Chinese Psychological Society
+-   Chinese Association of Social Psychology
+-   Chinese Association for Artificial Intelligence
     -   [Judging Panel Member](https://mp.weixin.qq.com/s/BMHU6g0KC830aLxB_V04Xg) of the CAAI-BDSC 2024 Social Computing Innovation Contest
     -   [Judging Panel Member](https://mp.weixin.qq.com/s/dyKeDrk02sewenIjq3vi7g) of the CAAI-BDSC 2023 Social Computing Innovation Contest
+-   Shanghai Psychological Society: *Psychology + Artificial Intelligence*
 
 ------------------------------------------------------------------------
 
@@ -198,6 +200,10 @@ Chinese Journals:
 ------------------------------------------------------------------------
 
 ## Teaching
+
+**[2024-Fall] _Personality Psychology_** (ECNU: Undergraduate Level, Minor Course)
+
+-   *Lecturer*
 
 **[2023-Winter] _Advanced R Programming & Visualization_** (4-Day Online Course)
 
