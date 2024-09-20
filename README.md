@@ -12,7 +12,7 @@ Dr. Bao (包寒吴霜) is an Assistant Professor studying *computational intelli
 ### 💼 *Research Associate* (2022.9~2024.5)
 
 **The University of Manchester**, [Manchester China Institute](https://www.mci.manchester.ac.uk/)\
-英国曼彻斯特大学 · 曼彻斯特中国研究院 (博士后研究员)
+曼彻斯特大学 · 曼彻斯特中国研究院 (博士后研究员)
 
 ------------------------------------------------------------------------
 
@@ -57,7 +57,7 @@ Dr. Bao (包寒吴霜) is an Assistant Professor studying *computational intelli
 🔥 Download [PDF](https://bpspsychub.onlinelibrary.wiley.com/doi/epdf/10.1111/bjso.12748)\
 (IF<sub>2023</sub> = 3.2, SSCI Q1)
 
-6.  **Bao, H.-W.-S.**<sup>\*</sup> (**2024**). The Fill-Mask Association Test (FMAT): Measuring propositions in natural language. _**Journal of Personality and Social Psychology**_. Advance online publication. <https://doi.org/10.1037/pspa0000396>\
+6.  **Bao, H.-W.-S.**<sup>\*</sup> (**2024**). The Fill-Mask Association Test (FMAT): Measuring propositions in natural language. _**Journal of Personality and Social Psychology**, 127_(3), 537–561. <https://doi.org/10.1037/pspa0000396>\
 🔥 Download [PDF](https://psychbruce.github.io/paper/Bao_2024-online_JPSP_FMAT.pdf) / [Preprint](https://osf.io/bgsxr) / [Manuscript](https://psychbruce.github.io/paper/Bao_Accepted_JPSP_FMAT_Manuscript.pdf)\
 (IF<sub>2023</sub> = 6.4, SSCI Q1 Top Journal)
 
@@ -142,7 +142,7 @@ International Journals:
 Chinese Journals:
 
 -   心理学报 *Acta Psychologica Sinica* (13)
--   心理科学 *Journal of Psychological Science* (8)
+-   心理科学 *Journal of Psychological Science* (10)
 -   心理科学进展 *Advances in Psychological Science* (3)
 -   心理技术与应用 *Psychology: Techniques and Applications* (5)
 -   心理学通讯 *Psychological Communications* (8)
