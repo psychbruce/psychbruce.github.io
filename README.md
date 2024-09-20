@@ -66,7 +66,8 @@ Dr. Bao (包寒吴霜) is an Assistant Professor studying *computational intelli
 (IF<sub>2023</sub> = 1.3, ESCI Q3, CSSCI Top Journal)
 
 4.  **Bao, H.-W.-S.**, Lu, H., & Luo, Y. L. L.<sup>\*</sup> (**2023**). Do unique names fit people for creative work? Implications for job recruitment, name change, and product evaluation. _**European Journal of Social Psychology**, 53_(7), 1524–1541. <https://doi.org/10.1002/ejsp.2994>\
-(IF<sub>2023</sub> = 2.8, SSCI Q2)
+(IF<sub>2023</sub> = 2.8, SSCI Q2)\
+> **Abstract**: Unique names have commonly been viewed as undesirable. However, our studies (total *N* = 6049) suggest the opposite: unique names are perceived as favourable to creativity in occupational contexts. Generally, people held a perception that unique-named individuals are more creative (albeit less likable) and therefore more suitable for jobs requiring greater creativity (Studies 1–2). Accordingly, participants tended to select candidates with more unique names for creative positions (Study 3) and recommend more unique names to workers in creative jobs for a name change (Study 4). Furthermore, real-world archival data revealed that artists (typical creative professions) tended to adopt more unique new names, which was replicated cross-culturally in American, British, and Chinese samples (Study 5), and that Chinese movie directors with more unique names received higher evaluations for the movies they directed (Study 6). Our findings demonstrate a novel form of name stereotype and its behavioural manifestations and real-world consequences.
 
 3.  **Bao, H.-W.-S.**, Cai, H.<sup>\*</sup>, & Huang, Z. (**2022**). Discerning cultural shifts in China? Commentary on Hamamura et al. (2021). _**American Psychologist**, 77_(6), 786–788. <https://doi.org/10.1037/amp0001013>\
 (IF<sub>2023</sub> = 12.3, SSCI Q1)
