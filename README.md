@@ -53,7 +53,7 @@ Dr. Bao (包寒吴霜) is an Assistant Professor studying *computational intelli
 
 ### Journal Articles in English (7):
 
-7.  **Bao, H.-W.-S.**, & Gries, P.<sup>\*</sup> (**2024**). Intersectional race–gender stereotypes in natural language. _**British Journal of Social Psychology**_. Advance online publication. <https://doi.org/10.1111/bjso.12748>\
+7.  **Bao, H.-W.-S.**, & Gries, P.<sup>\*</sup> (**2024**). Intersectional race–gender stereotypes in natural language. _**British Journal of Social Psychology**, 63_(4), 1771–1786. <https://doi.org/10.1111/bjso.12748>\
 🔥 Download [PDF](https://bpspsychub.onlinelibrary.wiley.com/doi/epdf/10.1111/bjso.12748)\
 (IF<sub>2023</sub> = 3.2, SSCI Q1)
 
@@ -111,17 +111,6 @@ Dr. Bao (包寒吴霜) is an Assistant Professor studying *computational intelli
 -   **Bao, H.-W.-S.**, & Cai, H.<sup>\*</sup> (**2021, March 4**). Improve the reliability of psychological research on names. ***Chinese Social Sciences Today***. <http://sscp.cssn.cn/xkpd/xlx/202103/t20210304_5315368.html>\
     [**包寒吴霜**, 蔡华俭<sup>\*</sup>. (**2021-03-04**). 提高姓名心理学研究的可靠程度. ***中国社会科学报***, 2118.]
 
-### Conference Presentations (3):
-
--   **Bao, H.-W.-S.**, & Cai, H.<sup>\*</sup> (**2020, December**). *Chinese names are becoming more unique over time: New evidence and mechanisms*. Paper presented at the 2020 Annual Conference of the Social Psychology Branch of Chinese Psychological Society, Haikou, Hainan, China.\
-    [**包寒吴霜**, 蔡华俭<sup>\*</sup>. (**2020**). *中国人名字独特性的上升：新证据和机制*. 中国心理学会社会心理学分会2020年学术年会, 海南海口.]
-
--   **Bao, H.-W.-S.**, Cai, H., & Luo, Y. L. L.<sup>\*</sup> (**2019, October**). *Name-job uniqueness fit: Name uniqueness predicts job choice and is associated with career success*. Paper presented at the 22nd National Academic Congress of Psychology, Hangzhou, Zhejiang, China.\
-    [**包寒吴霜**, 蔡华俭, 罗宇<sup>\*</sup>. (**2019**). *人如其名，名职匹配？名字独特性预测职业选择与职业成就*. 第二十二届全国心理学学术会议, 浙江杭州.]
-
--   **Bao, H.-W.-S.**, Cai, H., & Luo, Y. L. L.<sup>\*</sup> (**2018, October**). *Name uniqueness predicts job choice: Evidence from big data and experiments*. Paper presented at the 2018 Annual Conference of the Social Psychology Branch of Chinese Psychological Society, Qufu, Shandong, China.\
-    [**包寒吴霜**, 蔡华俭, 罗宇<sup>\*</sup>. (**2018**). *名字独特性预测职业选择：来自大数据和实验的证据*. 中国心理学会社会心理学分会2018年学术年会, 山东曲阜.]
-
 ------------------------------------------------------------------------
 
 ## Service
@@ -132,8 +121,11 @@ International Journals:
 
 -   *Nature Human Behaviour* (2)
 -   *Behavior Research Methods* (1)
--   *Journal of Cross-Cultural Psychology* (1)
+-   *Organization Science* (1)
+-   *Personnel Review* (1)
 -   *Applied Psychology: An International Review* (1)
+-   *Journal of Cross-Cultural Psychology* (1)
+-   *Self and Identity* (1)
 -   *Communications Psychology* (1)
 -   *Frontiers in Psychology* (1)
 -   *Frontiers in Education* (1)
@@ -146,7 +138,7 @@ Chinese Journals:
 -   心理学报 *Acta Psychologica Sinica* (13)
 -   心理科学 *Journal of Psychological Science* (10)
 -   心理科学进展 *Advances in Psychological Science* (3)
--   心理技术与应用 *Psychology: Techniques and Applications* (5)
+-   心理技术与应用 *Psychology: Techniques and Applications* (6)
 -   心理学通讯 *Psychological Communications* (8)
 
 ### Academic Committee Membership:
@@ -234,6 +226,10 @@ Chinese Journals:
 ------------------------------------------------------------------------
 
 ## Invited Talks
+
+**[2024.9] _Group-Level Psychology with Big Data and Natural Language_** (Special Invitation)
+
+-   The 2024 Annual Academic Conference of the Social Psychology Committee of Chinese Psychological Society, Jinan, Shandong, China
 
 **[2023.12] _Computational Intelligent Social Psychology: Using AI Language Models to Understand Society and Culture_**
 
