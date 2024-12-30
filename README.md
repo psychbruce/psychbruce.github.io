@@ -46,6 +46,13 @@ Dr. Bao (包寒吴霜) is an Assistant Professor studying *computational intelli
 
 ------------------------------------------------------------------------
 
+## Funding
+
+-   上海市浦江人才计划项目(Shanghai Pujiang Talent Program), 24PJC025
+-   上海市晨光计划项目 (Chenguang Program of Shanghai Education Development Foundation and Shanghai Municipal Education Commission)
+
+------------------------------------------------------------------------
+
 ## Publications
 
 <sup>\*</sup> Corresponding author\
@@ -113,13 +120,6 @@ Dr. Bao (包寒吴霜) is an Assistant Professor studying *computational intelli
 
 ------------------------------------------------------------------------
 
-## Funding
-
--   Shanghai Pujiang Talent Program (上海市浦江人才计划项目), 24PJC025
--   Chenguang Program of Shanghai Education Development Foundation and Shanghai Municipal Education Commission (上海市晨光计划项目)
-
-------------------------------------------------------------------------
-
 ## Teaching
 
 ### Undergraduate Level:
@@ -130,39 +130,6 @@ Dr. Bao (包寒吴霜) is an Assistant Professor studying *computational intelli
 ### Graduate Level:
 
 -   Advanced Psychological Statistics (高级心理统计)
-
-------------------------------------------------------------------------
-
-## Service
-
-### Journal Reviewer (Articles Reviewed):
-
-International Journals:
-
--   *Nature Human Behaviour* (2)
--   *Behavior Research Methods* (2)
--   *Journal of Cross-Cultural Psychology* (1)
--   *Self and Identity* (1)
--   *Organization Science* (1)
--   *Personnel Review* (1)
--   *Communications Psychology* (1); *Current Research in Ecological and Social Psychology* (1); *Applied Psychology* (1); *Acta Psychologica* (1); *Frontiers in Psychology* (1); *Frontiers in Education* (1); *PeerJ Computer Science* (1); *F1000Research* (2)
-
-Chinese Journals:
-
--   心理学报 *Acta Psychologica Sinica* (14)
--   心理科学 *Journal of Psychological Science* (13)
--   心理科学进展 *Advances in Psychological Science* (3)
--   心理技术与应用 *Psychology: Techniques and Applications* (7)
--   心理学通讯 *Psychological Communications* (9)
-
-### Academic Committee Membership:
-
--   Chinese Psychological Society
--   Chinese Association of Social Psychology
--   Chinese Association for Artificial Intelligence
-    -   [Judging Panel Member](https://mp.weixin.qq.com/s/BMHU6g0KC830aLxB_V04Xg) of the CAAI-BDSC 2024 Social Computing Innovation Contest
-    -   [Judging Panel Member](https://mp.weixin.qq.com/s/dyKeDrk02sewenIjq3vi7g) of the CAAI-BDSC 2023 Social Computing Innovation Contest
--   Shanghai Psychological Society: *Psychology + Artificial Intelligence*
 
 ------------------------------------------------------------------------
 
@@ -204,6 +171,39 @@ Chinese Journals:
         -   Excel (Expert-Level)
         -   Word (Expert-Level)
         -   PowerPoint (Specialist-Level)
+
+------------------------------------------------------------------------
+
+## Service
+
+### Journal Reviewer (Articles Reviewed):
+
+International Journals:
+
+-   *Nature Human Behaviour* (2)
+-   *Behavior Research Methods* (2)
+-   *Journal of Cross-Cultural Psychology* (1)
+-   *Self and Identity* (1)
+-   *Organization Science* (1)
+-   *Personnel Review* (1)
+-   *Communications Psychology* (1); *Current Research in Ecological and Social Psychology* (1); *Applied Psychology* (1); *Acta Psychologica* (1); *Frontiers in Psychology* (1); *Frontiers in Education* (1); *PeerJ Computer Science* (1); *F1000Research* (2)
+
+Chinese Journals:
+
+-   心理学报 *Acta Psychologica Sinica* (14)
+-   心理科学 *Journal of Psychological Science* (13)
+-   心理科学进展 *Advances in Psychological Science* (3)
+-   心理技术与应用 *Psychology: Techniques and Applications* (7)
+-   心理学通讯 *Psychological Communications* (9)
+
+### Academic Committee Membership:
+
+-   Chinese Psychological Society
+-   Chinese Association of Social Psychology
+-   Chinese Association for Artificial Intelligence
+    -   [Judging Panel Member](https://mp.weixin.qq.com/s/BMHU6g0KC830aLxB_V04Xg) of the CAAI-BDSC 2024 Social Computing Innovation Contest
+    -   [Judging Panel Member](https://mp.weixin.qq.com/s/dyKeDrk02sewenIjq3vi7g) of the CAAI-BDSC 2023 Social Computing Innovation Contest
+-   Shanghai Psychological Society: *Psychology + Artificial Intelligence*
 
 ------------------------------------------------------------------------
 
