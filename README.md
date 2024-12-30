@@ -48,8 +48,10 @@ Dr. Bao (包寒吴霜) is an Assistant Professor studying *computational intelli
 
 ## Funding
 
--   上海市浦江人才计划项目(Shanghai Pujiang Talent Program), 24PJC025
--   上海市晨光计划项目 (Chenguang Program of Shanghai Education Development Foundation and Shanghai Municipal Education Commission)
+-   Shanghai Pujiang Talent Program (Pujiang Project of Shanghai Baiyulan Talent Program)\
+上海市浦江人才计划项目(24PJC025)
+-   Chenguang Program of Shanghai Education Development Foundation and Shanghai Municipal Education Commission\
+上海市晨光计划项目
 
 ------------------------------------------------------------------------
 
