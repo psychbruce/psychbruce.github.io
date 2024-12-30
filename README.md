@@ -113,6 +113,26 @@ Dr. Bao (包寒吴霜) is an Assistant Professor studying *computational intelli
 
 ------------------------------------------------------------------------
 
+## Funding
+
+-   Shanghai Pujiang Talent Program (上海市浦江人才计划项目), 24PJC025
+-   Chenguang Program of Shanghai Education Development Foundation and Shanghai Municipal Education Commission (上海市晨光计划项目)
+
+------------------------------------------------------------------------
+
+## Teaching
+
+### Undergraduate Level:
+
+-   R: Data Analysis and Visualization (R语言)
+-   Personality Psychology (人格心理学)
+
+### Graduate Level:
+
+-   Advanced Psychological Statistics (高级心理统计)
+
+------------------------------------------------------------------------
+
 ## Service
 
 ### Journal Reviewer (Articles Reviewed):
@@ -120,26 +140,20 @@ Dr. Bao (包寒吴霜) is an Assistant Professor studying *computational intelli
 International Journals:
 
 -   *Nature Human Behaviour* (2)
--   *Behavior Research Methods* (1)
--   *Organization Science* (1)
--   *Personnel Review* (1)
--   *Applied Psychology: An International Review* (1)
+-   *Behavior Research Methods* (2)
 -   *Journal of Cross-Cultural Psychology* (1)
 -   *Self and Identity* (1)
--   *Communications Psychology* (1)
--   *Frontiers in Psychology* (1)
--   *Frontiers in Education* (1)
--   *PeerJ Computer Science* (1)
--   *Acta Psychologica* (1)
--   *F1000Research* (2)
+-   *Organization Science* (1)
+-   *Personnel Review* (1)
+-   *Communications Psychology* (1); *Current Research in Ecological and Social Psychology* (1); *Applied Psychology* (1); *Acta Psychologica* (1); *Frontiers in Psychology* (1); *Frontiers in Education* (1); *PeerJ Computer Science* (1); *F1000Research* (2)
 
 Chinese Journals:
 
 -   心理学报 *Acta Psychologica Sinica* (14)
--   心理科学 *Journal of Psychological Science* (12)
+-   心理科学 *Journal of Psychological Science* (13)
 -   心理科学进展 *Advances in Psychological Science* (3)
--   心理技术与应用 *Psychology: Techniques and Applications* (6)
--   心理学通讯 *Psychological Communications* (8)
+-   心理技术与应用 *Psychology: Techniques and Applications* (7)
+-   心理学通讯 *Psychological Communications* (9)
 
 ### Academic Committee Membership:
 
@@ -193,39 +207,11 @@ Chinese Journals:
 
 ------------------------------------------------------------------------
 
-## Teaching
-
-**[2024-Fall] _Personality Psychology_** (ECNU: Undergraduate Level, Minor Course)
-
--   *Lecturer*
-
-**[2023-Winter] _Advanced R Programming & Visualization_** (4-Day Online Course)
-
--   *Lecturer*
-
-**[2021-Fall] _Self & Identity_** (Graduate Level)
-
--   *Lecturer*
-
-**[2020-Summer] _R Programming_** (Beginner & Advanced Levels)
-
--   *Lecturer*
-
-**[2018-Spring] _Cultural & Cross-Cultural Psychology_** (Graduate Level)
-
--   *Teaching Assistant* (Lecturers: Huajian Cai & Yiming Jing)
-
-**[2017-Fall] _Implicit Social Cognition_** (Graduate Level)
-
--   *Teaching Assistant* (Lecturers: Huajian Cai & Xiaoqing Hu)
-
-**[2017-Spring] _Self & Identity_** (Graduate Level)
-
--   *Teaching Assistant* (Lecturer: Huajian Cai)
-
-------------------------------------------------------------------------
-
 ## Invited Talks
+
+**[2024.12] _Research Methods with Natural Language for Social Psychology_**
+
+-   Invited by *Psychological Communications* (online)
 
 **[2024.9] _Group-Level Psychology with Big Data and Natural Language_** (Special Invitation)
 
