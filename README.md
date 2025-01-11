@@ -35,13 +35,12 @@ Dr. Bao (包寒吴霜) is an Assistant Professor studying *computational intelli
 ### Computational Intelligent Social Psychology (计算智能社会心理学)
 
 -   **Natural Language Processing (NLP) Methodology**
+    -   [Fill-Mask Association Test (FMAT)](https://psychbruce.github.io/FMAT/)
     -   AI/Large Language Models (LLM)
-    -   [The Fill-Mask Association Test (FMAT)](https://psychbruce.github.io/FMAT/)
     -   [Word Embeddings](https://psychbruce.github.io/PsychWordVec/)
--   **Social Cognition and Cultural Psychology**
-    -   Propositional Semantic Representation
-    -   Stereotyping, Prejudice, and Discrimination
-    -   Sociocultural Change and Regional Variation
+-   **Social, Cultural, and Historical Psychology**
+    -   Intersectional Stereotypes
+    -   Historical Narratives
     -   [Chinese Names](https://psychbruce.github.io/ChineseNames/)
 
 ------------------------------------------------------------------------
@@ -52,6 +51,19 @@ Dr. Bao (包寒吴霜) is an Assistant Professor studying *computational intelli
 Shanghai Pujiang Talent Program (Pujiang Project of Shanghai Baiyulan Talent Program)
 -   上海市晨光计划项目 (24CGA28)\
 Chenguang Program of Shanghai Education Development Foundation and Shanghai Municipal Education Commission
+
+------------------------------------------------------------------------
+
+## Teaching
+
+### Undergraduate Level:
+
+-   R语言 (R: Data Analysis and Visualization)
+-   人格心理学 (Personality Psychology)
+
+### Graduate Level:
+
+-   高级心理统计 (Advanced Psychological Statistics)
 
 ------------------------------------------------------------------------
 
@@ -125,20 +137,7 @@ Chenguang Program of Shanghai Education Development Foundation and Shanghai Muni
 
 ------------------------------------------------------------------------
 
-## Teaching
-
-### Undergraduate Level:
-
--   R: Data Analysis and Visualization (R语言)
--   Personality Psychology (人格心理学)
-
-### Graduate Level:
-
--   Advanced Psychological Statistics (高级心理统计)
-
-------------------------------------------------------------------------
-
-## Programming
+## Expertise
 
 <p>
   <img src="https://psychbruce.github.io/img/raw-github/r.png" height="40"/>
