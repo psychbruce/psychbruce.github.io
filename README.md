@@ -197,7 +197,7 @@ Chinese Journals:
 -   心理学报 *Acta Psychologica Sinica* (15)
 -   心理科学 *Journal of Psychological Science* (14)
 -   心理科学进展 *Advances in Psychological Science* (3)
--   心理技术与应用 *Psychology: Techniques and Applications* (7)
+-   心理技术与应用 *Psychology: Techniques and Applications* (8)
 -   心理学通讯 *Psychological Communications* (9)
 
 ### Academic Committee Membership:
