@@ -2,7 +2,7 @@ Dr. Bao (包寒吴霜) is an Assistant Professor studying *computational intelli
 
 ------------------------------------------------------------------------
 
-## Academic Positions
+## Academic Position
 
 ### 💼 *Assistant Professor* (2024.6~ )
 
@@ -45,7 +45,7 @@ Dr. Bao (包寒吴霜) is an Assistant Professor studying *computational intelli
 
 ------------------------------------------------------------------------
 
-## Funding
+## Grants
 
 -   上海市浦江人才计划项目 (24PJC025)\
 Shanghai Pujiang Talent Program (Pujiang Project of Shanghai Baiyulan Talent Program)
