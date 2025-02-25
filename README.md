@@ -186,15 +186,13 @@ International Journals:
 
 -   *Nature Human Behaviour* (2)
 -   *Behavior Research Methods* (2)
+-   *British Journal of Social Psychology* (1)
 -   *Journal of Cross-Cultural Psychology* (1)
--   *Self and Identity* (1)
--   *Organization Science* (1)
--   *Personnel Review* (1)
--   *Communications Psychology* (1); *Current Research in Ecological and Social Psychology* (1); *Applied Psychology* (1); *Acta Psychologica* (1); *Frontiers in Psychology* (1); *Frontiers in Education* (1); *PeerJ Computer Science* (1); *F1000Research* (2)
+-   *Acta Psychologica* (1); *Applied Psychology* (1); *Communications Psychology* (1); *Current Research in Ecological and Social Psychology* (1); *Frontiers in Education* (1); *Frontiers in Psychology* (1); *F1000Research* (2); *Organization Science* (1); *PeerJ Computer Science* (1); *Personnel Review* (1); *Self and Identity* (1)
 
 Chinese Journals:
 
--   心理学报 *Acta Psychologica Sinica* (15)
+-   心理学报 *Acta Psychologica Sinica* (16)
 -   心理科学 *Journal of Psychological Science* (14)
 -   心理科学进展 *Advances in Psychological Science* (3)
 -   心理技术与应用 *Psychology: Techniques and Applications* (8)
