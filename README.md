@@ -72,37 +72,43 @@ Chenguang Program of Shanghai Education Development Foundation and Shanghai Muni
 <sup>\*</sup> Corresponding author\
 <sup>\#</sup> Supervised students
 
-### Journal Articles in English (7):
+### Journal Articles in English:
 
-7.  **Bao, H.-W.-S.**, & Gries, P.<sup>\*</sup> (**2024**). Intersectional race–gender stereotypes in natural language. _**British Journal of Social Psychology**, 63_(4), 1771–1786. <https://doi.org/10.1111/bjso.12748>\
+9.  **Bao, H.-W.-S.**, & Gries, P.<sup>\*</sup> (**2025**). Bias toward Chinese in English natural language. _**China Quarterly**_. (accepted)\
+(IF<sub>2023</sub> = 2.5, SSCI Q1)
+
+8.  **Bao, H.-W.-S.**, & Gries, P.<sup>\*</sup> (**2024**). Intersectional race–gender stereotypes in natural language. _**British Journal of Social Psychology**, 63_(4), 1771–1786. <https://doi.org/10.1111/bjso.12748>\
 🔥 [Download PDF](https://bpspsychub.onlinelibrary.wiley.com/doi/epdf/10.1111/bjso.12748)\
 (IF<sub>2023</sub> = 3.2, SSCI Q1)
 
-6.  **Bao, H.-W.-S.**<sup>\*</sup> (**2024**). The Fill-Mask Association Test (FMAT): Measuring propositions in natural language. _**Journal of Personality and Social Psychology**, 127_(3), 537–561. <https://doi.org/10.1037/pspa0000396>\
+7.  **Bao, H.-W.-S.**<sup>\*</sup> (**2024**). The Fill-Mask Association Test (FMAT): Measuring propositions in natural language. _**Journal of Personality and Social Psychology**, 127_(3), 537–561. <https://doi.org/10.1037/pspa0000396>\
 🔥 [Download PDF](https://psychbruce.github.io/paper/Bao_2024_JPSP_FMAT.pdf)\
 (IF<sub>2023</sub> = 6.4, SSCI Q1 Top Journal)\
 > **Abstract**: Recent advances in large language models are enabling the computational intelligent analysis of psychology in natural language. Here, the Fill-Mask Association Test (FMAT) is introduced as a novel and integrative method leveraging Masked Language Models to study and measure psychology from a *propositional* perspective at the societal level. The FMAT uses Bidirectional Encoder Representations from Transformers (BERT) models to compute semantic probabilities of option words filling in the masked blank of a designed query (i.e., a clozelike contextualized sentence). The current research presents 15 studies that establish the reliability and validity of the FMAT in predicting factual associations (Studies 1A–1C), measuring attitudes/biases (Studies 2A–2D), capturing social stereotypes (Studies 3A–3D), and retrospectively delineating lay perceptions of sociocultural changes over time (Studies 4A–4D). Empirically, the FMAT replicated seminal findings previously obtained with human participants (e.g., the Implicit Association Test) and other big-data text-analytic methods (e.g., word frequency analysis, the Word Embedding Association Test), demonstrating robustness across 12 BERT model variants and diverse training text corpora. Theoretically, the current findings substantiate the propositional (vs. associative) perspective on how semantic associations are represented in natural language. Methodologically, the FMAT allows for more fine-grained language-based psychological measurement, with an R package developed to streamline its workflow for use on broader research questions.
 
-5.  **Bao, H.-W.-S.**, Cai, H.<sup>\*</sup>, & Jing, Y. (**2024**). Understanding the rise of unique names: The emphasis on uniqueness matters. _**Acta Psychologica Sinica (心理学报)**, 56_(7), 954–963. <https://doi.org/10.3724/SP.J.1041.2024.00954>\
+6.  **Bao, H.-W.-S.**, Cai, H.<sup>\*</sup>, & Jing, Y. (**2024**). Understanding the rise of unique names: The emphasis on uniqueness matters. _**Acta Psychologica Sinica (心理学报)**, 56_(7), 954–963. <https://doi.org/10.3724/SP.J.1041.2024.00954>\
 📄 [Download PDF](https://psychbruce.github.io/paper/Bao_2024_ActaPsychologicaSinica_UniqueNames.pdf)\
 (IF<sub>2023</sub> = 1.3, ESCI Q3, CSSCI Top Journal)
 
-4.  **Bao, H.-W.-S.**, Lu, H., & Luo, Y. L. L.<sup>\*</sup> (**2023**). Do unique names fit people for creative work? Implications for job recruitment, name change, and product evaluation. _**European Journal of Social Psychology**, 53_(7), 1524–1541. <https://doi.org/10.1002/ejsp.2994>\
+5.  **Bao, H.-W.-S.**, Lu, H., & Luo, Y. L. L.<sup>\*</sup> (**2023**). Do unique names fit people for creative work? Implications for job recruitment, name change, and product evaluation. _**European Journal of Social Psychology**, 53_(7), 1524–1541. <https://doi.org/10.1002/ejsp.2994>\
 📄 [Download PDF](https://psychbruce.github.io/paper/Bao_2023_EJSP_UniqueNames.pdf)\
 (IF<sub>2023</sub> = 2.8, SSCI Q2)\
 > **Abstract**: Unique names have commonly been viewed as undesirable. However, our studies (total *N* = 6049) suggest the opposite: unique names are perceived as favourable to creativity in occupational contexts. Generally, people held a perception that unique-named individuals are more creative (albeit less likable) and therefore more suitable for jobs requiring greater creativity (Studies 1–2). Accordingly, participants tended to select candidates with more unique names for creative positions (Study 3) and recommend more unique names to workers in creative jobs for a name change (Study 4). Furthermore, real-world archival data revealed that artists (typical creative professions) tended to adopt more unique new names, which was replicated cross-culturally in American, British, and Chinese samples (Study 5), and that Chinese movie directors with more unique names received higher evaluations for the movies they directed (Study 6). Our findings demonstrate a novel form of name stereotype and its behavioural manifestations and real-world consequences.
 
-3.  **Bao, H.-W.-S.**, Cai, H.<sup>\*</sup>, & Huang, Z. (**2022**). Discerning cultural shifts in China? Commentary on Hamamura et al. (2021). _**American Psychologist**, 77_(6), 786–788. <https://doi.org/10.1037/amp0001013>\
+4.  **Bao, H.-W.-S.**, Cai, H.<sup>\*</sup>, & Huang, Z. (**2022**). Discerning cultural shifts in China? Commentary on Hamamura et al. (2021). _**American Psychologist**, 77_(6), 786–788. <https://doi.org/10.1037/amp0001013>\
 📄 [Download PDF](https://psychbruce.github.io/paper/Bao_2022_AmPsy_Commentary.pdf)\
 (IF<sub>2023</sub> = 12.3, SSCI Q1)
 
-2.  **Bao, H.-W.-S.**, Cai, H.<sup>\*</sup>, Jing, Y., & Wang, J. (**2021**). Novel evidence for the increasing prevalence of unique names in China: A reply to Ogihara. _**Frontiers in Psychology**, 12_, Article 731244. <https://doi.org/10.3389/fpsyg.2021.731244>\
+3.  **Bao, H.-W.-S.**, Cai, H.<sup>\*</sup>, Jing, Y., & Wang, J. (**2021**). Novel evidence for the increasing prevalence of unique names in China: A reply to Ogihara. _**Frontiers in Psychology**, 12_, Article 731244. <https://doi.org/10.3389/fpsyg.2021.731244>\
 (IF<sub>2023</sub> = 2.6, SSCI Q2)
+
+2.  Chuan-Peng, H.<sup>\*</sup>, Xu, Z., Lazić, A., Bhattacharya, P., Seda, L., Hossain, S., Jeftic, A., Özdoğru, A. A., Amaral, O. B., Miljković, N., Ilchovska, Z. G., Lazarevic, L. B., **Bao, H.-W.-S.**, Ghodke, N., Moreau, D., Elsherif, M., Chinchu, C., Ghai, S., Carneiro, C. F. D., ... Azevedo, F.<sup>\*</sup> (**under review**). Open science in the developing world: A collection of practical guides for researchers in developing countries. _**Advances in Methods and Practices in Psychological Science**_.\
+(IF<sub>2023</sub> = 15.6, SSCI Q1)
 
 1.  Shi, Y., Luo, Y. L. L.<sup>\*</sup>, Yang, Z., Liu, Y., & **Bao, H.** (**2018**). Do narcissists enjoy visiting social networking sites? It depends on how adaptive they are. _**Frontiers in Psychology**, 9_, Article 1739. <https://doi.org/10.3389/fpsyg.2018.01739>\
 (IF<sub>2023</sub> = 2.6, SSCI Q2)
 
-### Journal Articles in Chinese (8):
+### Journal Articles in Chinese:
 
 8.  **Bao, H.-W.-S.**, Wang, Z., Cheng, X., Su, Z., Yang, Y., Zhang, G., Wang, B., & Cai, H.<sup>\*</sup> (**2023**). Using word embeddings to investigate human psychology: Methods and applications. _**Advances in Psychological Science**, 31_(6), 887–904. <https://doi.org/10.3724/SP.J.1042.2023.00887>\
 [**包寒吴霜**, 王梓西, 程曦, 苏展, 杨盈, 张光耀, 王博, 蔡华俭<sup>\*</sup>. (**2023**). 基于词嵌入技术的心理学研究：方法及应用. _**心理科学进展**, 31_(6), 887–904.]\
@@ -130,7 +136,7 @@ Chenguang Program of Shanghai Education Development Foundation and Shanghai Muni
 1.  Yang, Y., Zhu, H., Zhou, W., Zhang, M., Xie, Y., **Bao, H.-W.-S.**, Su, Z., Wang, X., Jing, Y., Yang, Z., & Cai, H.<sup>\*</sup> (**2020**). The behavioral immune system: A multi-level reconsideration. _**Advances in Psychological Science**, 28_(11), 1865–1879. <https://doi.org/10.3724/SP.J.1042.2020.01865>\
 [杨盈, 朱慧珺, 周婉, 张明杨, 谢怡萍, **包寒吴霜**, 苏展, 王潇欧, 敬一鸣, 杨紫嫣, 蔡华俭<sup>\*</sup>. (**2020**). 行为免疫系统理论及其研究：新视野下的再考察. _**心理科学进展**, 28_(11), 1865–1879.]
 
-### Newspaper Articles (1):
+### Newspaper Articles:
 
 -   **Bao, H.-W.-S.**, & Cai, H.<sup>\*</sup> (**2021, March 4**). Improve the reliability of psychological research on names. ***Chinese Social Sciences Today***. <http://sscp.cssn.cn/xkpd/xlx/202103/t20210304_5315368.html>\
     [**包寒吴霜**, 蔡华俭<sup>\*</sup>. (**2021-03-04**). 提高姓名心理学研究的可靠程度. ***中国社会科学报***, 2118.]
@@ -193,7 +199,7 @@ International Journals:
 Chinese Journals:
 
 -   心理学报 *Acta Psychologica Sinica* (16)
--   心理科学 *Journal of Psychological Science* (14)
+-   心理科学 *Journal of Psychological Science* (15)
 -   心理科学进展 *Advances in Psychological Science* (3)
 -   心理技术与应用 *Psychology: Techniques and Applications* (8)
 -   心理学通讯 *Psychological Communications* (9)
