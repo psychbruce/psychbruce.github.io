@@ -1,4 +1,12 @@
-Dr. Bao (包寒吴霜) is an Assistant Professor studying *computational intelligent* social psychology at the East China Normal University. He uses natural language processing (NLP) as the main methodology and also focuses on developing new methods (e.g., [FMAT](https://psychbruce.github.io/FMAT/)) and tools (e.g., [bruceR](https://psychbruce.github.io/bruceR/), [PsychWordVec](https://psychbruce.github.io/PsychWordVec/)) for psychological science.
+------------------------------------------------------------------------
+
+Dr. Bao (包寒吴霜) is an Assistant Professor studying *Computational Intelligent Social Psychology* at the East China Normal University. He uses natural language processing (NLP) as the main methodology and also contributes to new methods (e.g., [FMAT](https://psychbruce.github.io/FMAT/)) and tools (e.g., [bruceR](https://psychbruce.github.io/bruceR/), [PsychWordVec](https://psychbruce.github.io/PsychWordVec/)) for psychological science.
+
+Currently, his research projects focus on social computing ("macro-social-psychometrics") with pretrained language models:
+
+-   How intergroup attitudes/biases (stereotypes, prejudice, and discrimination) are represented as semantic propositions in natural language
+-   How historical narratives encode contemporary people's understanding of social and cultural dynamics over a long history
+-   How semantic relations computed from natural language reflect human explicit and implicit social cognition
 
 ------------------------------------------------------------------------
 
@@ -199,7 +207,7 @@ International Journals:
 Chinese Journals:
 
 -   心理学报 *Acta Psychologica Sinica* (16)
--   心理科学 *Journal of Psychological Science* (15)
+-   心理科学 *Journal of Psychological Science* (16)
 -   心理科学进展 *Advances in Psychological Science* (3)
 -   心理技术与应用 *Psychology: Techniques and Applications* (8)
 -   心理学通讯 *Psychological Communications* (9)
@@ -212,6 +220,14 @@ Chinese Journals:
     -   [Judging Panel Member](https://mp.weixin.qq.com/s/BMHU6g0KC830aLxB_V04Xg) of the CAAI-BDSC 2024 Social Computing Innovation Contest
     -   [Judging Panel Member](https://mp.weixin.qq.com/s/dyKeDrk02sewenIjq3vi7g) of the CAAI-BDSC 2023 Social Computing Innovation Contest
 -   Shanghai Psychological Society: *Psychology + Artificial Intelligence*
+
+------------------------------------------------------------------------
+
+## Supervised Students
+
+### Bachelor Degree:
+
+2025: LI Ruijie, MA Liwei, SHEN Weiyi, TENG Jingyi
 
 ------------------------------------------------------------------------
 
