@@ -2,10 +2,10 @@
 
 Dr. Bao (包寒吴霜) is an Assistant Professor studying *Computational Intelligent Social Psychology* at the East China Normal University. He uses natural language processing (NLP) as the main methodology and also contributes to new methods (e.g., [FMAT](https://psychbruce.github.io/FMAT/)) and tools (e.g., [bruceR](https://psychbruce.github.io/bruceR/), [PsychWordVec](https://psychbruce.github.io/PsychWordVec/)) for psychological science.
 
-Currently, his research projects focus on social computing ("macro-social-psychometrics") with pretrained language models:
+His research now focuses on social computing ("macro-social-psychometrics") with pretrained language models:
 
--   How intergroup attitudes/biases (stereotypes, prejudice, and discrimination) are represented as semantic propositions in natural language
--   How historical narratives encode contemporary people's understanding of social and cultural dynamics over a long history
+-   How social biases (stereotypes / prejudice / discrimination) are represented as propositions in natural language
+-   How historical narratives encode contemporary people's understanding of long-term sociocultural dynamics
 -   How semantic relations computed from natural language reflect human explicit and implicit social cognition
 
 ------------------------------------------------------------------------
