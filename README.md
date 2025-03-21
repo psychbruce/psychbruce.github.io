@@ -77,7 +77,7 @@ His research now focuses on social computing ("macro-social-psychometrics") with
 
 ## Publications
 
-(^\*^ corresponding author; ^\#^ co-first author; [supervised student]{.underline})
+<sup>\*</sup> corresponding author; <sup>\#</sup> co-first author; <u>supervised student</u>
 
 ### Journal Articles in English:
 
