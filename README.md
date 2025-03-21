@@ -77,12 +77,11 @@ His research now focuses on social computing ("macro-social-psychometrics") with
 
 ## Publications
 
-<sup>\*</sup> Corresponding author\
-<sup>\#</sup> Supervised student
+(^\*^ corresponding author; ^\#^ co-first author; [supervised student]{.underline})
 
 ### Journal Articles in English:
 
-9.  **Bao, H.-W.-S.**, & Gries, P.<sup>\*</sup> (**2025**). Bias toward Chinese in English natural language. _**China Quarterly**_. (accepted)\
+9.  **Bao, H.-W.-S.**, & Gries, P.<sup>\*</sup> (**2025**). Bias toward Chinese in English language texts. _**China Quarterly**_. (accepted)\
 (IF<sub>2023</sub> = 2.5, SSCI Q1)
 
 8.  **Bao, H.-W.-S.**, & Gries, P.<sup>\*</sup> (**2024**). Intersectional race–gender stereotypes in natural language. _**British Journal of Social Psychology**, 63_(4), 1771–1786. <https://doi.org/10.1111/bjso.12748>\
@@ -207,7 +206,7 @@ International Journals:
 Chinese Journals:
 
 -   心理学报 *Acta Psychologica Sinica* (16)
--   心理科学 *Journal of Psychological Science* (16)
+-   心理科学 *Journal of Psychological Science* (17)
 -   心理科学进展 *Advances in Psychological Science* (3)
 -   心理技术与应用 *Psychology: Techniques and Applications* (8)
 -   心理学通讯 *Psychological Communications* (9)
