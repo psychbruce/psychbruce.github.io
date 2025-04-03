@@ -77,11 +77,11 @@ His research now focuses on social computing ("macro-social-psychometrics") with
 
 ## Publications
 
-<sup>\*</sup> corresponding author; <sup>\#</sup> co-first author; <u>supervised student</u>
+<sup>\*</sup>corresponding author; <sup>\#</sup>co-first author; <u>supervised student</u>
 
 ### Journal Articles in English:
 
-9.  **Bao, H.-W.-S.**, & Gries, P.<sup>\*</sup> (**2025**). Bias toward Chinese in English language texts. _**China Quarterly**_. (accepted)\
+9.  **Bao, H.-W.-S.**, & Gries, P.<sup>\*</sup> (**2025**). Bias toward Chinese in English language use. _**China Quarterly**_. (accepted)\
 (IF<sub>2023</sub> = 2.5, SSCI Q1)
 
 8.  **Bao, H.-W.-S.**, & Gries, P.<sup>\*</sup> (**2024**). Intersectional race–gender stereotypes in natural language. _**British Journal of Social Psychology**, 63_(4), 1771–1786. <https://doi.org/10.1111/bjso.12748>\
@@ -201,11 +201,11 @@ International Journals:
 -   *Behavior Research Methods* (2)
 -   *British Journal of Social Psychology* (1)
 -   *Journal of Cross-Cultural Psychology* (1)
--   *Acta Psychologica* (1); *Applied Psychology* (1); *Communications Psychology* (1); *Current Research in Ecological and Social Psychology* (1); *Frontiers in Education* (1); *Frontiers in Psychology* (1); *F1000Research* (2); *Organization Science* (1); *PeerJ Computer Science* (1); *Personnel Review* (1); *Self and Identity* (1)
+-   *Acta Psychologica* (1); *Applied Psychology* (1); *Communications Psychology* (1); *Current Research in Ecological and Social Psychology* (1); *Frontiers in Education* (1); *Frontiers in Psychology* (1); *F1000Research* (2); *Humanities and Social Sciences Communications* (1); *Organization Science* (1); *PeerJ Computer Science* (1); *Personnel Review* (1); *Self and Identity* (1)
 
 Chinese Journals:
 
--   心理学报 *Acta Psychologica Sinica* (16)
+-   心理学报 *Acta Psychologica Sinica* (17)
 -   心理科学 *Journal of Psychological Science* (17)
 -   心理科学进展 *Advances in Psychological Science* (3)
 -   心理技术与应用 *Psychology: Techniques and Applications* (8)
