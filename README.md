@@ -109,7 +109,7 @@ His research now focuses on social computing ("macro-social-psychometrics") with
 3.  **Bao, H.-W.-S.**, Cai, H.<sup>\*</sup>, Jing, Y., & Wang, J. (**2021**). Novel evidence for the increasing prevalence of unique names in China: A reply to Ogihara. _**Frontiers in Psychology**, 12_, Article 731244. <https://doi.org/10.3389/fpsyg.2021.731244>\
 (IF<sub>2023</sub> = 2.6, SSCI Q2)
 
-2.  Chuan-Peng, H.<sup>\*</sup>, Xu, Z., Lazić, A., Bhattacharya, P., Seda, L., Hossain, S., Jeftic, A., Özdoğru, A. A., Amaral, O. B., Miljković, N., Ilchovska, Z. G., Lazarevic, L. B., **Bao, H.-W.-S.**, Ghodke, N., Moreau, D., Elsherif, M., Chinchu, C., Ghai, S., Carneiro, C. F. D., ... Azevedo, F.<sup>\*</sup> (**under review**). Open science in the developing world: A collection of practical guides for researchers in developing countries. _**Advances in Methods and Practices in Psychological Science**_.\
+2.  Chuan-Peng, H.<sup>\*</sup>, Xu, Z., Lazić, A., Bhattacharya, P., Seda, L., Hossain, S., Jeftic, A., Özdoğru, A. A., Amaral, O. B., Miljković, N., Ilchovska, Z. G., Lazarevic, L. B., **Bao, H.-W.-S.**, Ghodke, N., Moreau, D., Elsherif, M., Chinchu, C., Ghai, S., Carneiro, C. F. D., ... Azevedo, F.<sup>\*</sup> (**Revise & Resubmit**). Open science in the developing world: A collection of practical guides for researchers in developing countries. _**Advances in Methods and Practices in Psychological Science**_.\
 (IF<sub>2023</sub> = 15.6, SSCI Q1)
 
 1.  Shi, Y., Luo, Y. L. L.<sup>\*</sup>, Yang, Z., Liu, Y., & **Bao, H.** (**2018**). Do narcissists enjoy visiting social networking sites? It depends on how adaptive they are. _**Frontiers in Psychology**, 9_, Article 1739. <https://doi.org/10.3389/fpsyg.2018.01739>\
@@ -202,15 +202,15 @@ International Journals:
 -   *Behavior Research Methods* (2)
 -   *British Journal of Social Psychology* (1)
 -   *Journal of Cross-Cultural Psychology* (1)
--   *Acta Psychologica* (1); *Applied Psychology* (1); *Communications Psychology* (1); *Current Research in Ecological and Social Psychology* (1); *Frontiers in Education* (1); *Frontiers in Psychology* (1); *F1000Research* (3); *Humanities and Social Sciences Communications* (1); *Organization Science* (1); *PeerJ Computer Science* (1); *Personnel Review* (1); *Self and Identity* (1)
+-   *Acta Psychologica* (1); *Applied Psychology* (1); *Canadian Studies in Population* (1); *Communications Psychology* (1); *Current Research in Ecological and Social Psychology* (1); *Frontiers in Education* (1); *Frontiers in Psychology* (1); *F1000Research* (3); *Humanities and Social Sciences Communications* (1); *Organization Science* (1); *PeerJ Computer Science* (1); *Personnel Review* (1); *Self and Identity* (1)
 
 Chinese Journals:
 
--   心理学报 *Acta Psychologica Sinica* (17)
+-   心理学报 *Acta Psychologica Sinica* (20)
 -   心理科学 *Journal of Psychological Science* (17)
 -   心理科学进展 *Advances in Psychological Science* (3)
--   心理技术与应用 *Psychology: Techniques and Applications* (8)
--   心理学通讯 *Psychological Communications* (10)
+-   心理技术与应用 *Psychology: Techniques and Applications* (9)
+-   心理学通讯 *Psychological Communications* (11)
 
 ### Academic Committee Membership:
 
