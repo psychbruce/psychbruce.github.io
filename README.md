@@ -1,6 +1,6 @@
 ------------------------------------------------------------------------
 
-Dr. Bao (包寒吴霜) is an Assistant Professor studying *Computational Intelligent Social Psychology* at the East China Normal University. He uses natural language processing (NLP) as the main methodology and also contributes to new methods (e.g., [FMAT](https://psychbruce.github.io/FMAT/)) and tools (e.g., [bruceR](https://psychbruce.github.io/bruceR/), [PsychWordVec](https://psychbruce.github.io/PsychWordVec/)) for psychological science.
+Dr. Bao (包寒吴霜) is an Assistant Professor studying *Computational Intelligent Social Psychology* at the East China Normal University. He uses natural language processing (NLP) as the main methodology and also contributes to new methods (e.g., [FMAT](https://psychbruce.github.io/FMAT/), [DPI](https://psychbruce.github.io/DPI/)) and tools (e.g., [bruceR](https://psychbruce.github.io/bruceR/), [PsychWordVec](https://psychbruce.github.io/PsychWordVec/)) for psychological science.
 
 His research now focuses on social computing ("macro-social-psychometrics") with pretrained language models:
 
@@ -15,7 +15,7 @@ His research now focuses on social computing ("macro-social-psychometrics") with
 ### 💼 *Assistant Professor* (2024.6~ )
 
 **East China Normal University**, [School of Psychology and Cognitive Science](https://psy.ecnu.edu.cn/shyglxlxx/list.htm)\
-华东师范大学 · 心理与认知科学学院 (助理教授/晨晖学者)
+华东师范大学 · 心理与认知科学学院 (助理教授/明园晨晖学者)
 
 ### 💼 *Research Associate* (2022.9~2024.5)
 
@@ -170,6 +170,7 @@ His research now focuses on social computing ("macro-social-psychometrics") with
         [![](https://img.shields.io/badge/R_package-ChineseNames-purple)](https://psychbruce.github.io/ChineseNames/) [![CRAN-Version](https://www.r-pkg.org/badges/version/ChineseNames?color=blue)](https://CRAN.R-project.org/package=ChineseNames) [![CRAN-Downloads](https://cranlogs.r-pkg.org/badges/grand-total/ChineseNames)](https://CRAN.R-project.org/package=ChineseNames)\
         [![](https://img.shields.io/badge/R_package-PsychWordVec-purple)](https://psychbruce.github.io/PsychWordVec/) [![CRAN-Version](https://www.r-pkg.org/badges/version/PsychWordVec?color=blue)](https://CRAN.R-project.org/package=PsychWordVec) [![CRAN-Downloads](https://cranlogs.r-pkg.org/badges/grand-total/PsychWordVec)](https://CRAN.R-project.org/package=PsychWordVec)\
         [![](https://img.shields.io/badge/R_package-FMAT-purple)](https://psychbruce.github.io/FMAT/) [![CRAN-Version](https://www.r-pkg.org/badges/version/FMAT?color=blue)](https://CRAN.R-project.org/package=FMAT) [![CRAN-Downloads](https://cranlogs.r-pkg.org/badges/grand-total/FMAT)](https://CRAN.R-project.org/package=FMAT)\
+        [![](https://img.shields.io/badge/R_package-DPI-purple)](https://psychbruce.github.io/DPI/) [![CRAN-Version](https://www.r-pkg.org/badges/version/DPI?color=blue)](https://CRAN.R-project.org/package=DPI) [![CRAN-Downloads](https://cranlogs.r-pkg.org/badges/grand-total/DPI)](https://CRAN.R-project.org/package=DPI)\
         [![](https://img.shields.io/badge/R_package-NgramTools-purple)](https://github.com/psychbruce/NgramTools) [![GitHub-Version](https://img.shields.io/github/r-package/v/psychbruce/NgramTools?label=GitHub&color=blue)](https://github.com/psychbruce/NgramTools)\
         [![](https://img.shields.io/badge/R_package-drawMap-purple)](https://github.com/psychbruce/drawMap) [![GitHub-Version](https://img.shields.io/github/r-package/v/psychbruce/drawMap?label=GitHub&color=blue)](https://github.com/psychbruce/drawMap)
 -   **Python** (proficient)
@@ -206,7 +207,7 @@ International Journals:
 
 Chinese Journals:
 
--   心理学报 *Acta Psychologica Sinica* (20)
+-   心理学报 *Acta Psychologica Sinica* (22)
 -   心理科学 *Journal of Psychological Science* (17)
 -   心理科学进展 *Advances in Psychological Science* (3)
 -   心理技术与应用 *Psychology: Techniques and Applications* (9)
