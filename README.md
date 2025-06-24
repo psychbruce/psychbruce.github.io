@@ -124,22 +124,25 @@ His research now focuses on social computing ("macro-social-psychometrics") with
 
 ### Journal Articles in Chinese:
 
-8.  **Bao, H. W. S.**, Wang, Z., Cheng, X., Su, Z., Yang, Y., Zhang, G., Wang, B., & Cai, H.<sup>\*</sup> (**2023**). Using word embeddings to investigate human psychology: Methods and applications. _**Advances in Psychological Science**, 31_(6), 887–904. <https://doi.org/10.3724/SP.J.1042.2023.00887>\
+9.  **Bao, H. W. S.**, Wang, Z., Cheng, X., Su, Z., Yang, Y., Zhang, G., Wang, B., & Cai, H.<sup>\*</sup> (**2023**). Using word embeddings to investigate human psychology: Methods and applications. _**Advances in Psychological Science**, 31_(6), 887–904. <https://doi.org/10.3724/SP.J.1042.2023.00887>\
 [**包寒吴霜**, 王梓西, 程曦, 苏展, 杨盈, 张光耀, 王博, 蔡华俭<sup>\*</sup>. (**2023**). 基于词嵌入技术的心理学研究：方法及应用. _**心理科学进展**, 31_(6), 887–904.]\
 ([中国人民大学复印报刊资料《心理学》2023年第11期](http://zlzx.ruc.edu.cn/xlqk/index.jhtml)全文转载)
 
-7.  **Bao, H. W. S.**, & Cai, H.<sup>\*</sup> (**2021**). Psychological and behavioral effects of personal names in real world: Evidence and theories. _**Advances in Psychological Science**, 29_(6), 1067–1085. <https://doi.org/10.3724/SP.J.1042.2021.01067>\
+8.  **Bao, H. W. S.**, & Cai, H.<sup>\*</sup> (**2021**). Psychological and behavioral effects of personal names in real world: Evidence and theories. _**Advances in Psychological Science**, 29_(6), 1067–1085. <https://doi.org/10.3724/SP.J.1042.2021.01067>\
 [**包寒吴霜**, 蔡华俭<sup>\*</sup>. (**2021**). 姓名对个体心理与行为的实际影响：证据和理论. _**心理科学进展**, 29_(6), 1067–1085.]\
 ([中国人民大学复印报刊资料《心理学》2021年第10期](http://zlzx.ruc.edu.cn/xlqk/index.jhtml)全文转载) (入选[哲学社会科学主文献](https://zszwx.cn/mainDetails?id=21945&referenceNumber=773725))
 
-6.  **Bao, H. W. S.**, Cai, H., & Luo, Y.<sup>\*</sup> (**2019**). Identity motives: Concept, measurement, and psychological effects. _**Journal of Psychological Science**, 42_(4), 971–977. <https://doi.org/10.16719/j.cnki.1671-6981.20190429>\
+7.  **Bao, H. W. S.**, Cai, H., & Luo, Y.<sup>\*</sup> (**2019**). Identity motives: Concept, measurement, and psychological effects. _**Journal of Psychological Science**, 42_(4), 971–977. <https://doi.org/10.16719/j.cnki.1671-6981.20190429>\
 [**包寒吴霜**, 蔡华俭, 罗宇<sup>\*</sup>. (**2019**). 身份认同动机：概念、测量与心理效应. _**心理科学**, 42_(4), 971–977.]
 
-5.  **Bao, H. W. S.**, Wu, S.<sup>\*</sup>, Zheng, H., Lu, H., Zheng, W., Dai, W., Lu, S., & Zhu, T.<sup>\*</sup> (**2018**). Polluted self: A big-data analysis based on daily-level air pollution and individualism-collectivism on social media. _**Community Psychology Research**, 6_(2), 71–85.\
+6.  **Bao, H. W. S.**, Wu, S.<sup>\*</sup>, Zheng, H., Lu, H., Zheng, W., Dai, W., Lu, S., & Zhu, T.<sup>\*</sup> (**2018**). Polluted self: A big-data analysis based on daily-level air pollution and individualism-collectivism on social media. _**Community Psychology Research**, 6_(2), 71–85.\
 [**包寒吴霜**, 吴胜涛<sup>\*</sup>, 郑昊, 陆海蓉, 郑伟, 戴炜, 陆梭, 朱廷劭<sup>\*</sup>. (**2018**). 雾霾下的自我：空气污染与个体主义–集体主义的大数据分析. _**社区心理学研究**, 6_(2), 71–85.]
 
-4.  **Bao, H. W. S.**, Chen, J., Lin, J., & Liu, L.<sup>\*</sup> (**2016**). Effects of name and gender on interpersonal attraction: Gender role evaluation as a mediator. _**Chinese Journal of Clinical Psychology**, 24_(4), 596–600. <https://doi.org/10.16128/j.cnki.1005-3611.2016.04.004>\
+5.  **Bao, H. W. S.**, Chen, J., Lin, J., & Liu, L.<sup>\*</sup> (**2016**). Effects of name and gender on interpersonal attraction: Gender role evaluation as a mediator. _**Chinese Journal of Clinical Psychology**, 24_(4), 596–600. <https://doi.org/10.16128/j.cnki.1005-3611.2016.04.004>\
 [**包寒吴霜**, 陈俊霖, 林俊利, 刘力<sup>\*</sup>. (**2016**). 名字与性别的人际吸引机制：性别角色评价的中介作用. _**中国临床心理学杂志**, 24_(4), 596–600.]
+
+4.  Wu, Y., Wang, B.<sup>\*</sup>, **Bao, H. W. S.**, Li, R., Wu, Y., Wang, J., Cheng, C., & Yang, L.<sup>\*</sup> (**2025**). Humans perceive warmth and competence in large language models. _**Acta Psychologica Sinica**_.\
+[武月婷, 王博<sup>\*</sup>, **包寒吴霜**, 李若男, 吴怡, 王嘉琪, 程诚, 杨丽<sup>\*</sup>. (**2025**). 人类对大语言模型的热情和能力感知. _**心理学报**_.]
 
 3.  Zhang, M., Yang, Y., **Bao, H. W. S.**, & Cai, H.<sup>\*</sup> (**2024**). The positive ideal affect of Chinese people: Trends over the past decades. _**Acta Psychologica Sinica**, 56_(7), 847–858. <https://doi.org/10.3724/SP.J.1041.2024.00847>\
 [张明杨, 杨盈, **包寒吴霜**, 蔡华俭<sup>\*</sup>. (**2024**). 中国人的积极理想情绪：近几十年来的变迁. _**心理学报**, 56_(7), 847–858.]
@@ -209,8 +212,7 @@ International Journals:
 -   *Psychological Science* (1)
 -   *Behavior Research Methods* (2)
 -   *British Journal of Social Psychology* (1)
--   *Journal of Cross-Cultural Psychology* (1)
--   *Acta Psychologica* (1); *Applied Psychology* (1); *Canadian Studies in Population* (1); *Communications Psychology* (1); *Current Research in Ecological and Social Psychology* (1); *Frontiers in Education* (1); *Frontiers in Psychology* (1); *F1000Research* (3); *Humanities and Social Sciences Communications* (1); *Organization Science* (1); *PeerJ Computer Science* (1); *Personnel Review* (1); *Self and Identity* (1)
+-   *Acta Psychologica* (1); *Applied Psychology* (1); *Canadian Studies in Population* (1); *Communications Psychology* (1); *Current Research in Ecological and Social Psychology* (1); *Frontiers in Education* (1); *Frontiers in Psychology* (1); *F1000Research* (3); *Humanities and Social Sciences Communications* (1); *Journal of Cross-Cultural Psychology* (1); *Organization Science* (1); *PeerJ Computer Science* (1); *Personnel Review* (1); *Self and Identity* (1)
 
 Chinese Journals:
 
@@ -245,7 +247,7 @@ Chinese Journals:
 
 -   Invited by *Psychological Communications* (online)
 
-**[2024.9] _Group-Level Psychology with Big Data and Natural Language_** (Special Invitation)
+**[2024.09] _Group-Level Psychology with Big Data and Natural Language_** (Special Invitation)
 
 -   The 2024 Annual Academic Conference of the Social Psychology Committee of Chinese Psychological Society, Jinan, Shandong, China
 
@@ -261,20 +263,20 @@ Chinese Journals:
 
 -   Manchester China Institute, University of Manchester
 
-**[2023.9] _Social Science in Natural Language: Word Counting, Word Embedding, and Language Modeling_** ("Translation Academy" Salon Series)
+**[2023.09] _Social Science in Natural Language: Word Counting, Word Embedding, and Language Modeling_** ("Translation Academy" Salon Series)
 
 -   University of Manchester (online)
 
-**[2023.4] _Discerning Human Society in Natural Language: Methods Based on Frequency, Similarity, and Probability_** (GNARC ECR Methods Workshop)
+**[2023.04] _Discerning Human Society in Natural Language: Methods Based on Frequency, Similarity, and Probability_** (GNARC ECR Methods Workshop)
 
 -   University of Manchester (invited by Nan Zhang)
 
-**[2022.6] _bruceR in the Workflow of Data Analysis_**
+**[2022.06] _bruceR in the Workflow of Data Analysis_**
 
 -   Nanjing Normal University (invited by Chuan-Peng Hu)
 -   Video: [Zhihu](https://www.zhihu.com/zvideo/1518929994206601217), [Bilibili](https://www.bilibili.com/video/BV1T94y1274r)
 
-**[2022.3] _Embedded in Word Embedding: Methodological Evolution of Psychology in the Era of AI_**
+**[2022.03] _Embedded in Word Embedding: Methodological Evolution of Psychology in the Era of AI_**
 
 -   Institute of Psychology, Chinese Academy of Sciences
 
@@ -286,12 +288,12 @@ Chinese Journals:
 
 -   Peking University (invited by Guiquan Li)
 
-**[2021.9] _How to Learn R Programming?_**
+**[2021.09] _How to Learn R Programming?_**
 
 -   Holland Psychometrics Association (online)
 -   Link: [Intro](https://mp.weixin.qq.com/s/Y4b2fsQTalXtf1JTIJKreg), [Video](https://mp.weixin.qq.com/s/2HrTpJWchVeW7_8m8HL9cA)
 
-**[2021.6] _How to “Uninstall” SPSS? Tips on Learning R Programming_**
+**[2021.06] _How to “Uninstall” SPSS? Tips on Learning R Programming_**
 
 -   Nanjing Normal University (invited by Chuan-Peng Hu)
 -   A talk presented on the *Psychological Research Method Workshop: R Programming*
@@ -319,6 +321,7 @@ Chinese Journals:
 -   [统计量–效应量的相互转换｜元分析基础](https://zhuanlan.zhihu.com/p/47849067)
 -   [姥姥也听懂｜相关/因果关系、中介/调节效应、词向量](https://zhuanlan.zhihu.com/p/469475189)
 -   [差之毫厘，谬以千里：辨析「固定效应、主效应、简单效应」](https://zhuanlan.zhihu.com/p/513227882)
+-   [学术争鸣｜浅谈「相关、预测、影响、因果」](https://zhuanlan.zhihu.com/p/481022419)
 
 ### Techniques
 
