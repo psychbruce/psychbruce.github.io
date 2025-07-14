@@ -84,7 +84,10 @@ His research now focuses on social computing ("macro-social-psychometrics") with
 
 ### Journal Articles in English:
 
-9.  **Bao, H. W. S.**, & Gries, P.<sup>\*</sup> (**2025**). Biases about Chinese people in English language use: Stereotypes, prejudice and discrimination. _**China Quarterly**_. Advance online publication. <https://doi.org/10.1017/S0305741025100532>\
+10.  Wang, Z., Xia, H., **Bao, H. W. S.**<sup>\*</sup>, Jing, Y., & Gu, R.<sup>\*</sup> (2025). Artificial intelligence is stereotypically linked more with socially dominant groups in natural language. _**Advanced Science**_. <https://doi.org/10.1002/advs.202508623>\
+(IF<sub>2024</sub> = 14.1, SSCI Q1)
+
+9.  **Bao, H. W. S.**, & Gries, P.<sup>\*</sup> (**2025**). Biases about Chinese people in English language use: Stereotypes, prejudice and discrimination. _**China Quarterly**_. <https://doi.org/10.1017/S0305741025100532>\
 🔥 [Download PDF](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/92AFE907C763471CDB1EB0B25939658E/S0305741025100532a.pdf/biases-about-chinese-people-in-english-language-use-stereotypes-prejudice-and-discrimination.pdf)\
 🚩 [UoM News](https://www.manchester.ac.uk/about/news/research-on-racial-bias-bears-fruit)\
 (IF<sub>2024</sub> = 2.5, SSCI Q1)
@@ -212,7 +215,7 @@ International Journals:
 -   *Psychological Science* (1)
 -   *Behavior Research Methods* (2)
 -   *British Journal of Social Psychology* (1)
--   *Acta Psychologica* (1); *Applied Psychology* (1); *Canadian Studies in Population* (1); *Communications Psychology* (1); *Current Research in Ecological and Social Psychology* (1); *Frontiers in Education* (1); *Frontiers in Psychology* (1); *F1000Research* (3); *Humanities and Social Sciences Communications* (1); *Journal of Cross-Cultural Psychology* (1); *Organization Science* (1); *PeerJ Computer Science* (1); *Personnel Review* (1); *Self and Identity* (1)
+-   *Acta Psychologica* (1); *Applied Psychology* (1); *Canadian Studies in Population* (1); *Communications Psychology* (1); *Current Research in Ecological and Social Psychology* (1); *Frontiers in Education* (1); *Frontiers in Psychology* (1); *F1000Research* (3); *Humanities and Social Sciences Communications* (1); *Journal of Cross-Cultural Psychology* (1); *Organization Science* (1); *PeerJ Computer Science* (1); *Personnel Review* (1); *Self and Identity* (1); *Social Science Research* (1)
 
 Chinese Journals:
 
