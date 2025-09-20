@@ -43,16 +43,21 @@ His research now focuses on social computing ("macro-social-psychometrics") with
 
 ## Research Interests
 
-### Computational Intelligent Social Psychology (计算智能社会心理学)
+### AI and Computational Social Science
 
--   **Natural Language Processing (NLP) Methodology**
-    -   [Fill-Mask Association Test (FMAT)](https://psychbruce.github.io/FMAT/)
-    -   AI/Large Language Models (LLM)
-    -   [Word Embeddings](https://psychbruce.github.io/PsychWordVec/)
--   **Social, Cultural, and Historical Psychology**
-    -   Intersectional Stereotypes
-    -   Historical Narratives
-    -   [Chinese Names](https://psychbruce.github.io/ChineseNames/)
+#### (1) AI for Social Science — *Computational Intelligent Social Psychology*
+
+-   [Fill-Mask Association Test (FMAT)](https://psychbruce.github.io/FMAT/) for social, cultural, and historical psychology
+Stereotypes, prejudice, and discrimination
+    -   Cultural/regional stereotypes
+    -   Intersectional stereotypes
+    -   Occupational stereotypes
+    -   Name stereotypes
+-   Historical evolution of social cognition
+
+#### (2) Social Science for AI — *Quantitative Causal Inference Methodology*
+
+-   [Directed Prediction Index (DPI)](https://psychbruce.github.io/DPI/) for quasi-causal inference with cross-sectional data
 
 ------------------------------------------------------------------------
 
@@ -84,7 +89,7 @@ His research now focuses on social computing ("macro-social-psychometrics") with
 
 ### Journal Articles in English:
 
-10.  Wang, Z., Xia, H., **Bao, H. W. S.**<sup>\*</sup>, Jing, Y., & Gu, R.<sup>\*</sup> (2025). Artificial intelligence is stereotypically linked more with socially dominant groups in natural language. _**Advanced Science**_. <https://doi.org/10.1002/advs.202508623>\
+10.  Wang, Z., Xia, H., **Bao, H. W. S.**<sup>\*</sup>, Jing, Y., & Gu, R.<sup>\*</sup> (2025). Artificial intelligence is stereotypically linked more with socially dominant groups in natural language. _**Advanced Science**_, e08623. <https://doi.org/10.1002/advs.202508623>\
 (IF<sub>2024</sub> = 14.1, SSCI Q1)
 
 9.  **Bao, H. W. S.**, & Gries, P.<sup>\*</sup> (**2025**). Biases about Chinese people in English language use: Stereotypes, prejudice and discrimination. _**China Quarterly**_. <https://doi.org/10.1017/S0305741025100532>\
@@ -119,7 +124,7 @@ His research now focuses on social computing ("macro-social-psychometrics") with
 3.  **Bao, H. W. S.**, Cai, H.<sup>\*</sup>, Jing, Y., & Wang, J. (**2021**). Novel evidence for the increasing prevalence of unique names in China: A reply to Ogihara. _**Frontiers in Psychology**, 12_, Article 731244. <https://doi.org/10.3389/fpsyg.2021.731244>\
 (IF<sub>2024</sub> = 2.9, SSCI Q1)
 
-2.  Chuan-Peng, H.<sup>\*</sup>, Xu, Z., Lazić, A., Bhattacharya, P., Seda, L., Hossain, S., Jeftic, A., Özdoğru, A. A., Amaral, O. B., Miljković, N., Ilchovska, Z. G., Lazarevic, L. B., **Bao, H. W. S.**, Ghodke, N., Moreau, D., Elsherif, M., Chinchu, C., Ghai, S., Carneiro, C. F. D., ... Azevedo, F.<sup>\*</sup> (**2025**). Open science in the developing world: A collection of practical guides for researchers in developing countries. _**Advances in Methods and Practices in Psychological Science**_. (accepted)\
+2.  Chuan-Peng, H.<sup>\*</sup>, Xu, Z., Lazić, A., Bhattacharya, P., Seda, L., Hossain, S., Jeftic, A., Özdoğru, A. A., Amaral, O. B., Miljković, N., Ilchovska, Z. G., Lazarevic, L. B., **Bao, H. W. S.**, Ghodke, N., Moreau, D., Elsherif, M., Chinchu, C., Ghai, S., Carneiro, C. F. D., ... Azevedo, F.<sup>\*</sup> (**2025**). Open science in the developing world: A collection of practical guides for researchers in developing countries. _**Advances in Methods and Practices in Psychological Science**, 8_(3). <https://doi.org/10.1177/25152459251357565>\
 (IF<sub>2024</sub> = 13.4, SSCI Q1)
 
 1.  Shi, Y., Luo, Y. L. L.<sup>\*</sup>, Yang, Z., Liu, Y., & **Bao, H.** (**2018**). Do narcissists enjoy visiting social networking sites? It depends on how adaptive they are. _**Frontiers in Psychology**, 9_, Article 1739. <https://doi.org/10.3389/fpsyg.2018.01739>\
@@ -213,17 +218,15 @@ International Journals:
 
 -   *Nature Human Behaviour* (2)
 -   *Psychological Science* (1)
--   *Behavior Research Methods* (2)
--   *British Journal of Social Psychology* (1)
--   *Acta Psychologica* (1); *Applied Psychology* (1); *Canadian Studies in Population* (1); *Communications Psychology* (1); *Current Research in Ecological and Social Psychology* (1); *Frontiers in Education* (1); *Frontiers in Psychology* (1); *F1000Research* (3); *Humanities and Social Sciences Communications* (1); *Journal of Cross-Cultural Psychology* (1); *Organization Science* (1); *PeerJ Computer Science* (1); *Personnel Review* (1); *Self and Identity* (1); *Social Science Research* (1)
+-   *Acta Psychologica* (1); *Applied Psychology* (1); *Behavior Research Methods* (2); *British Journal of Social Psychology* (1); *Canadian Studies in Population* (1); *Communications Psychology* (1); *Current Research in Ecological and Social Psychology* (1); *Frontiers in Education* (1); *Frontiers in Psychology* (1); *F1000Research* (3); *Humanities and Social Sciences Communications* (1); *Journal of Cross-Cultural Psychology* (1); *Journal of Pacific Rim Psychology* (1); *Organization Science* (1); *PeerJ Computer Science* (1); *Personnel Review* (1); *Self and Identity* (1); *Social Science Research* (1)
 
 Chinese Journals:
 
--   心理学报 *Acta Psychologica Sinica* (22)
--   心理科学 *Journal of Psychological Science* (17)
+-   心理学报 *Acta Psychologica Sinica* (24)
+-   心理科学 *Journal of Psychological Science* (18)
 -   心理科学进展 *Advances in Psychological Science* (3)
 -   心理技术与应用 *Psychology: Techniques and Applications* (9)
--   心理学通讯 *Psychological Communications* (11)
+-   心理学通讯 *Psychological Communications* (12)
 
 ### Academic Committee Membership:
 
