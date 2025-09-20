@@ -48,12 +48,12 @@ His research questions now focus on social cognition and its historical evolutio
 #### (1) AI for Social Science — *Computational Intelligent Social Psychology*
 
 -   [Fill-Mask Association Test (FMAT)](https://psychbruce.github.io/FMAT/) for social, cultural, and historical psychology
+    -   Historical evolution of social cognition
     -   Stereotypes, prejudice, and discrimination
         -   Cultural/regional stereotypes
         -   Intersectional stereotypes
         -   Occupational stereotypes
         -   Name stereotypes
-    -   Historical evolution of social cognition
 
 #### (2) Social Science for AI — *Quantitative Causal Inference Methodology*
 
