@@ -1,12 +1,12 @@
 ------------------------------------------------------------------------
 
-Dr. Bao (包寒吴霜) is an Assistant Professor studying *Computational Intelligent Social Psychology* at the East China Normal University. He uses natural language processing (NLP) as the main methodology and also contributes to new methods (e.g., [FMAT](https://psychbruce.github.io/FMAT/), [DPI](https://psychbruce.github.io/DPI/)) and tools (e.g., [bruceR](https://psychbruce.github.io/bruceR/), [PsychWordVec](https://psychbruce.github.io/PsychWordVec/)) for psychological science.
+Dr. Bao (包寒吴霜) is an Assistant Professor at East China Normal University studying *AI and Computational Social Science*, with a focus on developing cutting-edge research areas of *Computational Intelligent Social Psychology* and *Quantitative Causal Inference Methodology*. He also contributes to new methods (e.g., [FMAT](https://psychbruce.github.io/FMAT/), [DPI](https://psychbruce.github.io/DPI/)) and tools (e.g., [bruceR](https://psychbruce.github.io/bruceR/), [PsychWordVec](https://psychbruce.github.io/PsychWordVec/)) for psychological science.
 
-His research now focuses on social computing ("macro-social-psychometrics") with pretrained language models:
+His research questions now focus on social cognition and its historical evolution, using social computing ("macro-social-psychometrics") with pretrained language models as the main methodology:
 
 -   How social biases (stereotypes / prejudice / discrimination) are represented as propositions in natural language
 -   How historical narratives encode contemporary people's understanding of long-term sociocultural dynamics
--   How semantic relations computed from natural language reflect human explicit and implicit social cognition
+-   How semantic relations derived from natural language reflect human explicit and implicit social cognition
 
 ------------------------------------------------------------------------
 
@@ -48,12 +48,12 @@ His research now focuses on social computing ("macro-social-psychometrics") with
 #### (1) AI for Social Science — *Computational Intelligent Social Psychology*
 
 -   [Fill-Mask Association Test (FMAT)](https://psychbruce.github.io/FMAT/) for social, cultural, and historical psychology
-Stereotypes, prejudice, and discrimination
-    -   Cultural/regional stereotypes
-    -   Intersectional stereotypes
-    -   Occupational stereotypes
-    -   Name stereotypes
--   Historical evolution of social cognition
+    -   Stereotypes, prejudice, and discrimination
+        -   Cultural/regional stereotypes
+        -   Intersectional stereotypes
+        -   Occupational stereotypes
+        -   Name stereotypes
+    -   Historical evolution of social cognition
 
 #### (2) Social Science for AI — *Quantitative Causal Inference Methodology*
 
