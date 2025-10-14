@@ -1,6 +1,6 @@
 ------------------------------------------------------------------------
 
-Dr. Bao (包寒吴霜) is an Assistant Professor at East China Normal University studying *AI and Computational Social Science*, with a focus on developing cutting-edge research areas of *Computational Intelligent Social Psychology* and *Quantitative Causal Inference Methodology*. He also contributes to new methods (e.g., [FMAT](https://psychbruce.github.io/FMAT/), [DPI](https://psychbruce.github.io/DPI/)) and tools (e.g., [bruceR](https://psychbruce.github.io/bruceR/), [PsychWordVec](https://psychbruce.github.io/PsychWordVec/)) for psychological science.
+Dr. Bao (包寒吴霜) is an Assistant Professor at East China Normal University studying *Computational Intelligent Social Psychology* and *Quantitative Causal Inference Methodology*. He also contributes to new methods (e.g., [FMAT](https://psychbruce.github.io/FMAT/), [DPI](https://psychbruce.github.io/DPI/)) and tools (e.g., [bruceR](https://psychbruce.github.io/bruceR/), [PsychWordVec](https://psychbruce.github.io/PsychWordVec/)) for psychological science.
 
 His research questions now focus on social cognition and its historical evolution, using social computing ("macro-social-psychometrics") with pretrained language models as the main methodology:
 
@@ -45,7 +45,7 @@ His research questions now focus on social cognition and its historical evolutio
 
 ### AI and Computational Social Science
 
-#### (1) AI for Social Science — *Computational Intelligent Social Psychology*
+#### (1) Computational Intelligent Social Psychology
 
 -   [Fill-Mask Association Test (FMAT)](https://psychbruce.github.io/FMAT/) for social, cultural, and historical psychology
     -   Historical evolution of social cognition
@@ -55,9 +55,9 @@ His research questions now focus on social cognition and its historical evolutio
         -   Occupational stereotypes
         -   Name stereotypes
 
-#### (2) Social Science for AI — *Quantitative Causal Inference Methodology*
+#### (2) Quantitative Causal Inference Methodology
 
--   [Directed Prediction Index (DPI)](https://psychbruce.github.io/DPI/) for quasi-causal inference with cross-sectional data
+-   [Directed Prediction Index (DPI)](https://psychbruce.github.io/DPI/) for causal inference from observational data
 
 ------------------------------------------------------------------------
 
@@ -92,7 +92,7 @@ His research questions now focus on social cognition and its historical evolutio
 10.  Wang, Z., Xia, H., **Bao, H. W. S.**<sup>\*</sup>, Jing, Y., & Gu, R.<sup>\*</sup> (2025). Artificial intelligence is stereotypically linked more with socially dominant groups in natural language. _**Advanced Science**_, e08623. <https://doi.org/10.1002/advs.202508623>\
 (IF<sub>2024</sub> = 14.1, SSCI Q1)
 
-9.  **Bao, H. W. S.**, & Gries, P.<sup>\*</sup> (**2025**). Biases about Chinese people in English language use: Stereotypes, prejudice and discrimination. _**China Quarterly**_. <https://doi.org/10.1017/S0305741025100532>\
+9.  **Bao, H. W. S.**, & Gries, P.<sup>\*</sup> (**2025**). Biases about Chinese people in English language use: Stereotypes, prejudice and discrimination. _**China Quarterly**, 263_, 830–842. <https://doi.org/10.1017/S0305741025100532>\
 🔥 [Download PDF](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/92AFE907C763471CDB1EB0B25939658E/S0305741025100532a.pdf/biases-about-chinese-people-in-english-language-use-stereotypes-prejudice-and-discrimination.pdf)\
 🚩 [UoM News](https://www.manchester.ac.uk/about/news/research-on-racial-bias-bears-fruit)\
 (IF<sub>2024</sub> = 2.5, SSCI Q1)
@@ -223,7 +223,7 @@ International Journals:
 Chinese Journals:
 
 -   心理学报 *Acta Psychologica Sinica* (24)
--   心理科学 *Journal of Psychological Science* (18)
+-   心理科学 *Journal of Psychological Science* (19)
 -   心理科学进展 *Advances in Psychological Science* (3)
 -   心理技术与应用 *Psychology: Techniques and Applications* (9)
 -   心理学通讯 *Psychological Communications* (12)
