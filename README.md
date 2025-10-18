@@ -57,7 +57,7 @@ His research questions now focus on social cognition and its historical evolutio
 
 #### (2) Quantitative Causal Inference Methodology
 
--   [Directed Prediction Index (DPI)](https://psychbruce.github.io/DPI/) for causal inference from observational data
+-   [Directed Prediction Index (DPI)](https://psychbruce.github.io/DPI/) for causal inference (causal discovery) from observational data
 
 ------------------------------------------------------------------------
 
@@ -89,7 +89,7 @@ His research questions now focus on social cognition and its historical evolutio
 
 ### Journal Articles in English:
 
-10.  Wang, Z., Xia, H., **Bao, H. W. S.**<sup>\*</sup>, Jing, Y., & Gu, R.<sup>\*</sup> (2025). Artificial intelligence is stereotypically linked more with socially dominant groups in natural language. _**Advanced Science**_, e08623. <https://doi.org/10.1002/advs.202508623>\
+10.  Wang, Z., Xia, H., **Bao, H. W. S.**<sup>\*</sup>, Jing, Y., & Gu, R.<sup>\*</sup> (2025). Artificial intelligence is stereotypically linked more with socially dominant groups in natural language. _**Advanced Science**, 12_(39), e08623. <https://doi.org/10.1002/advs.202508623>\
 (IF<sub>2024</sub> = 14.1, SSCI Q1)
 
 9.  **Bao, H. W. S.**, & Gries, P.<sup>\*</sup> (**2025**). Biases about Chinese people in English language use: Stereotypes, prejudice and discrimination. _**China Quarterly**, 263_, 830–842. <https://doi.org/10.1017/S0305741025100532>\
@@ -149,8 +149,8 @@ His research questions now focus on social cognition and its historical evolutio
 5.  **Bao, H. W. S.**, Chen, J., Lin, J., & Liu, L.<sup>\*</sup> (**2016**). Effects of name and gender on interpersonal attraction: Gender role evaluation as a mediator. _**Chinese Journal of Clinical Psychology**, 24_(4), 596–600. <https://doi.org/10.16128/j.cnki.1005-3611.2016.04.004>\
 [**包寒吴霜**, 陈俊霖, 林俊利, 刘力<sup>\*</sup>. (**2016**). 名字与性别的人际吸引机制：性别角色评价的中介作用. _**中国临床心理学杂志**, 24_(4), 596–600.]
 
-4.  Wu, Y., Wang, B.<sup>\*</sup>, **Bao, H. W. S.**, Li, R., Wu, Y., Wang, J., Cheng, C., & Yang, L.<sup>\*</sup> (**2025**). Humans perceive warmth and competence in large language models. _**Acta Psychologica Sinica**_.\
-[武月婷, 王博<sup>\*</sup>, **包寒吴霜**, 李若男, 吴怡, 王嘉琪, 程诚, 杨丽<sup>\*</sup>. (**2025**). 人类对大语言模型的热情和能力感知. _**心理学报**_.]
+4.  Wu, Y., Wang, B.<sup>\*</sup>, **Bao, H. W. S.**, Li, R., Wu, Y., Wang, J., Cheng, C., & Yang, L.<sup>\*</sup> (**2025**). Humans perceive warmth and competence in large language models. _**Acta Psychologica Sinica**, 57_(11), 2043–2059.\
+[武月婷, 王博<sup>\*</sup>, **包寒吴霜**, 李若男, 吴怡, 王嘉琪, 程诚, 杨丽<sup>\*</sup>. (**2025**). 人类对大语言模型的热情和能力感知. _**心理学报**, 57_(11), 2043–2059.]
 
 3.  Zhang, M., Yang, Y., **Bao, H. W. S.**, & Cai, H.<sup>\*</sup> (**2024**). The positive ideal affect of Chinese people: Trends over the past decades. _**Acta Psychologica Sinica**, 56_(7), 847–858. <https://doi.org/10.3724/SP.J.1041.2024.00847>\
 [张明杨, 杨盈, **包寒吴霜**, 蔡华俭<sup>\*</sup>. (**2024**). 中国人的积极理想情绪：近几十年来的变迁. _**心理学报**, 56_(7), 847–858.]
@@ -248,6 +248,14 @@ Chinese Journals:
 ------------------------------------------------------------------------
 
 ## Invited Talks
+
+**[2025.10] _Advances in Social Computing and Causal Discovery_**
+
+-   Shaanxi Normal University (invited by Cong Wei)
+
+**[2025.10] _The Directed Prediction Index (DPI): Quantifying Relative Endogeneity for Causal Inference from Observational Data_**
+
+-   East China Normal University & Shanghai Psychological Society
 
 **[2024.12] _Research Methods with Natural Language for Social Psychology_**
 
