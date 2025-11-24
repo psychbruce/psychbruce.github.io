@@ -243,8 +243,8 @@ Chinese Journals:
 
 ### Bachelor Degree:
 
-2026: LIU Ruizi, MENG Yueyang
-2025: LI Ruijie, MA Liwei, SHEN Weiyi, TENG Jingyi
+-   2026: LIU Ruizi, MENG Yueyang
+-   2025: LI Ruijie, MA Liwei, SHEN Weiyi, TENG Jingyi
 
 ------------------------------------------------------------------------
 
