@@ -222,8 +222,8 @@ International Journals:
 
 Chinese Journals:
 
--   心理学报 *Acta Psychologica Sinica* (24)
--   心理科学 *Journal of Psychological Science* (19)
+-   心理学报 *Acta Psychologica Sinica* (25)
+-   心理科学 *Journal of Psychological Science* (20)
 -   心理科学进展 *Advances in Psychological Science* (3)
 -   心理技术与应用 *Psychology: Techniques and Applications* (9)
 -   心理学通讯 *Psychological Communications* (12)
@@ -243,6 +243,7 @@ Chinese Journals:
 
 ### Bachelor Degree:
 
+2026: LIU Ruizi, MENG Yueyang
 2025: LI Ruijie, MA Liwei, SHEN Weiyi, TENG Jingyi
 
 ------------------------------------------------------------------------
@@ -357,7 +358,8 @@ Chinese Journals:
 👊 Wing-Chun (咏春拳)\
 🔗️ Nunchakus (双节棍)\
 🥊 Mixed Martial Arts (综合格斗)\
-🥋 Tae-Kwon-Do (Level: 2nd *Dan* black belt)
+🥋 Tae-Kwon-Do (Level: 2nd *Dan* black belt)\
+🎹 Piano
 
 ------------------------------------------------------------------------
 
