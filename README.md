@@ -8,6 +8,8 @@ His research questions now focus on social cognition and intergroup collective m
 -   How collective memory and public understanding of the past are represented in natural language
 -   How semantic relations derived from natural language reflect human explicit/implicit social cognition
 
+In addition, he has developed an open-source, online [R Course Open Tutorial (in Chinese)](https://psychbruce.github.io/RCourse/).
+
 ------------------------------------------------------------------------
 
 ## Academic Position
@@ -75,12 +77,12 @@ His research questions now focus on social cognition and intergroup collective m
 
 ### Undergraduate Level:
 
--   R语言 (R: Data Analysis and Visualization)
+-   R语言 (R: Data Analysis and Visualization) [R Course Open Tutorial (in Chinese)](https://psychbruce.github.io/RCourse/)
 -   人格心理学 (Personality Psychology)
 
 ### Graduate Level:
 
--   高级心理统计 (Advanced Psychological Statistics)
+-   高级心理统计 (Advanced Statistics for Psychology)
 
 ------------------------------------------------------------------------
 
@@ -191,7 +193,8 @@ His research questions now focus on social cognition and intergroup collective m
         [![](https://img.shields.io/badge/R_package-FMAT-purple)](https://psychbruce.github.io/FMAT/) [![CRAN-Version](https://www.r-pkg.org/badges/version/FMAT?color=blue)](https://CRAN.R-project.org/package=FMAT) [![CRAN-Downloads](https://cranlogs.r-pkg.org/badges/grand-total/FMAT)](https://CRAN.R-project.org/package=FMAT)\
         [![](https://img.shields.io/badge/R_package-DPI-purple)](https://psychbruce.github.io/DPI/) [![CRAN-Version](https://www.r-pkg.org/badges/version/DPI?color=blue)](https://CRAN.R-project.org/package=DPI) [![CRAN-Downloads](https://cranlogs.r-pkg.org/badges/grand-total/DPI)](https://CRAN.R-project.org/package=DPI)\
         [![](https://img.shields.io/badge/R_package-NgramTools-purple)](https://github.com/psychbruce/NgramTools) [![GitHub-Version](https://img.shields.io/github/r-package/v/psychbruce/NgramTools?label=GitHub&color=blue)](https://github.com/psychbruce/NgramTools)\
-        [![](https://img.shields.io/badge/R_package-drawMap-purple)](https://github.com/psychbruce/drawMap) [![GitHub-Version](https://img.shields.io/github/r-package/v/psychbruce/drawMap?label=GitHub&color=blue)](https://github.com/psychbruce/drawMap)
+        [![](https://img.shields.io/badge/R_package-drawMap-purple)](https://github.com/psychbruce/drawMap) [![GitHub-Version](https://img.shields.io/github/r-package/v/psychbruce/drawMap?label=GitHub&color=blue)](https://github.com/psychbruce/drawMap)\
+        [![](https://img.shields.io/badge/Tutorial-R_Course_Tutorial_(in_Chinese)-purple)](https://psychbruce.github.io/RCourse/)
 -   **Python** (proficient)
     -   Web crawling, big data collection and processing
     -   Have crawled 20+ websites for data collection in research
@@ -221,8 +224,8 @@ His research questions now focus on social cognition and intergroup collective m
 
 -   *Nature Human Behaviour* (2)
 -   *Psychological Science* (1)
--   *Acta Psychologica* (1); *AI and Ethics* (1); *Applied Psychology* (1); *Behavior Research Methods* (2); *British Journal of Social Psychology* (1); *Canadian Studies in Population* (1); *Communications Psychology* (1); *Current Research in Ecological and Social Psychology* (1); *Frontiers in Education* (1); *Frontiers in Psychology* (1); *F1000Research* (3); *Humanities and Social Sciences Communications* (1); *Journal of Cross-Cultural Psychology* (1); *Journal of Pacific Rim Psychology* (1); *Organization Science* (1); *PeerJ Computer Science* (1); *Personnel Review* (1); *Self and Identity* (1); *Social Science Research* (1)
--   心理学报 *Acta Psychologica Sinica* (27)
+-   *Acta Psychologica* (1); *AI and Ethics* (1); *Applied Psychology* (1); *Behavior Research Methods* (2); *British Journal of Social Psychology* (1); *Canadian Studies in Population* (1); *Communications Psychology* (1); *Current Research in Ecological and Social Psychology* (1); *Frontiers in Education* (1); *Frontiers in Psychology* (1); *F1000Research* (3); *Humanities and Social Sciences Communications* (1); *Journal of Cross-Cultural Psychology* (1); *Journal of Pacific Rim Psychology* (1); *Organization Science* (1); *PeerJ Computer Science* (1); *Personnel Review* (1); *Self and Identity* (1); *Social Psychology* (1); *Social Science Research* (1)
+-   心理学报 *Acta Psychologica Sinica* (28)
 -   心理科学 *Journal of Psychological Science* (21)
 -   心理科学进展 *Advances in Psychological Science* (4)
 -   心理技术与应用 *Psychology: Techniques and Applications* (9)
