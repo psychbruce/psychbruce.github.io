@@ -92,7 +92,7 @@ In addition, he has developed an open-source, online [R Course Open Tutorial (in
 
 ### Journal Articles in English:
 
-11.  **Bao, H. W. S.**<sup>\*</sup>, <u>Ma, L.</u>, & Wang, Z. (2026). Economic inequality in history: Perceived and objective changes align but diverge from public attention. _**Journal of Pacific Rim Psychology**_. (minor revision, ready to be accepted)\
+11.  **Bao, H. W. S.**<sup>\*</sup>, <u>Ma, L.</u>, & Wang, Z. (2026). Economic inequality in history: Perceived and objective changes align but diverge from public attention. _**Journal of Pacific Rim Psychology**, 20_. <https://doi.org/10.1177/18344909261444110>\
 (IF<sub>2024</sub> = 2.4, SSCI Q2)
 
 10.  Wang, Z., Xia, H., **Bao, H. W. S.**<sup>\*</sup>, Jing, Y., & Gu, R.<sup>\*</sup> (2025). Artificial intelligence is stereotypically linked more with socially dominant groups in natural language. _**Advanced Science**, 12_(39), e08623. <https://doi.org/10.1002/advs.202508623>\
