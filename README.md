@@ -93,14 +93,18 @@ In addition, he has developed an open-source, online [R Course Open Tutorial (in
 ### Journal Articles in English:
 
 11.  **Bao, H. W. S.**<sup>\*</sup>, <u>Ma, L.</u>, & Wang, Z. (**2026**). Economic inequality in history: Perceived and objective changes align but diverge from public attention. _**Journal of Pacific Rim Psychology**, 20_. <https://doi.org/10.1177/18344909261444110>\
-(IF<sub>2024</sub> = 2.4, SSCI Q2)
+🔥 [Download PDF](https://journals.sagepub.com/doi/pdf/10.1177/18344909261444110)\
+(IF<sub>2024</sub> = 2.4, SSCI Q2)\
+> **Abstract**: Historical narratives encode how people today perceive, understand, and reconstruct past realities. One basic form focuses on historical trajectories and encodes perceived changes. Here, we show that perceived changes in economic inequality are predicted by its objective changes over time, while both diverge from shifts in public attention to economic inequality. Using the Fill-Mask Association Test (FMAT), a new social computing paradigm, we quantified public perceptions of changes in economic inequality from 1800 to 2019, as represented semantically in large contemporary English-language texts. Perceived changes are consistent with how economic inequality has actually changed in the long history, which was replicated using various time series analysis methods (e.g., cross-correlation, vector autoregression, Granger causality test). In contrast, public attention to economic inequality, as measured by word frequency in Google Books, did not fluctuate in line with either objective or perceived changes. Our findings demarcate the objective–subjective relationships of economic inequality from a historical-psychological perspective. Objective changes are accurately perceived and encoded in natural language texts, forming a collective memory of economic inequality in history.
 
 10.  Wang, Z., Xia, H., **Bao, H. W. S.**<sup>\*</sup>, Jing, Y., & Gu, R.<sup>\*</sup> (**2025**). Artificial intelligence is stereotypically linked more with socially dominant groups in natural language. _**Advanced Science**, 12_(39), e08623. <https://doi.org/10.1002/advs.202508623>\
+📄 [Download PDF](https://advanced.onlinelibrary.wiley.com/doi/pdf/10.1002/advs.202508623)
 (IF<sub>2024</sub> = 14.1, SCI Q1)
 
 9.  **Bao, H. W. S.**, & Gries, P.<sup>\*</sup> (**2025**). Biases about Chinese people in English language use: Stereotypes, prejudice and discrimination. _**China Quarterly**, 263_, 830–842. <https://doi.org/10.1017/S0305741025100532>\
 🔥 [Download PDF](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/92AFE907C763471CDB1EB0B25939658E/S0305741025100532a.pdf/biases-about-chinese-people-in-english-language-use-stereotypes-prejudice-and-discrimination.pdf)\
 🚩 [UoM News](https://www.manchester.ac.uk/about/news/research-on-racial-bias-bears-fruit)\
+🚩 [ECNU News](https://mp.weixin.qq.com/s/Iw8Ghy9WCW3yiqAo6f0NXA)\
 (IF<sub>2024</sub> = 2.5, SSCI Q1)
 
 8.  **Bao, H. W. S.**, & Gries, P.<sup>\*</sup> (**2024**). Intersectional race–gender stereotypes in natural language. _**British Journal of Social Psychology**, 63_(4), 1771–1786. <https://doi.org/10.1111/bjso.12748>\
@@ -111,6 +115,7 @@ In addition, he has developed an open-source, online [R Course Open Tutorial (in
 7.  **Bao, H. W. S.**<sup>\*</sup> (**2024**). The Fill-Mask Association Test (FMAT): Measuring propositions in natural language. _**Journal of Personality and Social Psychology**, 127_(3), 537–561. <https://doi.org/10.1037/pspa0000396>\
 🔥 [Download PDF](https://psychbruce.github.io/paper/Bao_2024_JPSP_FMAT.pdf)\
 🚩 [APA Showcase on Kudos](https://www.growkudos.com/publications/10.1037%25252Fpspa0000396/reader)\
+🚩 [ECNU News](https://mp.weixin.qq.com/s/Ho6kMFX93Q-W-3joKzmopg)\
 (IF<sub>2024</sub> = 6.7, SSCI Q1)\
 > **Abstract**: Recent advances in large language models are enabling the computational intelligent analysis of psychology in natural language. Here, the Fill-Mask Association Test (FMAT) is introduced as a novel and integrative method leveraging Masked Language Models to study and measure psychology from a *propositional* perspective at the societal level. The FMAT uses Bidirectional Encoder Representations from Transformers (BERT) models to compute semantic probabilities of option words filling in the masked blank of a designed query (i.e., a clozelike contextualized sentence). The current research presents 15 studies that establish the reliability and validity of the FMAT in predicting factual associations (Studies 1A–1C), measuring attitudes/biases (Studies 2A–2D), capturing social stereotypes (Studies 3A–3D), and retrospectively delineating lay perceptions of sociocultural changes over time (Studies 4A–4D). Empirically, the FMAT replicated seminal findings previously obtained with human participants (e.g., the Implicit Association Test) and other big-data text-analytic methods (e.g., word frequency analysis, the Word Embedding Association Test), demonstrating robustness across 12 BERT model variants and diverse training text corpora. Theoretically, the current findings substantiate the propositional (vs. associative) perspective on how semantic associations are represented in natural language. Methodologically, the FMAT allows for more fine-grained language-based psychological measurement, with an R package developed to streamline its workflow for use on broader research questions.
 
