@@ -229,18 +229,19 @@ In addition, he has developed an open-source, online [R Course Open Tutorial (in
 
 ### Editorial Roles:
 
+-   *PsyCh Journal* (Youth Editorial Board Member, 2026~2028)
 -   *PNAS Nexus* (Guest Editor / Handling Editor, 2025.12)
 
 ### Journal Reviewer (Articles Reviewed):
 
 -   *Nature Human Behaviour* (2)
 -   *Psychological Science* (1)
--   *Acta Psychologica* (1); *AI and Ethics* (1); *Applied Psychology* (1); *Behavior Research Methods* (2); *British Journal of Social Psychology* (1); *Canadian Studies in Population* (1); *Communications Psychology* (1); *Current Research in Ecological and Social Psychology* (1); *Frontiers in Education* (1); *Frontiers in Psychology* (1); *F1000Research* (3); *Humanities and Social Sciences Communications* (1); *Journal of Cross-Cultural Psychology* (1); *Journal of Pacific Rim Psychology* (1); *Organization Science* (1); *PeerJ Computer Science* (1); *Personnel Review* (1); *Self and Identity* (1); *Social Psychology* (1); *Social Science Research* (1)
+-   *Acta Psychologica* (1); *AI and Ethics* (1); *Applied Psychology* (1); *Behavior Research Methods* (2); *British Journal of Social Psychology* (1); *Canadian Studies in Population* (1); *Communications Psychology* (1); *Current Research in Ecological and Social Psychology* (1); *Frontiers in Education* (1); *Frontiers in Psychology* (1); *F1000Research* (3); *Humanities and Social Sciences Communications* (1); *Journal of Cross-Cultural Psychology* (1); *Journal of Pacific Rim Psychology* (2); *Organization Science* (1); *PeerJ Computer Science* (1); *Personnel Review* (1); *Self and Identity* (1); *Social Psychology* (1); *Social Science Research* (1)
 -   心理学报 *Acta Psychologica Sinica* (28)
 -   心理科学 *Journal of Psychological Science* (21)
 -   心理科学进展 *Advances in Psychological Science* (4)
 -   心理技术与应用 *Psychology: Techniques and Applications* (9)
--   心理学通讯 *Psychological Communications* (12)
+-   心理学通讯 *Psychological Communications* (13)
 
 ### Academic Committee Membership:
 
