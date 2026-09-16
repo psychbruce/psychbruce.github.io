@@ -1,12 +1,12 @@
 ------------------------------------------------------------------------
 
-Dr. Bao (包寒吴霜) is an Assistant Professor at East China Normal University studying *Computational Intelligent Social Psychology* and *Quantitative Causal Inference Methodology*. He also contributes to new methods (e.g., [FMAT](https://psychbruce.github.io/FMAT/), [DPI](https://psychbruce.github.io/DPI/)) and tools (e.g., [bruceR](https://psychbruce.github.io/bruceR/), [PsychWordVec](https://psychbruce.github.io/PsychWordVec/)) for psychological science.
+Dr. Bao (包寒吴霜) is an Assistant Professor at East China Normal University studying *Computational Intelligence Social Psychology*. He also contributes to new methods (e.g., [FMAT](https://psychbruce.github.io/FMAT/), [DPI](https://psychbruce.github.io/DPI/)) and tools (e.g., [bruceR](https://psychbruce.github.io/bruceR/), [PsychWordVec](https://psychbruce.github.io/PsychWordVec/)) for psychological science.
 
-His research questions now focus on social cognition and intergroup collective memory, using social computing ("macro-social-psychometrics") with pretrained language models as the main methodology:
+His research questions now focus on social cognition and intergroup collective memory, using social computing with pretrained language models as the main methodology:
 
--   How social biases (stereotypes / prejudice / discrimination) are encoded in natural language
--   How collective memory and public understanding of the past are represented in natural language
--   How semantic relations derived from natural language reflect human explicit/implicit social cognition
+-   How social biases are represented as propositions in natural language
+-   How historical narratives encode collective memory of sociocultural change
+-   How semantic relations in natural language reflect human implicit social cognition
 
 In addition, he has developed an open-source, online [R Course Open Tutorial (in Chinese)](https://psychbruce.github.io/RCourse/).
 
@@ -45,9 +45,7 @@ In addition, he has developed an open-source, online [R Course Open Tutorial (in
 
 ## Research Interests
 
-### AI and Computational Social Science
-
-#### (1) Computational Intelligent Social Psychology
+### Computational Intelligence Social Psychology
 
 -   [Fill-Mask Association Test (FMAT)](https://psychbruce.github.io/FMAT/) for social, cultural, and historical psychology
     -   Collective memory and historical mentality
@@ -58,9 +56,11 @@ In addition, he has developed an open-source, online [R Course Open Tutorial (in
         -   Occupational bias
         -   Name-based bias
 
-#### (2) Quantitative Causal Inference Methodology
+------------------------------------------------------------------------
 
--   [Directed Prediction Index (DPI)](https://psychbruce.github.io/DPI/) for causal inference (causal discovery) from observational data
+## Awards
+
+-   BESC 2026 Rising Star Award
 
 ------------------------------------------------------------------------
 
@@ -236,13 +236,14 @@ In addition, he has developed an open-source, online [R Course Open Tutorial (in
 
 -   *Nature* (1)
 -   *Nature Human Behaviour* (2)
+-   *Nature Communications* (1)
 -   *Psychological Science* (1)
 -   *Acta Psychologica* (1); *AI and Ethics* (1); *Applied Psychology* (1); *Behavior Research Methods* (2); *British Journal of Social Psychology* (1); *Canadian Studies in Population* (1); *Communications Psychology* (1); *Current Research in Ecological and Social Psychology* (1); *Frontiers in Education* (1); *Frontiers in Psychology* (1); *F1000Research* (3); *Humanities and Social Sciences Communications* (1); *Journal of Cross-Cultural Psychology* (1); *Journal of Pacific Rim Psychology* (2); *Organization Science* (1); *PeerJ Computer Science* (1); *Personnel Review* (1); *PsyCh Journal* (1); *Self and Identity* (1); *Social Psychology* (1); *Social Science Research* (1)
 -   心理学报 *Acta Psychologica Sinica* (28)
 -   心理科学 *Journal of Psychological Science* (23)
 -   心理科学进展 *Advances in Psychological Science* (4)
 -   心理技术与应用 *Psychology: Techniques and Applications* (10)
--   心理学通讯 *Psychological Communications* (14)
+-   心理学通讯 *Psychological Communications* (15)
 
 ### Academic Committee Membership:
 
@@ -265,6 +266,10 @@ In addition, he has developed an open-source, online [R Course Open Tutorial (in
 ------------------------------------------------------------------------
 
 ## Invited Talks
+
+**[2026.10] _Interpreting Main Effects in Regression Analysis with Interactions: Problems and Solutions_**
+
+-   East China Normal University & Shanghai Psychological Society
 
 **[2025.10] _Advances in Social Computing and Causal Discovery_**
 
