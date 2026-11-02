@@ -56,7 +56,7 @@ His research projects now focus on how stereotypes and intergroup bias are seman
 
 -   [IEEE Behavioural and Social Computing (BESC) 2026 Rising Star Award](https://besc-conf.org/2026/rising_stars)
 
-![](img/BESC-2026-RisingStar-BaoHWS.png)
+![](img/BESC-2026-RisingStar-BaoHWS.jpg){width="1040"}
 
 ------------------------------------------------------------------------
 
