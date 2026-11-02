@@ -1,14 +1,8 @@
 ------------------------------------------------------------------------
 
-Dr. Bao (包寒吴霜) is an Assistant Professor at East China Normal University studying *Computational Intelligence Social Psychology*. He also contributes to new methods (e.g., [FMAT](https://psychbruce.github.io/FMAT/), [DPI](https://psychbruce.github.io/DPI/)) and tools (e.g., [bruceR](https://psychbruce.github.io/bruceR/), [PsychWordVec](https://psychbruce.github.io/PsychWordVec/)) for psychological science.
+Dr. Bao (包寒吴霜) is an Assistant Professor at East China Normal University studying *Computational Linguistic Social Psychology*. He also contributes to new methods (e.g., [FMAT](https://psychbruce.github.io/FMAT/), [DPI](https://psychbruce.github.io/DPI/)) and tools (e.g., [bruceR](https://psychbruce.github.io/bruceR/), [PsychWordVec](https://psychbruce.github.io/PsychWordVec/)) for psychological science.
 
-His research questions now focus on social cognition and intergroup collective memory, using social computing with pretrained language models as the main methodology:
-
--   How social biases are represented as propositions in natural language
--   How historical narratives encode collective memory of sociocultural change
--   How semantic relations in natural language reflect human implicit social cognition
-
-In addition, he has developed an open-source, online [R Course Open Tutorial (in Chinese)](https://psychbruce.github.io/RCourse/).
+His research projects now focus on how stereotypes and intergroup bias are semantically represented as conditional probabilities in natural language, using the FMAT with pretrained language models as the main methodology. In addition, he has developed an open-source, online [R Course Open Tutorial (in Chinese)](https://psychbruce.github.io/RCourse/).
 
 ------------------------------------------------------------------------
 
@@ -45,22 +39,24 @@ In addition, he has developed an open-source, online [R Course Open Tutorial (in
 
 ## Research Interests
 
-### Computational Intelligence Social Psychology
+### Computational Linguistic Social Psychology
 
 -   [Fill-Mask Association Test (FMAT)](https://psychbruce.github.io/FMAT/) for social, cultural, and historical psychology
-    -   Collective memory and historical mentality
-        -   Intergroup collective memory
-    -   Social bias (stereotypes, prejudice, and discrimination)
+    -   Intergroup bias (stereotypes, prejudice, and discrimination)
         -   Cultural/regional bias
         -   Intersectional bias
         -   Occupational bias
         -   Name-based bias
+    -   Collective memory
+        -   Intergroup collective memory
 
 ------------------------------------------------------------------------
 
 ## Awards
 
--   BESC 2026 Rising Star Award (International Conference on Behavioural and Social Computing)
+-   [IEEE Behavioural and Social Computing (BESC) 2026 Rising Star Award](https://besc-conf.org/2026/rising_stars)
+
+![](img/BESC-2026-RisingStar-BaoHWS.png)
 
 ------------------------------------------------------------------------
 
@@ -117,7 +113,8 @@ In addition, he has developed an open-source, online [R Course Open Tutorial (in
 🚩 [APA Showcase on Kudos](https://www.growkudos.com/publications/10.1037%25252Fpspa0000396/reader)\
 🚩 [ECNU News](https://mp.weixin.qq.com/s/Ho6kMFX93Q-W-3joKzmopg)\
 (IF<sub>2025</sub> = 6.8, SSCI Q1)\
-> **Abstract**: Recent advances in large language models are enabling the computational intelligent analysis of psychology in natural language. Here, the Fill-Mask Association Test (FMAT) is introduced as a novel and integrative method leveraging Masked Language Models to study and measure psychology from a *propositional* perspective at the societal level. The FMAT uses Bidirectional Encoder Representations from Transformers (BERT) models to compute semantic probabilities of option words filling in the masked blank of a designed query (i.e., a clozelike contextualized sentence). The current research presents 15 studies that establish the reliability and validity of the FMAT in predicting factual associations (Studies 1A–1C), measuring attitudes/biases (Studies 2A–2D), capturing social stereotypes (Studies 3A–3D), and retrospectively delineating lay perceptions of sociocultural changes over time (Studies 4A–4D). Empirically, the FMAT replicated seminal findings previously obtained with human participants (e.g., the Implicit Association Test) and other big-data text-analytic methods (e.g., word frequency analysis, the Word Embedding Association Test), demonstrating robustness across 12 BERT model variants and diverse training text corpora. Theoretically, the current findings substantiate the propositional (vs. associative) perspective on how semantic associations are represented in natural language. Methodologically, the FMAT allows for more fine-grained language-based psychological measurement, with an R package developed to streamline its workflow for use on broader research questions.
+> **Abstract**: Recent advances in large language models are enabling the computational intelligent analysis of psychology in natural language. Here, the Fill-Mask Association Test (FMAT) is introduced as a novel and integrative method leveraging Masked Language Models to study and measure psychology from a *propositional* perspective at the societal level. The FMAT uses Bidirectional Encoder Representations from Transformers (BERT) models to compute semantic probabilities of option words filling in the masked blank of a designed query (i.e., a clozelike contextualized sentence). The current research presents 15 studies that establish the reliability and validity of the FMAT in predicting factual associations (Studies 1A–1C), measuring attitudes/biases (Studies 2A–2D), capturing social stereotypes (Studies 3A–3D), and retrospectively delineating lay perceptions of sociocultural changes over time (Studies 4A–4D). Empirically, the FMAT replicated seminal findings previously obtained with human participants (e.g., the Implicit Association Test) and other big-data text-analytic methods (e.g., word frequency analysis, the Word Embedding Association Test), demonstrating robustness across 12 BERT model variants and diverse training text corpora. Theoretically, the current findings substantiate the propositional (vs. associative) perspective on how semantic associations are represented in natural language. Methodologically, the FMAT allows for more fine-grained language-based psychological measurement, with an R package developed to streamline its workflow for use on broader research questions.\
+![](img/FMAT-Workflow.png)
 
 7.  **Bao, H. W. S.**, Cai, H.<sup>\*</sup>, & Jing, Y. (**2024**). Understanding the rise of unique names: The emphasis on uniqueness matters. _**Acta Psychologica Sinica (心理学报)**, 56_(7), 954–963. <https://doi.org/10.3724/SP.J.1041.2024.00954>\
 📄 [Download PDF](https://psychbruce.github.io/paper/Bao_2024_ActaPsychologicaSinica_UniqueNames.pdf)\
@@ -243,7 +240,7 @@ In addition, he has developed an open-source, online [R Course Open Tutorial (in
 -   心理科学 *Journal of Psychological Science* (23)
 -   心理科学进展 *Advances in Psychological Science* (4)
 -   心理技术与应用 *Psychology: Techniques and Applications* (10)
--   心理学通讯 *Psychological Communications* (15)
+-   心理学通讯 *Psychological Communications* (17)
 
 ### Academic Committee Membership:
 
