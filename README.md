@@ -45,8 +45,7 @@ Dr. Bao (包寒吴霜) is an Assistant Professor of Psychology at East China Nor
         -   Intersectional bias
         -   Occupational bias
         -   Name-based bias
-    -   Collective memory
-        -   Intergroup collective memory
+        -   Historical bias
 
 ------------------------------------------------------------------------
 
