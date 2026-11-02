@@ -1,8 +1,6 @@
 ------------------------------------------------------------------------
 
-Dr. Bao (包寒吴霜) is an Assistant Professor at East China Normal University studying *Computational Linguistic Social Psychology*. He also contributes to new methods (e.g., [FMAT](https://psychbruce.github.io/FMAT/), [DPI](https://psychbruce.github.io/DPI/)) and tools (e.g., [bruceR](https://psychbruce.github.io/bruceR/), [PsychWordVec](https://psychbruce.github.io/PsychWordVec/)) for psychological science.
-
-His research projects now focus on how stereotypes and intergroup bias are semantically represented as conditional probabilities in natural language, using the FMAT with pretrained language models as the main methodology. In addition, he has developed an open-source, online [R Course Open Tutorial (in Chinese)](https://psychbruce.github.io/RCourse/).
+Dr. Bao (包寒吴霜) is an Assistant Professor of Psychology at East China Normal University (ECNU), studying *Computational Linguistic Social Psychology*, with a focus on how stereotypes and intergroup bias are semantically represented as conditional probabilities in natural language. He has developed new methods (e.g., [FMAT](https://psychbruce.github.io/FMAT/)) and tools (e.g., [bruceR](https://psychbruce.github.io/bruceR/), [PsychWordVec](https://psychbruce.github.io/PsychWordVec/)) for psychological science, as well as an [R Course Open Tutorial (in Chinese)](https://psychbruce.github.io/RCourse/).
 
 ------------------------------------------------------------------------
 
@@ -56,7 +54,7 @@ His research projects now focus on how stereotypes and intergroup bias are seman
 
 -   [IEEE Behavioural and Social Computing (BESC) 2026 Rising Star Award](https://besc-conf.org/2026/rising_stars)
 
-![](img/BESC-2026-RisingStar-BaoHWS.jpg){width="1040"}
+![](img/BESC-2026-RisingStar-BaoHWS.jpg)
 
 ------------------------------------------------------------------------
 
